@@ -1,0 +1,54 @@
+
+
+# swords
+emoji 	code = broadsword									src = objects/rpg_occult/weapons/broadsword.svg								unicode = !undefined    cat = objects   root = broadsword
+emoji 	code = zweihander									src = objects/rpg_occult/weapons/zweihander.svg								unicode = !undefined    cat = objects   root = zweihander
+emoji 	code = rapier											src = objects/rpg_occult/weapons/rapier.svg										unicode = !undefined    cat = objects   root = rapier
+emoji 	code = sabre											src = objects/rpg_occult/weapons/sabre.svg											unicode = !undefined    cat = objects   root = sabre
+emoji 	code = katana											src = objects/rpg_occult/weapons/katana.svg										unicode = !undefined    cat = objects   root = katana
+
+
+# axes
+emoji 	code = european_battle_axe				src = objects/rpg_occult/weapons/european_battle_axe.svg				unicode = !undefined    cat = objects   root = european_battle_axe
+emoji 	code = glaive											src = objects/rpg_occult/weapons/glaive.svg										unicode = !undefined    cat = objects   root = glaive
+emoji 	code = great_axe									src = objects/rpg_occult/weapons/great_axe.svg									unicode = !undefined    cat = objects   root = great_axe
+emoji 	code = halberd										src = objects/rpg_occult/weapons/halberd.svg										unicode = !undefined    cat = objects   root = halberd
+emoji 	code = tomahawk										src = objects/rpg_occult/weapons/tomahawk.svg									unicode = !undefined    cat = objects   root = tomahawk
+
+# blunt
+emoji 	code = mace							          src = objects/rpg_occult/weapons/mace.svg								      unicode = !undefined    cat = objects   root = mace
+emoji 	code = flail							        src = objects/rpg_occult/weapons/flail.svg								       unicode = !undefined    cat = objects   root = flail
+emoji 	code = war_hammer							    src = objects/rpg_occult/weapons/war_hammer.svg					      unicode = !undefined    cat = objects   root = war_hammer
+
+# ranged
+emoji 	code = bow_and_arrow							src = objects/rpg_occult/weapons/bow_and_arrow.svg							unicode = #1F3F9    cat = objects   root = bow_and_arrow
+emoji 	code = crossbow							      src = objects/rpg_occult/weapons/crossbow.svg								  unicode = !undefined    cat = objects   root = crossbow
+emoji 	code = arrow							        src = objects/rpg_occult/weapons/arrow.svg								      unicode = !undefined    cat = objects   root = arrow
+emoji 	code = shuriken							      src = objects/rpg_occult/weapons/shuriken.svg								  unicode = !undefined    cat = objects   root = shuriken
+
+# magic
+emoji 	code = magic_wand								src = objects/rpg_occult/magic/magic_wand.svg								unicode = !undefined    cat = objects  root = magic_wand
+
+# items
+emoji 	code = red_potion									src = objects/rpg_occult/items/red_potion.svg								unicode = !undefined    cat = objects   root = red_potion
+emoji 	code = yellow_potion							src = objects/rpg_occult/items/yellow_potion.svg							unicode = !undefined    cat = objects   root = yellow_potion
+emoji 	code = green_potion								src = objects/rpg_occult/items/green_potion.svg							unicode = !undefined    cat = objects   root = green_potion
+emoji 	code = blue_potion								src = objects/rpg_occult/items/blue_potion.svg								unicode = !undefined    cat = objects   root = blue_potion
+emoji 	code = purple_potion							src = objects/rpg_occult/items/purple_potion.svg							unicode = !undefined    cat = objects   root = purple_potion
+emoji 	code = pink_potion								src = objects/rpg_occult/items/pink_potion.svg								unicode = !undefined    cat = objects   root = pink_potion
+
+# other items
+emoji 	code = oil_lamp								src = objects/rpg_occult/other/oil_lamp.svg								unicode = !undefined    cat = objects  root = oil_lamp
+
+
+# occult
+emoji 	code = crystal_ball					src = objects/rpg_occult/occult/crystal_ball.svg						unicode = #1F52E    cat = objects   root = crystal_ball
+emoji 	code = rune_stones		      src = objects/rpg_occult/occult/rune_stones.svg			unicode = !undefined    cat = objects   root = rune_stones
+
+emoji 	code = pentacle							src = objects/rpg_occult/occult/pentacle.svg								unicode = !undefined    cat = objects   root = pentacle
+emoji 	code = spellbook						src = objects/rpg_occult/occult/spellbook.svg							unicode = !undefined    cat = objects   root = spellbook
+
+emoji 	code = tarot_cup						src = objects/rpg_occult/occult/tarot_cup.svg							unicode = !undefined    cat = objects   root = tarot_cup
+emoji 	code = tarot_pentacle				src = objects/rpg_occult/occult/tarot_pentacle.svg					unicode = !undefined    cat = objects   root = tarot_pentacle
+emoji 	code = tarot_sword					src = objects/rpg_occult/occult/tarot_sword.svg						unicode = !undefined    cat = objects   root = tarot_sword
+emoji 	code = tarot_wand						src = objects/rpg_occult/occult/tarot_wand.svg							unicode = !undefined    cat = objects   root = tarot_wand

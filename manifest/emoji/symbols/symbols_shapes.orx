@@ -1,0 +1,32 @@
+
+
+emoji 	code = black_large_square							src = symbols/shapes/black_large_square.svg							unicode = #2B1B $vs16    cat = symbols   root = black_large_square
+emoji 	code = white_large_square							src = symbols/shapes/white_large_square.svg							unicode = #2B1C $vs16    cat = symbols   root = white_large_square
+
+emoji 	code = black_medium_square						src = symbols/shapes/black_medium_square.svg						unicode = #25FC $vs16    cat = symbols   root = black_medium_square
+emoji 	code = white_medium_square						src = symbols/shapes/white_medium_square.svg						unicode = #25FB $vs16    cat = symbols   root = white_medium_square
+
+emoji 	code = black_medium_small_square			src = symbols/shapes/black_medium_small_square.svg			unicode = #25FE $vs16    cat = symbols   root = black_medium_small_square
+emoji 	code = white_medium_small_square			src = symbols/shapes/white_medium_small_square.svg			unicode = #25FD $vs16    cat = symbols   root = white_medium_small_square
+
+emoji 	code = black_small_square							src = symbols/shapes/black_small_square.svg							unicode = #25AA $vs16    cat = symbols   root = black_small_square
+emoji 	code = white_small_square							src = symbols/shapes/white_small_square.svg							unicode = #25AB $vs16    cat = symbols   root = white_small_square
+
+emoji 	code = black_circle										src = symbols/shapes/black_circle.svg										unicode = #26AB $vs16    cat = symbols   root = black_circle
+emoji 	code = white_circle										src = symbols/shapes/white_circle.svg										unicode = #26AA $vs16    cat = symbols   root = white_circle
+
+
+
+emoji 	code = black_square_button						src = symbols/shapes/black_square_button.svg						unicode = #1F532    cat = symbols   root = black_square_button
+emoji 	code = white_square_button						src = symbols/shapes/white_square_button.svg						unicode = #1F533    cat = symbols   root = white_square_button
+
+emoji 	code = blue_circle										src = symbols/shapes/blue_circle.svg										unicode = #1F535    cat = symbols   root = blue_circle
+emoji 	code = red_circle											src = symbols/shapes/red_circle.svg											unicode = #1F534    cat = symbols   root = red_circle
+
+emoji 	code = large_orange_diamond						src = symbols/shapes/large_orange_diamond.svg						unicode = #1F536    cat = symbols   root = large_orange_diamond
+emoji 	code = large_blue_diamond							src = symbols/shapes/large_blue_diamond.svg							unicode = #1F537    cat = symbols   root = large_blue_diamond
+emoji 	code = small_orange_diamond						src = symbols/shapes/small_orange_diamond.svg						unicode = #1F538    cat = symbols   root = small_orange_diamond
+emoji 	code = small_blue_diamond							src = symbols/shapes/small_blue_diamond.svg							unicode = #1F539    cat = symbols   root = small_blue_diamond
+
+emoji 	code = red_upward_triangle						src = symbols/shapes/red_upward_triangle.svg						unicode = #1F53A    cat = symbols   root = red_upward_triangle
+emoji 	code = red_downward_triangle					src = symbols/shapes/red_downward_triangle.svg					unicode = #1F53B    cat = symbols   root = red_downward_triangle

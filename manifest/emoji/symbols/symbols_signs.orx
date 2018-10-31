@@ -1,0 +1,15 @@
+
+
+
+emoji 	code = toilet					src = symbols/signs/toilet.svg				unicode = #1F6BB    cat = symbols   root = toilet
+emoji 	code = wc							src = symbols/signs/wc.svg						unicode = #1F6BE         cat = symbols   root = wc
+emoji 	code = potable_water	src = symbols/signs/potable_water.svg	unicode = #1F6B0     cat = symbols   root = potable_water
+emoji 	code = wheelchair			src = symbols/signs/wheelchair.svg		unicode = #267F $vs16    cat = symbols   root = wheelchair
+
+emoji 	code = info						src = symbols/signs/info.svg					unicode = #2139 $vs16     cat = symbols   root = info
+emoji 	code = metro_sign			src = symbols/signs/metro_sign.svg		unicode = #24C2 $vs16     cat = symbols   root = metro_sign
+emoji 	code = atm						src = symbols/signs/atm.svg						unicode = #1F3E7    cat = symbols   root = atm
+emoji 	code = cinema					src = symbols/signs/cinema.svg				unicode = #1F3A6    cat = symbols   root = cinema
+emoji 	code = parking				src = symbols/signs/parking.svg				unicode = #1F17F    cat = symbols   root = parking
+
+emoji 	code = sos						src = symbols/signs/sos.svg						unicode = #1F198    cat = symbols   root = sos

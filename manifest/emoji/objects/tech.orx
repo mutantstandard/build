@@ -1,0 +1,85 @@
+
+
+# phone devices
+
+emoji 	code = phone										src = objects/tech/phone.svg									unicode =	#1F4F1        cat = objects   root = phone
+emoji 	code = phone_with_arrow					src = objects/tech/phone_with_arrow.svg				unicode =	#1F4F2        cat = objects   root = phone_with_arrow
+emoji 	code = phone_vibrate					  src = objects/tech/phone_vibrate.svg				  unicode =	#1F4F3        cat = objects   root = phone_vibrate
+emoji 	code = phone_off					      src = objects/tech/phone_off.svg				      unicode =	#1F4F4        cat = objects   root = phone_off
+emoji 	code = watch										src = objects/tech/watch.svg									unicode = #231A $vs16   cat = objects   root = watch
+
+
+
+# computer devices
+
+emoji 	code = laptop						      src = objects/tech/laptop.svg						             unicode = #1F4BB $vs16    cat = objects   root = laptop
+emoji 	code = computer						    src = objects/tech/computer.svg						           unicode = #1F5A5 $vs16    cat = objects   root = computer
+emoji 	code = computer_mouse				  src = objects/tech/computer_mouse.svg						     unicode = #1F5B1 $vs16    cat = objects   root = computer_mouse
+emoji 	code = trackball						  src = objects/tech/trackball.svg					           unicode = #1F5B2 $vs16    cat = objects   root = trackball
+emoji 	code = keyboard						    src = objects/tech/keyboard.svg					             unicode = #2328 $vs16     cat = objects   root = keyboard
+
+
+
+
+# older phone devices
+
+emoji 	code = printer						    src = objects/tech/printer.svg					     unicode = #1F5A8 $vs16    cat = objects   root = printer
+emoji 	code = fax_machine						src = objects/tech/fax_machine.svg					 unicode = #1F4E0          cat = objects   root = fax_machine
+emoji 	code = landline_phone				  src = objects/tech/landline_phone.svg				 unicode = #260E $vs16     cat = objects   root = landline_phone
+emoji 	code = phone_receiver					src = objects/tech/phone_receiver.svg				 unicode = #1F4DE          cat = objects   root = phone_receiver
+emoji 	code = pager								  src = objects/tech/pager.svg							   unicode = #1F4DF $vs16          cat = objects   root = pager
+
+
+
+
+# audiovisual experience
+
+emoji 	code = tv												src = objects/tech/tv.svg											unicode = #1F4FA $vs16    cat = objects   root = tv
+emoji 	code = radio									  src = objects/tech/radio.svg								  unicode = #1F4FB $vs16    cat = objects   root = radio
+emoji 	code = speaker									src = objects/tech/speaker.svg								unicode = !undefined      cat = objects   root = speaker
+emoji 	code = film_projector						src = objects/tech/film_projector.svg					unicode = #1F4FD $vs16    cat = objects   root = film_projector
+
+emoji 	code = gamepad									src = objects/tech/gamepad.svg								unicode =	#1F3AE $vs16  cat = objects   root = gamepad
+emoji 	code = arcade_stick							src = objects/tech/arcade_stick.svg						unicode = !undefined    cat = objects   root = arcade_stick
+emoji 	code = joystick									src = objects/tech/joystick.svg								unicode = #1F579        cat = objects   root = joystick
+
+emoji 	code = vr_headset								src = objects/tech/vr_headset.svg							unicode = !undefined    cat = objects   root = vr_headset
+
+
+
+
+# audiovisual creation
+
+emoji 	code = camera						      src = objects/tech/camera.svg					          unicode = #1F4F7 $vs16    cat = objects   root = camera
+emoji 	code = camera_with_flash			src = objects/tech/camera_with_flash.svg		    unicode = #1F4F8          cat = objects   root = camera_with_flash
+emoji 	code = camcorder				      src = objects/tech/camcorder.svg				        unicode = #1F4F9 $vs16    cat = objects   root = camcorder
+emoji 	code = movie_camera					  src = objects/tech/movie_camera.svg				      unicode = #1F3A5          cat = objects   root = movie_camera
+emoji 	code = microphone						  src = objects/tech/microphone.svg						    unicode = #1F399 $vs16    cat = objects   root = microphone
+emoji 	code = stylus									src = objects/tech/stylus.svg									  unicode = !undefined      cat = objects   root = stylus
+emoji 	code = level_slider						src = objects/tech/level_slider.svg					    unicode = #1F39A $vs16    cat = objects   root = level_slider
+emoji 	code = control_knobs					src = objects/tech/control_knobs.svg					  unicode = #1F39B $vs16    cat = objects   root = control_knobs
+
+
+
+# recording media
+
+emoji 	code = cd												src = objects/tech/cd.svg											unicode =	#1f4bf $vs16  cat = objects   root = cd
+emoji 	code = dvd											src = objects/tech/dvd.svg										unicode = #1F4C0    cat = objects   root = dvd
+emoji 	code = minidisc									src = objects/tech/minidisc.svg								unicode = #1F4BD    cat = objects   root = minidisc
+emoji 	code = floppy_disk							src = objects/tech/floppy_disk.svg						unicode = #1F4BE    cat = objects   root = floppy_disk
+emoji 	code = cassette									src = objects/tech/cassette.svg								unicode = !undefined    cat = objects   root = cassette
+emoji 	code = vhs											src = objects/tech/vhs.svg										unicode =	#1F4FC  cat = objects   root = vhs
+emoji 	code = lp												src = objects/tech/lp.svg											unicode = !undefined    cat = objects   root = lp
+emoji 	code = film_frames						  src = objects/tech/film_frames.svg					  unicode = #1F39E $vs16    cat = objects   root = film_frames
+
+
+emoji 	code = battery						      src = objects/tech/battery.svg					      unicode = #1F50B    cat = objects   root = battery
+
+# extra
+
+emoji 	code = crt										src = objects/tech/crt.svg								unicode = !undefined    cat = objects   root = crt
+emoji 	code = crt_blue_screen				src = objects/tech/crt_blue_screen.svg			unicode = !undefined    cat = objects   root = crt_blue_screen
+emoji 	code = crt_green_lines				src = objects/tech/crt_green_lines.svg			unicode = !undefined    cat = objects   root = crt_green_lines
+emoji 	code = crt_noise							src = objects/tech/crt_noise.svg						unicode = !undefined    cat = objects   root = crt_noise
+emoji 	code = crt_prompt							src = objects/tech/crt_prompt.svg						unicode = !undefined    cat = objects   root = crt_prompt
+emoji 	code = crt_test_pattern				src = objects/tech/crt_test_pattern.svg			unicode = !undefined    cat = objects   root = crt_test_pattern

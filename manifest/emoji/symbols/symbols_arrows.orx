@@ -1,0 +1,29 @@
+
+emoji 	code = arrow_up										src = symbols/arrows/arrow_up.svg											unicode = #2B06 $vs16   cat = symbols   root = arrow_up
+emoji 	code = arrow_down									src = symbols/arrows/arrow_down.svg										unicode = #2B07 $vs16   cat = symbols   root = arrow_down
+emoji 	code = arrow_left									src = symbols/arrows/arrow_left.svg										unicode = #2B05 $vs16   cat = symbols   root = arrow_left
+emoji 	code = arrow_right								src = symbols/arrows/arrow_right.svg									unicode = #27A1 $vs16   cat = symbols   root = arrow_right
+
+emoji 	code = arrow_up_left							src = symbols/arrows/arrow_up_left.svg								unicode = #2196 $vs16   cat = symbols   root = arrow_up_left
+emoji 	code = arrow_up_right							src = symbols/arrows/arrow_up_right.svg								unicode = #2197 $vs16   cat = symbols   root = arrow_up_right
+emoji 	code = arrow_down_left						src = symbols/arrows/arrow_down_left.svg							unicode = #2199 $vs16   cat = symbols   root = arrow_down_left
+emoji 	code = arrow_down_right						src = symbols/arrows/arrow_down_right.svg							unicode = #2198 $vs16   cat = symbols   root = arrow_down_right
+
+emoji 	code = arrow_up_down							src = symbols/arrows/arrow_up_down.svg								unicode = #2195 $vs16   cat = symbols   root = arrow_up_down
+emoji 	code = arrow_left_right						src = symbols/arrows/arrow_left_right.svg							unicode = #2194 $vs16   cat = symbols   root = arrow_left_right
+
+emoji 	code = arrow_curve_up							src = symbols/arrows/arrow_curve_up.svg								unicode = #2934 $vs16   cat = symbols   root = arrow_curve_up
+emoji 	code = arrow_curve_down						src = symbols/arrows/arrow_curve_down.svg							unicode = #2935 $vs16   cat = symbols   root = arrow_curve_down
+emoji 	code = arrow_curve_left						src = symbols/arrows/arrow_curve_left.svg							unicode = #21A9 $vs16   cat = symbols   root = arrow_curve_left
+emoji 	code = arrow_curve_right					src = symbols/arrows/arrow_curve_right.svg						unicode = #21AA $vs16   cat = symbols   root = arrow_curve_right
+
+
+emoji 	code = arrows_clockwise						src = symbols/arrows/arrows_clockwise.svg							unicode = #1F503    cat = symbols   root = arrows_clockwise
+
+emoji 	code = back												src = symbols/arrows/back.svg													unicode = #1F519    cat = symbols   root = back
+emoji 	code = end												src = symbols/arrows/end.svg													unicode = #1F51A    cat = symbols   root = end
+emoji 	code = on_arrow										src = symbols/arrows/on_arrow.svg											unicode = #1F51B    cat = symbols   root = on_arrow
+emoji 	code = soon												src = symbols/arrows/soon.svg													unicode = #1F51C    cat = symbols   root = soon
+emoji 	code = top												src = symbols/arrows/top.svg													unicode = #1F51D    cat = symbols   root = top
+
+emoji 	code = arrows_counterclockwise		src = symbols/arrows/arrows_counterclockwise.svg			unicode = #1F504    cat = symbols   root = arrows_counterclockwise

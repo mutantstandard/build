@@ -1,0 +1,9 @@
+
+
+
+
+# scenes
+# -----------------------------
+
+emoji 	code = traffic_light_vertical						src = travel_places/cars/traffic_light_vertical.svg										unicode = #1F6A6    cat = travel_places    root = traffic_light_vertical
+emoji 	code = traffic_light_horizontal					src = travel_places/cars/traffic_light_horizontal.svg									unicode = #1F6A5     cat = travel_places    root = traffic_light_horizontal

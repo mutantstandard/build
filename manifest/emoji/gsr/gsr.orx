@@ -1,0 +1,121 @@
+
+
+
+define gsd_path gsr/gsd
+
+
+
+# flags
+# --------------------------------------------------------------------------
+
+
+
+# good ol' rainbow
+
+emoji 	code = rainbow_flag							src = $(gsd_path)/flags/rainbow_flag.svg								unicode = #1F3F3 $zwj #1F308 cat = gsr    root = rainbow_flag
+
+
+
+# gender
+
+emoji 	code = transgender_flag					src = $(gsd_path)/flags/transgender_flag.svg						unicode = #101681    cat = gsr    root = transgender_flag
+emoji 	code = genderqueer_flag					src = $(gsd_path)/flags/genderqueer_flag.svg						unicode = #10167a    cat = gsr    root = genderqueer_flag
+emoji 	code = genderfluid_flag					src = $(gsd_path)/flags/genderfluid_flag.svg						unicode = #101679    cat = gsr    root = genderfluid_flag
+emoji 	code = bigender_flag						src = $(gsd_path)/flags/bigender_flag.svg								unicode = #101674    cat = gsr    root = bigender_flag
+
+emoji 	code = nonbinary_flag						src = $(gsd_path)/flags/nonbinary_flag.svg							unicode = #10167d    cat = gsr    root = nonbinary_flag
+emoji 	code = demigirl_flag						src = $(gsd_path)/flags/demigirl_flag.svg								unicode = #101677    cat = gsr    root = demigirl_flag
+emoji 	code = demiguy_flag							src = $(gsd_path)/flags/demiguy_flag.svg								unicode = #101676    cat = gsr    root = demiguy_flag
+emoji 	code = deminonbinary_flag				src = $(gsd_path)/flags/deminonbinary_flag.svg					unicode = #101678    cat = gsr    root = deminonbinary_flag
+
+emoji 	code = agender_flag							src = $(gsd_path)/flags/agender_flag.svg								unicode = #101670    cat = gsr    root = agender_flag
+emoji 	code = androgyne_flag						src = $(gsd_path)/flags/androgyne_flag.svg						  unicode = !undefined    cat = gsr    root = androgyne_flag
+emoji 	code = neutrois_flag						src = $(gsd_path)/flags/neutrois_flag.svg							  unicode = #10167c    cat = gsr    root = neutrois_flag
+
+
+
+# relationships, attraction and sexuality
+
+emoji 	code = bisexual_flag						src = $(gsd_path)/flags/bisexual_flag.svg								unicode = #101675    cat = gsr    root = bisexual_flag
+emoji 	code = pansexual_flag						src = $(gsd_path)/flags/pansexual_flag.svg							unicode = #10167e    cat = gsr    root = pansexual_flag
+emoji 	code = polysexual_flag					src = $(gsd_path)/flags/polysexual_flag.svg							unicode = #101680    cat = gsr    root = polysexual_flag
+emoji 	code = omnisexual_flag					src = $(gsd_path)/flags/omnisexual_flag.svg						  unicode = !undefined    cat = gsr    root = omnisexual_flag
+emoji 	code = polyamory_flag						src = $(gsd_path)/flags/polyamory_flag.svg							unicode = #10167f    cat = gsr    root = polyamory_flag
+
+
+emoji 	code = asexual_flag							src = $(gsd_path)/flags/asexual_flag.svg								unicode = #101672      cat = gsr    root = asexual_flag
+emoji 	code = demisexual_flag							src = $(gsd_path)/flags/demisexual_flag.svg					unicode = !undefined   cat = gsr    root = demisexual_flag
+emoji 	code = aromantic_flag						src = $(gsd_path)/flags/aromantic_flag.svg							unicode = #101671      cat = gsr    root = aromantic_flag
+emoji 	code = quoiromantic_flag				src = $(gsd_path)/flags/quoiromantic_flag.svg						unicode = !undefined    cat = gsr    root = quoiromantic_flag
+
+
+emoji 	code = lesbian_flag							src = $(gsd_path)/flags/lesbian_flag.svg								unicode = #101686      cat = gsr    root = lesbian_flag
+emoji 	code = lipstick_lesbian_flag		src = $(gsd_path)/flags/lipstick_lesbian_flag.svg				unicode = !undefined    cat = gsr    root = lipstick_lesbian_flag
+emoji 	code = enbian_flag					    src = $(gsd_path)/flags/enbian_flag.svg						      unicode = !undefined    cat = gsr    root = enbian_flag
+emoji 	code = bear_flag								src = $(gsd_path)/flags/bear_flag.svg										unicode = #101673    cat = gsr    root = bear_flag
+emoji 	code = leather_flag							src = $(gsd_path)/flags/leather_flag.svg								unicode = !undefined   cat = gsr    root = leather_flag
+
+
+
+
+# intersex
+
+emoji 	code = intersex_flag						src = $(gsd_path)/flags/intersex_flag.svg								unicode = #10167b      cat = gsr    root = intersex_flag
+
+
+
+
+
+# uncommon gender
+
+emoji 	code = lunaric_flag					    src = $(gsd_path)/flags/lunaric_flag.svg						    unicode = !undefined    cat = gsr    root = lunaric_flag
+emoji 	code = mercuric_flag					  src = $(gsd_path)/flags/mercuric_flag.svg						    unicode = !undefined    cat = gsr    root = mercuric_flag
+emoji 	code = solaric_flag					    src = $(gsd_path)/flags/solaric_flag.svg						    unicode = !undefined    cat = gsr    root = solaric_flag
+emoji 	code = stellaric_flag					  src = $(gsd_path)/flags/stellaric_flag.svg						  unicode = !undefined    cat = gsr    root = stellaric_flag
+
+
+
+
+# symbols
+# --------------------------------------------------------------------------
+
+emoji 	code = pride_100											src = $(gsd_path)/symbols/pride_100.svg													unicode = #1f4af $zwj #1F308    cat = gsr    root = pride_100
+emoji 	code = furry_pride								    src = $(gsd_path)/symbols/furry_pride.svg									      unicode = #10169b $zwj #1F308   cat = gsr    root = furry_pride
+
+emoji 	code = pink_triangle									src = $(gsd_path)/symbols/pink_triangle.svg											unicode = #101682    cat = gsr    root = pink_triangle
+emoji 	code = black_triangle									src = $(gsd_path)/symbols/black_triangle.svg										unicode = #101683    cat = gsr    root = black_triangle
+emoji 	code = bisexual_triangles							src = $(gsd_path)/symbols/bisexual_triangles.svg								unicode = #101684    cat = gsr    root = bisexual_triangles
+
+emoji 	code = labrys_symbol									src = $(gsd_path)/symbols/labrys_symbol.svg											unicode = #101685    cat = gsr    root = labrys_symbol
+emoji 	code = lambda													src = $(gsd_path)/symbols/lambda.svg														unicode = !undefined    cat = gsr    root = lambda
+
+emoji 	code = two_female_symbols							src = $(gsd_path)/symbols/two_female_symbols.svg								unicode = #26a2 $vs16   cat = gsr    root = two_female_symbols
+emoji 	code = two_male_symbols								src = $(gsd_path)/symbols/two_male_symbols.svg									unicode = #26a3 $vs16   cat = gsr    root = two_male_symbols
+emoji 	code = transgender_mercury_symbol			src = $(gsd_path)/symbols/transgender_mercury_symbol.svg				unicode = !undefined    cat = gsr    root = transgender_mercury_symbol
+emoji 	code = transgender_symbol							src = $(gsd_path)/symbols/transgender_symbol.svg								unicode = #26a7 $vs16   cat = gsr    root = transgender_symbol
+emoji 	code = neuter_symbol								  src = $(gsd_path)/symbols/neuter_symbol.svg									    unicode = #26b2 $vs16   cat = gsr    root = neuter_symbol
+emoji 	code = male_female_symbol							src = $(gsd_path)/symbols/male_female_symbol.svg								unicode = #26a5 $vs16   cat = gsr    root = male_female_symbol
+emoji 	code = androgyne_symbol								src = $(gsd_path)/symbols/androgyne_symbol.svg									unicode = #26a8 $vs16   cat = gsr    root = androgyne_symbol
+
+
+
+
+# misc (signs)
+# --------------------------------------------------------------------------
+
+emoji 	code = gay											src = $(gsd_path)/misc/gay.svg								unicode = !undefined    cat = gsr    root = gay
+emoji 	code = so_gay										src = $(gsd_path)/misc/so_gay.svg							unicode = !undefined    cat = gsr    root = so_gay
+emoji 	code = queer										src = $(gsd_path)/misc/queer.svg							unicode = !undefined    cat = gsr    root = queer
+emoji 	code = ace_sign									src = $(gsd_path)/misc/ace_sign.svg						unicode = !undefined    cat = gsr    root = ace_sign
+emoji 	code = aro_sign									src = $(gsd_path)/misc/aro_sign.svg						unicode = !undefined    cat = gsr    root = aro_sign
+emoji 	code = nb												src = $(gsd_path)/misc/nb.svg									unicode = !undefined    cat = gsr    root = nb
+
+
+
+
+# supplemental
+# --------------------------------------------------------------------------
+
+emoji 	code = female_symbol						  src = gsr/supplemental/female_symbol.svg									    unicode = #2640 $vs16   cat = gsr    root = female_symbol
+emoji 	code = male_symbol							  src = gsr/supplemental/male_symbol.svg										    unicode = #2642 $vs16   cat = gsr    root = male_symbol
+emoji 	code = male_and_female_symbol	    src = gsr/supplemental/male_and_female_symbol.svg				      unicode = #26a4 $vs16   cat = gsr    root = male_and_female_symbol

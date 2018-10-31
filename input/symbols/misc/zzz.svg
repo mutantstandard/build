@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <rect id="zzz" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="M32,14l-10,0l-1,1l0,8l-8,0l-1,1l0,8l-12,0l0,-12l6,0l2,-2l0,-8l8,0l2,-2l0,-8l14,0l0,14Z"/>
+        </g>
+        <g id="emoji">
+            <path d="M20,5l0,-3l10,0l0,2.121l-4.879,4.879l4.879,0l0,3l-10,0l0,-2.121l4.879,-4.879l-4.879,0Z" style="fill:#1d5dff;"/>
+            <path d="M19,12l0,2.121l-3.879,3.879l3.879,0l0,3l-9,0l0,-2.121l3.879,-3.879l-3.879,0l0,-3l9,0Z" style="fill:#1d5dff;"/>
+            <path d="M2,25l0,-3l8,0l0,2.121l-2.879,2.879l2.879,0l0,3l-8,0l0,-2.121l2.879,-2.879l-2.879,0Z" style="fill:#1d5dff;"/>
+        </g>
+    </g>
+</svg>

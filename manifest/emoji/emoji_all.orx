@@ -1,0 +1,110 @@
+
+# just get all of the emoji files
+# file order isn't in folder order because everything is ordered in terms of importance.
+
+
+
+
+
+
+
+# REPEATING CODEPOINTS
+# ------------------------------------
+define zwj #200d
+define vs16 #fe0f
+
+
+
+
+
+
+
+
+
+
+
+# ACTIVITIES
+# ------------------------------------
+include emoji/activities/roles.orx
+
+
+# EXPRESSIONS
+# ------------------------------------
+include emoji/expressions/expressions_smilies.orx
+include emoji/expressions/expressions_other.orx
+include emoji/expressions/expressions_hands.orx
+include emoji/expressions/expressions_body.orx
+
+
+# FOOD, DRINK AND HERBS
+# ------------------------------------
+include emoji/food_drink_herbs/food.orx
+
+
+# GENDER, SEXUALITY AND RELATIONSHIPS
+# ------------------------------------
+include emoji/gsr/gsr.orx
+
+
+# NATURE AND EFFECTS
+# ------------------------------------
+include emoji/nature_effects/nature_effects.orx
+
+
+# OBJECTS
+# ------------------------------------
+include emoji/objects/tech.orx
+include emoji/objects/office_stationery.orx
+include emoji/objects/money.orx
+
+include emoji/objects/household.orx
+include emoji/objects/mechanisms.orx
+
+include emoji/objects/party.orx
+include emoji/objects/games.orx
+
+include emoji/objects/rpg_occult.orx
+include emoji/objects/other.orx
+
+
+
+# PEOPLE AND ANIMALS
+# ------------------------------------
+include emoji/people_animals/creatures.orx
+include emoji/people_animals/body_parts.orx
+include emoji/people_animals/aspects.orx
+
+
+# SYMBOLS
+# ------------------------------------
+include emoji/symbols/symbols_hearts.orx
+include emoji/symbols/symbols_custom.orx
+include emoji/symbols/symbols_rpg.orx
+
+include emoji/symbols/symbols_flags.orx
+include emoji/symbols/symbols_signs.orx
+include emoji/symbols/symbols_tech.orx
+include emoji/symbols/symbols_restrictive.orx
+include emoji/symbols/symbols_misc.orx
+include emoji/symbols/symbols_zodiac.orx
+
+include emoji/symbols/symbols_jp.orx
+include emoji/symbols/symbols_jp_en.orx
+
+include emoji/symbols/symbols_arrows.orx
+include emoji/symbols/symbols_phone_characters.orx
+include emoji/symbols/symbols_media_playback.orx
+include emoji/symbols/symbols_shapes.orx
+include emoji/symbols/symbols_clocks.orx
+
+
+# TRAVEL AND PLACES
+# ------------------------------------
+include emoji/travel_places/transport.orx
+include emoji/travel_places/cars.orx
+include emoji/travel_places/locations.orx
+include emoji/travel_places/scenes.orx
+
+# UTILS
+# ------------------------------------
+include emoji/utils/utils.orx

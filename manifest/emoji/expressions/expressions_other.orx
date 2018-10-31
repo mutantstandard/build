@@ -1,0 +1,6 @@
+
+emoji 	code = eyes									  src = expressions/other/eyes.svg	                  unicode = #1F440    cat = expressions  root = eyes
+emoji 	code = ghost									src = expressions/other/ghost.svg	                  unicode = #1F47B    cat = expressions  root = ghost
+emoji 	code = skull									src = expressions/other/skull.svg									  unicode = #1F480    cat = expressions  root = skull
+emoji 	code = skull_and_crossbones		src = expressions/other/skull_and_crossbones.svg		unicode = #2620 $vs16     cat = expressions  root = skull_and_crossbones
+emoji 	code = jack_o_lantern					src = expressions/other/jack_o_lantern.svg					unicode = #1F383    cat = expressions  root = jack_o_lantern

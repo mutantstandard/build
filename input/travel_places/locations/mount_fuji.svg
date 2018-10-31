@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <rect id="mount_fuji" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <rect x="0" y="0" width="32" height="32"/>
+        </g>
+        <g id="emoji">
+            <path d="M2,2l28,0l0,15l0,-0.235c-1.809,-0.492 -25.525,-0.673 -28,0l0,0.235l0,-15Z" style="fill:#789fee;"/>
+            <g>
+                <path d="M2,16.765c2.475,-0.673 4.736,-1.97 6.567,-3.765l4.433,-2l6,0l6,3.338c1.496,1.11 3.191,1.935 5,2.427l0,8.235l-1,1l-26,0l-1,-1l0,-8.235Z" style="fill:#194aa6;"/>
+                <path d="M19,8l3.647,4.168c0.709,0.81 1.498,1.536 2.353,2.17l0,0.662l-6,-2l0,1l-4,0l-2,-1l-4.433,0c0.272,-0.267 0.534,-0.544 0.786,-0.832l3.647,-4.168l6,0Z" style="fill:#e5edfb;"/>
+            </g>
+            <rect x="2" y="25" width="28" height="5" style="fill:#163675;"/>
+        </g>
+    </g>
+</svg>

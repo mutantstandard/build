@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <rect id="coffin" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="M26.096,9.72l-4.478,22.28l-11.279,0l-4.434,-22.282l4.859,-9.718l10.472,0l4.86,9.72Z" style="fill-rule:nonzero;"/>
+        </g>
+        <g id="emoji">
+            <path d="M12,2l8,0l4,8l-4.02,20l-8,0l-3.98,-20l4,-8Z" style="fill:#7f522f;"/>
+            <rect x="15" y="6" width="2" height="5" style="fill:#fbc546;"/>
+        </g>
+    </g>
+</svg>

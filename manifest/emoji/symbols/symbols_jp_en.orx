@@ -1,0 +1,10 @@
+
+
+emoji 	code = vs							src = symbols/jp_en/vs.svg						unicode = #1F19A    cat = symbols   root = vs
+emoji 	code = ng							src = symbols/jp_en/ng.svg						unicode = #1F196    cat = symbols   root = ng
+emoji 	code = ok							src = symbols/jp_en/ok.svg						unicode = #1F197    cat = symbols   root = ok
+
+emoji 	code = up							src = symbols/jp_en/up.svg						unicode = #1F199    cat = symbols   root = up
+emoji 	code = cool						src = symbols/jp_en/cool.svg					unicode = #1F192    cat = symbols   root = cool
+emoji 	code = new						src = symbols/jp_en/new.svg						unicode = #1F195    cat = symbols   root = new
+emoji 	code = free						src = symbols/jp_en/free.svg					unicode = #1F193    cat = symbols   root = free

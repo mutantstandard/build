@@ -1,0 +1,29 @@
+
+
+emoji 	code = 1_00						src = symbols/clock/1_00.svg					unicode = #1F550 $vs16    cat = symbols   root = 1_00
+emoji 	code = 2_00						src = symbols/clock/2_00.svg					unicode = #1F551 $vs16    cat = symbols   root = 2_00
+emoji 	code = 3_00						src = symbols/clock/3_00.svg					unicode = #1F552 $vs16    cat = symbols   root = 3_00
+emoji 	code = 4_00						src = symbols/clock/4_00.svg					unicode = #1F553 $vs16    cat = symbols   root = 4_00
+emoji 	code = 5_00						src = symbols/clock/5_00.svg					unicode = #1F554 $vs16    cat = symbols   root = 5_00
+emoji 	code = 6_00						src = symbols/clock/6_00.svg					unicode = #1F555 $vs16    cat = symbols   root = 6_00
+emoji 	code = 7_00						src = symbols/clock/7_00.svg					unicode = #1F556 $vs16    cat = symbols   root = 7_00
+emoji 	code = 8_00						src = symbols/clock/8_00.svg					unicode = #1F557 $vs16    cat = symbols   root = 8_00
+emoji 	code = 9_00						src = symbols/clock/9_00.svg					unicode = #1F558 $vs16    cat = symbols   root = 9_00
+emoji 	code = 10_00					src = symbols/clock/10_00.svg					unicode = #1F559 $vs16    cat = symbols   root = 10_00
+emoji 	code = 11_00					src = symbols/clock/11_00.svg					unicode = #1F55A $vs16    cat = symbols   root = 11_00
+emoji 	code = 12_00					src = symbols/clock/12_00.svg					unicode = #1F55B $vs16    cat = symbols   root = 12_00
+
+
+
+emoji 	code = 1_30						src = symbols/clock/1_30.svg					unicode = #1F55C $vs16    cat = symbols   root = 1_30
+emoji 	code = 2_30						src = symbols/clock/2_30.svg					unicode = #1F55D $vs16    cat = symbols   root = 2_30
+emoji 	code = 3_30						src = symbols/clock/3_30.svg					unicode = #1F55E $vs16    cat = symbols   root = 3_30
+emoji 	code = 4_30						src = symbols/clock/4_30.svg					unicode = #1F55F $vs16    cat = symbols   root = 4_30
+emoji 	code = 5_30						src = symbols/clock/5_30.svg					unicode = #1F560 $vs16    cat = symbols   root = 5_30
+emoji 	code = 6_30						src = symbols/clock/6_30.svg					unicode = #1F561 $vs16    cat = symbols   root = 6_30
+emoji 	code = 7_30						src = symbols/clock/7_30.svg					unicode = #1F562 $vs16    cat = symbols   root = 7_30
+emoji 	code = 8_30						src = symbols/clock/8_30.svg					unicode = #1F563 $vs16    cat = symbols   root = 8_30
+emoji 	code = 9_30						src = symbols/clock/9_30.svg					unicode = #1F564 $vs16    cat = symbols   root = 9_30
+emoji 	code = 10_30					src = symbols/clock/10_30.svg					unicode = #1F565 $vs16    cat = symbols   root = 10_30
+emoji 	code = 11_30					src = symbols/clock/11_30.svg					unicode = #1F566 $vs16    cat = symbols   root = 11_30
+emoji 	code = 12_30					src = symbols/clock/12_30.svg					unicode = #1F567 $vs16    cat = symbols   root = 12_30

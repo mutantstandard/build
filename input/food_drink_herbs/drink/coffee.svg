@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="coffee" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <ellipse cx="16" cy="22" rx="14" ry="4" style="fill:#b3b3b3;"/>
+    <g id="outline">
+        <path d="M6,10.904c0,7.24 4.477,13.11 10,13.11c5.523,0 10,-5.87 10,-13.11l-10,0l-10,0Z" style="fill:#e1e1e1;stroke:#000;stroke-width:4px;"/>
+        <ellipse cx="16" cy="10.904" rx="10" ry="3.904" style="fill:#e1e1e1;stroke:#000;stroke-width:4px;"/>
+        <ellipse cx="16" cy="22" rx="14" ry="4" style="fill:#e1e1e1;stroke:#000;stroke-width:4px;"/>
+        <path d="M23,14c0,0 1.124,-0.562 2.529,-1.264c1.017,-0.51 2.253,-0.221 2.939,0.686c0.687,0.908 0.628,2.176 -0.139,3.016c-0.301,0.304 -0.619,0.617 -0.972,0.924c-3.063,2.67 -8.357,2.638 -8.357,2.638" style="fill:none;stroke:#000;stroke-width:6px;stroke-linecap:butt;"/>
+    </g>
+    <g id="emoji">
+        <g>
+            <ellipse cx="16" cy="22" rx="14" ry="4" style="fill:#b0b0b0;"/>
+            <ellipse cx="16" cy="22" rx="9.001" ry="2.572" style="fill:#959595;"/>
+        </g>
+        <path d="M23,14c0,0 1.124,-0.562 2.529,-1.264c1.017,-0.51 2.253,-0.221 2.939,0.686c0.687,0.908 0.628,2.176 -0.139,3.016c-0.301,0.304 -0.619,0.617 -0.972,0.924c-3.063,2.67 -8.357,2.638 -8.357,2.638" style="fill:none;stroke:#e1e1e1;stroke-width:2px;stroke-linecap:butt;"/>
+        <path d="M6,10.904c0,7.24 4.477,13.11 10,13.11c5.523,0 10,-5.87 10,-13.11l-10,0l-10,0Z" style="fill:#e1e1e1;"/>
+        <g>
+            <path d="M8.066,13.28c-1.295,-0.658 -2.066,-1.482 -2.066,-2.376c0,-2.155 4.481,-3.904 10,-3.904c5.519,0 10,1.749 10,3.904c0,0.894 -0.771,1.718 -2.066,2.376c0.043,-0.132 -15.911,-0.132 -15.868,0Z" style="fill:#b3b3b3;"/>
+            <path d="M8.066,13.28c-0.043,-0.132 -0.066,-0.267 -0.066,-0.403c0,-1.724 3.585,-3.124 8,-3.124c4.415,0 8,1.4 8,3.124c0,0.136 -0.023,0.271 -0.066,0.403c-1.829,0.929 -4.704,1.529 -7.934,1.529c-3.23,0 -6.105,-0.6 -7.934,-1.529Z" style="fill:#452e2a;"/>
+        </g>
+    </g>
+</svg>

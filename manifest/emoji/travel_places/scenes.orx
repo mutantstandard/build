@@ -1,0 +1,16 @@
+
+
+
+
+# scenes
+# -----------------------------
+
+emoji 	code = cityscape												src = travel_places/scenes/cityscape.svg												unicode = #1F3D9 $vs16    cat = travel_places    root = cityscape
+emoji 	code = sunset_city										  src = travel_places/scenes/sunset_city.svg											unicode = #1F307    cat = travel_places    root = sunset_city
+emoji 	code = dusk_city												src = travel_places/scenes/dusk_city.svg												unicode = #1F306    cat = travel_places    root = dusk_city
+emoji 	code = bridge_at_night								  src = travel_places/scenes/bridge_at_night.svg						      unicode = #1F309    cat = travel_places    root = bridge_at_night
+emoji 	code = fireworks												src = travel_places/scenes/fireworks.svg												unicode = #1F386    cat = travel_places    root = fireworks
+emoji 	code = sparkler												  src = travel_places/scenes/sparkler.svg												  unicode = #1F387    cat = travel_places    root = sparkler
+
+emoji 	code = night_with_stars									src = travel_places/scenes/night_with_stars.svg								  unicode = #1F303    cat = travel_places    root = night_with_stars
+emoji 	code = milky_way												src = travel_places/scenes/milky_way.svg												unicode = #1F30C    cat = travel_places    root = milky_way

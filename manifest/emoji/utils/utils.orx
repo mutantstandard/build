@@ -1,0 +1,6 @@
+
+
+emoji 	code = color_modifier%c 								src = utils/color_modifier.svg									  color=$cmaps_hmn		unicode = %u  cat = utils  root = !undefined
+
+emoji 	code = paw_hand_modifier					        src = utils/paw_hand_modifier.svg							  unicode = #101650    cat = utils  root = !undefined
+emoji 	code = claw_hand_modifier 				        src = utils/claw_hand_modifier.svg							unicode = #101651    cat = utils  root = !undefined

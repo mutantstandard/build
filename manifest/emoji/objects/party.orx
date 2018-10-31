@@ -1,0 +1,6 @@
+
+
+
+emoji 	code = balloon								src = objects/party/balloon.svg									unicode = #1F388    cat = objects  root = balloon
+emoji 	code = tada								    src = objects/party/tada.svg									  unicode = #1F389    cat = objects  root = tada
+emoji 	code = confetti_ball					src = objects/party/confetti_ball.svg						unicode = #1F38A    cat = objects  root = confetti_ball

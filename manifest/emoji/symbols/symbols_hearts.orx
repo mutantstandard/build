@@ -1,0 +1,24 @@
+
+
+emoji 	code = red_heart							src = symbols/hearts/red_heart.svg						unicode = #2674 $vs16 		cat = symbols   root = red_heart
+emoji 	code = orange_heart						src = symbols/hearts/orange_heart.svg					unicode = #1F9E1    cat = symbols   root = orange_heart
+emoji 	code = yellow_heart						src = symbols/hearts/yellow_heart.svg					unicode = #1F49B    cat = symbols   root = yellow_heart
+emoji 	code = green_heart						src = symbols/hearts/green_heart.svg					unicode = #1F49A    cat = symbols   root = green_heart
+emoji 	code = blue_heart							src = symbols/hearts/blue_heart.svg						unicode = #1F499    cat = symbols   root = blue_heart
+emoji 	code = purple_heart						src = symbols/hearts/purple_heart.svg					unicode = #1F49C    cat = symbols   root = purple_heart
+emoji 	code = black_heart						src = symbols/hearts/black_heart.svg					unicode = #1F5A4    cat = symbols   root = black_heart
+emoji 	code = sparkling_heart				src = symbols/hearts/sparkling_heart.svg			unicode = #1F496    cat = symbols   root = sparkling_heart
+
+
+emoji 	code = broken_heart							src = symbols/hearts/broken_heart.svg									unicode = #1F494   	cat = symbols   root = broken_heart
+emoji 	code = beating_heart						src = symbols/hearts/beating_heart.svg								unicode = #1F493    cat = symbols   root = beating_heart
+emoji 	code = heart_arrow							src = symbols/hearts/heart_arrow.svg									unicode = #1F498   	cat = symbols   root = heart_arrow
+emoji 	code = heart_ribbon							src = symbols/hearts/heart_ribbon.svg									unicode = #1F49D    cat = symbols   root = heart_ribbon
+emoji 	code = heart_exclamation_mark		src = symbols/hearts/heart_exclamation_mark.svg				unicode = #2763 $vs16    	cat = symbols   root = heart_exclamation_mark
+emoji 	code = heart_growing						src = symbols/hearts/heart_growing.svg								unicode = #1F497   	cat = symbols   root = heart_growing
+emoji 	code = two_hearts								src = symbols/hearts/two_hearts.svg										unicode = #1F495 		cat = symbols   root = two_hearts
+emoji 	code = two_hearts_orbit					src = symbols/hearts/two_hearts_orbit.svg							unicode = #1F49E   	cat = symbols   root = two_hearts_orbit
+
+
+emoji 	code = empty_heart						src = symbols/hearts/empty_heart.svg					unicode = !undefined    cat = symbols   root = empty_heart
+emoji 	code = half_heart							src = symbols/hearts/half_heart.svg						unicode = !undefined    cat = symbols   root = half_heart

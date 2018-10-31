@@ -1,0 +1,4 @@
+
+
+emoji 	code = firecracker						src = objects/mechanisms/firecracker.svg					unicode = #1F9E8    cat = objects   root = firecracker
+emoji 	code = brick						      src = objects/mechanisms/brick.svg					      unicode = #1F9F1    cat = objects   root = brick

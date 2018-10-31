@@ -1,0 +1,10 @@
+
+
+# colormaps
+include colors/cmaps.orx
+
+# emoji
+include emoji/emoji_all.orx
+
+# license
+license svg = license/svg.xml		png = license/png.json

@@ -1,0 +1,87 @@
+palette k3
+
+  skin_shade_1 = #CCCCCC
+  skin_shade_2 = #9C9C9C
+  skin_shade_3 = #595959
+  nail_care_color = #4F56E3
+  paw_pad_color = #7C7C7C
+
+  shirt_shade_1 = $shirt_shade_1
+  shirt_shade_2 = $shirt_shade_2
+  shirt_shade_3 = $shirt_shade_3
+
+
+
+palette k2
+
+  skin_shade_1 = #808080
+  skin_shade_2 = #616161
+  skin_shade_3 = #2B2B2B
+  nail_care_color = #17CDDA
+  paw_pad_color = #464646
+
+  shirt_shade_1 = $shirt_shade_1
+  shirt_shade_2 = $shirt_shade_2
+  shirt_shade_3 = $shirt_shade_3
+
+
+
+palette k1
+
+  skin_shade_1 = #4D4D4D
+  skin_shade_2 = #333333
+  skin_shade_3 = #1A1A1A
+  nail_care_color = #FD40A8
+  paw_pad_color = #2C2C2C
+
+  shirt_shade_1 = $shirt_shade_1
+  shirt_shade_2 = $shirt_shade_2
+  shirt_shade_3 = $shirt_shade_3
+
+
+
+#----------------------------------
+
+
+
+palette e3
+
+  skin_shade_1 = #CBB39C
+  skin_shade_2 = #B58D71
+  skin_shade_3 = #614430
+  nail_care_color = #166A60
+  paw_pad_color = #89654D
+
+  shirt_shade_1 = $shirt_shade_1
+  shirt_shade_2 = $shirt_shade_2
+  shirt_shade_3 = $shirt_shade_3
+
+
+
+
+palette e2
+
+  skin_shade_1 = #A77F58
+  skin_shade_2 = #8D6148
+  skin_shade_3 = #593D2F
+  nail_care_color = #42A6B6
+  paw_pad_color = #795036
+
+  shirt_shade_1 = $shirt_shade_1
+  shirt_shade_2 = $shirt_shade_2
+  shirt_shade_3 = $shirt_shade_3
+
+
+
+
+palette e1
+
+  skin_shade_1 = #6A4E35
+  skin_shade_2 = #553720
+  skin_shade_3 = #2B1B11
+  nail_care_color = #8950E5
+  paw_pad_color = #432C1B
+
+  shirt_shade_1 = $shirt_shade_1
+  shirt_shade_2 = $shirt_shade_2
+  shirt_shade_3 = $shirt_shade_3

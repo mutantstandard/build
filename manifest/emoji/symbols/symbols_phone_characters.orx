@@ -1,0 +1,27 @@
+
+
+emoji 	code = 0											src = symbols/phone_characters/0.svg												unicode = #30 $vs16 #20E3 cat = symbols   root = 0
+emoji 	code = 1											src = symbols/phone_characters/1.svg												unicode = #31 $vs16 #20E3 cat = symbols   root = 1
+emoji 	code = 2											src = symbols/phone_characters/2.svg												unicode = #32 $vs16 #20E3 cat = symbols   root = 2
+emoji 	code = 3											src = symbols/phone_characters/3.svg												unicode = #33 $vs16 #20E3 cat = symbols   root = 3
+emoji 	code = 4											src = symbols/phone_characters/4.svg												unicode = #34 $vs16 #20E3 cat = symbols   root = 4
+emoji 	code = 5											src = symbols/phone_characters/5.svg												unicode = #35 $vs16 #20E3 cat = symbols   root = 5
+emoji 	code = 6											src = symbols/phone_characters/6.svg												unicode = #36 $vs16 #20E3 cat = symbols   root = 6
+emoji 	code = 7											src = symbols/phone_characters/7.svg												unicode = #37 $vs16 #20E3 cat = symbols   root = 7
+emoji 	code = 8											src = symbols/phone_characters/8.svg												unicode = #38 $vs16 #20E3 cat = symbols   root = 8
+emoji 	code = 9											src = symbols/phone_characters/9.svg												unicode = #39 $vs16 #20E3 cat = symbols   root = 9
+emoji 	code = 10											src = symbols/phone_characters/10.svg												unicode = #1F51F    cat = symbols   root = 10
+emoji 	code = asterisk								src = symbols/phone_characters/asterisk.svg									unicode = #2A $vs16 #20E3 cat = symbols   root = asterisk
+emoji 	code = hash										src = symbols/phone_characters/hash.svg											unicode = #23 $vs16 #20E3 cat = symbols   root = hash
+emoji 	code = cl											src = symbols/phone_characters/cl.svg												unicode = #1F191    cat = symbols   root = cl
+
+emoji 	code = abc										src = symbols/phone_characters/abc.svg											unicode = #1F524    cat = symbols   root = abc
+emoji 	code = latin_lowercase				src = symbols/phone_characters/latin_lowercase.svg					unicode = #1F521    cat = symbols   root = latin_lowercase
+emoji 	code = latin_uppercase				src = symbols/phone_characters/latin_uppercase.svg					unicode = #1F520    cat = symbols   root = latin_uppercase
+emoji 	code = numbers								src = symbols/phone_characters/numbers.svg									unicode = #1F522    cat = symbols   root = numbers
+emoji 	code = special_characters			src = symbols/phone_characters/special_characters.svg				unicode = #1F523    cat = symbols   root = special_characters
+
+emoji 	code = signal									src = symbols/phone_characters/signal.svg										unicode = #1F4F6    cat = symbols   root = signal
+
+emoji 	code = low_brightness					src = symbols/phone_characters/low_brightness.svg						unicode = #1F505    cat = symbols   root = low_brightness
+emoji 	code = high_brightness				src = symbols/phone_characters/high_brightness.svg					unicode = #1F506    cat = symbols   root = high_brightness

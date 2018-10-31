@@ -1,0 +1,6 @@
+
+
+emoji 	code = bath						        src = objects/household/bath.svg					        unicode = #1F6C1    cat = objects   root = bath
+emoji 	code = bath_with_person			  src = objects/household/bath_with_person.svg			unicode = #1F6C0    cat = objects   root = bath_with_person
+emoji 	code = toilet_paper						src = objects/household/toilet_paper.svg					unicode = #1F9FB    cat = objects   root = toilet_paper
+emoji 	code = candle			            src = objects/household/candle.svg			          unicode = #1F56F $vs16    cat = objects   root = candle

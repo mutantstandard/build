@@ -1,0 +1,58 @@
+
+
+# pages and docs
+
+emoji 	code = page											src = objects/office_stationery/page.svg											unicode = #1F4C4    cat = objects   root = page
+emoji 	code = page_with_pencil					src = objects/office_stationery/page_with_pencil.svg					unicode = #1F4DD    cat = objects   root = page_with_pencil
+emoji 	code = bookmark									src = objects/office_stationery/bookmark.svg									unicode = #1F4D1    cat = objects   root = bookmark
+emoji 	code = folder								   src = objects/office_stationery/folder.svg								      unicode = #1F4C1    cat = objects   root = folder
+emoji 	code = open_folder						 src = objects/office_stationery/open_folder.svg								unicode = #1F4C2    cat = objects   root = open_folder
+
+emoji 	code = bar_chart								src = objects/office_stationery/bar_chart.svg								  unicode = #1F4CA    cat = objects   root = bar_chart
+emoji 	code = decreasing_graph					src = objects/office_stationery/decreasing_graph.svg					unicode = #1F4C9    cat = objects   root = decreasing_graph
+emoji 	code = increasing_graph					src = objects/office_stationery/increasing_graph.svg					unicode = #1F4C8    cat = objects   root = increasing_graph
+
+
+
+
+# boxes and mail
+
+emoji 	code = inbox								   src = objects/office_stationery/inbox.svg								      unicode = #1F4E5 $vs16    cat = objects   root = inbox
+emoji 	code = outbox								   src = objects/office_stationery/outbox.svg								      unicode = #1F4E4 $vs16    cat = objects   root = outbox
+
+emoji 	code = envelope								 src = objects/office_stationery/envelope.svg								    unicode = #2709 $vs16     cat = objects   root = envelope
+emoji 	code = envelope_with_arrow		 src = objects/office_stationery/envelope_with_arrow.svg				unicode = #1F4E9    cat = objects   root = envelope_with_arrow
+emoji 	code = incoming_envelope			 src = objects/office_stationery/incoming_envelope.svg					unicode = #1F4E8    cat = objects   root = incoming_envelope
+emoji 	code = email							     src = objects/office_stationery/email.svg								      unicode = #1F4E7    cat = objects   root = email
+emoji 	code = love_letter						 src = objects/office_stationery/love_letter.svg								unicode = #1F48C    cat = objects   root = love_letter
+
+emoji 	code = closed_mailbox                     root = closed_mailbox		    	             src = objects/office_stationery/closed_mailbox.svg								      unicode = #1F4EB $vs16    cat = objects
+emoji 	code = closed_mailbox_with_no_mail        root = closed_mailbox_with_no_mail			   src = objects/office_stationery/closed_mailbox_with_no_mail.svg				unicode = #1F4EA $vs16    cat = objects
+emoji 	code = mailbox                            root = mailbox			                       src = objects/office_stationery/mailbox.svg								            unicode = #1F4EC $vs16    cat = objects
+emoji 	code = mailbox_with_no_mail               root = mailbox_with_no_mail			           src = objects/office_stationery/mailbox_with_no_mail.svg		            unicode = #1F4ED $vs16    cat = objects
+
+
+
+
+# books and calendars
+
+emoji 	code = spiral_notebook					src = objects/office_stationery/spiral_notebook.svg					  unicode = #1F5D2 $vs16    cat = objects   root = spiral_notebook
+
+emoji 	code = date											src = objects/office_stationery/date.svg											unicode = #1F4C5    cat = objects   root = date
+emoji 	code = calendar									src = objects/office_stationery/calendar.svg									unicode = #1F4C6    cat = objects   root = calendar
+emoji 	code = calendar_spiral					src = objects/office_stationery/calendar_spiral.svg					  unicode = #1F5D3 $vs16    cat = objects   root = calendar_spiral
+
+emoji 	code = red_book									src = objects/office_stationery/red_book.svg									unicode = #1F4D5    cat = objects   root = red_book
+emoji 	code = green_book								src = objects/office_stationery/green_book.svg								unicode = #1F4D7    cat = objects   root = green_book
+emoji 	code = blue_book								src = objects/office_stationery/blue_book.svg								unicode = #1F4D8    cat = objects   root = blue_book
+emoji 	code = yellow_book							src = objects/office_stationery/yellow_book.svg							unicode = #1F4D9    cat = objects   root = yellow_book
+
+
+
+# stationery
+
+emoji 	code = magnifying_glass_left		src = objects/office_stationery/magnifying_glass_left.svg		  unicode = #1F50D    cat = objects   root = magnifying_glass_left
+emoji 	code = magnifying_glass_right		src = objects/office_stationery/magnifying_glass_right.svg		unicode = #1F50E    cat = objects   root = magnifying_glass_right
+emoji 	code = paperclip								src = objects/office_stationery/paperclip.svg								  unicode = #1F4CE    cat = objects   root = paperclip
+emoji 	code = pen											src = objects/office_stationery/pen.svg											  unicode = #1F58A $vs16      cat = objects   root = pen
+emoji 	code = pencil										src = objects/office_stationery/pencil.svg										unicode = #270F $vs16       cat = objects   root = pencil

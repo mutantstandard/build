@@ -1,0 +1,85 @@
+
+
+
+
+# plants
+# -----------------------------
+
+emoji 	code = palm_tree							src = nature_effects/plants/palm_tree.svg								unicode = #1F334    cat = nature    root = palm_tree
+emoji 	code = evergreen_tree					src = nature_effects/plants/evergreen_tree.svg					unicode = #1F332    cat = nature    root = evergreen_tree
+emoji 	code = cactus									src = nature_effects/plants/cactus.svg									unicode = #1F335    cat = nature    root = cactus
+emoji 	code = christmas_tree					src = nature_effects/plants/christmas_tree.svg					unicode = #1F384    cat = nature    root = christmas_tree
+
+
+# weather
+# -----------------------------
+
+emoji 	code = sun												src = nature_effects/weather/sun.svg												unicode = #2600 $vs16        cat = nature    root = sun
+
+
+emoji 	code = cloud											src = nature_effects/weather/cloud.svg											unicode = #2601 $vs16        cat = nature    root = cloud
+emoji 	code = sun_behind_small_cloud			src = nature_effects/weather/sun_behind_small_cloud.svg			unicode = #1F324 $vs16       cat = nature    root = sun_behind_small_cloud
+emoji 	code = sun_behind_cloud						src = nature_effects/weather/sun_behind_cloud.svg						unicode = #26C5 $vs16        cat = nature    root = sun_behind_cloud
+emoji 	code = sun_behind_large_cloud			src = nature_effects/weather/sun_behind_large_cloud.svg			unicode =	#1F325 $vs16       cat = nature    root = sun_behind_large_cloud
+emoji 	code = sun_cloud_rain							src = nature_effects/weather/sun_cloud_rain.svg							unicode = #1F326 $vs16       cat = nature    root = sun_cloud_rain
+
+emoji 	code = rain												src = nature_effects/weather/rain.svg												unicode = #1F327 $vs16       cat = nature    root = rain
+
+emoji 	code = lightning									src = nature_effects/weather/lightning.svg									unicode =	#1F329 $vs16       cat = nature    root = lightning
+emoji 	code = lightning_rain							src = nature_effects/weather/lightning_rain.svg							unicode = #26C8 $vs16        cat = nature    root = lightning_rain
+
+emoji 	code = snow												src = nature_effects/weather/snow.svg												unicode =	#1F328 $vs16       cat = nature    root = snow
+
+
+emoji 	code = sun_face									   src = nature_effects/weather/sun_face.svg									unicode = #1F31E       cat = nature    root = sun_face
+emoji 	code = water_drop									src = nature_effects/weather/water_drop.svg									unicode = #1F4A7       cat = nature    root = water_drop
+emoji 	code = sweat_drops									src = nature_effects/weather/sweat_drops.svg							unicode = #1F4A6       cat = nature    root = sweat_drops
+emoji 	code = lightning_bolt							src = nature_effects/weather/lightning_bolt.svg							unicode = #26A1 $vs16        cat = nature    root = lightning_bolt
+emoji 	code = snowflake									src = nature_effects/weather/snowflake.svg									unicode = #2744 $vs16        cat = nature    root = snowflake
+
+
+# earth
+# -----------------------------
+
+emoji 	code = earth_americas							src = nature_effects/earth/earth_americas.svg								unicode = #1F30E $vs16    cat = nature    root = earth_americas
+emoji 	code = earth_asia_oceania					src = nature_effects/earth/earth_asia_oceania.svg						unicode = #1F30F $vs16    cat = nature    root = earth_asia_oceania
+emoji 	code = earth_emea									src = nature_effects/earth/earth_emea.svg										unicode = #1F30D $vs16    cat = nature    root = earth_emea
+emoji 	code = earth_pacific							src = nature_effects/earth/earth_pacific.svg								unicode = !undefined    cat = nature    root = earth_pacific
+emoji 	code = earth_arctic								src = nature_effects/earth/earth_arctic.svg									unicode = !undefined    cat = nature    root = earth_arctic
+emoji 	code = earth_antarctic						src = nature_effects/earth/earth_antarctic.svg							unicode = !undefined    cat = nature    root = earth_antarctic
+
+
+
+
+# moon
+# -----------------------------
+
+emoji 	code = new_moon										src = nature_effects/moon/new_moon.svg											unicode = #1F311    cat = nature    root = new_moon
+emoji 	code = full_moon									src = nature_effects/moon/full_moon.svg											unicode = #1F315 $vs16    cat = nature    root = full_moon
+emoji 	code = gibbous_moon_1							src = nature_effects/moon/gibbous_moon_1.svg								unicode = #1F316    cat = nature    root = gibbous_moon_1
+emoji 	code = gibbous_moon_2							src = nature_effects/moon/gibbous_moon_2.svg								unicode = #1F314    cat = nature    root = gibbous_moon_2
+emoji 	code = half_moon_1								src = nature_effects/moon/half_moon_1.svg										unicode = #1F317    cat = nature    root = half_moon_1
+emoji 	code = half_moon_2								src = nature_effects/moon/half_moon_2.svg										unicode = #1F313    cat = nature    root = half_moon_2
+emoji 	code = crescent_moon_1						src = nature_effects/moon/crescent_moon_1.svg								unicode = #1F318    cat = nature    root = crescent_moon_1
+emoji 	code = crescent_moon_2						src = nature_effects/moon/crescent_moon_2.svg								unicode = #1F312    cat = nature    root = crescent_moon_2
+
+emoji 	code = crescent										src = nature_effects/moon/crescent.svg											unicode = #1F319    cat = nature    root = crescent
+
+emoji 	code = new_moon_face									src = nature_effects/moon/new_moon_face.svg									unicode = #1F31A    cat = nature    root = new_moon_face
+emoji 	code = full_moon_face									src = nature_effects/moon/full_moon_face.svg								unicode = #1F31D    cat = nature    root = full_moon_face
+emoji 	code = moon_crescent_face_left				src = nature_effects/moon/moon_crescent_face_left.svg				unicode = #1F31C $vs16    cat = nature    root = moon_crescent_face_left
+emoji 	code = moon_crescent_face_right				src = nature_effects/moon/moon_crescent_face_right.svg			unicode = #1F31B    cat = nature    root = moon_crescent_face_right
+
+
+# celestial
+# -----------------------------
+emoji 	code = star									  src = nature_effects/effects/star.svg									          unicode = #2B50 $vs16    cat = nature    root = star
+emoji 	code = half_star							src = nature_effects/effects/half_star.svg									    unicode = !undefined    cat = nature    root = half_star
+emoji 	code = empty_star							src = nature_effects/effects/empty_star.svg									    unicode = !undefined    cat = nature    root = empty_star
+emoji 	code = shining_star						src = nature_effects/effects/shining_star.svg									  unicode = #1F31F    cat = nature    root = shining_star
+emoji 	code = sparkles						    src = nature_effects/effects/sparkles.svg									      unicode = #2728    cat = nature    root = sparkles
+emoji 	code = dizzy						      src = nature_effects/effects/dizzy.svg									        unicode = #1F4AB    cat = nature    root = dizzy
+emoji 	code = shooting_star				  src = nature_effects/effects/shooting_star.svg									unicode = #1F320    cat = nature    root = shooting_star
+emoji 	code = fire						      src = nature_effects/effects/fire.svg									            unicode = #1F525    cat = nature    root = fire
+emoji 	code = bang				  src = nature_effects/effects/bang.svg									        unicode = #1F4A5    cat = nature    root = bang
+emoji 	code = dash				  src = nature_effects/effects/dash.svg									        unicode = #1F4A8    cat = nature    root = dash

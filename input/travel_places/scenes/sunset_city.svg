@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <rect id="sunset_city" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <g id="outline">
+        <rect x="0" y="0" width="32" height="32"/>
+    </g>
+    <g id="emoji">
+        <path d="M30,2l-28,0l0,6l5,8l18,0l5,-8l0,-6Z" style="fill:#871cd8;"/>
+        <path d="M30,8l-28,0l0,2l4,5l22,0l2,-6l0,-1Z" style="fill:#b52bc7;"/>
+        <path d="M27,22l-6.1,0c0.045,-0.224 -1.997,-1.086 -4.9,-1c-1.29,0.038 -4.92,0.901 -4.9,1l-5.1,0l0,-8l21,0l0,8Z" style="fill:#e34c7e;"/>
+        <circle cx="16" cy="21" r="5" style="fill:#ffa90a;"/>
+        <path d="M22,22l-8,0l0,5l2,3l4,0l2,-4l0,-4Z" style="fill:#2d0e50;"/>
+        <path d="M28,13l-8,0l0,17l5,0l3,-3l0,-14Z" style="fill:#541785;"/>
+        <path d="M16,19l-8.5,0l0,8l1.5,3l7,0l0,-11Z" style="fill:#541785;"/>
+        <rect x="25" y="9" width="5" height="21" style="fill:#2f0f53;"/>
+        <path d="M9,13l-1,-1l-5,0l-1,1l0,17l7,0l0,-17Z" style="fill:#2f0f53;"/>
+        <g>
+            <g opacity="0.75">
+                <rect x="3" y="14" width="1" height="2" style="fill:#c88f16;"/>
+                <rect x="5" y="17" width="1" height="2" style="fill:#824c0e;"/>
+                <rect x="7" y="23" width="1" height="2" style="fill:#824c0e;"/>
+                <rect x="5" y="26" width="1" height="2" style="fill:#824c0e;"/>
+                <rect x="3" y="20" width="1" height="2" style="fill:#824c0e;"/>
+                <rect x="3" y="23" width="1" height="2" style="fill:#c88f16;"/>
+                <rect x="7" y="14" width="1" height="2" style="fill:#c88f16;"/>
+                <rect x="7" y="29" width="1" height="1" style="fill:#c88f16;"/>
+                <rect x="3" y="29" width="1" height="1" style="fill:#c88f16;"/>
+            </g>
+        </g>
+        <g>
+            <g opacity="0.75">
+                <rect x="14" y="20" width="1" height="2" style="fill:#824c0e;"/>
+                <rect x="12" y="20" width="1" height="2" style="fill:#c88f16;"/>
+                <rect x="12" y="23" width="1" height="2" style="fill:#824c0e;"/>
+                <rect x="10" y="26" width="1" height="2" style="fill:#c88f16;"/>
+                <rect x="14" y="26" width="1" height="2" style="fill:#c88f16;"/>
+                <rect x="12" y="29" width="1" height="1" style="fill:#c88f16;"/>
+            </g>
+        </g>
+        <g>
+            <g opacity="0.75">
+                <rect x="21" y="14" width="1" height="2" style="fill:#c88f16;"/>
+                <rect x="23" y="17" width="1" height="2" style="fill:#c88f16;"/>
+                <rect x="23" y="23" width="1" height="2" style="fill:#824c0e;"/>
+                <rect x="21" y="23" width="1" height="2" style="fill:#824c0e;"/>
+                <rect x="21" y="29" width="1" height="1" style="fill:#824c0e;"/>
+                <rect x="23" y="29" width="1" height="1" style="fill:#824c0e;"/>
+                <rect x="23" y="26" width="1" height="2" style="fill:#c88f16;"/>
+            </g>
+        </g>
+        <g>
+            <g opacity="0.75">
+                <rect x="26" y="10" width="1" height="2" style="fill:#c88f16;"/>
+                <rect x="28" y="19" width="1" height="2" style="fill:#c88f16;"/>
+                <rect x="26" y="22" width="1" height="2" style="fill:#c88f16;"/>
+                <rect x="28" y="25" width="1" height="2" style="fill:#c88f16;"/>
+                <rect x="28" y="28" width="1" height="2" style="fill:#c88f16;"/>
+                <rect x="28" y="16" width="1" height="2" style="fill:#824c0e;"/>
+                <rect x="26" y="28" width="1" height="2" style="fill:#824c0e;"/>
+            </g>
+        </g>
+        <path d="M2,10l2,-2l4,4l1,0l0,1l-7,0l0,-3Z" style="fill:#541785;"/>
+        <clipPath id="_clip1">
+            <path d="M2,10l2,-2l4,4l1,0l0,1l-7,0l0,-3Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <path d="M7,12l-3,-3l-3,3l6,0Z" style="fill:#290d49;"/>
+        </g>
+    </g>
+</svg>

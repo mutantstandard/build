@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="matcha_tea" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <g id="outline">
+        <ellipse cx="16" cy="10" rx="14" ry="5" style="fill:none;stroke:#000;stroke-width:4px;"/>
+        <path d="M2,10l28,0c0,2.784 -0.63,15.943 -14,16c-13.37,-0.057 -14,-13.216 -14,-16Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+        <ellipse cx="16" cy="26.143" rx="8" ry="2.857" style="fill:none;stroke:#000;stroke-width:4px;"/>
+        <rect x="6" y="22" width="20" height="4"/>
+    </g>
+    <g id="emoji">
+        <path d="M8,26.143l0,-4l16,0l0,4c0,1.577 -3.585,2.857 -8,2.857c-4.415,0 -8,-1.28 -8,-2.857l0,0Z" style="fill:#4b4a56;"/>
+        <path d="M2,10l28,0c0,2.784 -0.63,15.943 -14,16c-13.37,-0.057 -14,-13.216 -14,-16Z" style="fill:#6e6c7e;"/>
+        <g>
+            <path d="M4.276,12.732c-1.439,-0.785 -2.276,-1.724 -2.276,-2.732c0,-2.76 6.273,-5 14,-5c7.727,0 14,2.24 14,5c0,1.008 -0.837,1.947 -2.276,2.732c-0.671,-2.099 -22.777,-2.099 -23.448,0Z" style="fill:#4b4a56;"/>
+            <path d="M4.276,12.732c0.671,-2.099 5.668,-3.732 11.724,-3.732c6.056,0 11.053,1.633 11.724,3.732c-2.501,1.365 -6.82,2.268 -11.724,2.268c-4.904,0 -9.223,-0.903 -11.724,-2.268Z" style="fill:#abe572;"/>
+        </g>
+    </g>
+</svg>
