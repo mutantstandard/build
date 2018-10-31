@@ -1,6 +1,6 @@
 # Mutant Standard Build Files
 
-This repository contains all of the files required to build a custom Mutant Standard package using [Orxporter](https://github.com/mutantstandard/github).
+This repository contains all of the files required to build a custom Mutant Standard package using [Orxporter](https://github.com/mutantstandard/orxporter).
 
 -----
 
@@ -21,7 +21,7 @@ Everything in this repository is licensed under a [Creative Commons Attribution-
 
 ## How to use
 
-- Download [Orxporter]().
+- Download the latest version of [Orxporter](https://github.com/mutantstandard/orxporter/).
 - Place Orxporter in the `/orxporter` directory.
 - Start running export commands from the root directory of this repo.
 
