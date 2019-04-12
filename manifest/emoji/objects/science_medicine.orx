@@ -1,0 +1,4 @@
+
+
+emoji 	code = capsule						src = objects/science_medicine/capsule.svg					unicode = #1F48A    cat = objects   desc = capsule
+emoji 	code = microscope					src = objects/science_medicine/microscope.svg				unicode = #1F52C    cat = objects   desc = microscope

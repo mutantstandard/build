@@ -1,9 +1,9 @@
 
 
-emoji 	code = green_money						src = objects/money/green_money.svg					unicode = #1F4B5    cat = objects   root = green_money
-emoji 	code = yellow_money						src = objects/money/yellow_money.svg				unicode = #1F4B4    cat = objects   root = yellow_money
-emoji 	code = pink_money							src = objects/money/pink_money.svg					unicode = #1F4B6    cat = objects   root = pink_money
-emoji 	code = purple_money						src = objects/money/purple_money.svg				unicode = #1F4B7    cat = objects   root = purple_money
+emoji 	code = green_money						src = objects/money/green_money.svg					unicode = #1F4B5    cat = objects   desc = green currency notes
+emoji 	code = yellow_money						src = objects/money/yellow_money.svg				unicode = #1F4B4    cat = objects   desc = yellow currency notes
+emoji 	code = pink_money							src = objects/money/pink_money.svg					unicode = #1F4B6    cat = objects   desc = pink currency notes
+emoji 	code = purple_money						src = objects/money/purple_money.svg				unicode = #1F4B7    cat = objects   desc = purple currency notes
 
-emoji 	code = moneybag								src = objects/money/moneybag.svg						unicode = #1F4B0 $vs16    cat = objects   root = moneybag
-emoji 	code = credit_card						src = objects/money/credit_card.svg					unicode = #1F4B3 $vs16    cat = objects   root = credit_card
+emoji 	code = moneybag								src = objects/money/moneybag.svg						unicode = #1F4B0 $vs16    cat = objects   desc = money bag
+emoji 	code = credit_card						src = objects/money/credit_card.svg					unicode = #1F4B3 $vs16    cat = objects   desc = credit card

@@ -1,100 +1,104 @@
 
 define people_creatures_path people_animals/creatures
 
-
+# fantasy meta-humans
+emoji 	code = adult%c								src = $(people_creatures_path)/unicode_people/adult.svg							color=$cmaps_all	unicode = #1F9D1 %u    cat = people    root = adult     desc = adult
 
 # fantasy meta-humans
-emoji 	code = dark_elf								src = $(people_creatures_path)/fantasy_metahumans/dark_elf.svg								unicode = !undefined    cat = people    root = dark_elf
-emoji 	code = demon									src = $(people_creatures_path)/fantasy_metahumans/demon.svg									  unicode = #101666    cat = people    root = demon
-emoji 	code = elf										src = $(people_creatures_path)/fantasy_metahumans/elf.svg										  unicode = #1F9DD        cat = people    root = elf
-emoji 	code = goblin									src = $(people_creatures_path)/fantasy_metahumans/goblin.svg									unicode = !undefined    cat = people    root = goblin
-emoji 	code = half_demon							src = $(people_creatures_path)/fantasy_metahumans/half_demon.svg							unicode = !undefined    cat = people    root = half_demon
-emoji 	code = oni										src = $(people_creatures_path)/fantasy_metahumans/oni.svg										  unicode = #1F479        cat = people    root = oni
-emoji 	code = orc										src = $(people_creatures_path)/fantasy_metahumans/orc.svg										  unicode = !undefined    cat = people    root = orc
-emoji 	code = troll									src = $(people_creatures_path)/fantasy_metahumans/troll.svg									  unicode = !undefined    cat = people    root = troll
-emoji 	code = bugbear								src = $(people_creatures_path)/fantasy_metahumans/bugbear.svg							 	  unicode = !undefined    cat = people    root = bugbear
-emoji 	code = kobold									src = $(people_creatures_path)/fantasy_metahumans/kobold.svg									unicode = !undefined    cat = people    root = kobold
-emoji 	code = minotaur								src = $(people_creatures_path)/fantasy_metahumans/minotaur.svg								unicode = !undefined    cat = people    root = minotaur
-emoji 	code = fish_person						src = $(people_creatures_path)/fantasy_metahumans/fish_person.svg								unicode = !undefined    cat = people    root = fish_person
-emoji 	code = merperson							src = $(people_creatures_path)/fantasy_metahumans/merperson.svg								unicode = #1F9DC    cat = people    root = merperson
+emoji 	code = dark_elf								src = $(people_creatures_path)/fantasy_metahumans/dark_elf.svg								unicode = !undefined    cat = people    desc = dark elf
+emoji 	code = demon									src = $(people_creatures_path)/fantasy_metahumans/demon.svg									  unicode = #101666    cat = people    desc = demon
+emoji 	code = elf										src = $(people_creatures_path)/fantasy_metahumans/elf.svg										  unicode = #1F9DD        cat = people    desc = elf
+emoji 	code = goblin									src = $(people_creatures_path)/fantasy_metahumans/goblin.svg									unicode = !undefined    cat = people    desc = goblin
+emoji 	code = half_demon							src = $(people_creatures_path)/fantasy_metahumans/half_demon.svg							unicode = !undefined    cat = people    desc = half demon
+emoji 	code = oni										src = $(people_creatures_path)/fantasy_metahumans/oni.svg										  unicode = #1F479        cat = people    desc = oni
+emoji 	code = orc										src = $(people_creatures_path)/fantasy_metahumans/orc.svg										  unicode = !undefined    cat = people    desc = orc
+emoji 	code = troll									src = $(people_creatures_path)/fantasy_metahumans/troll.svg									  unicode = !undefined    cat = people    desc = troll
+emoji 	code = bugbear								src = $(people_creatures_path)/fantasy_metahumans/bugbear.svg							 	  unicode = !undefined    cat = people    desc = bugbear
+emoji 	code = kobold									src = $(people_creatures_path)/fantasy_metahumans/kobold.svg									unicode = !undefined    cat = people    desc = kobold
+emoji 	code = minotaur								src = $(people_creatures_path)/fantasy_metahumans/minotaur.svg								unicode = !undefined    cat = people    desc = minotaur
+emoji 	code = fish_person						src = $(people_creatures_path)/fantasy_metahumans/fish_person.svg								unicode = !undefined    cat = people    desc = fish person
+emoji 	code = merperson							src = $(people_creatures_path)/fantasy_metahumans/merperson.svg								unicode = #1F9DC    cat = people    desc = merperson
 
 
 
 # canids
-emoji 	code = coyote									src = $(people_creatures_path)/canids/coyote.svg									unicode = !undefined     cat = people    root = coyote
-emoji 	code = fox										src = $(people_creatures_path)/canids/fox.svg										  unicode = #1F98A         cat = people    root = fox
-emoji 	code = jackal									src = $(people_creatures_path)/canids/jackal.svg									unicode = !undefined     cat = people    root = jackal
-emoji 	code = wolf										src = $(people_creatures_path)/canids/wolf.svg										unicode = #1F43A         cat = people    root = wolf
+emoji 	code = coyote									src = $(people_creatures_path)/canids/coyote.svg									unicode = !undefined     cat = people    desc = coyote
+emoji 	code = fox										src = $(people_creatures_path)/canids/fox.svg										  unicode = #1F98A         cat = people    desc = fox
+emoji 	code = jackal									src = $(people_creatures_path)/canids/jackal.svg									unicode = !undefined     cat = people    desc = jackal
+emoji 	code = wolf										src = $(people_creatures_path)/canids/wolf.svg										unicode = #1F43A         cat = people    desc = wolf
 
 
 
 
 # felids
-emoji 	code = lion_with_mane					src = $(people_creatures_path)/felids/lion_with_mane.svg					unicode = #1F981        cat = people    root = lion_with_mane
-emoji 	code = lion_without_mane			src = $(people_creatures_path)/felids/lion_without_mane.svg		   	unicode = !undefined    cat = people    root = lion_without_mane
-emoji 	code = tiger									src = $(people_creatures_path)/felids/tiger.svg									  unicode = #1F42F        cat = people    root = tiger
-emoji 	code = snow_leopard						src = $(people_creatures_path)/felids/snow_leopard.svg						unicode = !undefined    cat = people    root = snow_leopard
-emoji 	code = lynx						        src = $(people_creatures_path)/felids/lynx.svg						        unicode = !undefined    cat = people    root = lynx
+emoji 	code = lion_with_mane					src = $(people_creatures_path)/felids/lion_with_mane.svg					unicode = #1F981        cat = people    desc = lion with mane
+emoji 	code = lion_without_mane			src = $(people_creatures_path)/felids/lion_without_mane.svg		   	unicode = !undefined    cat = people    desc = lion without mane
+emoji 	code = tiger									src = $(people_creatures_path)/felids/tiger.svg									  unicode = #1F42F        cat = people    desc = tiger
+emoji 	code = snow_leopard						src = $(people_creatures_path)/felids/snow_leopard.svg						unicode = !undefined    cat = people    desc = snow leopard
+emoji 	code = lynx						        src = $(people_creatures_path)/felids/lynx.svg						        unicode = !undefined    cat = people    desc = lynx
 
-emoji 	code = cheetah								src = $(people_creatures_path)/felids/cheetah.svg								  unicode = !undefined    cat = people    root = cheetah
-emoji 	code = jaguar									src = $(people_creatures_path)/felids/jaguar.svg									unicode = !undefined    cat = people    root = jaguar
-emoji 	code = leopard								src = $(people_creatures_path)/felids/leopard.svg								  unicode = !undefined    cat = people    root = leopard
+emoji 	code = cheetah								src = $(people_creatures_path)/felids/cheetah.svg								  unicode = !undefined    cat = people    desc = cheetah
+emoji 	code = jaguar									src = $(people_creatures_path)/felids/jaguar.svg									unicode = !undefined    cat = people    desc = jaguar
+emoji 	code = leopard								src = $(people_creatures_path)/felids/leopard.svg								  unicode = !undefined    cat = people    desc = leopard
 
-emoji 	code = hyena									src = $(people_creatures_path)/felids/hyena.svg									  unicode = !undefined     cat = people    root = hyena
+emoji 	code = hyena									src = $(people_creatures_path)/felids/hyena.svg									  unicode = !undefined     cat = people    desc = hyena
 
 
 
 
 # other mammals
-emoji 	code = bear		               	    src = $(people_creatures_path)/other_mammals/bear.svg                             unicode = #1F43B        cat = people    root = bear
-emoji 	code = ram		               	    src = $(people_creatures_path)/other_mammals/ram.svg                              unicode = !undefined    cat = people    root = ram
-emoji 	code = rat		               	    src = $(people_creatures_path)/other_mammals/rat.svg                              unicode = !undefined    cat = people    root = rat
-emoji 	code = deer_with_antlers			    src = $(people_creatures_path)/other_mammals/deer_with_antlers.svg                unicode = !undefined    cat = people    root = deer_with_antlers
-emoji 	code = deer_without_antlers			  src = $(people_creatures_path)/other_mammals/deer_without_antlers.svg             unicode = !undefined    cat = people    root = deer_without_antlers
-emoji 	code = mouse		               	  src = $(people_creatures_path)/other_mammals/mouse.svg                            unicode = !undefined    cat = people    root = mouse
-emoji 	code = opossum		               	src = $(people_creatures_path)/other_mammals/opossum.svg                          unicode = !undefined    cat = people    root = opossum
-emoji 	code = otter		               	  src = $(people_creatures_path)/other_mammals/otter.svg                            unicode = !undefined    cat = people    root = otter
-emoji 	code = panda		               	  src = $(people_creatures_path)/other_mammals/panda.svg                            unicode = #1F43C        cat = people    root = panda
-emoji 	code = rabbit		               	  src = $(people_creatures_path)/other_mammals/rabbit.svg                           unicode = !undefined    cat = people    root = rabbit
-emoji 	code = raccoon		               	src = $(people_creatures_path)/other_mammals/raccoon.svg                          unicode = #1F99D        cat = people    root = raccoon
-emoji 	code = red_panda		             	src = $(people_creatures_path)/other_mammals/red_panda.svg                        unicode = !undefined    cat = people    root = red_panda
-
+emoji 	code = bear		               	    src = $(people_creatures_path)/other_mammals/bear.svg                             unicode = #1F43B        cat = people    desc = bear
+emoji 	code = ram		               	    src = $(people_creatures_path)/other_mammals/ram.svg                              unicode = !undefined    cat = people    desc = ram
+emoji 	code = rat		               	    src = $(people_creatures_path)/other_mammals/rat.svg                              unicode = !undefined    cat = people    desc = rat
+emoji 	code = deer_with_antlers			    src = $(people_creatures_path)/other_mammals/deer_with_antlers.svg                unicode = !undefined    cat = people    desc = deer with antlers
+emoji 	code = deer_without_antlers			  src = $(people_creatures_path)/other_mammals/deer_without_antlers.svg             unicode = !undefined    cat = people    desc = deer without antlers
+emoji 	code = mouse		               	  src = $(people_creatures_path)/other_mammals/mouse.svg                            unicode = !undefined    cat = people    desc = mouse
+emoji 	code = opossum		               	src = $(people_creatures_path)/other_mammals/opossum.svg                          unicode = !undefined    cat = people    desc = opossum
+emoji 	code = otter		               	  src = $(people_creatures_path)/other_mammals/otter.svg                            unicode = !undefined    cat = people    desc = otter
+emoji 	code = panda		               	  src = $(people_creatures_path)/other_mammals/panda.svg                            unicode = #1F43C        cat = people    desc = panda
+emoji 	code = rabbit		               	  src = $(people_creatures_path)/other_mammals/rabbit.svg                           unicode = !undefined    cat = people    desc = rabbit
+emoji 	code = raccoon		               	src = $(people_creatures_path)/other_mammals/raccoon.svg                          unicode = #1F99D        cat = people    desc = raccoon
+emoji 	code = red_panda		             	src = $(people_creatures_path)/other_mammals/red_panda.svg                        unicode = !undefined    cat = people    desc = red panda
+emoji 	code = boar		               	  src = $(people_creatures_path)/other_mammals/boar.svg                            unicode = #1F417        cat = people    desc = boar
+emoji 	code = skunk		               	  src = $(people_creatures_path)/other_mammals/skunk.svg                           unicode = !undefined    cat = people    desc = skunk
+emoji 	code = squirrel		               	src = $(people_creatures_path)/other_mammals/squirrel.svg                          unicode = !undefined        cat = people    desc = squirrel
+emoji 	code = bat		             	src = $(people_creatures_path)/other_mammals/bat.svg                        unicode = #1F987    cat = people    desc = bat
 
 
 # birds
-emoji 	code = blue_jay		root = blue_jay          src = $(people_creatures_path)/birds/blue_jay.svg                        unicode = !undefined      cat = people
-emoji 	code = crow		    root = crow              src = $(people_creatures_path)/birds/crow.svg                            unicode = !undefined      cat = people
-emoji 	code = dove		    root = dove              src = $(people_creatures_path)/birds/dove.svg                            unicode = #1F54A $vs16    cat = people
-emoji 	code = duck		    root = duck              src = $(people_creatures_path)/birds/duck.svg                            unicode = #1F986          cat = people
-emoji 	code = eagle		  root = eagle             src = $(people_creatures_path)/birds/eagle.svg                           unicode = #1F985          cat = people
-emoji 	code = owl		    root = owl               src = $(people_creatures_path)/birds/owl.svg                             unicode = #1F989          cat = people
-emoji 	code = parrot		  root = parrot            src = $(people_creatures_path)/birds/parrot.svg                          unicode = #1F99C          cat = people
-emoji 	code = penguin		root = penguin           src = $(people_creatures_path)/birds/penguin.svg                         unicode = #1F427          cat = people
-emoji 	code = pigeon		  root = pigeon            src = $(people_creatures_path)/birds/pigeon.svg                          unicode = !undefined      cat = people
-emoji 	code = rooster		root = rooster           src = $(people_creatures_path)/birds/rooster.svg                         unicode = #1F413          cat = people
+emoji 	code = blue_jay      src = $(people_creatures_path)/birds/blue_jay.svg                        unicode = !undefined      cat = people    desc = blue jay
+emoji 	code = crow          src = $(people_creatures_path)/birds/crow.svg                            unicode = !undefined      cat = people    desc = crow
+emoji 	code = dove	         src = $(people_creatures_path)/birds/dove.svg                            unicode = #1F54A $vs16    cat = people    desc = dove
+emoji 	code = duck		       src = $(people_creatures_path)/birds/duck.svg                            unicode = #1F986          cat = people    desc = duck
+emoji 	code = eagle		     src = $(people_creatures_path)/birds/eagle.svg                           unicode = #1F985          cat = people    desc = eagle
+emoji 	code = owl		       src = $(people_creatures_path)/birds/owl.svg                             unicode = #1F989          cat = people    desc = owl
+emoji 	code = parrot		     src = $(people_creatures_path)/birds/parrot.svg                          unicode = #1F99C          cat = people    desc = parrot
+emoji 	code = penguin	     src = $(people_creatures_path)/birds/penguin.svg                         unicode = #1F427          cat = people    desc = penguin
+emoji 	code = pigeon		     src = $(people_creatures_path)/birds/pigeon.svg                          unicode = !undefined      cat = people    desc = pigeon
+emoji 	code = rooster		   src = $(people_creatures_path)/birds/rooster.svg                         unicode = #1F413          cat = people    desc = rooster
 
-emoji 	code = crane		  root = crane             src = $(people_creatures_path)/birds/crane.svg                           unicode = !undefined          cat = people
-emoji 	code = peacock		root = peacock           src = $(people_creatures_path)/birds/peacock.svg                         unicode = #1F99A         cat = people
-emoji 	code = pelican		root = pelican           src = $(people_creatures_path)/birds/pelican.svg                         unicode = !undefined      cat = people
-emoji 	code = toucan		  root = toucan            src = $(people_creatures_path)/birds/toucan.svg                          unicode = !undefined         cat = people
+emoji 	code = crane		             src = $(people_creatures_path)/birds/crane.svg                           unicode = !undefined          cat = people   desc = crane
+emoji 	code = peacock		           src = $(people_creatures_path)/birds/peacock.svg                         unicode = #1F99A         cat = people        desc = peacock
+emoji 	code = pelican		           src = $(people_creatures_path)/birds/pelican.svg                         unicode = !undefined      cat = people       desc = pelican
+emoji 	code = toucan		             src = $(people_creatures_path)/birds/toucan.svg                          unicode = !undefined         cat = people    desc = toucan
 
 
 # reptiles
-emoji 	code = snake									src = $(people_creatures_path)/reptiles/snake.svg									unicode = !undefined    cat = people    root = snake
-emoji 	code = western_dragon					src = $(people_creatures_path)/reptiles/western_dragon.svg				unicode = !undefined    cat = people    root = western_dragon
-emoji 	code = eastern_dragon					src = $(people_creatures_path)/reptiles/eastern_dragon.svg				unicode = #1F432    cat = people    root = eastern_dragon
+emoji 	code = snake									src = $(people_creatures_path)/reptiles/snake.svg									unicode = !undefined    cat = people    desc = snake
+emoji 	code = western_dragon					src = $(people_creatures_path)/reptiles/western_dragon.svg				unicode = !undefined    cat = people    desc = western dragon
+emoji 	code = eastern_dragon					src = $(people_creatures_path)/reptiles/eastern_dragon.svg				unicode = #1F432    cat = people        desc = eastern dragon
 
 
 
 # aquatic
-emoji 	code = shark		     root = shark          src = $(people_creatures_path)/aquatic/shark.svg                             unicode = #1F988      cat = people
-emoji 	code = dolphin       root = dolphin        src = $(people_creatures_path)/aquatic/dolphin.svg                           unicode = #1F42C      cat = people
-emoji 	code = puffer_fish	 root = puffer_fish    src = $(people_creatures_path)/aquatic/puffer_fish.svg                       unicode = #1F421      cat = people
-emoji 	code = turtle		     root = turtle         src = $(people_creatures_path)/aquatic/turtle.svg                            unicode = #1F422      cat = people
+emoji 	code = shark		            src = $(people_creatures_path)/aquatic/shark.svg                             unicode = #1F988      cat = people       desc = shark
+emoji 	code = dolphin              src = $(people_creatures_path)/aquatic/dolphin.svg                           unicode = #1F42C      cat = people       desc = dolphin
+emoji 	code = puffer_fish	        src = $(people_creatures_path)/aquatic/puffer_fish.svg                       unicode = #1F421      cat = people       desc = puffer fish
+emoji 	code = turtle		            src = $(people_creatures_path)/aquatic/turtle.svg                            unicode = #1F422      cat = people       desc = turtle
 
 # other
-emoji 	code = spider					root = spider				src = $(people_creatures_path)/insects/spider.svg									unicode = #1F577 $vs16    cat = people
+emoji 	code = spider							  src = $(people_creatures_path)/insects/spider.svg									unicode = #1F577 $vs16    cat = people     	desc = spider
 
 # other
-emoji 	code = gryphon								src = $(people_creatures_path)/other/gryphon.svg									unicode = !undefined    cat = people    root = gryphon
-emoji 	code = slime									src = $(people_creatures_path)/other/slime.svg									unicode = !undefined    cat = people    root = slime
+emoji 	code = gryphon								src = $(people_creatures_path)/other/gryphon.svg									unicode = !undefined    cat = people    desc = gryphon
+emoji 	code = slime									src = $(people_creatures_path)/other/slime.svg									unicode = !undefined    cat = people    desc = slime

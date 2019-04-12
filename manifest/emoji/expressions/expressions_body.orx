@@ -6,19 +6,20 @@
 define semi_body_path expressions/semi_body
 
 # this might be #1F64C, if you replace it with the one that currently occupies that codepoint.
-emoji 	code = arms_in_the_air%c 						src = $(semi_body_path)/arms_in_the_air.svg			color=$cmaps_all			unicode = !undefined    cat = expressions   root = arms_in_the_air
+
+emoji 	code = arms_in_the_air%c 						src = $(semi_body_path)/arms_in_the_air.svg			color=$cmaps_all			unicode = !undefined    cat = expressions   root = arms_in_the_air     desc = person with their arms in the air
 
 
-emoji 	code = bow%c 												src = $(semi_body_path)/bow.svg									color=$cmaps_all			unicode = #1F647 %u     cat = expressions   root = bow
-emoji 	code = facepalm%c 									src = $(semi_body_path)/facepalm.svg						color=$cmaps_all			unicode = #1F926 %u     cat = expressions   root = facepalm
-emoji 	code = massage%c 										src = $(semi_body_path)/massage.svg							color=$cmaps_all			unicode = #1F486 %u     cat = expressions   root = massage
-emoji 	code = no_good%c 										src = $(semi_body_path)/no_good.svg							color=$cmaps_all			unicode = #1F645 %u     cat = expressions   root = no_good
-emoji 	code = ok_gesture%c 								src = $(semi_body_path)/ok_gesture.svg					color=$cmaps_all			unicode = #1F646 %u     cat = expressions   root = ok_gesture
-emoji 	code = person_frowning%c 						src = $(semi_body_path)/person_frowning.svg			color=$cmaps_all			unicode = #1F64D %u     cat = expressions   root = person_frowning
-emoji 	code = person_pouting%c 						src = $(semi_body_path)/person_pouting.svg			color=$cmaps_all			unicode = #1F64E %u     cat = expressions   root = person_pouting
-emoji 	code = raising_hand%c 							src = $(semi_body_path)/raising_hand.svg				color=$cmaps_all			unicode = #1F64B %u     cat = expressions   root = raising_hand
-emoji 	code = shrug%c 											src = $(semi_body_path)/shrug.svg								color=$cmaps_all			unicode = #1F937 %u     cat = expressions   root = shrug
-emoji 	code = tipping_hand%c 							src = $(semi_body_path)/tipping_hand.svg				color=$cmaps_all			unicode = #1F481 %u     cat = expressions   root = tipping_hand
+emoji 	code = bow%c 									src = $(semi_body_path)/bow.svg						color=$cmaps_all			unicode = #1F647 %u     cat = expressions   root = bow               desc = bow (body expression)
+emoji 	code = facepalm%c 								src = $(semi_body_path)/facepalm.svg				color=$cmaps_all			unicode = #1F926 %u     cat = expressions   root = facepalm          desc = facepalm
+emoji 	code = massage%c 								src = $(semi_body_path)/massage.svg					color=$cmaps_all			unicode = #1F486 %u     cat = expressions   root = massage           desc = person receiving a face massage
+emoji 	code = no_good%c 								src = $(semi_body_path)/no_good.svg					color=$cmaps_all			unicode = #1F645 %u     cat = expressions   root = no_good           desc = person making a 'no good' expression
+emoji 	code = ok_gesture%c 							src = $(semi_body_path)/ok_gesture.svg				color=$cmaps_all			unicode = #1F646 %u     cat = expressions   root = ok_gesture        desc = person making an 'ok' gesture with their arms
+emoji 	code = person_frowning%c 						src = $(semi_body_path)/person_frowning.svg			color=$cmaps_all			unicode = #1F64D %u     cat = expressions   root = person_frowning   desc = person frowning
+emoji 	code = person_pouting%c 						src = $(semi_body_path)/person_pouting.svg			color=$cmaps_all			unicode = #1F64E %u     cat = expressions   root = person_pouting    desc = person pouting
+emoji 	code = raising_hand%c 							src = $(semi_body_path)/raising_hand.svg			color=$cmaps_all			unicode = #1F64B %u     cat = expressions   root = raising_hand      desc = person raising their hand
+emoji 	code = shrug%c 									src = $(semi_body_path)/shrug.svg					color=$cmaps_all			unicode = #1F937 %u     cat = expressions   root = shrug             desc = shrug
+emoji 	code = tipping_hand%c 							src = $(semi_body_path)/tipping_hand.svg			color=$cmaps_all			unicode = #1F481 %u     cat = expressions   root = tipping_hand      desc = person tipping their hand
 
 
 # semi-body
@@ -26,4 +27,4 @@ emoji 	code = tipping_hand%c 							src = $(semi_body_path)/tipping_hand.svg				
 
 define no_body_path expressions/no_body
 
-emoji 	code = haircut								src = $(no_body_path)/haircut.svg							unicode = #1F487    cat = expressions   root = haircut
+emoji 	code = haircut								src = $(no_body_path)/haircut.svg							unicode = #1F487    cat = expressions   root = haircut    desc = haircut

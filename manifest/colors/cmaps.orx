@@ -18,7 +18,7 @@ include colors/cpal_hmn.orx
 # default colour
 # it's currently K2.
 
-colormap default 			src = key		dst = k2		code = !	unicode = !
+colormap default 			src = key		dst = k2		code = !	unicode = !    desc = !
 
 
 
@@ -26,75 +26,75 @@ define cmap_def default
 
 
 # shared colours
-colormap r1 		src = key		dst = r1		code = _r1			unicode = #101600
-colormap r2 		src = key		dst = r2		code = _r2			unicode = #101601
-colormap r3 		src = key		dst = r3		code = _r3			unicode = #101602
-colormap d1 		src = key		dst = d1		code = _d1			unicode = #101603
-colormap d2 		src = key		dst = d2		code = _d2			unicode = #101604
-colormap d3 		src = key		dst = d3		code = _d3			unicode = #101605
-colormap o1 		src = key		dst = o1		code = _o1			unicode = #101606
-colormap o2 		src = key		dst = o2		code = _o2			unicode = #101607
-colormap o3 		src = key		dst = o3		code = _o3			unicode = #101608
-colormap y1 		src = key		dst = y1		code = _y1			unicode = #101609
-colormap y2 		src = key		dst = y2		code = _y2			unicode = #10160a
-colormap y3 		src = key		dst = y3		code = _y3			unicode = #10160b
+colormap r1 		src = key		dst = r1		code = _r1			unicode = #101600    desc = dark red
+colormap r2 		src = key		dst = r2		code = _r2			unicode = #101601    desc = red
+colormap r3 		src = key		dst = r3		code = _r3			unicode = #101602    desc = light red
+colormap d1 		src = key		dst = d1		code = _d1			unicode = #101603    desc = dark red-orange
+colormap d2 		src = key		dst = d2		code = _d2			unicode = #101604    desc = red-orange
+colormap d3 		src = key		dst = d3		code = _d3			unicode = #101605    desc = light red-orange
+colormap o1 		src = key		dst = o1		code = _o1			unicode = #101606    desc = dark orange
+colormap o2 		src = key		dst = o2		code = _o2			unicode = #101607    desc = orange
+colormap o3 		src = key		dst = o3		code = _o3			unicode = #101608    desc = light orange
+colormap y1 		src = key		dst = y1		code = _y1			unicode = #101609    desc = dark yellow
+colormap y2 		src = key		dst = y2		code = _y2			unicode = #10160a    desc = yellow
+colormap y3 		src = key		dst = y3		code = _y3			unicode = #10160b    desc = light yellow
 
-colormap l1 		src = key		dst = l1		code = _l1			unicode = #10160c
-colormap l2 		src = key		dst = l2		code = _l2			unicode = #10160d
-colormap l3 		src = key		dst = l3		code = _l3			unicode = #10160e
-colormap g1 		src = key		dst = g1		code = _g1			unicode = #10160f
-colormap g2 		src = key		dst = g2		code = _g2			unicode = #101610
-colormap g3 		src = key		dst = g3		code = _g3			unicode = #101611
-colormap t1 		src = key		dst = t1		code = _t1			unicode = #101612
-colormap t2 		src = key		dst = t2		code = _t2			unicode = #101613
-colormap t3 		src = key		dst = t3		code = _t3			unicode = #101614
+colormap l1 		src = key		dst = l1		code = _l1			unicode = #10160c    desc = dark yellow-green
+colormap l2 		src = key		dst = l2		code = _l2			unicode = #10160d    desc = yellow-green
+colormap l3 		src = key		dst = l3		code = _l3			unicode = #10160e    desc = light yellow-green
+colormap g1 		src = key		dst = g1		code = _g1			unicode = #10160f    desc = dark green
+colormap g2 		src = key		dst = g2		code = _g2			unicode = #101610    desc = green
+colormap g3 		src = key		dst = g3		code = _g3			unicode = #101611    desc = light green
+colormap t1 		src = key		dst = t1		code = _t1			unicode = #101612    desc = dark teal
+colormap t2 		src = key		dst = t2		code = _t2			unicode = #101613    desc = teal
+colormap t3 		src = key		dst = t3		code = _t3			unicode = #101614    desc = light teal
 
-colormap c1 		src = key		dst = c1		code = _c1			unicode = #101615
-colormap c2 		src = key		dst = c2		code = _c2			unicode = #101616
-colormap c3 		src = key		dst = c3		code = _c3			unicode = #101617
-colormap s1 		src = key		dst = s1		code = _s1			unicode = #101618
-colormap s2 		src = key		dst = s2		code = _s2			unicode = #101619
-colormap s3 		src = key		dst = s3		code = _s3			unicode = #10161a
-colormap b1 		src = key		dst = b1		code = _b1			unicode = #10161b
-colormap b2 		src = key		dst = b2		code = _b2			unicode = #10161c
-colormap b3 		src = key		dst = b3		code = _b3			unicode = #10161d
+colormap c1 		src = key		dst = c1		code = _c1			unicode = #101615    desc = dark cyan
+colormap c2 		src = key		dst = c2		code = _c2			unicode = #101616    desc = cyan
+colormap c3 		src = key		dst = c3		code = _c3			unicode = #101617    desc = light cyan
+colormap s1 		src = key		dst = s1		code = _s1			unicode = #101618    desc = dark sky blue
+colormap s2 		src = key		dst = s2		code = _s2			unicode = #101619    desc = sky blue
+colormap s3 		src = key		dst = s3		code = _s3			unicode = #10161a    desc = light sky blue
+colormap b1 		src = key		dst = b1		code = _b1			unicode = #10161b    desc = dark blue
+colormap b2 		src = key		dst = b2		code = _b2			unicode = #10161c    desc = blue
+colormap b3 		src = key		dst = b3		code = _b3			unicode = #10161d    desc = light blue
 
-colormap v1 		src = key		dst = v1		code = _v1			unicode = #10161e
-colormap v2 		src = key		dst = v2		code = _v2			unicode = #10161f
-colormap v3 		src = key		dst = v3		code = _v3			unicode = #101620
-colormap m1 		src = key		dst = m1		code = _m1			unicode = #101621
-colormap m2 		src = key		dst = m2		code = _m2			unicode = #101622
-colormap m3 		src = key		dst = m3		code = _m3			unicode = #101623
-colormap p1 		src = key		dst = p1		code = _p1			unicode = #101624
-colormap p2 		src = key		dst = p2		code = _p2			unicode = #101625
-colormap p3 		src = key		dst = p3		code = _p3			unicode = #101626
+colormap v1 		src = key		dst = v1		code = _v1			unicode = #10161e    desc = dark violet
+colormap v2 		src = key		dst = v2		code = _v2			unicode = #10161f    desc = violet
+colormap v3 		src = key		dst = v3		code = _v3			unicode = #101620    desc = light violet
+colormap m1 		src = key		dst = m1		code = _m1			unicode = #101621    desc = dark magenta
+colormap m2 		src = key		dst = m2		code = _m2			unicode = #101622    desc = magenta
+colormap m3 		src = key		dst = m3		code = _m3			unicode = #101623    desc = light magenta
+colormap p1 		src = key		dst = p1		code = _p1			unicode = #101624    desc = dark pink
+colormap p2 		src = key		dst = p2		code = _p2			unicode = #101625    desc = pink
+colormap p3 		src = key		dst = p3		code = _p3			unicode = #101626    desc = light pink
 
-colormap e1 		src = key		dst = e1		code = _e1			unicode = #101627
-colormap e2 		src = key		dst = e2		code = _e2			unicode = #101628
-colormap e3 		src = key		dst = e3		code = _e3			unicode = #101629
-colormap k1 		src = key		dst = k1		code = _k1			unicode = #10162a
-colormap k2 		src = key		dst = k2		code = _k2			unicode = #10162b
-colormap k3 		src = key		dst = k3		code = _k3			unicode = #10162c
+colormap e1 		src = key		dst = e1		code = _e1			unicode = #101627    desc = dark gray
+colormap e2 		src = key		dst = e2		code = _e2			unicode = #101628    desc = gray
+colormap e3 		src = key		dst = e3		code = _e3			unicode = #101629    desc = light gray
+colormap k1 		src = key		dst = k1		code = _k1			unicode = #10162a    desc = dark brown
+colormap k2 		src = key		dst = k2		code = _k2			unicode = #10162b    desc = brown
+colormap k3 		src = key		dst = k3		code = _k3			unicode = #10162c    desc = light brown
 
 define cmap_set_shared r1 r2 r3 d1 d2 d3 o1 o2 o3 y1 y2 y3 l1 l2 l3 g1 g2 g3 t1 t2 t3 c1 c2 c3 s1 s2 s3 b1 b2 b3 v1 v2 v3 m1 m2 m3 p1 p2 p3 e1 e2 e3 k1 k2 k3
 
 
 
 # human colours
-colormap h1 		src = key		dst = h1			code = _h1		unicode = #1F3FF
-colormap h2 		src = key		dst = h2			code = _h2		unicode = #1F3FE
-colormap h3 		src = key		dst = h3			code = _h3		unicode = #1F3FD
-colormap h4 		src = key		dst = h4			code = _h4		unicode = #1F3FC
-colormap h5 		src = key		dst = h5			code = _h5		unicode = #1F3FB
+colormap h1 		src = key		dst = h1			code = _h1		unicode = #1F3FF    desc = light skin tone
+colormap h2 		src = key		dst = h2			code = _h2		unicode = #1F3FE    desc = medium-light skin tone
+colormap h3 		src = key		dst = h3			code = _h3		unicode = #1F3FD    desc = medium skin tone
+colormap h4 		src = key		dst = h4			code = _h4		unicode = #1F3FC    desc = medium-dark skin tone
+colormap h5 		src = key		dst = h5			code = _h5		unicode = #1F3FB    desc = dark skin tone
 
 define cmap_set_hmn h1 h2 h3 h4 h5
 
 
 
 # fur colours
-colormap fe1			src = key		dst = fe1				code = _fe1			unicode = !undefined
-colormap ft1 			src = key		dst = ft1				code = _ft1			unicode = !undefined
-colormap fk1 		  src = key		dst = fk1 			code = _fk1		unicode = !undefined
+colormap fe1			src = key		dst = fe1				code = _fe1			unicode = !undefined     desc = white fur colour
+colormap ft1 			src = key		dst = ft1				code = _ft1			unicode = !undefined     desc = brown fur colour
+colormap fk1 		  src = key		dst = fk1 			code = _fk1		unicode = !undefined       desc = tan fur colour
 
 define cmap_set_fur fe1 ft1 fk1
 
@@ -109,3 +109,7 @@ define cmaps_hmn					$cmap_def $cmap_set_shared $cmap_set_hmn
 define cmaps_fur					$cmap_def $cmap_set_shared $cmap_set_fur
 
 define cmaps_clw					$cmap_def $cmap_set_shared
+
+# this one is for the CM glyphs.
+
+define cmaps_cm_glyphs 			$cmap_set_shared $cmap_set_hmn

@@ -1,28 +1,23 @@
 
-emoji 	code = 100													src = symbols/misc/100.svg														unicode = #1F4AF          cat = symbols   root = 100
+emoji 	code = 100								src = symbols/misc/100.svg							unicode = #1F4AF          cat = symbols   desc = 100 points mark
 
-emoji 	code = 8_asterisk										src = symbols/misc/8_asterisk.svg											unicode = #2733 $vs16     cat = symbols   root = 8_asterisk
-emoji 	code = 8_star												src = symbols/misc/8_star.svg													unicode = #2734 $vs16           cat = symbols   root = 8_star
-emoji 	code = chart												src = symbols/misc/chart.svg													unicode = #1F4B9          cat = symbols   root = chart
-emoji 	code = green_cross									src = symbols/misc/green_cross.svg										unicode = #274E           cat = symbols   root = green_cross
-emoji 	code = diamond_with_dot							src = symbols/misc/diamond_with_dot.svg								unicode = #1F4A0          cat = symbols   root = diamond_with_dot
-emoji 	code = circle												src = symbols/misc/circle.svg													unicode = #2B55 $vs16     cat = symbols   root = circle
+emoji 	code = 8_asterisk						src = symbols/misc/8_asterisk.svg					unicode = #2733 $vs16     cat = symbols   desc = 8 spoked asterisk
+emoji 	code = 8_star							src = symbols/misc/8_star.svg						unicode = #2734 $vs16     cat = symbols   desc = 8-pointed star
+emoji 	code = chart							src = symbols/misc/chart.svg						unicode = #1F4B9          cat = symbols   desc = chart
+emoji 	code = green_tick						src = symbols/misc/green_tick.svg					unicode = #2705           cat = symbols   desc = green tick
+emoji 	code = green_cross						src = symbols/misc/green_cross.svg					unicode = #274E           cat = symbols   desc = green cross
+emoji 	code = diamond_with_dot					src = symbols/misc/diamond_with_dot.svg				unicode = #1F4A0          cat = symbols   desc = diamond with dot
+emoji 	code = circle							src = symbols/misc/circle.svg						unicode = #2B55 $vs16     cat = symbols   desc = red circle
+emoji 	code = staff_of_asclepius			    src = symbols/misc/staff_of_asclepius.svg	        unicode = #2695 $vs16  cat = symbols        desc = staff of asclepius
 
-emoji 	code = exclamation_exclamation			src = symbols/misc/exclamation_exclamation.svg				unicode = #203C $vs16         cat = symbols   root = exclamation_exclamation
-emoji 	code = exclamation_mark_gray				src = symbols/misc/exclamation_mark_gray.svg					unicode = #2755         cat = symbols   root = exclamation_mark_gray
-emoji 	code = exclamation_mark_red					src = symbols/misc/exclamation_mark_red.svg						unicode = #2757 $vs16         cat = symbols   root = exclamation_mark_red
-emoji 	code = exclamation_question					src = symbols/misc/exclamation_question.svg						unicode = #2049 $vs16         cat = symbols   root = exclamation_question
+emoji 	code = globe							src = symbols/misc/globe.svg						unicode = #1F310          cat = symbols   desc = globe with meridian lines
 
-emoji 	code = globe								        src = symbols/misc/globe.svg									        unicode = #1F310         cat = symbols   root = globe
+emoji 	code = sparkle							src = symbols/misc/sparkle.svg						unicode = #2747 $vs16     cat = symbols   desc = sparkle
+emoji 	code = spiral							src = symbols/misc/spiral.svg						unicode = #1F300          cat = symbols   desc = spiral
+emoji 	code = zzz								src = symbols/misc/zzz.svg							unicode = #1F4A4          cat = symbols   desc = zzz
+emoji 	code = anger_symbol						src = symbols/misc/anger_symbol.svg					unicode = #1F4A2          cat = symbols   desc = anger symbol
 
-emoji 	code = question_mark_gray						src = symbols/misc/question_mark_gray.svg							unicode = #2754         cat = symbols   root = question_mark_gray
-emoji 	code = question_mark_red						src = symbols/misc/question_mark_red.svg							unicode = #2753 $vs16         cat = symbols   root = question_mark_red
+emoji 	code = name_badge						src = symbols/misc/name_badge.svg					unicode = #1F4DB          cat = symbols   desc = name badge
 
-emoji 	code = sparkle											src = symbols/misc/sparkle.svg												unicode = #2747 $vs16         cat = symbols   root = sparkle
-emoji 	code = tick													src = symbols/misc/tick.svg														unicode = #2705         cat = symbols   root = tick
-emoji 	code = spiral												src = symbols/misc/spiral.svg													unicode = #1F300        cat = symbols   root = spiral
-emoji 	code = zzz													src = symbols/misc/zzz.svg														unicode = #1F4A4        cat = symbols   root = zzz
-emoji 	code = anger_symbol									src = symbols/misc/anger_symbol.svg						        unicode = #1F4A2        cat = symbols   root = anger_symbol
-
-
-emoji 	code = name_badge										src = symbols/misc/name_badge.svg											unicode = #1F4DB    cat = symbols   root = name_badge
+emoji 	code = tick_box							src = symbols/misc/tick_box.svg						unicode = #2611 $vs16     cat = symbols   desc = tick box
+emoji 	code = radio_button						src = symbols/misc/radio_button.svg					unicode = #1F518          cat = symbols   desc = radio button

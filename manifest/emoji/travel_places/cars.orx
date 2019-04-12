@@ -5,5 +5,9 @@
 # scenes
 # -----------------------------
 
-emoji 	code = traffic_light_vertical						src = travel_places/cars/traffic_light_vertical.svg										unicode = #1F6A6    cat = travel_places    root = traffic_light_vertical
-emoji 	code = traffic_light_horizontal					src = travel_places/cars/traffic_light_horizontal.svg									unicode = #1F6A5     cat = travel_places    root = traffic_light_horizontal
+emoji 	code = bus				                    src = travel_places/cars/bus.svg					                unicode = #1F68C    cat = travel_places    desc = bus
+emoji 	code = trolleybus				            src = travel_places/cars/trolleybus.svg					            unicode = #1F68E    cat = travel_places    desc = trolleybus
+emoji 	code = fire_engine				            src = travel_places/cars/fire_engine.svg					        unicode = #1f692    cat = travel_places    desc = fire engine
+
+emoji 	code = traffic_light_vertical				src = travel_places/cars/traffic_light_vertical.svg					unicode = #1F6A6    cat = travel_places    desc = vertical traffic light
+emoji 	code = traffic_light_horizontal			    src = travel_places/cars/traffic_light_horizontal.svg				unicode = #1F6A5    cat = travel_places    desc = horizontal traffic light

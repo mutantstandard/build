@@ -1,25 +1,25 @@
 
 
-emoji 	code = play							src = symbols/media_playback/play.svg								unicode = #25B6 $vs16     cat = symbols   root = play
-emoji 	code = reverse					src = symbols/media_playback/reverse.svg						unicode = #25C0 $vs16     cat = symbols   root = reverse
-emoji 	code = play_up					src = symbols/media_playback/play_up.svg						unicode = #1F53C          cat = symbols   root = play_up
-emoji 	code = play_down				src = symbols/media_playback/play_down.svg					unicode = #1F53D          cat = symbols   root = play_down
+emoji 	code = play							src = symbols/media_playback/play.svg								unicode = #25B6 $vs16     cat = symbols   desc = play symbol
+emoji 	code = reverse					src = symbols/media_playback/reverse.svg						unicode = #25C0 $vs16     cat = symbols   desc = reverse playback symbol
+emoji 	code = play_up					src = symbols/media_playback/play_up.svg						unicode = #1F53C          cat = symbols   desc = play up symbol
+emoji 	code = play_down				src = symbols/media_playback/play_down.svg					unicode = #1F53D          cat = symbols   desc = play down symbol
 
-emoji 	code = play_pause				src = symbols/media_playback/play_pause.svg					unicode = #23EF $vs16     cat = symbols   root = play_pause
-emoji 	code = pause						src = symbols/media_playback/pause.svg							unicode = #23F8 $vs16     cat = symbols   root = pause
-emoji 	code = stop							src = symbols/media_playback/stop.svg								unicode = #23F9 $vs16     cat = symbols   root = stop
-emoji 	code = record						src = symbols/media_playback/record.svg							unicode = #23FA $vs16     cat = symbols   root = record
+emoji 	code = play_pause				src = symbols/media_playback/play_pause.svg					unicode = #23EF $vs16     cat = symbols   desc = play/pause symbol
+emoji 	code = pause						src = symbols/media_playback/pause.svg							unicode = #23F8 $vs16     cat = symbols   desc = pause symbol
+emoji 	code = stop							src = symbols/media_playback/stop.svg								unicode = #23F9 $vs16     cat = symbols   desc = stop symbol
+emoji 	code = record						src = symbols/media_playback/record.svg							unicode = #23FA $vs16     cat = symbols   desc = record symbol
 
-emoji 	code = fast_down				src = symbols/media_playback/fast_down.svg					unicode = #23EC $vs16     cat = symbols   root = fast_down
-emoji 	code = fast_up					src = symbols/media_playback/fast_up.svg						unicode = #23EB $vs16     cat = symbols   root = fast_up
-emoji 	code = fast_forward			src = symbols/media_playback/fast_forward.svg				unicode = #23E9 $vs16     cat = symbols   root = fast_forward
-emoji 	code = rewind						src = symbols/media_playback/rewind.svg							unicode = #23EA $vs16     cat = symbols   root = rewind
+emoji 	code = fast_down				src = symbols/media_playback/fast_down.svg					unicode = #23EC $vs16     cat = symbols   desc = fast down symbol
+emoji 	code = fast_up					src = symbols/media_playback/fast_up.svg						unicode = #23EB $vs16     cat = symbols   desc = fast up symbol
+emoji 	code = fast_forward			src = symbols/media_playback/fast_forward.svg				unicode = #23E9 $vs16     cat = symbols   desc = fast forward symbol
+emoji 	code = rewind						src = symbols/media_playback/rewind.svg							unicode = #23EA $vs16     cat = symbols   desc = rewind symbol
 
-emoji 	code = skip_back				src = symbols/media_playback/skip_back.svg					unicode = #23EE $vs16     cat = symbols   root = skip_back
-emoji 	code = skip_forward			src = symbols/media_playback/skip_forward.svg				unicode = #23ED $vs16     cat = symbols   root = skip_forward
+emoji 	code = skip_back				src = symbols/media_playback/skip_back.svg					unicode = #23EE $vs16     cat = symbols   desc = skip back symbol
+emoji 	code = skip_forward			src = symbols/media_playback/skip_forward.svg				unicode = #23ED $vs16     cat = symbols   desc = skip forward symbol
 
-emoji 	code = eject					  src = symbols/media_playback/eject.svg							unicode = #23CF $vs16     cat = symbols   root = eject
+emoji 	code = eject					  src = symbols/media_playback/eject.svg							unicode = #23CF $vs16     cat = symbols   desc = eject symbol
 
-emoji 	code = repeat						src = symbols/media_playback/repeat.svg							unicode = #1F501    cat = symbols   root = repeat
-emoji 	code = repeat_once			src = symbols/media_playback/repeat_once.svg				unicode = #1F502    cat = symbols   root = repeat_once
-emoji 	code = shuffle					src = symbols/media_playback/shuffle.svg						unicode = #1F500    cat = symbols   root = shuffle
+emoji 	code = repeat						src = symbols/media_playback/repeat.svg							unicode = #1F501    cat = symbols   desc = repeat playback symbol
+emoji 	code = repeat_once			src = symbols/media_playback/repeat_once.svg				unicode = #1F502    cat = symbols   desc = repeat playback once symbol
+emoji 	code = shuffle					src = symbols/media_playback/shuffle.svg						unicode = #1F500    cat = symbols   desc = shuffle playback symbol

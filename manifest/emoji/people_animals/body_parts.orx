@@ -4,8 +4,8 @@ define people_body_parts_path people_animals/body_parts
 
 
 # body parts
-emoji 	code = eye								  src = $(people_body_parts_path)/eye.svg							       unicode = #1F441 $vs16      cat = people    root = eye
+emoji 	code = eye							src = $(people_body_parts_path)/eye.svg						unicode = #1F441 $vs16      cat = people    desc = eye
 
-emoji 	code = ear%c								src = $(people_body_parts_path)/ear.svg								color=$cmaps_all       unicode = #1F442 $vs16 %u       cat = people    root = ear
-emoji 	code = pointed_ear%c				src = $(people_body_parts_path)/pointed_ear.svg				color=$cmaps_all       unicode = !undefined    cat = people    root = pointed_ear
-emoji 	code = long_pointed_ear%c		src = $(people_body_parts_path)/long_pointed_ear.svg   color=$cmaps_all       unicode = !undefined    cat = people    root = long_pointed_ear
+emoji 	code = ear%c						src = $(people_body_parts_path)/ear.svg						color=$cmaps_all      root = ear                  unicode = #1F442 $vs16 %u       cat = people    desc = ear
+emoji 	code = pointed_ear%c				src = $(people_body_parts_path)/pointed_ear.svg				color=$cmaps_all      root = pointed_ear          unicode = !undefined            cat = people    desc = pointed ear
+emoji 	code = long_pointed_ear%c		    src = $(people_body_parts_path)/long_pointed_ear.svg        color=$cmaps_all      root = long_pointed_ear     unicode = !undefined            cat = people    desc = long pointed ear

@@ -1,6 +1,6 @@
 
 
-emoji 	code = hp						src = symbols/rpg/hp.svg					unicode = !undefined    cat = symbols   root = hp
-emoji 	code = mp						src = symbols/rpg/mp.svg					unicode = !undefined    cat = symbols   root = mp
-emoji 	code = pp						src = symbols/rpg/pp.svg					unicode = !undefined    cat = symbols   root = pp
-emoji 	code = xp						src = symbols/rpg/xp.svg					unicode = !undefined    cat = symbols   root = xp
+emoji 	code = hp						src = symbols/rpg/hp.svg					unicode = !undefined    cat = symbols   desc = hp
+emoji 	code = mp						src = symbols/rpg/mp.svg					unicode = !undefined    cat = symbols   desc = mp
+emoji 	code = pp						src = symbols/rpg/pp.svg					unicode = !undefined    cat = symbols   desc = pp
+emoji 	code = xp						src = symbols/rpg/xp.svg					unicode = !undefined    cat = symbols   desc = xp

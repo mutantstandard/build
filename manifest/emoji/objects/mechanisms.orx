@@ -1,4 +1,8 @@
 
 
-emoji 	code = firecracker						src = objects/mechanisms/firecracker.svg					unicode = #1F9E8    cat = objects   root = firecracker
-emoji 	code = brick						      src = objects/mechanisms/brick.svg					      unicode = #1F9F1    cat = objects   root = brick
+
+emoji 	code = brick			    src = objects/mechanisms/brick.svg				  unicode = #1F9F1    cat = objects   desc = brick
+emoji   code = wrench               src = objects/mechanisms/wrench.svg               unicode = #1f527    cat = objects   desc = wrench
+emoji 	code = firecracker			src = objects/mechanisms/firecracker.svg		  unicode = #1F9E8    cat = objects   desc = firecracker
+emoji   code = bomb                 src = objects/mechanisms/bomb.svg                 unicode = #1F4A3    cat = objects   desc = bomb
+emoji   code = scales               src = objects/mechanisms/scales.svg               unicode = #2696 $vs16    cat = objects   desc = scales

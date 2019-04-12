@@ -1,0 +1,12 @@
+
+define symbols_sound_path symbols/sound
+
+emoji 	code = speech_bubble		    src = $(symbols_sound_path)/speech_bubble.svg		    unicode = #1F4AC                cat = symbols   desc = speech bubble
+emoji 	code = eye_speech_bubble        src = $(symbols_sound_path)/eye_speech_bubble.svg       unicode = #1F441 $zwj #1F5E8    cat = symbols   desc = medium volume speaker
+emoji 	code = thought_bubble		    src = $(symbols_sound_path)/thought_bubble.svg		    unicode = #1F4AD                cat = symbols   desc = loud speaker
+emoji 	code = spiky_speech_bubble		src = $(symbols_sound_path)/spiky_speech_bubble.svg		unicode = #1F5EF $vs16          cat = symbols   desc = muted speaker
+
+emoji 	code = speaker_low_volume		src = $(symbols_sound_path)/speaker_low_volume.svg		unicode = #1F508     cat = symbols   desc = quiet speaker
+emoji 	code = speaker_medium_volume    src = $(symbols_sound_path)/speaker_medium_volume.svg   unicode = #1F509     cat = symbols   desc = medium volume speaker
+emoji 	code = speaker_loud_volume		src = $(symbols_sound_path)/speaker_loud_volume.svg		unicode = #1F50A     cat = symbols   desc = loud speaker
+emoji 	code = speaker_muted		    src = $(symbols_sound_path)/speaker_muted.svg		    unicode = #1F507     cat = symbols   desc = muted speaker

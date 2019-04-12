@@ -2,9 +2,9 @@
 
 
 #aspects
-emoji 	code = spider_web							src = people_animals/aspects/spider_web.svg							unicode = #1F578 $vs16    cat = people  root = spider_web
+emoji 	code = spider_web							src = people_animals/aspects/spider_web.svg							unicode = #1F578 $vs16    cat = people  desc = spider web
 
-emoji   code = bust_in_silhouette		  src = people_animals/aspects/bust_in_silhouette.svg				 unicode = #1F464    cat = people  root = bust_in_silhouette
-emoji   code = 2_busts_in_silhouette	src = people_animals/aspects/2_busts_in_silhouette.svg		 unicode = #1F465    cat = people  root = 2_busts_in_silhouette
-emoji 	code = paw_print							src = people_animals/aspects/paw_print.svg							   unicode = #10169b    cat = people  root = paw_print
-emoji 	code = paws						      	src = people_animals/aspects/paws.svg							         unicode = #1F43E    cat = people  root = paws
+emoji   code = bust_in_silhouette		  src = people_animals/aspects/bust_in_silhouette.svg				 unicode = #1F464    cat = people  desc = bust in silhouette
+emoji   code = 2_busts_in_silhouette	src = people_animals/aspects/2_busts_in_silhouette.svg		 unicode = #1F465    cat = people  desc = 2 busts in silhouette
+emoji 	code = paw_print							src = people_animals/aspects/paw_print.svg							   unicode = #10169b    cat = people  desc = paw print
+emoji 	code = paws						      	src = people_animals/aspects/paws.svg							         unicode = #1F43E    cat = people  desc = 2 paw pints

@@ -1,0 +1,20 @@
+
+
+
+
+# scenes
+# -----------------------------
+
+emoji 	code = aerial_tramway						src = travel_places/transport/aerial_tramway.svg				unicode = #1F6A1    cat = travel_places   desc = aerial tramway
+emoji 	code = mountain_tramway						src = travel_places/transport/mountain_tramway.svg				unicode = #1F6A0    cat = travel_places   desc = mountain tramway
+emoji 	code = suspension_railway					src = travel_places/transport/suspension_railway.svg			unicode = #1F69F    cat = travel_places   desc = suspension railway
+emoji 	code = railway_car							src = travel_places/transport/railway_car.svg					unicode = #1F683    cat = travel_places   desc = railway car
+emoji 	code = tram_car								src = travel_places/transport/tram_car.svg						unicode = #1F68B    cat = travel_places   desc = tram car
+emoji 	code = monorail								src = travel_places/transport/monorail.svg						unicode = #1F69D    cat = travel_places   desc = monorail
+emoji 	code = light_rail							src = travel_places/transport/light_rail.svg					unicode = #1F688    cat = travel_places   desc = light rail
+emoji 	code = high_speed_train						src = travel_places/transport/high_speed_train.svg				unicode = #1F684    cat = travel_places   desc = high speed train
+emoji 	code = bullet_train							src = travel_places/transport/bullet_train.svg					unicode = #1F685    cat = travel_places   desc = bullet train
+emoji 	code = metro								src = travel_places/transport/metro.svg							unicode = #1F687    cat = travel_places   desc = metro
+emoji 	code = train								src = travel_places/transport/train.svg							unicode = #1F686    cat = travel_places   desc = train
+emoji 	code = tram									src = travel_places/transport/tram.svg							unicode = #1F68A    cat = travel_places   desc = tram
+emoji 	code = station								src = travel_places/transport/station.svg						unicode = #1F689    cat = travel_places   desc = railway station

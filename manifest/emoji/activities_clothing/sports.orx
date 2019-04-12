@@ -1,0 +1,11 @@
+
+
+emoji 	code = football			      src = activities_clothing/sports/football.svg			         unicode = #26BD          cat = activities_clothing    desc = football
+emoji 	code = basketball		      src = activities_clothing/sports/basketball.svg	             unicode = #1F3C0         cat = activities_clothing    desc = basketball
+emoji 	code = baseball			      src = activities_clothing/sports/baseball.svg			         unicode = #26BE          cat = activities_clothing    desc = baseball
+emoji 	code = softball		          src = activities_clothing/sports/softball.svg	                 unicode = #1F94E         cat = activities_clothing    desc = softball
+emoji 	code = tennis			      src = activities_clothing/sports/tennis.svg			         unicode = #1F3BE         cat = activities_clothing    desc = tennis ball
+emoji 	code = 8_ball		          src = activities_clothing/sports/8_ball.svg	                 unicode = #1F3B1         cat = activities_clothing    desc = 8 ball
+emoji 	code = volleyball		      src = activities_clothing/sports/volleyball.svg	             unicode = #1F3D0         cat = activities_clothing    desc = volleyball
+emoji 	code = american_football	  src = activities_clothing/sports/american_football.svg	     unicode = #1F3C8         cat = activities_clothing    desc = american football
+emoji 	code = rugby_ball		      src = activities_clothing/sports/rugby_ball.svg	             unicode = #1F3C9         cat = activities_clothing    desc = rugby ball

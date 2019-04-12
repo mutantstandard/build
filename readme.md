@@ -27,6 +27,14 @@ Everything in this repository is licensed under a [Creative Commons Attribution-
 
 If you want some ideas on how to make your own scripts and commands, in the root of this repo there are `.command` executable scripts, all of which are the ones I use in everyday tests and for the final export of each release.
 
+The [Orxporter repo](https://github.com/mutantstandard/orxporter/) has full documentation on how to create your own build commands and understand manifest files.
+
+
+------
+
+## Translating?
+
+Check out the [translation doc](translating.md) for some guidance.
 
 ------
 
