@@ -61,7 +61,7 @@ emoji 	code = raccoon		               	src = $(people_creatures_path)/other_mamm
 emoji 	code = red_panda		             	src = $(people_creatures_path)/other_mammals/red_panda.svg                        unicode = !undefined    cat = people    desc = red panda
 emoji 	code = boar		               	  src = $(people_creatures_path)/other_mammals/boar.svg                            unicode = #1F417        cat = people    desc = boar
 emoji 	code = skunk		               	  src = $(people_creatures_path)/other_mammals/skunk.svg                           unicode = !undefined    cat = people    desc = skunk
-emoji 	code = squirrel		               	src = $(people_creatures_path)/other_mammals/squirrel.svg                          unicode = !undefined        cat = people    desc = squirrel
+emoji 	code = squirrel		               	src = $(people_creatures_path)/other_mammals/squirrel.svg                          unicode = #1F43F        cat = people    desc = squirrel
 emoji 	code = bat		             	src = $(people_creatures_path)/other_mammals/bat.svg                        unicode = #1F987    cat = people    desc = bat
 
 
