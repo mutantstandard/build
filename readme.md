@@ -35,21 +35,24 @@ The [Orxporter repo](https://github.com/mutantstandard/orxporter/) has full docu
 
 *(this is just a basic quick guide for now)*
 
-This requires that you have built images beforehand with orxporter.
+- Download and put orxporter in this folder (as described above), export like this:
+
+```
+./orxporter/orxport.py -m manifest/out.orx -i ../input -q 32x32 -o out/font_sources -F svg,png-32,png-64,png-128 -t 4 -f %f/%u
+```
 
 - Download the latest version of [forc](https://github.com/mutantstandard/orxporter/).
 - Place forc in the `forc` directory.
-- Build images first in orxporter, format them with the `-f %f/%u` flag (so it builds codepoint-named emoji in a flat directories separated by export format)
-- Then build fonts in orxporter with...
+- Then build fonts with forc like this...
 
 
 ```
-./forc -m manifest/font/manifest.json -a manifest/font/aliases.json -i [where you put the orxporter output] -o [whatever output folder you want] -F [formats] --afsc
+./forc/forc.py -m manifest/font/manifest.json -a manifest/font/aliases.json -i out/font_sources -o out/fonts -F [formats] --afsc
 ```
 
-See forc's help (`-h` flag) to see what formats you can export to.
+See forc's help (`-h` flag) to see what formats you can export to. forc also has a readme and documentation.
 
-(the `-afsc` build flag is super-important if you're building a SVG font with Mutant Standard's images, DO NOT REMOVE IT)
+(the `--afsc` build flag is super-important if you're building a SVG font with Mutant Standard's images, DO NOT REMOVE IT)
 
 
 
