@@ -21,13 +21,36 @@ Everything in this repository is licensed under a [Creative Commons Attribution-
 
 ## How to use
 
-- Download the latest version of [Orxporter](https://github.com/mutantstandard/orxporter/).
-- Place Orxporter in the `/orxporter` directory.
+### images
+
+- Download the latest version of [orxporter](https://github.com/mutantstandard/orxporter/).
+- Place orxporter in the `orxporter` directory.
 - Start running export commands from the root directory of this repo.
 
 If you want some ideas on how to make your own scripts and commands, in the root of this repo there are `.command` executable scripts, all of which are the ones I use in everyday tests and for the final export of each release.
 
 The [Orxporter repo](https://github.com/mutantstandard/orxporter/) has full documentation on how to create your own build commands and understand manifest files.
+
+### fonts
+
+*(this is just a basic quick guide for now)*
+
+This requires that you have built images beforehand with orxporter.
+
+- Download the latest version of [forc](https://github.com/mutantstandard/orxporter/).
+- Place forc in the `forc` directory.
+- Build images first in orxporter, format them with the `-f %f/%u` flag (so it builds codepoint-named emoji in a flat directories separated by export format)
+- Then build fonts in orxporter with...
+
+
+```
+./forc -m manifest/font/manifest.json -a manifest/font/aliases.json -i [where you put the orxporter output] -o [whatever output folder you want] -F [formats] --afsc
+```
+
+See forc's help (`-h` flag) to see what formats you can export to.
+
+(the `-afsc` build flag is super-important if you're building a SVG font with Mutant Standard's images, DO NOT REMOVE IT)
+
 
 
 ------
