@@ -6,7 +6,7 @@ This repository contains all of the files required to build a custom Mutant Stan
 
 **These files are for anyone who is techy enough and is interested in seeing what a large Orxporter project looks like, or wants to create their own Mutant Standard packages in a format that's not offered by the website.**
 
-**If you're a regular user, I highly suggest you go to [Mutant Standard's download page](https://mutant.tech/use) and download a package that's best for you.**
+**If you're a regular user, I highly suggest you go to [Mutant Standard's download page](https://mutant.tech/download) and download a package that's best for you.**
 
 **This repository has no warranty and has only been tested in macOS.**
 
