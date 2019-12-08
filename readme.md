@@ -23,7 +23,7 @@ Everything in this repository is licensed under a [Creative Commons Attribution-
 
 ### images
 
-- Download the latest version of [orxporter](https://github.com/mutantstandard/orxporter/).
+- Download the latest version of [orxporter](https://github.com/dzuk-mutant/orxporter/).
 - Place orxporter in the `orxporter` directory.
 - Start running export commands from the root directory of this repo.
 
@@ -35,8 +35,7 @@ The [orxporter repo](https://github.com/mutantstandard/orxporter/) has full docu
 
 *(this is just a basic quick guide for now)*
 
-- Download and put orxporter in this folder (as described above), export like this:
-- **(Use the fork by [Dzuk](https://github.com/dzuk-mutant/orxporter) for now, as the current Mutant Standard repo has an older, incompatible version)**
+- Download the latest version of [orxporter](https://github.com/dzuk-mutant/orxporter/) and put it in this folder (as described above), export like this:
 
 ```
 ./orxporter/orxport.py -m manifest/out.orx -i ../input -q 32x32 -o out/font_sources -F svg,png-32,png-64,png-128 -t 4 -f %f/%u
