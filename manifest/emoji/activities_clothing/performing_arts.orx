@@ -4,5 +4,5 @@
 
 
 
-emoji 	code = studio_microphone			   src = activities_clothing/performing_arts/studio_microphone.svg			   unicode = #1f3a4 $vs16    cat = activities_clothing    desc = studio microphone
-emoji 	code = musical_score		           src = activities_clothing/performing_arts/musical_score.svg	               unicode = #1f4bc          cat = activities_clothing    desc = musical score
+emoji 	short = studio_microphone			   src = activities_clothing/performing_arts/studio_microphone.svg			   code = #1f3a4 $vs16    cat = activities_clothing    desc = studio microphone
+emoji 	short = musical_score		           src = activities_clothing/performing_arts/musical_score.svg	               code = #1F3BC          cat = activities_clothing    desc = musical score

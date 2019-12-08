@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="sunrise" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="M32,2c0,-0.53 -0.211,-1.039 -0.586,-1.414c-0.375,-0.375 -0.884,-0.586 -1.414,-0.586l-28,0c-0.53,0 -1.039,0.211 -1.414,0.586c-0.375,0.375 -0.586,0.884 -0.586,1.414l0,28c0,0.53 0.211,1.039 0.586,1.414c0.375,0.375 0.884,0.586 1.414,0.586l28,0c0.53,0 1.039,-0.211 1.414,-0.586c0.375,-0.375 0.586,-0.884 0.586,-1.414l0,-28Z"/>
+        </g>
+        <g id="emoji">
+            <path d="M30,2l-28,0l0,5l2,2l24,0l2,-2l0,-5Z" style="fill:#2574f4;"/>
+            <path d="M30,7l-6,0c0,0 -1.08,-0.36 -2.324,-0.775c-2.435,-0.811 -4.984,-1.225 -7.551,-1.225c-0.088,0 -0.177,0 -0.266,0c-3.881,0 -7.736,0.626 -11.418,1.853c-0.276,0.092 -0.441,0.147 -0.441,0.147l0,4l4,1l20,0l4,-2l0,-3Z" style="fill:#62b8ff;"/>
+            <path d="M30,10l-6.035,0c-1.972,0 -3.939,0.195 -5.872,0.581c-1.101,0.221 -2.093,0.419 -2.093,0.419l-14,0l0,3l4,2l20,0l4,-1l0,-5Z" style="fill:#f8e6a6;"/>
+            <path d="M30,15l-7,0c0,0 0,0 0,0c-1.315,-0.658 -2.766,-1 -4.236,-1l-16.764,0l0,5l3.334,1l22.125,0l2.541,-1l0,-4Z" style="fill:#efc429;"/>
+            <path d="M30,18l-15.47,0c-2.344,0 -4.68,0.288 -6.955,0.856c-0.347,0.087 -0.575,0.144 -0.575,0.144l-5,0l0,3l2,2l24.413,0l1.587,-2l0,-4Z" style="fill:#ff7d03;"/>
+            <circle cx="16" cy="21" r="5" style="fill:#ffebc6;"/>
+            <rect x="2" y="22" width="28" height="8" style="fill:#165287;"/>
+        </g>
+    </g>
+</svg>

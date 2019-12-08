@@ -2,84 +2,84 @@
 
 # phone devices
 
-emoji 	code = phone										src = objects/tech/phone.svg									unicode =	#1F4F1        cat = objects   desc = phone
-emoji 	code = phone_with_arrow					src = objects/tech/phone_with_arrow.svg				unicode =	#1F4F2        cat = objects   desc = phone with arrow pointing to it
-emoji 	code = phone_vibrate					  src = objects/tech/phone_vibrate.svg				  unicode =	#1F4F3        cat = objects   desc = vibrating phone
-emoji 	code = phone_off					      src = objects/tech/phone_off.svg				      unicode =	#1F4F4        cat = objects   desc = phone turned off
-emoji 	code = watch										src = objects/tech/watch.svg									unicode = #231A $vs16   cat = objects   desc = watch
+emoji 	short = phone										src = objects/tech/phone.svg									code =	#1F4F1        cat = objects   desc = phone
+emoji 	short = phone_with_arrow					src = objects/tech/phone_with_arrow.svg				code =	#1F4F2        cat = objects   desc = phone with arrow pointing to it
+emoji 	short = phone_vibrate					  src = objects/tech/phone_vibrate.svg				  code =	#1F4F3        cat = objects   desc = vibrating phone
+emoji 	short = phone_off					      src = objects/tech/phone_off.svg				      code =	#1F4F4        cat = objects   desc = phone turned off
+emoji 	short = watch										src = objects/tech/watch.svg									code = #231A $vs16   cat = objects   desc = watch
 
 
 
 # computer devices
 
-emoji 	code = laptop						      src = objects/tech/laptop.svg						             unicode = #1F4BB $vs16    cat = objects   desc = laptop
-emoji 	code = computer						    src = objects/tech/computer.svg						           unicode = #1F5A5 $vs16    cat = objects   desc = computer
-emoji 	code = computer_mouse				  src = objects/tech/computer_mouse.svg						     unicode = #1F5B1 $vs16    cat = objects   desc = computer mouse
-emoji 	code = trackball						  src = objects/tech/trackball.svg					           unicode = #1F5B2 $vs16    cat = objects   desc = trackball
-emoji 	code = keyboard						    src = objects/tech/keyboard.svg					             unicode = #2328 $vs16     cat = objects   desc = keyboard
+emoji 	short = laptop						      src = objects/tech/laptop.svg						             code = #1F4BB $vs16    cat = objects   desc = laptop
+emoji 	short = computer						    src = objects/tech/computer.svg						           code = #1F5A5 $vs16    cat = objects   desc = computer
+emoji 	short = computer_mouse				  src = objects/tech/computer_mouse.svg						     code = #1F5B1 $vs16    cat = objects   desc = computer mouse
+emoji 	short = trackball						  src = objects/tech/trackball.svg					           code = #1F5B2 $vs16    cat = objects   desc = trackball
+emoji 	short = keyboard						    src = objects/tech/keyboard.svg					             code = #2328 $vs16     cat = objects   desc = keyboard
 
 
 
 
 # older phone devices
 
-emoji 	code = printer						    src = objects/tech/printer.svg					     unicode = #1F5A8 $vs16    cat = objects   desc = printer
-emoji 	code = fax_machine						src = objects/tech/fax_machine.svg					 unicode = #1F4E0          cat = objects   desc = fax machine
-emoji 	code = landline_phone				  src = objects/tech/landline_phone.svg				 unicode = #260E $vs16     cat = objects   desc = landline phone
-emoji 	code = phone_receiver					src = objects/tech/phone_receiver.svg				 unicode = #1F4DE          cat = objects   desc = landline phone receiver
-emoji 	code = pager								  src = objects/tech/pager.svg							   unicode = #1F4DF $vs16          cat = objects   desc = pager
+emoji 	short = printer						    src = objects/tech/printer.svg					     code = #1F5A8 $vs16    cat = objects   desc = printer
+emoji 	short = fax_machine						src = objects/tech/fax_machine.svg					 code = #1F4E0          cat = objects   desc = fax machine
+emoji 	short = landline_phone				  src = objects/tech/landline_phone.svg				 code = #260E $vs16     cat = objects   desc = landline phone
+emoji 	short = phone_receiver					src = objects/tech/phone_receiver.svg				 code = #1F4DE          cat = objects   desc = landline phone receiver
+emoji 	short = pager								  src = objects/tech/pager.svg							   code = #1F4DF $vs16          cat = objects   desc = pager
 
 
 
 
 # audiovisual experience
 
-emoji 	code = tv												src = objects/tech/tv.svg											unicode = #1F4FA $vs16    cat = objects   desc = TV
-emoji 	code = radio									  src = objects/tech/radio.svg								  unicode = #1F4FB $vs16    cat = objects   desc = radio
-emoji 	code = speaker									src = objects/tech/speaker.svg								unicode = !undefined      cat = objects   desc = speaker
-emoji 	code = projector						src = objects/tech/projector.svg					unicode = #1F4FD $vs16    cat = objects   desc = projector
+emoji 	short = tv												src = objects/tech/tv.svg											code = #1F4FA $vs16    cat = objects   desc = TV
+emoji 	short = radio									  src = objects/tech/radio.svg								  code = #1F4FB $vs16    cat = objects   desc = radio
+emoji 	short = speaker									src = objects/tech/speaker.svg								code = !undefined      cat = objects   desc = speaker
+emoji 	short = projector						src = objects/tech/projector.svg					code = #1F4FD $vs16    cat = objects   desc = projector
 
-emoji 	code = gamepad									src = objects/tech/gamepad.svg								unicode =	#1F3AE $vs16  cat = objects   desc = gamepad
-emoji 	code = arcade_stick							src = objects/tech/arcade_stick.svg						unicode = !undefined    cat = objects   desc = arcade stick
-emoji 	code = joystick									src = objects/tech/joystick.svg								unicode = #1F579        cat = objects   desc = joystick
+emoji 	short = gamepad									src = objects/tech/gamepad.svg								code =	#1F3AE $vs16  cat = objects   desc = gamepad
+emoji 	short = arcade_stick							src = objects/tech/arcade_stick.svg						code = !undefined    cat = objects   desc = arcade stick
+emoji 	short = joystick									src = objects/tech/joystick.svg								code = #1F579        cat = objects   desc = joystick
 
-emoji 	code = vr_headset								src = objects/tech/vr_headset.svg							unicode = !undefined    cat = objects   desc = VR headset
+emoji 	short = vr_headset								src = objects/tech/vr_headset.svg							code = !undefined    cat = objects   desc = VR headset
 
 
 
 
 # audiovisual creation
 
-emoji 	code = camera						      src = objects/tech/camera.svg					          unicode = #1F4F7 $vs16    cat = objects   desc = camera
-emoji 	code = camera_with_flash			src = objects/tech/camera_with_flash.svg		    unicode = #1F4F8          cat = objects   desc = camera with flash
-emoji 	code = camcorder				      src = objects/tech/camcorder.svg				        unicode = #1F4F9 $vs16    cat = objects   desc = camcorder
-emoji 	code = movie_camera					  src = objects/tech/movie_camera.svg				      unicode = #1F3A5          cat = objects   desc = movie camera
-emoji 	code = microphone						  src = objects/tech/microphone.svg						    unicode = #1F399 $vs16    cat = objects   desc = microphone
-emoji 	code = stylus									src = objects/tech/stylus.svg									  unicode = !undefined      cat = objects   desc = stylus
-emoji 	code = level_slider						src = objects/tech/level_slider.svg					    unicode = #1F39A $vs16    cat = objects   desc = level slider
-emoji 	code = control_knobs					src = objects/tech/control_knobs.svg					  unicode = #1F39B $vs16    cat = objects   desc = control knobs
+emoji 	short = camera						      src = objects/tech/camera.svg					          code = #1F4F7 $vs16    cat = objects   desc = camera
+emoji 	short = camera_with_flash			src = objects/tech/camera_with_flash.svg		    code = #1F4F8          cat = objects   desc = camera with flash
+emoji 	short = camcorder				      src = objects/tech/camcorder.svg				        code = #1F4F9 $vs16    cat = objects   desc = camcorder
+emoji 	short = movie_camera					  src = objects/tech/movie_camera.svg				      code = #1F3A5          cat = objects   desc = movie camera
+emoji 	short = microphone						  src = objects/tech/microphone.svg						    code = #1F399 $vs16    cat = objects   desc = microphone
+emoji 	short = stylus									src = objects/tech/stylus.svg									  code = !undefined      cat = objects   desc = stylus
+emoji 	short = level_slider						src = objects/tech/level_slider.svg					    code = #1F39A $vs16    cat = objects   desc = level slider
+emoji 	short = control_knobs					src = objects/tech/control_knobs.svg					  code = #1F39B $vs16    cat = objects   desc = control knobs
 
 
 
 # recording media
 
-emoji 	code = cd												src = objects/tech/cd.svg											unicode =	#1f4bf $vs16  cat = objects   desc = CD
-emoji 	code = dvd											src = objects/tech/dvd.svg										unicode = #1F4C0    cat = objects   desc = DVD
-emoji 	code = minidisc									src = objects/tech/minidisc.svg								unicode = #1F4BD    cat = objects   desc = minidisc
-emoji 	code = floppy_disk							src = objects/tech/floppy_disk.svg						unicode = #1F4BE    cat = objects   desc = floppy disk
-emoji 	code = cassette									src = objects/tech/cassette.svg								unicode = !undefined    cat = objects   desc = cassette
-emoji 	code = vhs											src = objects/tech/vhs.svg										unicode =	#1F4FC  cat = objects   desc = VHS
-emoji 	code = lp												src = objects/tech/lp.svg											unicode = !undefined    cat = objects   desc = LP
-emoji 	code = film_frames						  src = objects/tech/film_frames.svg					  unicode = #1F39E $vs16    cat = objects   desc = film frames
+emoji 	short = cd												src = objects/tech/cd.svg											code =	#1f4bf $vs16  cat = objects   desc = CD
+emoji 	short = dvd											src = objects/tech/dvd.svg										code = #1F4C0    cat = objects   desc = DVD
+emoji 	short = minidisc									src = objects/tech/minidisc.svg								code = #1F4BD    cat = objects   desc = minidisc
+emoji 	short = floppy_disk							src = objects/tech/floppy_disk.svg						code = #1F4BE    cat = objects   desc = floppy disk
+emoji 	short = cassette									src = objects/tech/cassette.svg								code = !undefined    cat = objects   desc = cassette
+emoji 	short = vhs											src = objects/tech/vhs.svg										code =	#1F4FC  cat = objects   desc = VHS
+emoji 	short = lp												src = objects/tech/lp.svg											code = !undefined    cat = objects   desc = LP
+emoji 	short = film_frames						  src = objects/tech/film_frames.svg					  code = #1F39E $vs16    cat = objects   desc = film frames
 
 
-emoji 	code = battery						      src = objects/tech/battery.svg					      unicode = #1F50B    cat = objects   desc = battery
+emoji 	short = battery						      src = objects/tech/battery.svg					      code = #1F50B    cat = objects   desc = battery
 
 # extra
 
-emoji 	code = crt										src = objects/tech/crt.svg								unicode = !undefined    cat = objects   desc = CRT
-emoji 	code = crt_blue_screen				src = objects/tech/crt_blue_screen.svg			unicode = !undefined    cat = objects   desc = CRT showing a blue screen with a white label on the bottom
-emoji 	code = crt_green_lines				src = objects/tech/crt_green_lines.svg			unicode = !undefined    cat = objects   desc = CRT showing green blocks cascading in a vertical pattern
-emoji 	code = crt_noise							src = objects/tech/crt_noise.svg						unicode = !undefined    cat = objects   desc = CRT showing noise
-emoji 	code = crt_prompt							src = objects/tech/crt_prompt.svg						unicode = !undefined    cat = objects   desc = CRT showing a green command prompt
-emoji 	code = crt_test_pattern				src = objects/tech/crt_test_pattern.svg			unicode = !undefined    cat = objects   desc = CRT showing a colour test pattern
+emoji 	short = crt										src = objects/tech/crt.svg								code = !undefined    cat = objects   desc = CRT
+emoji 	short = crt_blue_screen				src = objects/tech/crt_blue_screen.svg			code = !undefined    cat = objects   desc = CRT showing a blue screen with a white label on the bottom
+emoji 	short = crt_green_lines				src = objects/tech/crt_green_lines.svg			code = !undefined    cat = objects   desc = CRT showing green blocks cascading in a vertical pattern
+emoji 	short = crt_noise							src = objects/tech/crt_noise.svg						code = !undefined    cat = objects   desc = CRT showing noise
+emoji 	short = crt_prompt							src = objects/tech/crt_prompt.svg						code = !undefined    cat = objects   desc = CRT showing a green command prompt
+emoji 	short = crt_test_pattern				src = objects/tech/crt_test_pattern.svg			code = !undefined    cat = objects   desc = CRT showing a colour test pattern

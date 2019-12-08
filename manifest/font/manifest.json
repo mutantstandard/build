@@ -2,13 +2,18 @@
     {"unitsPerEm": 2048
     ,"lowestRecPPEM": 16
 
-    ,"width": 2048
-    ,"height": 2048
+    ,"width": 2550
+    ,"height": 2400
 
     ,"xMin": 0
-    ,"xMax": 2048
-    ,"yMin": -470
-    ,"yMax": 1578
+    ,"xMax": 2550
+    ,"yMin": -500
+    ,"yMax": 1900
+
+    ,"horiAscent" : 1900
+    ,"horiDescent" : -500
+    ,"vertAscent" : 1250
+    ,"vertDescent" : -1250
 
     ,"spaceHLength": 1024
     ,"spaceVLength": 1024
@@ -38,30 +43,61 @@
     }
 
 ,"metadata":
-    {"created": "Mon Apr 2 22:02:00 2019"
-    ,"version": "1.001"
+    {"created": ""
+    ,"version": "1.041"
     ,"OS2VendorID": "MTNT"
+    ,"filenames":
+        { "SVGinOT": "MutantStandardEmoji-SVGinOT"
+        , "sbixOT": "MutantStandardEmoji-sbixOT"
+        , "CBx": "MutantStandardEmoji-CBx"
+        , "sbixOTiOS": "MutantStandardEmoji-sbixOT-iOS"
+        }
     ,"nameRecords":
         {"default":
             {"0" : "Copyright (c) 2017-2019 Dzuk (https://noct.zone)"
             ,"2" : "Regular"
-            ,"5" : "(forc 0.0.1, emoji 0.4.0 - 2019-04-07)"
+            ,"5" : "(forc 0.0.2, emoji 0.4.1 - 2019-11-14)"
             ,"8" : "Mutant Standard"
             ,"9" : "Dzuk"
-            ,"10" : "The special emoji in this font have important limitations you should understand before using it. See [URL] for more information."
+            ,"10" : "Keep in mind that non-Unicode Standard emoji in this font will not readable to the visually impaired. Please use them in a careful and considerate way."
             ,"11" : "https://mutant.tech"
             ,"12" : "https://noct.zone"
             ,"13" : "Mutant Standard emoji is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
             ,"14" : "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-            ,"17" : "Regular"
+            ,"16" : "Mutant Standard emoji"
             }
         ,"SVGinOT":
             {"1" : "Mutant Standard emoji (SVGinOT)"
             ,"3" : "Mutant Standard emoji SVGinOT"
-            ,"4" : "Mutant Standard emoji (SVGinOT) 0.4.0"
+            ,"4" : "Mutant Standard emoji (SVGinOT) 0.4.1"
             ,"6" : "MutantStandard-SVGinOT"
-            ,"16" : "Mutant Standard emoji (SVGinOT)"
+            ,"17" : "SVGinOT"
             }
+
+        ,"sbixOT":
+            {"1" : "Mutant Standard emoji (sbixOT)"
+            ,"3" : "Mutant Standard emoji sbixOT"
+            ,"4" : "Mutant Standard emoji (sbixOT) 0.4.1"
+            ,"6" : "MutantStandard-sbixOT"
+            ,"17" : "sbixOT"
+            }
+
+        ,"sbixOTiOS":
+            {"1" : "Mutant Standard emoji (sbixOT)"
+            ,"3" : "Mutant Standard emoji sbixOT"
+            ,"4" : "Mutant Standard emoji (sbixOT) 0.4.1"
+            ,"6" : "MutantStandard-sbixOT"
+            ,"17" : "sbixOT"
+            }
+
+        ,"CBx":
+            {"1" : "Mutant Standard emoji (CBx)"
+            ,"3" : "Mutant Standard emoji CBx"
+            ,"4" : "Mutant Standard emoji (CBx) 0.4.1"
+            ,"6" : "MutantStandard-CBx"
+            ,"17" : "CBx"
+            }
+
         ,"sbixTT":
             {"0" : "Emoji font copyright (c) 2017-2019 Dzuk (https://noct.zone). This is not affiliated with Apple, and no association with Apple is intended."
             ,"1" : "Apple Color Emoji"
@@ -70,34 +106,15 @@
             ,"6" : "AppleColorEmoji"
             ,"10" : "This is not Apple Color Emoji - this is a special version of Mutant Standard emoji that is designed override Apple default emoji in macOS. It is named this way so the override can work. The special emoji in this font have important limitations you should understand before using it. See [URL] for more information."
             ,"16" : "Apple Color Emoji"
+            ,"17" : "Regular"
             }
-        ,"sbixOT":
-            {"1" : "Mutant Standard emoji (sbixOT)"
-            ,"3" : "Mutant Standard emoji sbixOT"
-            ,"4" : "Mutant Standard emoji (sbixOT) 0.4.0"
-            ,"6" : "MutantStandard-sbixOT"
-            ,"16" : "Mutant Standard emoji (sbixOT)"
-            }
+
         ,"sbixTTiOS":
             {"1" : "Mutant Standard emoji (sbixTT)"
             ,"3" : "Mutant Standard emoji sbixTT"
-            ,"4" : "Mutant Standard emoji (sbixTT) 0.4.0"
+            ,"4" : "Mutant Standard emoji (sbixTT) 0.4.1"
             ,"6" : "MutantStandard-sbixTT"
-            ,"16" : "Mutant Standard emoji (sbixTT)"
-            }
-        ,"sbixOTiOS":
-            {"1" : "Mutant Standard emoji (sbixOT)"
-            ,"3" : "Mutant Standard emoji sbixOT"
-            ,"4" : "Mutant Standard emoji (sbixOT) 0.4.0"
-            ,"6" : "MutantStandard-sbixOT"
-            ,"16" : "Mutant Standard emoji (sbixOT)"
-            }
-        ,"CBx":
-            {"1" : "Mutant Standard emoji (CBx)"
-            ,"3" : "Mutant Standard emoji CBx"
-            ,"4" : "Mutant Standard emoji (CBx) 0.4.0"
-            ,"6" : "MutantStandard-CBx"
-            ,"16" : "Mutant Standard emoji (CBx)"
+            ,"17" : "sbixTT iOS"
             }
         }
 
@@ -106,6 +123,7 @@
         ,"PayloadIdentifier": "tech.mutant.iOSconfig"
         ,"PayloadUUID": "453A602D-2790-4AC1-9909-6F2882651D42"
         ,"PayloadVersion": 1
+        ,"PayloadDescription": "Install this to see Mutant Standard emoji on your device! Keep in mind that non-Unicode Standard emoji in this font will not readable to the visually impaired. Please use them in a careful and considerate way."
 
         ,"ContentPayloadName": "Mutant Standard emoji (iOS)"
         ,"ContentPayloadIdentifier": "tech.mutant.emojiFont"

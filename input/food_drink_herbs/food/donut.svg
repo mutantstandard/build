@@ -1,1 +1,38 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"><rect id="donut" x="0" y="0" width="32" height="32" style="fill:none;"/><clipPath id="_clip1"><rect x="0" y="0" width="32" height="32"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><path d="M30,18.5c0,6.347 -6.273,11.5 -14,11.5c-7.727,0 -14,-5.153 -14,-11.5l0,-4c0,-6.347 6.273,-11.5 14,-11.5c7.727,0 14,5.153 14,11.5l0,4Z" style="fill:none;stroke:#000;stroke-width:4px;"/></g><g id="emoji"><path d="M2,14.5l28,0l0,4c0,6.347 -6.273,11.5 -14,11.5c-7.727,0 -14,-5.153 -14,-11.5l0,-4Z" style="fill:#d19747;"/><ellipse cx="16" cy="14.5" rx="14" ry="11.5" style="fill:#daad6d;"/><path d="M16,4c7.055,0 12.783,4.705 12.783,10.5c0,5.795 -5.728,10.5 -12.783,10.5c-7.055,0 -12.783,-4.705 -12.783,-10.5c0,-5.795 5.728,-10.5 12.783,-10.5Zm0,6c3.024,0 5.478,2.016 5.478,4.5c0,2.484 -2.454,4.5 -5.478,4.5c-3.024,0 -5.478,-2.016 -5.478,-4.5c0,-2.484 2.454,-4.5 5.478,-4.5Z" style="fill:#fff;"/><path d="M12.114,15.282c-0.074,-0.251 -0.114,-0.513 -0.114,-0.782c0,-1.813 1.792,-3.286 4,-3.286c2.208,0 4,1.473 4,3.286c0,0.269 -0.04,0.531 -0.114,0.782c-0.993,-0.821 -6.779,-0.821 -7.772,0Z" style="fill:#d19747;"/><path d="M12.114,15.282c0.993,-0.821 2.368,-1.33 3.886,-1.33c1.518,0 2.893,0.509 3.886,1.33c-0.427,1.436 -2.006,2.504 -3.886,2.504c-1.88,0 -3.459,-1.068 -3.886,-2.504Z"/><g id="sprinkles"><path d="M21,10l2,0" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/><path d="M11,10l3,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/><path d="M18,23l3,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/><path d="M20,19.5l2,0" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/><path d="M15,21l-2,1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/><path d="M8,16l-3,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/><path d="M8,13l-1,-2" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/><path d="M25,15l-2,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/><path d="M25,20l0,-2" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/><path d="M12,7l0,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/><path d="M25,12l1,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/><path d="M21,7l-1,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/><path d="M8,19l1,2" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/><path d="M11,20l1,0" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/><path d="M17,7l-2,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/><path d="M9,9l-1,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="donut" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="M30,18.5c0,6.347 -6.273,11.5 -14,11.5c-7.727,0 -14,-5.153 -14,-11.5l0,-4c0,-6.347 6.273,-11.5 14,-11.5c7.727,0 14,5.153 14,11.5l0,4Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+        </g>
+        <g id="emoji">
+            <path d="M2,14.5l28,0l0,4c0,6.347 -6.273,11.5 -14,11.5c-7.727,0 -14,-5.153 -14,-11.5l0,-4Z" style="fill:#d19747;"/>
+            <ellipse cx="16" cy="14.5" rx="14" ry="11.5" style="fill:#daad6d;"/>
+            <path d="M16,4c7.055,0 12.783,4.705 12.783,10.5c0,5.795 -5.728,10.5 -12.783,10.5c-7.055,0 -12.783,-4.705 -12.783,-10.5c0,-5.795 5.728,-10.5 12.783,-10.5Zm0,6c3.024,0 5.478,2.016 5.478,4.5c0,2.484 -2.454,4.5 -5.478,4.5c-3.024,0 -5.478,-2.016 -5.478,-4.5c0,-2.484 2.454,-4.5 5.478,-4.5Z" style="fill:#fff;"/>
+            <path d="M12.114,15.282c-0.074,-0.251 -0.114,-0.513 -0.114,-0.782c0,-1.813 1.792,-3.286 4,-3.286c2.208,0 4,1.473 4,3.286c0,0.269 -0.04,0.531 -0.114,0.782c-0.993,-0.821 -6.779,-0.821 -7.772,0Z" style="fill:#d19747;"/>
+            <path d="M12.114,15.282c0.993,-0.821 2.368,-1.33 3.886,-1.33c1.518,0 2.893,0.509 3.886,1.33c-0.427,1.436 -2.006,2.504 -3.886,2.504c-1.88,0 -3.459,-1.068 -3.886,-2.504Z"/>
+            <g id="sprinkles">
+                <path d="M21,10l2,0" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+                <path d="M11,10l3,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+                <path d="M18,23l3,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+                <path d="M20,19.5l2,0" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+                <path d="M15,21l-2,1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+                <path d="M8,16l-3,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+                <path d="M8,13l-1,-2" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+                <path d="M25,15l-2,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+                <path d="M25,20l0,-2" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+                <path d="M12,7l0,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+                <path d="M25,12l1,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+                <path d="M21,7l-1,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+                <path d="M8,19l1,2" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+                <path d="M11,20l1,0" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+                <path d="M17,7l-2,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+                <path d="M9,9l-1,-1" style="fill:none;stroke:#ec79cc;stroke-width:1.5px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

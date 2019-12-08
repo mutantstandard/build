@@ -1,7 +1,7 @@
 
 
-emoji 	code = 18_plus											src = symbols/restrictive/18_plus.svg												unicode = #1F51E    cat = symbols   desc = 18 plus sign
-emoji 	code = cross												src = symbols/restrictive/cross.svg													unicode = #274C     cat = symbols   desc = cross
-emoji 	code = no_entry											src = symbols/restrictive/no_entry.svg											unicode = #26D4 $vs16     cat = symbols   desc = no entry
-emoji 	code = no														src = symbols/restrictive/no.svg														unicode = #1F6AB    cat = symbols   desc = prohibited sign
-emoji 	code = stop_sign										src = symbols/restrictive/stop_sign.svg											unicode = #1F6D1    cat = symbols   desc = stop sign
+emoji 	short = 18_plus											src = symbols/restrictive/18_plus.svg												code = #1F51E    cat = symbols   desc = 18 plus sign
+emoji 	short = cross												src = symbols/restrictive/cross.svg													code = #274C     cat = symbols   desc = cross
+emoji 	short = no_entry											src = symbols/restrictive/no_entry.svg											code = #26D4 $vs16     cat = symbols   desc = no entry
+emoji 	short = no														src = symbols/restrictive/no.svg														code = #1F6AB    cat = symbols   desc = prohibited sign
+emoji 	short = stop_sign										src = symbols/restrictive/stop_sign.svg											code = #1F6D1    cat = symbols   desc = stop sign

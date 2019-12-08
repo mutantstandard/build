@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="construction_sign" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <rect x="2" y="9" width="28" height="12" style="fill:none;stroke:#000;stroke-width:4px;"/>
+            <rect x="6" y="16" width="2" height="14" style="fill:none;stroke:#000;stroke-width:4px;"/>
+            <rect x="24" y="16" width="2" height="14" style="fill:none;stroke:#000;stroke-width:4px;"/>
+            <path d="M28,5.998c0,-0.795 -0.316,-1.558 -0.878,-2.12c-0.562,-0.562 -1.325,-0.878 -2.12,-0.878l-0.004,0c-0.795,0 -1.558,0.316 -2.12,0.878c-0.562,0.562 -0.878,1.325 -0.878,2.12l0,0.004c0,0.795 0.316,1.558 0.878,2.12c0.562,0.562 1.325,0.878 2.12,0.878l0.004,0c0.795,0 1.558,-0.316 2.12,-0.878c0.562,-0.562 0.878,-1.325 0.878,-2.12l0,-0.004Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+            <path d="M10,5.998c0,-0.795 -0.316,-1.558 -0.878,-2.12c-0.562,-0.562 -1.325,-0.878 -2.12,-0.878l-0.004,0c-0.795,0 -1.558,0.316 -2.12,0.878c-0.562,0.562 -0.878,1.325 -0.878,2.12l0,0.004c0,0.795 0.316,1.558 0.878,2.12c0.562,0.562 1.325,0.878 2.12,0.878l0.004,0c0.795,0 1.558,-0.316 2.12,-0.878c0.562,-0.562 0.878,-1.325 0.878,-2.12l0,-0.004Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+        </g>
+        <g id="emoji">
+            <path d="M8,20l-2,0l0,3l0.6,1l0.767,0l0.633,-1l0,-3Z" style="fill:#727272;"/>
+            <path d="M26,20l-2,0l0,3l0.684,1l0.683,0l0.633,-1l0,-3Z" style="fill:#727272;"/>
+            <rect x="6" y="23" width="2" height="7" style="fill:#999;"/>
+            <rect x="24" y="23" width="2" height="7" style="fill:#999;"/>
+            <rect x="5" y="6" width="4" height="10" style="fill:#fa3;"/>
+            <rect x="23" y="6" width="4" height="10" style="fill:#fa3;"/>
+            <path d="M28,5.998c0,-0.795 -0.316,-1.558 -0.878,-2.12c-0.562,-0.562 -1.325,-0.878 -2.12,-0.878l-0.004,0c-0.795,0 -1.558,0.316 -2.12,0.878c-0.562,0.562 -0.878,1.325 -0.878,2.12l0,0.004c0,0.795 0.316,1.558 0.878,2.12c0.562,0.562 1.325,0.878 2.12,0.878l0.004,0c0.795,0 1.558,-0.316 2.12,-0.878c0.562,-0.562 0.878,-1.325 0.878,-2.12l0,-0.004Z" style="fill:#fa3;"/>
+            <path d="M10,5.998c0,-0.795 -0.316,-1.558 -0.878,-2.12c-0.562,-0.562 -1.325,-0.878 -2.12,-0.878l-0.004,0c-0.795,0 -1.558,0.316 -2.12,0.878c-0.562,0.562 -0.878,1.325 -0.878,2.12l0,0.004c0,0.795 0.316,1.558 0.878,2.12c0.562,0.562 1.325,0.878 2.12,0.878l0.004,0c0.795,0 1.558,-0.316 2.12,-0.878c0.562,-0.562 0.878,-1.325 0.878,-2.12l0,-0.004Z" style="fill:#fa3;"/>
+            <path d="M30,11l-1.505,1l-24.495,0l-2,-1l0,-2l28,0l0,2Z" style="fill:#666;"/>
+            <rect x="2" y="11" width="28" height="10" style="fill:#404040;"/>
+            <clipPath id="_clip2">
+                <rect x="2" y="11" width="28" height="10"/>
+            </clipPath>
+            <g clip-path="url(#_clip2)">
+                <g>
+                    <path d="M21,10l-3,0l-12,12l3,0l12,-12Z" style="fill:#eeba00;"/>
+                    <path d="M33,10l-3,0l-12,12l3,0l12,-12Z" style="fill:#eeba00;"/>
+                    <path d="M9,10l-3,0l-12,12l3,0l12,-12Z" style="fill:#eeba00;"/>
+                    <path d="M27,10l-3,0l-12,12l3,0l12,-12Z" style="fill:#eeba00;"/>
+                    <path d="M3,10l-3,0l-12,12l3,0l12,-12Z" style="fill:#eeba00;"/>
+                    <path d="M39,10l-3,0l-12,12l3,0l12,-12Z" style="fill:#eeba00;"/>
+                    <path d="M15,10l-3,0l-12,12l3,0l12,-12Z" style="fill:#eeba00;"/>
+                </g>
+            </g>
+            <circle cx="25" cy="6" r="2" style="fill:#ffe1b7;"/>
+            <circle cx="7" cy="6" r="2" style="fill:#ffe1b7;"/>
+        </g>
+    </g>
+</svg>

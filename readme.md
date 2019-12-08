@@ -29,13 +29,14 @@ Everything in this repository is licensed under a [Creative Commons Attribution-
 
 If you want some ideas on how to make your own scripts and commands, in the root of this repo there are `.command` executable scripts, all of which are the ones I use in everyday tests and for the final export of each release.
 
-The [Orxporter repo](https://github.com/mutantstandard/orxporter/) has full documentation on how to create your own build commands and understand manifest files.
+The [orxporter repo](https://github.com/mutantstandard/orxporter/) has full documentation on how to create your own build commands and understand manifest files.
 
 ### fonts
 
 *(this is just a basic quick guide for now)*
 
 - Download and put orxporter in this folder (as described above), export like this:
+- **(Use the fork by [Dzuk](https://github.com/dzuk-mutant/orxporter) for now, as the current Mutant Standard repo has an older, incompatible version)**
 
 ```
 ./orxporter/orxport.py -m manifest/out.orx -i ../input -q 32x32 -o out/font_sources -F svg,png-32,png-64,png-128 -t 4 -f %f/%u
@@ -52,7 +53,7 @@ The [Orxporter repo](https://github.com/mutantstandard/orxporter/) has full docu
 
 See forc's help (`-h` flag) to see what formats you can export to. forc also has a readme and documentation.
 
-(the `--afsc` build flag is super-important if you're building a SVG font with Mutant Standard's images, DO NOT REMOVE IT)
+(the `--afsc` build flag is super-important if you're building a SVG font with Mutant Standard's images, **do not remove it**.)
 
 
 

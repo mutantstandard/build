@@ -1,27 +1,27 @@
 
 
-emoji 	code = 0							src = symbols/phone_characters/0.svg							unicode = #30 $vs16 #20E3      cat = symbols   desc = phone key 0
-emoji 	code = 1							src = symbols/phone_characters/1.svg							unicode = #31 $vs16 #20E3      cat = symbols   desc = phone key 1
-emoji 	code = 2							src = symbols/phone_characters/2.svg							unicode = #32 $vs16 #20E3      cat = symbols   desc = phone key 2
-emoji 	code = 3							src = symbols/phone_characters/3.svg							unicode = #33 $vs16 #20E3      cat = symbols   desc = phone key 3
-emoji 	code = 4							src = symbols/phone_characters/4.svg							unicode = #34 $vs16 #20E3      cat = symbols   desc = phone key 4
-emoji 	code = 5							src = symbols/phone_characters/5.svg							unicode = #35 $vs16 #20E3      cat = symbols   desc = phone key 5
-emoji 	code = 6							src = symbols/phone_characters/6.svg							unicode = #36 $vs16 #20E3      cat = symbols   desc = phone key 6
-emoji 	code = 7							src = symbols/phone_characters/7.svg							unicode = #37 $vs16 #20E3      cat = symbols   desc = phone key 7
-emoji 	code = 8							src = symbols/phone_characters/8.svg							unicode = #38 $vs16 #20E3      cat = symbols   desc = phone key 8
-emoji 	code = 9							src = symbols/phone_characters/9.svg							unicode = #39 $vs16 #20E3      cat = symbols   desc = phone key 9
-emoji 	code = 10							src = symbols/phone_characters/10.svg							unicode = #1F51F               cat = symbols   desc = phone key 10
-emoji 	code = asterisk						src = symbols/phone_characters/asterisk.svg						unicode = #2A $vs16 #20E3      cat = symbols   desc = phone key asterisk
-emoji 	code = hash							src = symbols/phone_characters/hash.svg							unicode = #23 $vs16 #20E3      cat = symbols   desc = phone key hash
-emoji 	code = cl							src = symbols/phone_characters/cl.svg							unicode = #1F191               cat = symbols   desc = phone key clear
+emoji 	short = 0							src = symbols/phone_characters/0.svg							code = #30 $vs16 #20E3      cat = symbols   desc = phone key 0
+emoji 	short = 1							src = symbols/phone_characters/1.svg							code = #31 $vs16 #20E3      cat = symbols   desc = phone key 1
+emoji 	short = 2							src = symbols/phone_characters/2.svg							code = #32 $vs16 #20E3      cat = symbols   desc = phone key 2
+emoji 	short = 3							src = symbols/phone_characters/3.svg							code = #33 $vs16 #20E3      cat = symbols   desc = phone key 3
+emoji 	short = 4							src = symbols/phone_characters/4.svg							code = #34 $vs16 #20E3      cat = symbols   desc = phone key 4
+emoji 	short = 5							src = symbols/phone_characters/5.svg							code = #35 $vs16 #20E3      cat = symbols   desc = phone key 5
+emoji 	short = 6							src = symbols/phone_characters/6.svg							code = #36 $vs16 #20E3      cat = symbols   desc = phone key 6
+emoji 	short = 7							src = symbols/phone_characters/7.svg							code = #37 $vs16 #20E3      cat = symbols   desc = phone key 7
+emoji 	short = 8							src = symbols/phone_characters/8.svg							code = #38 $vs16 #20E3      cat = symbols   desc = phone key 8
+emoji 	short = 9							src = symbols/phone_characters/9.svg							code = #39 $vs16 #20E3      cat = symbols   desc = phone key 9
+emoji 	short = 10							src = symbols/phone_characters/10.svg							code = #1F51F               cat = symbols   desc = phone key 10
+emoji 	short = asterisk						src = symbols/phone_characters/asterisk.svg						code = #2A $vs16 #20E3      cat = symbols   desc = phone key asterisk
+emoji 	short = hash							src = symbols/phone_characters/hash.svg							code = #23 $vs16 #20E3      cat = symbols   desc = phone key hash
+emoji 	short = cl							src = symbols/phone_characters/cl.svg							code = #1F191               cat = symbols   desc = phone key clear
 
-emoji 	code = abc							src = symbols/phone_characters/abc.svg							unicode = #1F524               cat = symbols   desc = input latin letters symbol
-emoji 	code = latin_lowercase				src = symbols/phone_characters/latin_lowercase.svg				unicode = #1F521               cat = symbols   desc = input latin lowercase symbol
-emoji 	code = latin_uppercase				src = symbols/phone_characters/latin_uppercase.svg				unicode = #1F520               cat = symbols   desc = input latin uppercase symbol
-emoji 	code = numbers						src = symbols/phone_characters/numbers.svg						unicode = #1F522               cat = symbols   desc = input numbers symbol
-emoji 	code = special_characters			src = symbols/phone_characters/special_characters.svg			unicode = #1F523               cat = symbols   desc = input special characters symbol
+emoji 	short = abc							src = symbols/phone_characters/abc.svg							code = #1F524               cat = symbols   desc = input latin letters symbol
+emoji 	short = latin_lowercase				src = symbols/phone_characters/latin_lowercase.svg				code = #1F521               cat = symbols   desc = input latin lowercase symbol
+emoji 	short = latin_uppercase				src = symbols/phone_characters/latin_uppercase.svg				code = #1F520               cat = symbols   desc = input latin uppercase symbol
+emoji 	short = numbers						src = symbols/phone_characters/numbers.svg						code = #1F522               cat = symbols   desc = input numbers symbol
+emoji 	short = special_characters			src = symbols/phone_characters/special_characters.svg			code = #1F523               cat = symbols   desc = input special characters symbol
 
-emoji 	code = signal						src = symbols/phone_characters/signal.svg						unicode = #1F4F6               cat = symbols   desc = mobile phone signal symbol
+emoji 	short = signal						src = symbols/phone_characters/signal.svg						code = #1F4F6               cat = symbols   desc = mobile phone signal symbol
 
-emoji 	code = low_brightness				src = symbols/phone_characters/low_brightness.svg				unicode = #1F505               cat = symbols   desc = low brightness symbol
-emoji 	code = high_brightness				src = symbols/phone_characters/high_brightness.svg				unicode = #1F506               cat = symbols   desc = high brightness symbol
+emoji 	short = low_brightness				src = symbols/phone_characters/low_brightness.svg				code = #1F505               cat = symbols   desc = low brightness symbol
+emoji 	short = high_brightness				src = symbols/phone_characters/high_brightness.svg				code = #1F506               cat = symbols   desc = high brightness symbol

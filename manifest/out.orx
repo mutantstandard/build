@@ -7,4 +7,4 @@ include colors/cmaps.orx
 include emoji/emoji_all.orx
 
 # license
-license svg = license/svg.xml		png = license/png.json
+license svg = license/svg.xml		exif = license/exif.json

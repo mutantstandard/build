@@ -3,10 +3,10 @@ define symbols_flags_path symbols/flags
 
 
 
-emoji 	code = black_flag				src = $(symbols_flags_path)/black_flag.svg			unicode = #1F3F4    cat = symbols                desc = black flag
-emoji 	code = white_flag				src = $(symbols_flags_path)/white_flag.svg			unicode = #1F3F3    cat = symbols                desc = white flag
-emoji 	code = triangular_flag			src = $(symbols_flags_path)/triangular_flag.svg		unicode = #1F6A9    cat = symbols                desc = red triangular flag
-emoji 	code = finish_flag			    src = $(symbols_flags_path)/finish_flag.svg		    unicode = #1F3C1    cat = symbols                desc = finish flag
-emoji 	code = crossed_flags			src = $(symbols_flags_path)/crossed_flags.svg		unicode = #1F38C    cat = symbols                desc = crossed flags
+emoji 	short = black_flag				src = $(symbols_flags_path)/black_flag.svg			code = #1F3F4    cat = symbols                desc = black flag
+emoji 	short = white_flag				src = $(symbols_flags_path)/white_flag.svg			code = #1F3F3    cat = symbols                desc = white flag
+emoji 	short = triangle_flag			src = $(symbols_flags_path)/triangle_flag.svg		code = #1F6A9    cat = symbols                desc = red triangular flag
+emoji 	short = finish_flag			    src = $(symbols_flags_path)/finish_flag.svg		    code = #1F3C1    cat = symbols                desc = finish flag
+emoji 	short = crossed_flags			src = $(symbols_flags_path)/crossed_flags.svg		code = #1F38C    cat = symbols                desc = crossed flags
 
-emoji 	code = pirate_flag			    src = $(symbols_flags_path)/pirate_flag.svg			unicode = #1F3F4 $zwj #2620 $vs16    cat = symbols       desc = pirate flag
+emoji 	short = pirate_flag			    src = $(symbols_flags_path)/pirate_flag.svg			code = #1F3F4 $zwj #2620 $vs16    cat = symbols       desc = pirate flag

@@ -9,131 +9,132 @@ define smiley_path expressions/smileys
 
 # happy-fun
 # --------------------------------------------
-emoji 	code = smile 									src = $(smiley_path)/happy_fun/smile.svg									unicode = #1F642    cat = expressions   desc = smiling smiley
-emoji 	code = wink 									src = $(smiley_path)/happy_fun/wink.svg										unicode = #1F609    cat = expressions   desc = winking smiley
-emoji 	code = upside_down_smile 			src = $(smiley_path)/happy_fun/upside_down_smile.svg			unicode = #1F643    cat = expressions   desc = upside down smiling smiley
-emoji 	code = halo 									src = $(smiley_path)/happy_fun/halo.svg										unicode = #1F607    cat = expressions   desc = smiley smiling with a halo
-emoji 	code = content								src = $(smiley_path)/happy_fun/content.svg								unicode = #1F60C    cat = expressions   desc = smiley with a content expression
+emoji 	short = smile 									src = $(smiley_path)/happy_fun/smile.svg									code = #1F642    cat = expressions   desc = smiling smiley
+emoji 	short = wink 									src = $(smiley_path)/happy_fun/wink.svg										code = #1F609    cat = expressions   desc = winking smiley
+emoji 	short = upside_down_smile 			src = $(smiley_path)/happy_fun/upside_down_smile.svg			code = #1F643    cat = expressions   desc = upside down smiling smiley
+emoji 	short = halo 									src = $(smiley_path)/happy_fun/halo.svg										code = #1F607    cat = expressions   desc = smiley smiling with a halo
+emoji 	short = content								src = $(smiley_path)/happy_fun/content.svg								code = #1F60C    cat = expressions   desc = smiley with a content expression
 
-emoji 	code = big_smile 							src = $(smiley_path)/happy_fun/big_smile.svg							unicode = #1F600    cat = expressions   desc = smiley with a big smile
-emoji 	code = happy 				          src = $(smiley_path)/happy_fun/happy.svg					        unicode = #1F603    cat = expressions   desc = happy smiley
-emoji 	code = grin 							    src = $(smiley_path)/happy_fun/grin.svg								    unicode = #1F604    cat = expressions   desc = grinning smiley
-emoji 	code = sweat_smile 					  src = $(smiley_path)/happy_fun/sweat_smile.svg						unicode = #1F605    cat = expressions   desc = smiley grinning while sweating
-emoji 	code = grinning 						  src = $(smiley_path)/happy_fun/grinning.svg							  unicode = #1F601    cat = expressions   desc = grinning smiley with teeth showing
+emoji 	short = big_smile 							src = $(smiley_path)/happy_fun/big_smile.svg							code = #1F600    cat = expressions   desc = smiley with a big smile
+emoji 	short = happy 				          src = $(smiley_path)/happy_fun/happy.svg					        code = #1F603    cat = expressions   desc = happy smiley
+emoji 	short = grin 							    src = $(smiley_path)/happy_fun/grin.svg								    code = #1F604    cat = expressions   desc = grinning smiley
+emoji 	short = sweat_smile 					  src = $(smiley_path)/happy_fun/sweat_smile.svg						code = #1F605    cat = expressions   desc = smiley grinning while sweating
+emoji 	short = grinning 						  src = $(smiley_path)/happy_fun/grinning.svg							  code = #1F601    cat = expressions   desc = grinning smiley with teeth showing
 
-emoji 	code = laughing 							src = $(smiley_path)/happy_fun/laughing.svg								unicode = #1F606    cat = expressions   desc = laughing smiley
-emoji 	code = joy 			              src = $(smiley_path)/happy_fun/joy.svg				            unicode = #1F602    cat = expressions   desc = smiley laughing with tears
-emoji 	code = rofl 									src = $(smiley_path)/happy_fun/rofl.svg										unicode = #1F923    cat = expressions   desc = smiley laughing with tears on its side
-emoji 	code = stick_out_tongue 			src = $(smiley_path)/happy_fun/stick_out_tongue.svg				unicode = #1F61B    cat = expressions   desc = smiley sticking out its tongue
-emoji 	code = wink_tongue 						src = $(smiley_path)/happy_fun/wink_tongue.svg						unicode = #1F61C    cat = expressions   desc = winking smiley
-emoji 	code = xd_tongue 							src = $(smiley_path)/happy_fun/xd_tongue.svg							unicode = #1F61D    cat = expressions   desc = smiley sticking out its tongue with closed eyes
-emoji 	code = yum 										src = $(smiley_path)/happy_fun/yum.svg										unicode = #1F60B    cat = expressions   desc = yum
-emoji 	code = money_face 						src = $(smiley_path)/happy_fun/money_face.svg							unicode = #1F911    cat = expressions   desc = money face smiley
-emoji 	code = party_face 						src = $(smiley_path)/happy_fun/party_face.svg							unicode = #1F973    cat = expressions   desc = smiley blowing a party blower while wearing a party hat
+emoji 	short = laughing 							src = $(smiley_path)/happy_fun/laughing.svg								code = #1F606    cat = expressions   desc = laughing smiley
+emoji 	short = joy 			              src = $(smiley_path)/happy_fun/joy.svg				            code = #1F602    cat = expressions   desc = smiley laughing with tears
+emoji 	short = rofl 									src = $(smiley_path)/happy_fun/rofl.svg										code = #1F923    cat = expressions   desc = smiley laughing with tears on its side
+emoji 	short = stick_out_tongue 			src = $(smiley_path)/happy_fun/stick_out_tongue.svg				code = #1F61B    cat = expressions   desc = smiley sticking out its tongue
+emoji 	short = wink_tongue 						src = $(smiley_path)/happy_fun/wink_tongue.svg						code = #1F61C    cat = expressions   desc = winking smiley
+emoji 	short = xd_tongue 							src = $(smiley_path)/happy_fun/xd_tongue.svg							code = #1F61D    cat = expressions   desc = smiley sticking out its tongue with closed eyes
+emoji 	short = yum 										src = $(smiley_path)/happy_fun/yum.svg										code = #1F60B    cat = expressions   desc = yum
+emoji 	short = money_face 						src = $(smiley_path)/happy_fun/money_face.svg							code = #1F911    cat = expressions   desc = money face smiley
+emoji 	short = party_face 						src = $(smiley_path)/happy_fun/party_face.svg							code = #1F973    cat = expressions   desc = smiley blowing a party blower while wearing a party hat
 
 
 # embarrassed-infatuated
 # --------------------------------------------
-emoji 	code = embarrassed 					src = $(smiley_path)/embarrassed_affection/embarrassed.svg				unicode = #1F633    cat = expressions   desc = embarrassed smiley
-emoji 	code = blushing 						src = $(smiley_path)/embarrassed_affection/blushing.svg						unicode = #1F60A    cat = expressions   desc = blushing smiley
-emoji 	code = relaxed 							src = $(smiley_path)/embarrassed_affection/relaxed.svg						unicode = #263A $vs16     cat = expressions   desc = relaxed smiley
-emoji 	code = hug 									src = $(smiley_path)/embarrassed_affection/hug.svg								unicode = #1F917    cat = expressions   desc = smiley reaching arms out to hug
-emoji 	code = kiss 								src = $(smiley_path)/embarrassed_affection/kiss.svg								unicode = #1F617    cat = expressions   desc = kissing smiley
-emoji 	code = wink_kiss 						src = $(smiley_path)/embarrassed_affection/wink_kiss.svg					unicode = #1F618    cat = expressions   desc = smiley that is winking while making a kiss and a heart appears out of the kiss
-emoji 	code = happy_kiss 					src = $(smiley_path)/embarrassed_affection/happy_kiss.svg					unicode = #1F619    cat = expressions   desc = smiley kissing with happy closed eyes
-emoji 	code = blush_kiss 					src = $(smiley_path)/embarrassed_affection/blush_kiss.svg					unicode = #1F61A    cat = expressions   desc = smiley kissing while blushing
-emoji 	code = smile_hearts 				src = $(smiley_path)/embarrassed_affection/smile_hearts.svg				unicode = #1F970    cat = expressions   desc = smiling smiley surrounded by hearts
-emoji 	code = heart_eyes 					src = $(smiley_path)/embarrassed_affection/heart_eyes.svg					unicode = #1F60D    cat = expressions   desc = smiley with hearts in front of its eyes
-emoji 	code = soft 						    src = $(smiley_path)/embarrassed_affection/soft.svg						    unicode = !undefined    cat = expressions   desc = smiley making a ':3' face
-emoji 	code = headpats 						src = $(smiley_path)/embarrassed_affection/headpats.svg						unicode = #101697    cat = expressions   desc = smiley making a relaxed face while being headpatted
+emoji 	short = embarrassed 					src = $(smiley_path)/embarrassed_affection/embarrassed.svg				code = #1F633    cat = expressions   desc = embarrassed smiley
+emoji 	short = blushing 						src = $(smiley_path)/embarrassed_affection/blushing.svg						code = #1F60A    cat = expressions   desc = blushing smiley
+emoji 	short = relaxed 							src = $(smiley_path)/embarrassed_affection/relaxed.svg						code = #263A $vs16     cat = expressions   desc = relaxed smiley
+emoji 	short = hug 									src = $(smiley_path)/embarrassed_affection/hug.svg								code = #1F917    cat = expressions   desc = smiley reaching arms out to hug
+emoji 	short = kiss 								src = $(smiley_path)/embarrassed_affection/kiss.svg								code = #1F617    cat = expressions   desc = kissing smiley
+emoji 	short = wink_kiss 						src = $(smiley_path)/embarrassed_affection/wink_kiss.svg					code = #1F618    cat = expressions   desc = smiley that is winking while making a kiss and a heart appears out of the kiss
+emoji 	short = happy_kiss 					src = $(smiley_path)/embarrassed_affection/happy_kiss.svg					code = #1F619    cat = expressions   desc = smiley kissing with happy closed eyes
+emoji 	short = blush_kiss 					src = $(smiley_path)/embarrassed_affection/blush_kiss.svg					code = #1F61A    cat = expressions   desc = smiley kissing while blushing
+emoji 	short = smile_hearts 				src = $(smiley_path)/embarrassed_affection/smile_hearts.svg				code = #1F970    cat = expressions   desc = smiling smiley surrounded by hearts
+emoji 	short = heart_eyes 					src = $(smiley_path)/embarrassed_affection/heart_eyes.svg					code = #1F60D    cat = expressions   desc = smiley with hearts in front of its eyes
+emoji 	short = soft 						    src = $(smiley_path)/embarrassed_affection/soft.svg						    code = !undefined    cat = expressions   desc = smiley making a ':3' face
+emoji 	short = headpats 						src = $(smiley_path)/embarrassed_affection/headpats.svg						code = #101697    cat = expressions   desc = smiley making a relaxed face while being headpatted
 
 
 
 
 # sarcasm-unamused
 # --------------------------------------------
-emoji 	code = face_without_mouth 					src = $(smiley_path)/sarcasm_unamused/face_without_mouth.svg						unicode = #1F636    cat = expressions   desc = smiley without a mouth
-emoji 	code = straight_face 								src = $(smiley_path)/sarcasm_unamused/straight_face.svg								unicode = #1F610 $vs16    cat = expressions   desc = smiley with a straight face
-emoji 	code = expressionless 							src = $(smiley_path)/sarcasm_unamused/expressionless.svg								unicode = #1F611    cat = expressions   desc = smiley with closed eyes and a straight mouth
-emoji 	code = concern 							        src = $(smiley_path)/sarcasm_unamused/concern.svg								      unicode = !undefined    cat = expressions   desc = smiley with a straight face a bead of sweat
-emoji 	code = disappointed_but_relieved 		src = $(smiley_path)/sarcasm_unamused/disappointed_but_relieved.svg		unicode = #1F625    cat = expressions   desc = smiley making a disappointed face with a bead of sweat
-emoji 	code = pensive 									src = $(smiley_path)/sarcasm_unamused/pensive.svg						unicode = #1F614    cat = expressions   desc = pensive
+emoji 	short = face_without_mouth 					src = $(smiley_path)/sarcasm_unamused/face_without_mouth.svg						code = #1F636    cat = expressions   desc = smiley without a mouth
+emoji 	short = straight_face 								src = $(smiley_path)/sarcasm_unamused/straight_face.svg								code = #1F610 $vs16    cat = expressions   desc = smiley with a straight face
+emoji 	short = expressionless 							src = $(smiley_path)/sarcasm_unamused/expressionless.svg								code = #1F611    cat = expressions   desc = smiley with closed eyes and a straight mouth
+emoji 	short = concern 							        src = $(smiley_path)/sarcasm_unamused/concern.svg								      code = !undefined    cat = expressions   desc = smiley with a straight face a bead of sweat
+emoji 	short = disappointed_but_relieved 		src = $(smiley_path)/sarcasm_unamused/disappointed_but_relieved.svg		code = #1F625    cat = expressions   desc = smiley making a disappointed face with a bead of sweat
+emoji 	short = pensive 									src = $(smiley_path)/sarcasm_unamused/pensive.svg						code = #1F614    cat = expressions   desc = pensive
 
-emoji 	code = unamused 										src = $(smiley_path)/sarcasm_unamused/unamused.svg											unicode = #1F612    cat = expressions   desc = unamused smiley
-emoji 	code = smirk 												src = $(smiley_path)/sarcasm_unamused/smirk.svg												unicode = #1F60F    cat = expressions   desc = smirking smiley
-emoji 	code = thinking 										src = $(smiley_path)/sarcasm_unamused/thinking.svg											unicode = #1F914    cat = expressions   desc = thinking smiley
-emoji 	code = shush 												src = $(smiley_path)/sarcasm_unamused/shush.svg												unicode = #1F92B    cat = expressions   desc = smiley with small open mouth with an index finger pointing upwards next to it, indicating quietness
-emoji 	code = hand_over_mouth 							src = $(smiley_path)/sarcasm_unamused/hand_over_mouth.svg							unicode = #1F92D    cat = expressions   desc = smiley with a hand over its mouth
-emoji 	code = monocle 											src = $(smiley_path)/sarcasm_unamused/monocle.svg											unicode = #1F9D0    cat = expressions   desc = smiley with a monocle
-emoji 	code = raised_eyebrow 							src = $(smiley_path)/sarcasm_unamused/raised_eyebrow.svg								unicode = #1F928    cat = expressions   desc = smiley raising its eyebrow
-emoji 	code = lying_face 									src = $(smiley_path)/sarcasm_unamused/lying_face.svg										unicode = #1F925    cat = expressions   desc = smiley with a long nose and embarassed eyes
-emoji 	code = rolling_eyes 								src = $(smiley_path)/sarcasm_unamused/rolling_eyes.svg									unicode = #1F644    cat = expressions   desc = rolling eyes smiley
-emoji 	code = grimace 											src = $(smiley_path)/sarcasm_unamused/grimace.svg											unicode = #1F62C    cat = expressions   desc = grimacing smiley
+emoji 	short = unamused 										src = $(smiley_path)/sarcasm_unamused/unamused.svg											code = #1F612    cat = expressions   desc = unamused smiley
+emoji 	short = smirk 												src = $(smiley_path)/sarcasm_unamused/smirk.svg												code = #1F60F    cat = expressions   desc = smirking smiley
+emoji 	short = thinking 										src = $(smiley_path)/sarcasm_unamused/thinking.svg											code = #1F914    cat = expressions   desc = thinking smiley
+emoji 	short = shush 												src = $(smiley_path)/sarcasm_unamused/shush.svg												code = #1F92B    cat = expressions   desc = smiley with small open mouth with an index finger pointing upwards next to it, indicating quietness
+emoji 	short = hand_over_mouth 							src = $(smiley_path)/sarcasm_unamused/hand_over_mouth.svg							code = #1F92D    cat = expressions   desc = smiley with a hand over its mouth
+emoji 	short = monocle 											src = $(smiley_path)/sarcasm_unamused/monocle.svg											code = #1F9D0    cat = expressions   desc = smiley with a monocle
+emoji 	short = raised_eyebrow 							src = $(smiley_path)/sarcasm_unamused/raised_eyebrow.svg								code = #1F928    cat = expressions   desc = smiley raising its eyebrow
+emoji 	short = lying_face 									src = $(smiley_path)/sarcasm_unamused/lying_face.svg										code = #1F925    cat = expressions   desc = smiley with a long nose and embarassed eyes
+emoji 	short = rolling_eyes 								src = $(smiley_path)/sarcasm_unamused/rolling_eyes.svg									code = #1F644    cat = expressions   desc = rolling eyes smiley
+emoji 	short = grimace 											src = $(smiley_path)/sarcasm_unamused/grimace.svg											code = #1F62C    cat = expressions   desc = grimacing smiley
 
 
 
 
 # shock-fear-exhaustion
 # --------------------------------------------
-emoji 	code = starry_eyes 									src = $(smiley_path)/shock_fear_exhaustion/starry_eyes.svg					unicode = #1F929    cat = expressions   desc = smiley with starry eyes
-emoji 	code = confused 										src = $(smiley_path)/shock_fear_exhaustion/confused.svg							unicode = #1F635    cat = expressions   desc = confused smiley
-emoji 	code = woozy 										    src = $(smiley_path)/shock_fear_exhaustion/woozy.svg							  unicode = #1F974    cat = expressions   desc = woozy smiley
-emoji 	code = crazy 										    src = $(smiley_path)/shock_fear_exhaustion/crazy.svg						    unicode = #1F92A    cat = expressions   desc = crazy smiley
-emoji 	code = dead 								        src = $(smiley_path)/shock_fear_exhaustion/dead.svg							    unicode = !undefined    cat = expressions   desc = dead smiley
-emoji 	code = mind_blown 									src = $(smiley_path)/shock_fear_exhaustion/mind_blown.svg						unicode = #1F92F    cat = expressions   desc = mind blown smiley
+emoji 	short = starry_eyes 									src = $(smiley_path)/shock_fear_exhaustion/starry_eyes.svg					code = #1F929    cat = expressions   desc = smiley with starry eyes
+emoji 	short = confused 										src = $(smiley_path)/shock_fear_exhaustion/confused.svg							code = #1F635    cat = expressions   desc = confused smiley
+emoji 	short = woozy 										    src = $(smiley_path)/shock_fear_exhaustion/woozy.svg							  code = #1F974    cat = expressions   desc = woozy smiley
+emoji 	short = crazy 										    src = $(smiley_path)/shock_fear_exhaustion/crazy.svg						    code = #1F92A    cat = expressions   desc = crazy smiley
+emoji 	short = dead 								        src = $(smiley_path)/shock_fear_exhaustion/dead.svg							    code = !undefined    cat = expressions   desc = dead smiley
+emoji 	short = mind_blown 									src = $(smiley_path)/shock_fear_exhaustion/mind_blown.svg						code = #1F92F    cat = expressions   desc = mind blown smiley
+emoji 	short = mild_panic 									src = $(smiley_path)/shock_fear_exhaustion/mild_panic.svg						code = !undefined    cat = expressions   desc = mild panic smiley
 
-emoji 	code = open_mouth 									src = $(smiley_path)/shock_fear_exhaustion/open_mouth.svg						unicode = #1F62F    cat = expressions   desc = smiley with an open mouth
-emoji 	code = surprised 										src = $(smiley_path)/shock_fear_exhaustion/surprised.svg						unicode = #1F62E    cat = expressions   desc = surprised smiley
-emoji 	code = worried 											src = $(smiley_path)/shock_fear_exhaustion/worried.svg							unicode = #1F626    cat = expressions   desc = worried smiley
-emoji 	code = shocked 											src = $(smiley_path)/shock_fear_exhaustion/shocked.svg							unicode = #1F627    cat = expressions   desc = shocked smiley
+emoji 	short = open_mouth 									src = $(smiley_path)/shock_fear_exhaustion/open_mouth.svg						code = #1F62F    cat = expressions   desc = smiley with an open mouth
+emoji 	short = surprised 										src = $(smiley_path)/shock_fear_exhaustion/surprised.svg						code = #1F62E    cat = expressions   desc = surprised smiley
+emoji 	short = worried 											src = $(smiley_path)/shock_fear_exhaustion/worried.svg							code = #1F626    cat = expressions   desc = worried smiley
+emoji 	short = shocked 											src = $(smiley_path)/shock_fear_exhaustion/shocked.svg							code = #1F627    cat = expressions   desc = shocked smiley
 
-emoji 	code = scared 											src = $(smiley_path)/shock_fear_exhaustion/scared.svg								unicode = #1F628    cat = expressions   desc = scared smiley
-emoji 	code = cold_sweat 						      src = $(smiley_path)/shock_fear_exhaustion/cold_sweat.svg		        unicode = #1F630    cat = expressions   desc = cold_sweat
-emoji 	code = scream 											src = $(smiley_path)/shock_fear_exhaustion/scream.svg								unicode = #1F631    cat = expressions   desc = scream
-emoji 	code = astonished 									src = $(smiley_path)/shock_fear_exhaustion/astonished.svg						unicode = #1F632    cat = expressions   desc = astonished
-emoji 	code = weary 												src = $(smiley_path)/shock_fear_exhaustion/weary.svg								unicode = #1F629    cat = expressions   desc = weary
-emoji 	code = exhausted 										src = $(smiley_path)/shock_fear_exhaustion/exhausted.svg						unicode = #1F62B    cat = expressions   desc = exhausted
-emoji 	code = pleading 										src = $(smiley_path)/shock_fear_exhaustion/pleading.svg							unicode = #1F97A    cat = expressions   desc = pleading
+emoji 	short = scared 											src = $(smiley_path)/shock_fear_exhaustion/scared.svg								code = #1F628    cat = expressions   desc = scared smiley
+emoji 	short = cold_sweat 						      src = $(smiley_path)/shock_fear_exhaustion/cold_sweat.svg		        code = #1F630    cat = expressions   desc = cold_sweat
+emoji 	short = scream 											src = $(smiley_path)/shock_fear_exhaustion/scream.svg								code = #1F631    cat = expressions   desc = scream
+emoji 	short = astonished 									src = $(smiley_path)/shock_fear_exhaustion/astonished.svg						code = #1F632    cat = expressions   desc = astonished
+emoji 	short = weary 												src = $(smiley_path)/shock_fear_exhaustion/weary.svg								code = #1F629    cat = expressions   desc = weary
+emoji 	short = exhausted 										src = $(smiley_path)/shock_fear_exhaustion/exhausted.svg						code = #1F62B    cat = expressions   desc = exhausted
+emoji 	short = pleading 										src = $(smiley_path)/shock_fear_exhaustion/pleading.svg							code = #1F97A    cat = expressions   desc = pleading
 
-emoji 	code = asleep 											src = $(smiley_path)/shock_fear_exhaustion/asleep.svg								unicode = #1F634    cat = expressions   desc = asleep
-emoji 	code = sleepy 											src = $(smiley_path)/shock_fear_exhaustion/sleepy.svg								unicode = #1F62A    cat = expressions   desc = sleepy
-emoji 	code = zippy_face 									src = $(smiley_path)/shock_fear_exhaustion/zippy_face.svg						unicode = #1F910    cat = expressions   desc = zippy_face
-emoji 	code = drooling 										src = $(smiley_path)/shock_fear_exhaustion/drooling.svg							unicode = #1F924    cat = expressions   desc = drooling
+emoji 	short = asleep 											src = $(smiley_path)/shock_fear_exhaustion/asleep.svg								code = #1F634    cat = expressions   desc = asleep
+emoji 	short = sleepy 											src = $(smiley_path)/shock_fear_exhaustion/sleepy.svg								code = #1F62A    cat = expressions   desc = sleepy
+emoji 	short = zippy_face 									src = $(smiley_path)/shock_fear_exhaustion/zippy_face.svg						code = #1F910    cat = expressions   desc = zippy_face
+emoji 	short = drooling 										src = $(smiley_path)/shock_fear_exhaustion/drooling.svg							code = #1F924    cat = expressions   desc = drooling
 
-emoji 	code = hot 										      src = $(smiley_path)/shock_fear_exhaustion/hot.svg							    unicode = #1F975    cat = expressions   desc = hot
-emoji 	code = cold 				                src = $(smiley_path)/shock_fear_exhaustion/cold.svg				          unicode = #1F976    cat = expressions   desc = cold
+emoji 	short = hot 										      src = $(smiley_path)/shock_fear_exhaustion/hot.svg							    code = #1F975    cat = expressions   desc = hot
+emoji 	short = cold 				                src = $(smiley_path)/shock_fear_exhaustion/cold.svg				          code = #1F976    cat = expressions   desc = cold
 
 
 
 # sick & angry
 # --------------------------------------------
-emoji 	code = bandaged 									src = $(smiley_path)/sick_angry/bandaged.svg								unicode = #1F915    cat = expressions   desc = bandaged
-emoji 	code = medical_mask 				      src = $(smiley_path)/sick_angry/medical_mask.svg		        unicode = #1F637    cat = expressions   desc = medical_mask
-emoji 	code = sneezing 									src = $(smiley_path)/sick_angry/sneezing.svg								unicode = #1F927    cat = expressions   desc = sneezing
-emoji 	code = nauseous 									src = $(smiley_path)/sick_angry/nauseous.svg								unicode = #1F912    cat = expressions   desc = nauseous
-emoji 	code = sick 											src = $(smiley_path)/sick_angry/sick.svg										unicode = #1F922    cat = expressions   desc = sick
-emoji 	code = vomiting 									src = $(smiley_path)/sick_angry/vomiting.svg								unicode = #1F92E    cat = expressions   desc = vomiting
+emoji 	short = bandaged 									src = $(smiley_path)/sick_angry/bandaged.svg								code = #1F915    cat = expressions   desc = bandaged
+emoji 	short = medical_mask 				      src = $(smiley_path)/sick_angry/medical_mask.svg		        code = #1F637    cat = expressions   desc = medical_mask
+emoji 	short = sneezing 									src = $(smiley_path)/sick_angry/sneezing.svg								code = #1F927    cat = expressions   desc = sneezing
+emoji 	short = nauseous 									src = $(smiley_path)/sick_angry/nauseous.svg								code = #1F912    cat = expressions   desc = nauseous
+emoji 	short = sick 											src = $(smiley_path)/sick_angry/sick.svg										code = #1F922    cat = expressions   desc = sick
+emoji 	short = vomiting 									src = $(smiley_path)/sick_angry/vomiting.svg								code = #1F92E    cat = expressions   desc = vomiting
 
-emoji 	code = angry 											src = $(smiley_path)/sick_angry/angry.svg								  unicode = #1F620    cat = expressions   desc = angry
-emoji 	code = very_angry 								src = $(smiley_path)/sick_angry/very_angry.svg						  unicode = #1F621    cat = expressions   desc = very_angry
-emoji 	code = angry_steam 								src = $(smiley_path)/sick_angry/angry_steam.svg					  unicode = #1F624    cat = expressions   desc = angry_steam
-emoji 	code = swearing 									src = $(smiley_path)/sick_angry/swearing.svg						   	unicode = #1F92C    cat = expressions   desc = swearing
+emoji 	short = angry 											src = $(smiley_path)/sick_angry/angry.svg								  code = #1F620    cat = expressions   desc = angry
+emoji 	short = very_angry 								src = $(smiley_path)/sick_angry/very_angry.svg						  code = #1F621    cat = expressions   desc = very_angry
+emoji 	short = angry_steam 								src = $(smiley_path)/sick_angry/angry_steam.svg					  code = #1F624    cat = expressions   desc = angry_steam
+emoji 	short = swearing 									src = $(smiley_path)/sick_angry/swearing.svg						   	code = #1F92C    cat = expressions   desc = swearing
 
 
 
 
 # unhappy
 # --------------------------------------------
-emoji 	code = sweat 							      src = $(smiley_path)/unhappy/sweat.svg					    unicode = #1F613    cat = expressions   desc = sweat
-emoji 	code = unsure 									src = $(smiley_path)/unhappy/unsure.svg							unicode = #1F615    cat = expressions   desc = unsure
-emoji 	code = slight_frown 						src = $(smiley_path)/unhappy/slight_frown.svg				unicode = #1F641    cat = expressions   desc = slight_frown
-emoji 	code = frown 										src = $(smiley_path)/unhappy/frown.svg							unicode = #2639 $vs16     cat = expressions   desc = frown
-emoji 	code = unhappy 									src = $(smiley_path)/unhappy/unhappy.svg						unicode = #1F61F    cat = expressions   desc = unhappy
-emoji 	code = disappointed 						src = $(smiley_path)/unhappy/disappointed.svg				unicode = #1F61E    cat = expressions   desc = disappointed
-emoji 	code = persevering 							src = $(smiley_path)/unhappy/persevering.svg				unicode = #1F623    cat = expressions   desc = persevering
-emoji 	code = confounded 							src = $(smiley_path)/unhappy/confounded.svg					unicode = #1F616    cat = expressions   desc = confounded
-emoji 	code = crying 									src = $(smiley_path)/unhappy/crying.svg							unicode = #1F622    cat = expressions   desc = crying
-emoji 	code = loud_cry 								src = $(smiley_path)/unhappy/loud_cry.svg						unicode = #1F62D    cat = expressions   desc = loud_cry
+emoji 	short = sweat 							      src = $(smiley_path)/unhappy/sweat.svg					    code = #1F613    cat = expressions   desc = sweat
+emoji 	short = unsure 									src = $(smiley_path)/unhappy/unsure.svg							code = #1F615    cat = expressions   desc = unsure
+emoji 	short = slight_frown 						src = $(smiley_path)/unhappy/slight_frown.svg				code = #1F641    cat = expressions   desc = slight_frown
+emoji 	short = frown 										src = $(smiley_path)/unhappy/frown.svg							code = #2639 $vs16     cat = expressions   desc = frown
+emoji 	short = unhappy 									src = $(smiley_path)/unhappy/unhappy.svg						code = #1F61F    cat = expressions   desc = unhappy
+emoji 	short = disappointed 						src = $(smiley_path)/unhappy/disappointed.svg				code = #1F61E    cat = expressions   desc = disappointed
+emoji 	short = persevering 							src = $(smiley_path)/unhappy/persevering.svg				code = #1F623    cat = expressions   desc = persevering
+emoji 	short = confounded 							src = $(smiley_path)/unhappy/confounded.svg					code = #1F616    cat = expressions   desc = confounded
+emoji 	short = crying 									src = $(smiley_path)/unhappy/crying.svg							code = #1F622    cat = expressions   desc = crying
+emoji 	short = loud_cry 								src = $(smiley_path)/unhappy/loud_cry.svg						code = #1F62D    cat = expressions   desc = loud_cry
 
 
 
@@ -141,32 +142,32 @@ emoji 	code = loud_cry 								src = $(smiley_path)/unhappy/loud_cry.svg						un
 
 # non-smiley
 # --------------------------------------------
-emoji 	code = cool_face 							src = $(smiley_path)/other/cool_face.svg							unicode = #1F60E    cat = expressions   desc = cool_face
-emoji 	code = nerd_face 							src = $(smiley_path)/other/nerd_face.svg							unicode = #1F913    cat = expressions   desc = nerd_face
-emoji 	code = cowhand 								src = $(smiley_path)/other/cowhand.svg								unicode = #1F920    cat = expressions   desc = cowhand
-emoji 	code = clown 								  src = $(smiley_path)/other/clown.svg								  unicode = #1F921    cat = expressions   desc = clown
-emoji 	code = shit 									src = $(smiley_path)/other/shit.svg									  unicode = #1F4A9    cat = expressions   desc = shit
-emoji 	code = hot_shit 						  src = $(smiley_path)/other/hot_shit.svg								unicode = #101690    cat = expressions   desc = hot_shit
-emoji 	code = imp_devious 					  src = $(smiley_path)/other/imp_devious.svg				    unicode = #1F608    cat = expressions   desc = imp_devious
-emoji 	code = imp_angry 						  src = $(smiley_path)/other/imp_angry.svg					    unicode = #1F47F    cat = expressions   desc = imp_angry
-emoji 	code = tengu_mask 				    src = $(smiley_path)/other/tengu_mask.svg						  unicode = #1F47A    cat = expressions   desc = tengu_mask
-emoji 	code = robot 								  src = $(smiley_path)/other/robot.svg								  unicode = #1F916    cat = expressions   desc = robot
-emoji 	code = alien_monster 					src = $(smiley_path)/other/alien_monster.svg					unicode = #1F47E    cat = expressions   desc = alien_monster
-emoji 	code = alien 								  src = $(smiley_path)/other/alien.svg								  unicode = #1F47D $vs16    cat = expressions   desc = alien
-emoji 	code = grumpy_block 				  src = $(smiley_path)/other/grumpy_block.svg						unicode = !undefined    cat = expressions   desc = grumpy_block
+emoji 	short = cool_face 							src = $(smiley_path)/other/cool_face.svg							code = #1F60E    cat = expressions   desc = cool_face
+emoji 	short = nerd_face 							src = $(smiley_path)/other/nerd_face.svg							code = #1F913    cat = expressions   desc = nerd_face
+emoji 	short = cowhand 								src = $(smiley_path)/other/cowhand.svg								code = #1F920    cat = expressions   desc = cowhand
+emoji 	short = clown 								  src = $(smiley_path)/other/clown.svg								  code = #1F921    cat = expressions   desc = clown
+emoji 	short = shit 									src = $(smiley_path)/other/shit.svg									  code = #1F4A9    cat = expressions   desc = shit
+emoji 	short = hot_shit 						  src = $(smiley_path)/other/hot_shit.svg								code = #101690    cat = expressions   desc = hot_shit
+emoji 	short = imp_devious 					  src = $(smiley_path)/other/imp_devious.svg				    code = #1F608    cat = expressions   desc = imp_devious
+emoji 	short = imp_angry 						  src = $(smiley_path)/other/imp_angry.svg					    code = #1F47F    cat = expressions   desc = imp_angry
+emoji 	short = tengu_mask 				    src = $(smiley_path)/other/tengu_mask.svg						  code = #1F47A    cat = expressions   desc = tengu_mask
+emoji 	short = robot 								  src = $(smiley_path)/other/robot.svg								  code = #1F916    cat = expressions   desc = robot
+emoji 	short = alien_monster 					src = $(smiley_path)/other/alien_monster.svg					code = #1F47E    cat = expressions   desc = alien_monster
+emoji 	short = alien 								  src = $(smiley_path)/other/alien.svg								  code = #1F47D $vs16    cat = expressions   desc = alien
+emoji 	short = grumpy_block 				  src = $(smiley_path)/other/grumpy_block.svg						code = !undefined    cat = expressions   desc = grumpy_block
 
 
 
 
 # cats
 # --------------------------------------------
-emoji 	code = cat_smile 							   src = $(smiley_path)/cats/cat_smile.svg								  unicode = #1F63A   cat = expressions   desc = cat_smile
-emoji 	code = cat_grin 								 src = $(smiley_path)/cats/cat_grin.svg										unicode = #1F638   cat = expressions   desc = cat_grin
-emoji 	code = cat_joy			             src = $(smiley_path)/cats/cat_joy.svg				            unicode = #1F639   cat = expressions   desc = cat_joy
-emoji 	code = cat_devious 						   src = $(smiley_path)/cats/cat_devious.svg								unicode = #1F63C   cat = expressions   desc = cat_devious
-emoji 	code = cat_pouting 				       src = $(smiley_path)/cats/cat_pouting.svg						    unicode = #1F63E   cat = expressions   desc = cat_pouting
-emoji 	code = cat_crying 						   src = $(smiley_path)/cats/cat_crying.svg					      	unicode = #1F63F   cat = expressions   desc = cat_crying
-emoji 	code = cat_kiss 						     src = $(smiley_path)/cats/cat_kiss.svg						        unicode = #1F63D   cat = expressions   desc = cat_kiss
-emoji 	code = cat_heart_eyes 					 src = $(smiley_path)/cats/cat_heart_eyes.svg						  unicode = #1F63B   cat = expressions   desc = cat_heart_eyes
-emoji 	code = cat_scream 						   src = $(smiley_path)/cats/cat_scream.svg						      unicode = #1F640   cat = expressions   desc = cat_scream
-emoji 	code = blep 						         src = $(smiley_path)/cats/blep.svg						            unicode = #10169C   cat = expressions   desc = blep
+emoji 	short = cat_smile 							   src = $(smiley_path)/cats/cat_smile.svg								  code = #1F63A   cat = expressions   desc = cat_smile
+emoji 	short = cat_grin 								 src = $(smiley_path)/cats/cat_grin.svg										code = #1F638   cat = expressions   desc = cat_grin
+emoji 	short = cat_joy			             src = $(smiley_path)/cats/cat_joy.svg				            code = #1F639   cat = expressions   desc = cat_joy
+emoji 	short = cat_devious 						   src = $(smiley_path)/cats/cat_devious.svg								code = #1F63C   cat = expressions   desc = cat_devious
+emoji 	short = cat_pouting 				       src = $(smiley_path)/cats/cat_pouting.svg						    code = #1F63E   cat = expressions   desc = cat_pouting
+emoji 	short = cat_crying 						   src = $(smiley_path)/cats/cat_crying.svg					      	code = #1F63F   cat = expressions   desc = cat_crying
+emoji 	short = cat_kiss 						     src = $(smiley_path)/cats/cat_kiss.svg						        code = #1F63D   cat = expressions   desc = cat_kiss
+emoji 	short = cat_heart_eyes 					 src = $(smiley_path)/cats/cat_heart_eyes.svg						  code = #1F63B   cat = expressions   desc = cat_heart_eyes
+emoji 	short = cat_scream 						   src = $(smiley_path)/cats/cat_scream.svg						      code = #1F640   cat = expressions   desc = cat_scream
+emoji 	short = blep 						         src = $(smiley_path)/cats/blep.svg						            code = #10169C   cat = expressions   desc = blep

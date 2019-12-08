@@ -1,1 +1,30 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"><rect id="purple_money" x="0" y="0" width="32" height="32" style="fill:none;"/><g id="outline"><rect x="2" y="7" width="28" height="18" style="fill:none;stroke:#000;stroke-width:4px;"/></g><g id="emoji"><rect x="2" y="21" width="28" height="4" style="fill:#6a50da;"/><rect x="2" y="7" width="28" height="15" style="fill:#8c77ea;"/><g><path d="M11,9c0,-0.552 -0.448,-1 -1,-1c-0.552,0 -1,0.448 -1,1c0,0.611 0,1.389 0,2c0,0.552 0.448,1 1,1c0.552,0 1,-0.448 1,-1c0,-0.611 0,-1.389 0,-2Z" style="fill:#6652c0;"/><path d="M8,9c0,-0.552 -0.448,-1 -1,-1c-0.552,0 -1,0.448 -1,1c0,0.611 0,1.389 0,2c0,0.552 0.448,1 1,1c0.552,0 1,-0.448 1,-1c0,-0.611 0,-1.389 0,-2Z" style="fill:#6652c0;"/><path d="M5,9c0,-0.552 -0.448,-1 -1,-1c-0.552,0 -1,0.448 -1,1c0,0.611 0,1.389 0,2c0,0.552 0.448,1 1,1c0.552,0 1,-0.448 1,-1c0,-0.611 0,-1.389 0,-2Z" style="fill:#6652c0;"/><path d="M28,20c0,-1.657 -1.343,-3 -3,-3c-0.965,0 -2.035,0 -3,0c-1.657,0 -3,1.343 -3,3c0,0 0,0 0,0l9,0c0,0 0,0 0,0Z" style="fill:#6652c0;"/><path d="M27,12.498c0,-1.932 -1.566,-3.498 -3.498,-3.498c-0.001,0 -0.003,0 -0.004,0c-1.932,0 -3.498,1.566 -3.498,3.498c0,0.001 0,0.003 0,0.004c0,1.932 1.566,3.498 3.498,3.498c0.001,0 0.003,0 0.004,0c1.932,0 3.498,-1.566 3.498,-3.498c0,-0.001 0,-0.003 0,-0.004Z" style="fill:#6652c0;"/></g><path d="M8.958,13l1.042,0l0,2l1,0l0,1l-1,0l0,1l1,0l0,1l-1,0l0,2l-1,0l0,-2l-1.042,0l-0.729,1.75l-0.458,0l-0.729,-1.75l-1.042,0l0,2l-1,0l0,-2l-1,0l0,-1l1,0l0,-1l-1,0l0,-1l1,0l0,-2l1.042,0l0.833,2l2.25,0l0.833,-2Zm-3.75,3l-0.208,0l0,1l0.625,0l-0.417,-1Zm2.5,0l-1.416,0l0.416,1l0.584,0l0.416,-1Zm1.292,0l-0.208,0l-0.417,1l0.625,0l0,-1Z" style="fill:#fff;"/><rect x="12" y="7" width="8" height="18" style="fill:#ededed;"/><rect x="12" y="22" width="8" height="3" style="fill:#bdbdbd;"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="purple_money" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <g id="outline">
+        <rect x="2" y="7" width="28" height="18" style="fill:none;stroke:#000;stroke-width:4px;"/>
+    </g>
+    <g id="emoji">
+        <rect x="2" y="21" width="28" height="4" style="fill:#8757e5;"/>
+        <rect x="2" y="7" width="28" height="15" style="fill:#a176f1;"/>
+        <g>
+            <path d="M11,9c0,-0.552 -0.448,-1 -1,-1c-0.552,0 -1,0.448 -1,1c0,0.611 0,1.389 0,2c0,0.552 0.448,1 1,1c0.552,0 1,-0.448 1,-1c0,-0.611 0,-1.389 0,-2Z" style="fill:#7d49e3;"/>
+            <path d="M8,9c0,-0.552 -0.448,-1 -1,-1c-0.552,0 -1,0.448 -1,1c0,0.611 0,1.389 0,2c0,0.552 0.448,1 1,1c0.552,0 1,-0.448 1,-1c0,-0.611 0,-1.389 0,-2Z" style="fill:#7d49e3;"/>
+            <path d="M5,9c0,-0.552 -0.448,-1 -1,-1c-0.552,0 -1,0.448 -1,1c0,0.611 0,1.389 0,2c0,0.552 0.448,1 1,1c0.552,0 1,-0.448 1,-1c0,-0.611 0,-1.389 0,-2Z" style="fill:#7d49e3;"/>
+            <path d="M28,20c0,-1.657 -1.343,-3 -3,-3c-0.965,0 -2.035,0 -3,0c-1.657,0 -3,1.343 -3,3c0,0 0,0 0,0l9,0l0,0Z" style="fill:#7d49e3;"/>
+            <path d="M27,12.498c0,-1.932 -1.566,-3.498 -3.498,-3.498l-0.004,0c-1.932,0 -3.498,1.566 -3.498,3.498l0,0.004c0,1.932 1.566,3.498 3.498,3.498l0.004,0c1.932,0 3.498,-1.566 3.498,-3.498l0,-0.004Z" style="fill:#7d49e3;"/>
+        </g>
+        <rect x="3" y="13" width="8" height="7" style="fill:none;"/>
+        <clipPath id="_clip1">
+            <rect x="3" y="13" width="8" height="7"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <path d="M11,16l-8,0l0,-1l8,0l0,1Z" style="fill:#fff;"/>
+            <path d="M11,18l-8,0l0,-1l8,0l0,1Z" style="fill:#fff;"/>
+            <path d="M10,12.335l0,7.665l-1,0l0,-4.5l-1.771,4.25l-0.458,0l-1.771,-4.25l0,4.5l-1,0l0,-7.665l0.706,-0.141l2.294,5.506l2.294,-5.506l0.706,0.141Z" style="fill:#fff;"/>
+        </g>
+        <rect x="12" y="7" width="8" height="18" style="fill:#fff;"/>
+        <rect x="12" y="22" width="8" height="3" style="fill:#d9d9d9;"/>
+    </g>
+</svg>

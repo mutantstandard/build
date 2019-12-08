@@ -1,15 +1,15 @@
 
 
 
-emoji 	code = aries					src = symbols/zodiac/aries.svg					unicode = #2648 $vs16           cat = symbols   desc = aries zodiac symbol
-emoji 	code = taurus					src = symbols/zodiac/taurus.svg					unicode = #2649 $vs16           cat = symbols   desc = taurus zodiac symbol
-emoji 	code = gemini					src = symbols/zodiac/gemini.svg					unicode = #264A $vs16           cat = symbols   desc = gemini zodiac symbol
-emoji 	code = cancer					src = symbols/zodiac/cancer.svg					unicode = #264B $vs16           cat = symbols   desc = cancer zodiac symbol
-emoji 	code = leo						src = symbols/zodiac/leo.svg						unicode = #264C $vs16           cat = symbols   desc = leo zodiac symbol
-emoji 	code = virgo					src = symbols/zodiac/virgo.svg					unicode = #264D $vs16           cat = symbols   desc = virgo zodiac symbol
-emoji 	code = libra					src = symbols/zodiac/libra.svg					unicode = #264E $vs16           cat = symbols   desc = libra zodiac symbol
-emoji 	code = scorpio				src = symbols/zodiac/scorpio.svg				unicode = #264F $vs16           cat = symbols   desc = scorpio zodiac symbol
-emoji 	code = sagittarius		src = symbols/zodiac/sagittarius.svg		unicode = #2650 $vs16           cat = symbols   desc = sagittarius zodiac symbol
-emoji 	code = capricorn			src = symbols/zodiac/capricorn.svg			unicode = #2651 $vs16           cat = symbols   desc = capricorn zodiac symbol
-emoji 	code = aquarius				src = symbols/zodiac/aquarius.svg				unicode = #2652 $vs16           cat = symbols   desc = aquarius zodiac symbol
-emoji 	code = pisces					src = symbols/zodiac/pisces.svg					unicode = #2653 $vs16           cat = symbols   desc = pisces zodiac symbol
+emoji 	short = aries					src = symbols/zodiac/aries.svg					code = #2648 $vs16           cat = symbols   desc = aries zodiac symbol
+emoji 	short = taurus					src = symbols/zodiac/taurus.svg					code = #2649 $vs16           cat = symbols   desc = taurus zodiac symbol
+emoji 	short = gemini					src = symbols/zodiac/gemini.svg					code = #264A $vs16           cat = symbols   desc = gemini zodiac symbol
+emoji 	short = cancer					src = symbols/zodiac/cancer.svg					code = #264B $vs16           cat = symbols   desc = cancer zodiac symbol
+emoji 	short = leo						src = symbols/zodiac/leo.svg						code = #264C $vs16           cat = symbols   desc = leo zodiac symbol
+emoji 	short = virgo					src = symbols/zodiac/virgo.svg					code = #264D $vs16           cat = symbols   desc = virgo zodiac symbol
+emoji 	short = libra					src = symbols/zodiac/libra.svg					code = #264E $vs16           cat = symbols   desc = libra zodiac symbol
+emoji 	short = scorpio				src = symbols/zodiac/scorpio.svg				code = #264F $vs16           cat = symbols   desc = scorpio zodiac symbol
+emoji 	short = sagittarius		src = symbols/zodiac/sagittarius.svg		code = #2650 $vs16           cat = symbols   desc = sagittarius zodiac symbol
+emoji 	short = capricorn			src = symbols/zodiac/capricorn.svg			code = #2651 $vs16           cat = symbols   desc = capricorn zodiac symbol
+emoji 	short = aquarius				src = symbols/zodiac/aquarius.svg				code = #2652 $vs16           cat = symbols   desc = aquarius zodiac symbol
+emoji 	short = pisces					src = symbols/zodiac/pisces.svg					code = #2653 $vs16           cat = symbols   desc = pisces zodiac symbol

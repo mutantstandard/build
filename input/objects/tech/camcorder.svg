@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"><rect id="camcorder" x="0" y="0" width="32" height="32" style="fill:none;"/><clipPath id="_clip1"><rect x="0" y="0" width="32" height="32"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><path d="M23,6l7,0l0,4l-4.171,0c0.111,0.626 0.171,1.299 0.171,2c0,0 0,15 0,15c0,0.552 -0.448,1 -1,1c-3.904,0 -18.096,0 -22,0c-0.552,0 -1,-0.448 -1,-1l0,-15c0,-3.311 1.344,-6 3,-6l18,0Z" style="fill:none;stroke:#000;stroke-width:4px;"/></g><g id="emoji"><rect x="21" y="6" width="9" height="4" style="fill:#333;"/><path d="M5,6l18,0c1.656,0 3,2.689 3,6c0,0 0,15 0,15c0,0.552 -0.448,1 -1,1c-3.541,0 -15.459,0 -19,0c-0.552,0 -1,-0.448 -1,-1l0,-21Z" style="fill:#4d4d4d;"/><path d="M2,12c0,-3.311 1.344,-6 3,-6c1.656,0 3,2.689 3,6l0,15c0,0.265 -0.105,0.52 -0.293,0.707c-0.187,0.188 -0.442,0.293 -0.707,0.293c-1.11,0 -2.89,0 -4,0c-0.265,0 -0.52,-0.105 -0.707,-0.293c-0.188,-0.187 -0.293,-0.442 -0.293,-0.707l0,-15Z" style="fill:#333;"/><ellipse cx="5" cy="12" rx="1.909" ry="3.818" style="fill:#618f77;"/><path d="M24,12c0,-1.657 -1.343,-3 -3,-3c-3.155,0 -7.94,0 -10,0c-0.552,0 -1,0.448 -1,1c0,1.916 0,6.084 0,8c0,0.552 0.448,1 1,1c2.06,0 6.845,0 10,0c1.657,0 3,-1.343 3,-3c0,-1.265 0,-2.735 0,-4Z" style="fill:#333;"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="camcorder" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="M23,6l7,0l0,4l-4.171,0c0.111,0.626 0.171,1.299 0.171,2c0,0 0,15 0,15c0,0.552 -0.448,1 -1,1c-3.904,0 -18.096,0 -22,0c-0.552,0 -1,-0.448 -1,-1l0,-15c0,-3.311 1.344,-6 3,-6l18,0Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+        </g>
+        <g id="emoji">
+            <rect x="21" y="6" width="9" height="4" style="fill:#333;"/>
+            <path d="M5,6l18,0c1.656,0 3,2.689 3,6c0,0 0,15 0,15c0,0.552 -0.448,1 -1,1c-3.541,0 -15.459,0 -19,0c-0.552,0 -1,-0.448 -1,-1l0,-21Z" style="fill:#595959;"/>
+            <path d="M2,12c0,-3.311 1.344,-6 3,-6c1.656,0 3,2.689 3,6l0,15c0,0.265 -0.105,0.52 -0.293,0.707c-0.187,0.188 -0.442,0.293 -0.707,0.293l-4,0c-0.265,0 -0.52,-0.105 -0.707,-0.293c-0.188,-0.187 -0.293,-0.442 -0.293,-0.707l0,-15Z" style="fill:#333;"/>
+            <path d="M6.248,14.889c-0.335,0.579 -0.771,0.929 -1.248,0.929c-1.054,0 -1.909,-1.711 -1.909,-3.818c0,-2.107 0.855,-3.818 1.909,-3.818c0.477,0 0.913,0.35 1.248,0.929c-1.244,0.354 -1.244,5.424 0,5.778Z" style="fill:#618f77;"/>
+            <path d="M6.248,9.111c0.405,0.7 0.661,1.735 0.661,2.889c0,1.154 -0.256,2.189 -0.661,2.889c-1.244,-0.354 -2.157,-1.514 -2.157,-2.889c0,-1.375 0.913,-2.535 2.157,-2.889Z" style="fill:#4f7460;"/>
+            <path d="M24,12c0,-1.657 -1.343,-3 -3,-3c-3.155,0 -7.94,0 -10,0c-0.552,0 -1,0.448 -1,1c0,1.916 0,6.084 0,8c0,0.552 0.448,1 1,1c2.06,0 6.845,0 10,0c1.657,0 3,-1.343 3,-3c0,-1.265 0,-2.735 0,-4Z" style="fill:#333;"/>
+        </g>
+    </g>
+</svg>

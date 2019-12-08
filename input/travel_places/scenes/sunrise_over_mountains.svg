@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="sunrise_over_mountains" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="M32,2c0,-0.53 -0.211,-1.039 -0.586,-1.414c-0.375,-0.375 -0.884,-0.586 -1.414,-0.586l-28,0c-0.53,0 -1.039,0.211 -1.414,0.586c-0.375,0.375 -0.586,0.884 -0.586,1.414l0,28c0,0.53 0.211,1.039 0.586,1.414c0.375,0.375 0.884,0.586 1.414,0.586l28,0c0.53,0 1.039,-0.211 1.414,-0.586c0.375,-0.375 0.586,-0.884 0.586,-1.414l0,-28Z"/>
+        </g>
+        <g id="emoji">
+            <path d="M30,2l-28,0l0,4l2.361,1l22.997,0l2.642,-1l0,-4Z" style="fill:#0b5ee3;"/>
+            <path d="M30,6l-28,0l0,6l2,4l24,-1l2,-3l0,-6Z" style="fill:#299fff;"/>
+            <path d="M30,12l-28,0l2,12l25,-5l1,-4l0,-3Z" style="fill:#efc429;"/>
+            <rect x="4" y="16" width="24" height="9" style="fill:#ff7d03;"/>
+            <rect x="2" y="22" width="28" height="8" style="fill:#165287;"/>
+            <path d="M30,30l0,-15l-4,-2l-11,8l6,9l9,0Z" style="fill:#1d6baf;"/>
+            <path d="M2,30l0,-18l5,5l4.521,-2l10.479,9l8,-3l0,9l-28,0Z" style="fill:#113f68;"/>
+            <path d="M7,17l-2,7l6.521,-9l-4.521,2Z" style="fill:#956b18;"/>
+        </g>
+    </g>
+</svg>

@@ -1,29 +1,30 @@
 
 # modifiers and other service characters
 
-emoji 	code = color_modifier%c 		    src = utils/service/color_modifier.svg			color=$cmaps_cm_glyphs		unicode = %u  cat = utils  root = !undefined  desc = color modifier
+emoji 	short = color_modifier%c 		    src = utils/service/color_modifier.svg			color=$cmaps_cm_glyphs		code = %u  cat = utils  root = !undefined  desc = color modifier
 
-emoji 	code = paw_hand_modifier		    src = utils/service/paw_hand_modifier.svg		unicode = #101650    cat = utils    desc = paw hand modifier
-emoji 	code = claw_hand_modifier 		    src = utils/service/claw_hand_modifier.svg		unicode = #101651    cat = utils    desc = claw hand modifier
+emoji 	short = paw_hand_modifier		    src = utils/service/paw_hand_modifier.svg		code = #101650    cat = utils    desc = paw hand modifier
+emoji 	short = claw_hand_modifier 		    src = utils/service/claw_hand_modifier.svg		code = #101651    cat = utils    desc = claw hand modifier
+emoji 	short = hoof_hand_modifier 		    src = utils/service/hoof_hand_modifier.svg		code = #101652    cat = utils    desc = hoof hand modifier
 
-emoji 	code = undefined_character 		    src = utils/service/undefined_character.svg		unicode = !undefined    cat = utils         desc = undefined character
+emoji 	short = undefined_character 		    src = utils/service/undefined_character.svg		code = !undefined    cat = utils         desc = undefined character
 
 
 # characters used solely for creating ligatures
 
-emoji 	code = 0_char						src = utils/ligatures/0_char.svg				unicode = #30     cat = utils        desc = 0
-emoji 	code = 1_char						src = utils/ligatures/1_char.svg				unicode = #31     cat = utils        desc = 1
-emoji 	code = 2_char						src = utils/ligatures/2_char.svg				unicode = #32     cat = utils        desc = 2
-emoji 	code = 3_char						src = utils/ligatures/3_char.svg				unicode = #33     cat = utils        desc = 3
-emoji 	code = 4_char						src = utils/ligatures/4_char.svg			    unicode = #34     cat = utils        desc = 4
-emoji 	code = 5_char						src = utils/ligatures/5_char.svg				unicode = #35     cat = utils        desc = 5
-emoji 	code = 6_char						src = utils/ligatures/6_char.svg				unicode = #36     cat = utils        desc = 6
-emoji 	code = 7_char						src = utils/ligatures/7_char.svg				unicode = #37     cat = utils        desc = 7
-emoji 	code = 8_char						src = utils/ligatures/8_char.svg				unicode = #38     cat = utils        desc = 8
-emoji 	code = 9_char						src = utils/ligatures/9_char.svg				unicode = #39     cat = utils        desc = 9
-emoji 	code = asterisk_char			    src = utils/ligatures/asterisk_char.svg			unicode = #2A     cat = utils        desc = *
-emoji 	code = hash_char				    src = utils/ligatures/hash_char.svg				unicode = #23     cat = utils        desc = #
-emoji 	code = enclosing_keycap				src = utils/ligatures/enclosing_keycap.svg	    unicode = #20e3   cat = utils        desc = enclosing keycap
+emoji 	short = 0_char						src = utils/ligatures/0_char.svg				code = #30     cat = utils        desc = 0
+emoji 	short = 1_char						src = utils/ligatures/1_char.svg				code = #31     cat = utils        desc = 1
+emoji 	short = 2_char						src = utils/ligatures/2_char.svg				code = #32     cat = utils        desc = 2
+emoji 	short = 3_char						src = utils/ligatures/3_char.svg				code = #33     cat = utils        desc = 3
+emoji 	short = 4_char						src = utils/ligatures/4_char.svg			    code = #34     cat = utils        desc = 4
+emoji 	short = 5_char						src = utils/ligatures/5_char.svg				code = #35     cat = utils        desc = 5
+emoji 	short = 6_char						src = utils/ligatures/6_char.svg				code = #36     cat = utils        desc = 6
+emoji 	short = 7_char						src = utils/ligatures/7_char.svg				code = #37     cat = utils        desc = 7
+emoji 	short = 8_char						src = utils/ligatures/8_char.svg				code = #38     cat = utils        desc = 8
+emoji 	short = 9_char						src = utils/ligatures/9_char.svg				code = #39     cat = utils        desc = 9
+emoji 	short = asterisk_char			    src = utils/ligatures/asterisk_char.svg			code = #2A     cat = utils        desc = *
+emoji 	short = hash_char				    src = utils/ligatures/hash_char.svg				code = #23     cat = utils        desc = #
+emoji 	short = enclosing_keycap				src = utils/ligatures/enclosing_keycap.svg	    code = #20e3   cat = utils        desc = enclosing keycap
 
-emoji 	code = speech_bubble_left		    src = utils/ligatures/speech_bubble_left.svg	unicode = #1f5e8  cat = utils        desc = speech bubble (pointing left)
-emoji 	code = graduation_cap				src = utils/ligatures/graduation_cap.svg	    unicode = #1f393  cat = utils        desc = graduation cap
+emoji 	short = speech_bubble_left		    src = utils/ligatures/speech_bubble_left.svg	code = #1f5e8  cat = utils        desc = speech bubble (pointing left)
+emoji 	short = graduation_cap				src = utils/ligatures/graduation_cap.svg	    code = #1f393  cat = utils        desc = graduation cap

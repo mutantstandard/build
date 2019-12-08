@@ -21,45 +21,46 @@ define hand_path expressions/hands
 # --------------------------------------------------------------------------------------------------------------------------
 
 
-emoji 	code = hand_hmn%c 						src = $(hand_path)/hmn/hand [hmn].svg						color=$cmaps_hmn			unicode = #270b %u                       cat = expressions   morph = hmn   root = hand                 desc = hand
-emoji	code = hand_splayed_hmn%c 				src = $(hand_path)/hmn/hand_splayed [hmn].svg				color=$cmaps_hmn			unicode = #1f590 $vs16 %u                cat = expressions   morph = hmn   root = hand_splayed         desc = hand splayed
-emoji 	code = back_of_hand_hmn%c				src = $(hand_path)/hmn/back_of_hand [hmn].svg				color=$cmaps_hmn			unicode = #1f91a %u                      cat = expressions   morph = hmn   root = back_of_hand         desc = back of hand
+emoji 	short = hand_hmn%c 						src = $(hand_path)/hmn/hand [hmn].svg						color=$cmaps_hmn			code = #270b %u                       cat = expressions   morph = hmn   root = hand                 desc = hand
+emoji	short = hand_splayed_hmn%c 				src = $(hand_path)/hmn/hand_splayed [hmn].svg				color=$cmaps_hmn			code = #1f590 $vs16 %u                cat = expressions   morph = hmn   root = hand_splayed         desc = hand splayed
+emoji 	short = back_of_hand_hmn%c				src = $(hand_path)/hmn/back_of_hand [hmn].svg				color=$cmaps_hmn			code = #1f91a %u                      cat = expressions   morph = hmn   root = back_of_hand         desc = back of hand
 
-emoji 	code = v_hmn%c 							src = $(hand_path)/hmn/v [hmn].svg							color=$cmaps_hmn			unicode = #270c $vs16 %u                 cat = expressions   morph = hmn   root = v                    desc = hand v sign
-emoji 	code = crossed_fingers_hmn%c 			src = $(hand_path)/hmn/crossed_fingers [hmn].svg			color=$cmaps_hmn			unicode = #1f91e %u                      cat = expressions   morph = hmn   root = crossed_fingers      desc = hand with crossed fingers
-emoji 	code = index_finger_hmn%c				src = $(hand_path)/hmn/index_finger [hmn].svg			    color=$cmaps_hmn			unicode = #261d $vs16 %u                 cat = expressions   morph = hmn   root = index_finger         desc = hand with raised index finger
-emoji 	code = metal_hmn%c						src = $(hand_path)/hmn/metal [hmn].svg						color=$cmaps_hmn			unicode = #1f918 %u                      cat = expressions   morph = hmn   root = metal                desc = hand making sign of the horns
-emoji 	code = vulcan_hmn%c	 					src = $(hand_path)/hmn/vulcan [hmn].svg						color=$cmaps_hmn			unicode = #1f596 %u                      cat = expressions   morph = hmn   root = vulcan               desc = vulcan hand sign
+emoji 	short = v_hmn%c 							src = $(hand_path)/hmn/v [hmn].svg							color=$cmaps_hmn			code = #270c $vs16 %u                 cat = expressions   morph = hmn   root = v                    desc = hand v sign
+emoji 	short = crossed_fingers_hmn%c 			src = $(hand_path)/hmn/crossed_fingers [hmn].svg			color=$cmaps_hmn			code = #1f91e %u                      cat = expressions   morph = hmn   root = crossed_fingers      desc = hand with crossed fingers
+emoji 	short = index_finger_hmn%c				src = $(hand_path)/hmn/index_finger [hmn].svg			    color=$cmaps_hmn			code = #261d $vs16 %u                 cat = expressions   morph = hmn   root = index_finger         desc = hand with raised index finger
+emoji 	short = metal_hmn%c						src = $(hand_path)/hmn/metal [hmn].svg						color=$cmaps_hmn			code = #1f918 %u                      cat = expressions   morph = hmn   root = metal                desc = hand making sign of the horns
+emoji 	short = vulcan_hmn%c	 					src = $(hand_path)/hmn/vulcan [hmn].svg						color=$cmaps_hmn			code = #1f596 %u                      cat = expressions   morph = hmn   root = vulcan               desc = vulcan hand sign
 
-emoji	code = thumbs_up_hmn%c					src = $(hand_path)/hmn/thumbs_up [hmn].svg					color=$cmaps_hmn			unicode = #1f44d $vs16 %u                cat = expressions   morph = hmn   root = thumbs_up            desc = hand thumbs up
-emoji	code = thumbs_down_hmn%c				src = $(hand_path)/hmn/thumbs_down [hmn].svg				color=$cmaps_hmn			unicode = #1f44e $vs16 %u                cat = expressions   morph = hmn   root = thumbs_down          desc = hand thumbs down
-emoji	code = call_me_hmn%c					src = $(hand_path)/hmn/call_me [hmn].svg					color=$cmaps_hmn			unicode = #1f919 %u                      cat = expressions   morph = hmn   root = call_me              desc = hand making call me sign
-emoji	code = middle_finger_hmn%c				src = $(hand_path)/hmn/middle_finger [hmn].svg				color=$cmaps_hmn			unicode = #1f595 %u                      cat = expressions   morph = hmn   root = middle_finger        desc = hand with raised middle finger
+emoji	short = thumbs_up_hmn%c					src = $(hand_path)/hmn/thumbs_up [hmn].svg					color=$cmaps_hmn			code = #1f44d $vs16 %u                cat = expressions   morph = hmn   root = thumbs_up            desc = hand thumbs up
+emoji	short = thumbs_down_hmn%c				src = $(hand_path)/hmn/thumbs_down [hmn].svg				color=$cmaps_hmn			code = #1f44e $vs16 %u                cat = expressions   morph = hmn   root = thumbs_down          desc = hand thumbs down
+emoji	short = call_me_hmn%c					src = $(hand_path)/hmn/call_me [hmn].svg					color=$cmaps_hmn			code = #1f919 %u                      cat = expressions   morph = hmn   root = call_me              desc = hand making call me sign
+emoji	short = middle_finger_hmn%c				src = $(hand_path)/hmn/middle_finger [hmn].svg				color=$cmaps_hmn			code = #1f595 %u                      cat = expressions   morph = hmn   root = middle_finger        desc = hand with raised middle finger
 
-emoji	code = point_up_hmn%c					src = $(hand_path)/hmn/point_up [hmn].svg					color=$cmaps_hmn			unicode = #1f446 $vs16 %u                cat = expressions   morph = hmn   root = point_up             desc = hand pointing up
-emoji	code = point_down_hmn%c					src = $(hand_path)/hmn/point_down [hmn].svg					color=$cmaps_hmn			unicode = #1f447 $vs16 %u                cat = expressions   morph = hmn   root = point_down           desc = hand pointing down
-emoji	code = point_left_hmn%c					src = $(hand_path)/hmn/point_left [hmn].svg					color=$cmaps_hmn			unicode = #1f448 $vs16 %u                cat = expressions   morph = hmn   root = point_left           desc = hand pointing left
-emoji	code = point_right_hmn%c				src = $(hand_path)/hmn/point_right [hmn].svg				color=$cmaps_hmn			unicode = #1f449 $vs16 %u                cat = expressions   morph = hmn   root = point_right          desc = hand pointing right
+emoji	short = point_up_hmn%c					src = $(hand_path)/hmn/point_up [hmn].svg					color=$cmaps_hmn			code = #1f446 $vs16 %u                cat = expressions   morph = hmn   root = point_up             desc = hand pointing up
+emoji	short = point_down_hmn%c					src = $(hand_path)/hmn/point_down [hmn].svg					color=$cmaps_hmn			code = #1f447 $vs16 %u                cat = expressions   morph = hmn   root = point_down           desc = hand pointing down
+emoji	short = point_left_hmn%c					src = $(hand_path)/hmn/point_left [hmn].svg					color=$cmaps_hmn			code = #1f448 $vs16 %u                cat = expressions   morph = hmn   root = point_left           desc = hand pointing left
+emoji	short = point_right_hmn%c				src = $(hand_path)/hmn/point_right [hmn].svg				color=$cmaps_hmn			code = #1f449 $vs16 %u                cat = expressions   morph = hmn   root = point_right          desc = hand pointing right
 
-emoji 	code = fist_hmn%c  						src = $(hand_path)/hmn/fist [hmn].svg 						color=$cmaps_hmn			unicode = #270a %u                       cat = expressions   morph = hmn   root = fist                 desc = raised fist
-emoji	code = fist_facing_left_hmn%c			src = $(hand_path)/hmn/fist_facing_left [hmn].svg			color=$cmaps_hmn			unicode = #1f91b %u                      cat = expressions   morph = hmn   root = fist_facing_left     desc = fist facing left
-emoji	code = fist_facing_right_hmn%c	 	    src = $(hand_path)/hmn/fist_facing_right [hmn].svg 		    color=$cmaps_hmn			unicode = #1f91c %u                      cat = expressions   morph = hmn   root = fist_facing_right    desc = fist facing right
-emoji	code = punch_hmn%c					    src = $(hand_path)/hmn/punch [hmn].svg					  	color=$cmaps_hmn			unicode = #1f44a %u                      cat = expressions   morph = hmn   root = punch                desc = fist facing forwards
+emoji 	short = fist_hmn%c  						src = $(hand_path)/hmn/fist [hmn].svg 						color=$cmaps_hmn			code = #270a %u                       cat = expressions   morph = hmn   root = fist                 desc = raised fist
+emoji	short = fist_facing_left_hmn%c			src = $(hand_path)/hmn/fist_facing_left [hmn].svg			color=$cmaps_hmn			code = #1f91b %u                      cat = expressions   morph = hmn   root = fist_facing_left     desc = fist facing left
+emoji	short = fist_facing_right_hmn%c	 	    src = $(hand_path)/hmn/fist_facing_right [hmn].svg 		    color=$cmaps_hmn			code = #1f91c %u                      cat = expressions   morph = hmn   root = fist_facing_right    desc = fist facing right
+emoji	short = punch_hmn%c					    src = $(hand_path)/hmn/punch [hmn].svg					  	color=$cmaps_hmn			code = #1f44a %u                      cat = expressions   morph = hmn   root = punch                desc = fist facing forwards
 
-emoji	code = ok_hand_hmn%c					src = $(hand_path)/hmn/ok_hand [hmn].svg					color=$cmaps_hmn			unicode = #1f44c %u                      cat = expressions   morph = hmn   root = ok_hand              desc = hand making ok sign
+emoji	short = ok_hand_hmn%c					src = $(hand_path)/hmn/ok_hand [hmn].svg					color=$cmaps_hmn			code = #1f44c %u                      cat = expressions   morph = hmn   root = ok_hand              desc = hand making ok sign
 
-emoji	code = wave_hmn%c						src = $(hand_path)/hmn/wave [hmn].svg						color=$cmaps_hmn			unicode = #1f44b %u                      cat = expressions   morph = hmn   root = wave                 desc = waving hand
-emoji	code = clap_hmn%c						src = $(hand_path)/hmn/clap [hmn].svg						color=$cmaps_hmn			unicode = #1f44f %u                      cat = expressions   morph = hmn   root = clap                 desc = clapping hands
-emoji	code = raised_hands_hmn%c				src = $(hand_path)/hmn/raised_hands [hmn].svg				color=$cmaps_hmn			unicode = #1f64c %u                      cat = expressions   morph = hmn   root = raised_hands         desc = raised hands
-emoji	code = open_hands_hmn%c					src = $(hand_path)/hmn/open_hands [hmn].svg					color=$cmaps_hmn			unicode = #1f450 %u                      cat = expressions   morph = hmn   root = open_hands           desc = open hands
+emoji	short = wave_hmn%c						src = $(hand_path)/hmn/wave [hmn].svg						color=$cmaps_hmn			code = #1f44b %u                      cat = expressions   morph = hmn   root = wave                 desc = waving hand
+emoji	short = clap_hmn%c						src = $(hand_path)/hmn/clap [hmn].svg						color=$cmaps_hmn			code = #1f44f %u                      cat = expressions   morph = hmn   root = clap                 desc = clapping hands
+emoji	short = raised_hands_hmn%c				src = $(hand_path)/hmn/raised_hands [hmn].svg				color=$cmaps_hmn			code = #1f64c %u                      cat = expressions   morph = hmn   root = raised_hands         desc = raised hands
+emoji	short = open_hands_hmn%c					src = $(hand_path)/hmn/open_hands [hmn].svg					color=$cmaps_hmn			code = #1f450 %u                      cat = expressions   morph = hmn   root = open_hands           desc = open hands
+emoji   short = palms_up_hmn%c                   src = $(hand_path)/hmn/palms_up [hmn].svg	                color=$cmaps_hmn            code = #1f932 %u                      cat = expressions   morph = hmn   root = palms_up             desc = palms up together
 
-emoji	code = pray_hmn%c						src = $(hand_path)/hmn/pray [hmn].svg						color=$cmaps_hmn			unicode = #1f64f %u                      cat = expressions   morph = hmn   root = pray                 desc = praying hands
-emoji 	code = writing_hand_hmn%c 				src = $(hand_path)/hmn/writing_hand [hmn].svg				color=$cmaps_hmn			unicode = #270d $vs16 %u                 cat = expressions   morph = hmn   root = writing_hand         desc = writing hand
-emoji	code = muscle_hmn%c					    src = $(hand_path)/hmn/muscle [hmn].svg						color=$cmaps_hmn			unicode = #1f4aa %u                      cat = expressions   morph = hmn   root = muscle               desc = muscle flex gesture
-emoji	code = handshake_hmn%c				    src = $(hand_path)/hmn/handshake [hmn].svg				    color=$cmaps_hmn			unicode = #1f91d %u                      cat = expressions   morph = hmn   root = handshake            desc = handshake
+emoji	short = pray_hmn%c						src = $(hand_path)/hmn/pray [hmn].svg						color=$cmaps_hmn			code = #1f64f %u                      cat = expressions   morph = hmn   root = pray                 desc = praying hands
+emoji 	short = writing_hand_hmn%c 				src = $(hand_path)/hmn/writing_hand [hmn].svg				color=$cmaps_hmn			code = #270d $vs16 %u                 cat = expressions   morph = hmn   root = writing_hand         desc = writing hand
+emoji	short = muscle_hmn%c					    src = $(hand_path)/hmn/muscle [hmn].svg						color=$cmaps_hmn			code = #1f4aa %u                      cat = expressions   morph = hmn   root = muscle               desc = muscle flex gesture
+emoji	short = handshake_hmn%c				    src = $(hand_path)/hmn/handshake [hmn].svg				    color=$cmaps_hmn			code = #1f91d %u                      cat = expressions   morph = hmn   root = handshake            desc = handshake
 
-emoji	code = selfie_hmn%c					    src = $(hand_path)/hmn/selfie [hmn].svg						color=$cmaps_hmn			unicode = #1f933 %u                      cat = expressions   morph = hmn   root = selfie               desc = hand making a selfie
-emoji	code = nail_varnish_hmn%c			    src = $(hand_path)/hmn/nail_varnish [hmn].svg				color=$cmaps_hmn			unicode = #1f485 %u                      cat = expressions   morph = hmn   root = nail_varnish         desc = hand painted with nail varnish
+emoji	short = selfie_hmn%c					    src = $(hand_path)/hmn/selfie [hmn].svg						color=$cmaps_hmn			code = #1f933 %u                      cat = expressions   morph = hmn   root = selfie               desc = hand making a selfie
+emoji	short = nail_varnish_hmn%c			    src = $(hand_path)/hmn/nail_varnish [hmn].svg				color=$cmaps_hmn			code = #1f485 %u                      cat = expressions   morph = hmn   root = nail_varnish         desc = hand painted with nail varnish
 
 
 
@@ -68,45 +69,46 @@ emoji	code = nail_varnish_hmn%c			    src = $(hand_path)/hmn/nail_varnish [hmn].
 # --------------------------------------------------------------------------------------------------------------------------
 
 
-emoji 	code = hand_paw%c 						src = $(hand_path)/paw/hand [paw].svg						color=$cmaps_fur			unicode = #270b #101650 %u               cat = expressions   morph = paw     root = hand                  desc = paw hand
-#emoji	code = hand_splayed_paw%c 				src = $(hand_path)/paw/hand_splayed [paw].svg			    color=$cmaps_fur			unicode = #1f590 $vs16 #101650 %u        cat = expressions   morph = paw     root = hand_splayed          desc = paw hand splayed
-emoji 	code = back_of_hand_paw%c				src = $(hand_path)/paw/back_of_hand [paw].svg				color=$cmaps_fur			unicode = #1f91a #101650 %u              cat = expressions   morph = paw     root = back_of_hand          desc = back of paw hand
+emoji 	short = hand_paw%c 						src = $(hand_path)/paw/hand [paw].svg						color=$cmaps_fur			code = #270b #101650 %u               cat = expressions   morph = paw     root = hand                  desc = paw hand
+#emoji	short = hand_splayed_paw%c 				src = $(hand_path)/paw/hand_splayed [paw].svg			    color=$cmaps_fur			code = #1f590 $vs16 #101650 %u        cat = expressions   morph = paw     root = hand_splayed          desc = paw hand splayed
+emoji 	short = back_of_hand_paw%c				src = $(hand_path)/paw/back_of_hand [paw].svg				color=$cmaps_fur			code = #1f91a #101650 %u              cat = expressions   morph = paw     root = back_of_hand          desc = back of paw hand
 
-emoji 	code = v_paw%c 							src = $(hand_path)/paw/v [paw].svg							color=$cmaps_fur			unicode = #270c $vs16 #101650 %u         cat = expressions   morph = paw     root = v                     desc = paw hand v sign
-emoji 	code = crossed_fingers_paw%c 			src = $(hand_path)/paw/crossed_fingers [paw].svg			color=$cmaps_fur			unicode = #1f91e #101650 %u              cat = expressions   morph = paw     root = crossed_fingers       desc = paw hand with crossed fingers
-emoji 	code = index_finger_paw%c				src = $(hand_path)/paw/index_finger [paw].svg				color=$cmaps_fur			unicode = #261d $vs16 #101650 %u         cat = expressions   morph = paw     root = index_finger          desc = paw hand with raised index finger
-emoji 	code = metal_paw%c						src = $(hand_path)/paw/metal [paw].svg						color=$cmaps_fur			unicode = #1f918 #101650 %u              cat = expressions   morph = paw     root = metal                 desc = paw hand making sign of the horns
-emoji 	code = vulcan_paw%c	 					src = $(hand_path)/paw/vulcan [paw].svg						color=$cmaps_fur			unicode = #1f596 #101650 %u              cat = expressions   morph = paw     root = vulcan                desc = vulcan paw hand sign
+emoji 	short = v_paw%c 							src = $(hand_path)/paw/v [paw].svg							color=$cmaps_fur			code = #270c $vs16 #101650 %u         cat = expressions   morph = paw     root = v                     desc = paw hand v sign
+emoji 	short = crossed_fingers_paw%c 			src = $(hand_path)/paw/crossed_fingers [paw].svg			color=$cmaps_fur			code = #1f91e #101650 %u              cat = expressions   morph = paw     root = crossed_fingers       desc = paw hand with crossed fingers
+emoji 	short = index_finger_paw%c				src = $(hand_path)/paw/index_finger [paw].svg				color=$cmaps_fur			code = #261d $vs16 #101650 %u         cat = expressions   morph = paw     root = index_finger          desc = paw hand with raised index finger
+emoji 	short = metal_paw%c						src = $(hand_path)/paw/metal [paw].svg						color=$cmaps_fur			code = #1f918 #101650 %u              cat = expressions   morph = paw     root = metal                 desc = paw hand making sign of the horns
+emoji 	short = vulcan_paw%c	 					src = $(hand_path)/paw/vulcan [paw].svg						color=$cmaps_fur			code = #1f596 #101650 %u              cat = expressions   morph = paw     root = vulcan                desc = vulcan paw hand sign
 
-emoji	code = thumbs_up_paw%c					src = $(hand_path)/paw/thumbs_up [paw].svg					color=$cmaps_fur			unicode = #1f44d $vs16 #101650 %u        cat = expressions   morph = paw     root = thumbs_up             desc = paw hand thumbs up
-emoji	code = thumbs_down_paw%c				src = $(hand_path)/paw/thumbs_down [paw].svg				color=$cmaps_fur			unicode = #1f44e $vs16 #101650 %u        cat = expressions   morph = paw     root = thumbs_down           desc = paw hand thumbs down
-emoji	code = call_me_paw%c					src = $(hand_path)/paw/call_me [paw].svg					color=$cmaps_fur			unicode = #1f919 #101650 %u              cat = expressions   morph = paw     root = call_me               desc = paw hand making call me sign
-emoji	code = middle_finger_paw%c				src = $(hand_path)/paw/middle_finger [paw].svg				color=$cmaps_fur			unicode = #1f595 #101650 %u              cat = expressions   morph = paw     root = middle_finger         desc = paw hand with raised middle finger
+emoji	short = thumbs_up_paw%c					src = $(hand_path)/paw/thumbs_up [paw].svg					color=$cmaps_fur			code = #1f44d $vs16 #101650 %u        cat = expressions   morph = paw     root = thumbs_up             desc = paw hand thumbs up
+emoji	short = thumbs_down_paw%c				src = $(hand_path)/paw/thumbs_down [paw].svg				color=$cmaps_fur			code = #1f44e $vs16 #101650 %u        cat = expressions   morph = paw     root = thumbs_down           desc = paw hand thumbs down
+emoji	short = call_me_paw%c					src = $(hand_path)/paw/call_me [paw].svg					color=$cmaps_fur			code = #1f919 #101650 %u              cat = expressions   morph = paw     root = call_me               desc = paw hand making call me sign
+emoji	short = middle_finger_paw%c				src = $(hand_path)/paw/middle_finger [paw].svg				color=$cmaps_fur			code = #1f595 #101650 %u              cat = expressions   morph = paw     root = middle_finger         desc = paw hand with raised middle finger
 
-emoji	code = point_up_paw%c					src = $(hand_path)/paw/point_up [paw].svg					color=$cmaps_fur			unicode = #1f446 $vs16 #101650 %u        cat = expressions   morph = paw     root = point_up              desc = paw hand pointing up
-emoji	code = point_down_paw%c					src = $(hand_path)/paw/point_down [paw].svg					color=$cmaps_fur			unicode = #1f447 $vs16 #101650 %u        cat = expressions   morph = paw     root = point_down            desc = paw hand pointing down
-emoji	code = point_left_paw%c					src = $(hand_path)/paw/point_left [paw].svg					color=$cmaps_fur			unicode = #1f448 $vs16 #101650 %u        cat = expressions   morph = paw     root = point_left            desc = paw hand pointing left
-emoji	code = point_right_paw%c				src = $(hand_path)/paw/point_right [paw].svg				color=$cmaps_fur			unicode = #1f449 $vs16 #101650 %u        cat = expressions   morph = paw     root = point_right           desc = paw hand pointing right
+emoji	short = point_up_paw%c					src = $(hand_path)/paw/point_up [paw].svg					color=$cmaps_fur			code = #1f446 $vs16 #101650 %u        cat = expressions   morph = paw     root = point_up              desc = paw hand pointing up
+emoji	short = point_down_paw%c					src = $(hand_path)/paw/point_down [paw].svg					color=$cmaps_fur			code = #1f447 $vs16 #101650 %u        cat = expressions   morph = paw     root = point_down            desc = paw hand pointing down
+emoji	short = point_left_paw%c					src = $(hand_path)/paw/point_left [paw].svg					color=$cmaps_fur			code = #1f448 $vs16 #101650 %u        cat = expressions   morph = paw     root = point_left            desc = paw hand pointing left
+emoji	short = point_right_paw%c				src = $(hand_path)/paw/point_right [paw].svg				color=$cmaps_fur			code = #1f449 $vs16 #101650 %u        cat = expressions   morph = paw     root = point_right           desc = paw hand pointing right
 
-emoji	code = fist_paw%c  						src = $(hand_path)/paw/fist [paw].svg 						color=$cmaps_fur			unicode = #270a #101650 %u               cat = expressions   morph = paw     root = fist                  desc = raised fist paw
-emoji	code = fist_facing_left_paw%c			src = $(hand_path)/paw/fist_facing_left [paw].svg			color=$cmaps_fur			unicode = #1f91b #101650 %u              cat = expressions   morph = paw     root = fist_facing_left      desc = paw fist facing left
-emoji	code = fist_facing_right_paw%c	 	    src = $(hand_path)/paw/fist_facing_right [paw].svg 		    color=$cmaps_fur			unicode = #1f91c #101650 %u              cat = expressions   morph = paw     root = fist_facing_right     desc = paw fist facing right
-emoji	code = punch_paw%c						src = $(hand_path)/paw/punch [paw].svg						color=$cmaps_fur			unicode = #1f44a #101650 %u              cat = expressions   morph = paw     root = punch                 desc = paw fist facing forwards
+emoji	short = fist_paw%c  						src = $(hand_path)/paw/fist [paw].svg 						color=$cmaps_fur			code = #270a #101650 %u               cat = expressions   morph = paw     root = fist                  desc = raised fist paw
+emoji	short = fist_facing_left_paw%c			src = $(hand_path)/paw/fist_facing_left [paw].svg			color=$cmaps_fur			code = #1f91b #101650 %u              cat = expressions   morph = paw     root = fist_facing_left      desc = paw fist facing left
+emoji	short = fist_facing_right_paw%c	 	    src = $(hand_path)/paw/fist_facing_right [paw].svg 		    color=$cmaps_fur			code = #1f91c #101650 %u              cat = expressions   morph = paw     root = fist_facing_right     desc = paw fist facing right
+emoji	short = punch_paw%c						src = $(hand_path)/paw/punch [paw].svg						color=$cmaps_fur			code = #1f44a #101650 %u              cat = expressions   morph = paw     root = punch                 desc = paw fist facing forwards
 
-emoji	code = ok_hand_paw%c					src = $(hand_path)/paw/ok_hand [paw].svg					color=$cmaps_fur			unicode = #1f44c #101650 %u              cat = expressions   morph = paw     root = ok_hand               desc = paw hand making ok sign
+emoji	short = ok_hand_paw%c					src = $(hand_path)/paw/ok_hand [paw].svg					color=$cmaps_fur			code = #1f44c #101650 %u              cat = expressions   morph = paw     root = ok_hand               desc = paw hand making ok sign
 
-emoji	code = wave_paw%c						src = $(hand_path)/paw/wave [paw].svg						color=$cmaps_fur			unicode = #1f44b #101650 %u              cat = expressions   morph = paw     root = wave                  desc = waving paw hand
-emoji	code = clap_paw%c						src = $(hand_path)/paw/clap [paw].svg						color=$cmaps_fur			unicode = #1f44f #101650 %u              cat = expressions   morph = paw     root = clap                  desc = clapping paw hands
-emoji	code = raised_hands_paw%c				src = $(hand_path)/paw/raised_hands [paw].svg				color=$cmaps_fur			unicode = #1f64c #101650 %u              cat = expressions   morph = paw     root = raised_hands          desc = raised paw hands
-emoji	code = open_hands_paw%c					src = $(hand_path)/paw/open_hands [paw].svg					color=$cmaps_fur			unicode = #1f450 #101650 %u              cat = expressions   morph = paw     root = open_hands            desc = open paw hands
+emoji	short = wave_paw%c						src = $(hand_path)/paw/wave [paw].svg						color=$cmaps_fur			code = #1f44b #101650 %u              cat = expressions   morph = paw     root = wave                  desc = waving paw hand
+emoji	short = clap_paw%c						src = $(hand_path)/paw/clap [paw].svg						color=$cmaps_fur			code = #1f44f #101650 %u              cat = expressions   morph = paw     root = clap                  desc = clapping paw hands
+emoji	short = raised_hands_paw%c				src = $(hand_path)/paw/raised_hands [paw].svg				color=$cmaps_fur			code = #1f64c #101650 %u              cat = expressions   morph = paw     root = raised_hands          desc = raised paw hands
+emoji	short = open_hands_paw%c					src = $(hand_path)/paw/open_hands [paw].svg					color=$cmaps_fur			code = #1f450 #101650 %u              cat = expressions   morph = paw     root = open_hands            desc = open paw hands
+emoji   short = palms_up_paw%c                   src = $(hand_path)/paw/palms_up [paw].svg	                color=$cmaps_fur            code = #1f932 #101650 %u              cat = expressions   morph = paw     root = palms_up              desc = paw palms up together
 
-emoji	code = pray_paw%c						src = $(hand_path)/paw/pray [paw].svg						color=$cmaps_fur			unicode = #1f64f #101650 %u              cat = expressions   morph = paw     root = pray                  desc = praying paw hands
-emoji 	code = writing_hand_paw%c 				src = $(hand_path)/paw/writing_hand [paw].svg				color=$cmaps_fur			unicode = #270d $vs16 #101650 %u         cat = expressions   morph = paw     root = writing_hand          desc = writing paw hand
-emoji	code = muscle_paw%c						src = $(hand_path)/paw/muscle [paw].svg						color=$cmaps_fur			unicode = #1f4aa #101650 %u              cat = expressions   morph = paw     root = muscle                desc = muscle flex gesture (with paw hand)
-emoji	code = handshake_paw%c					src = $(hand_path)/paw/handshake [paw].svg					color=$cmaps_fur			unicode = #1f91d #101650 %u              cat = expressions   morph = paw     root = handshake             desc = paw handshake
+emoji	short = pray_paw%c						src = $(hand_path)/paw/pray [paw].svg						color=$cmaps_fur			code = #1f64f #101650 %u              cat = expressions   morph = paw     root = pray                  desc = praying paw hands
+emoji 	short = writing_hand_paw%c 				src = $(hand_path)/paw/writing_hand [paw].svg				color=$cmaps_fur			code = #270d $vs16 #101650 %u         cat = expressions   morph = paw     root = writing_hand          desc = writing paw hand
+emoji	short = muscle_paw%c						src = $(hand_path)/paw/muscle [paw].svg						color=$cmaps_fur			code = #1f4aa #101650 %u              cat = expressions   morph = paw     root = muscle                desc = muscle flex gesture (with paw hand)
+emoji	short = handshake_paw%c					src = $(hand_path)/paw/handshake [paw].svg					color=$cmaps_fur			code = #1f91d #101650 %u              cat = expressions   morph = paw     root = handshake             desc = paw handshake
 
-emoji	code = selfie_paw%c						src = $(hand_path)/paw/selfie [paw].svg						color=$cmaps_fur			unicode = #1f933 #101650 %u              cat = expressions   morph = paw     root = selfie                desc = paw hand making a selfie
-emoji	code = nail_varnish_paw%c				src = $(hand_path)/paw/nail_varnish [paw].svg				color=$cmaps_fur			unicode = #1f485 #101650 %u              cat = expressions   morph = paw     root = nail_varnish          desc = paw hand painted with nail varnish
+emoji	short = selfie_paw%c						src = $(hand_path)/paw/selfie [paw].svg						color=$cmaps_fur			code = #1f933 #101650 %u              cat = expressions   morph = paw     root = selfie                desc = paw hand making a selfie
+emoji	short = nail_varnish_paw%c				src = $(hand_path)/paw/nail_varnish [paw].svg				color=$cmaps_fur			code = #1f485 #101650 %u              cat = expressions   morph = paw     root = nail_varnish          desc = paw hand painted with nail varnish
 
 
 
@@ -116,42 +118,91 @@ emoji	code = nail_varnish_paw%c				src = $(hand_path)/paw/nail_varnish [paw].svg
 # --------------------------------------------------------------------------------------------------------------------------
 
 
-emoji 	code = hand_clw%c 						src = $(hand_path)/clw/hand [clw].svg						color=$cmaps_clw			unicode = #270b #101651 %u               cat = expressions   morph = clw     root = hand                  desc = claw hand
-emoji	code = hand_splayed_clw%c 				src = $(hand_path)/clw/hand_splayed [clw].svg			    color=$cmaps_clw			unicode = #1f590 $vs16 #101651 %u        cat = expressions   morph = clw     root = hand_splayed          desc = claw hand splayed
-emoji 	code = back_of_hand_clw%c				src = $(hand_path)/clw/back_of_hand [clw].svg				color=$cmaps_clw			unicode = #1f91a #101651 %u              cat = expressions   morph = clw     root = back_of_hand          desc = back of claw hand
+emoji 	short = hand_clw%c 						src = $(hand_path)/clw/hand [clw].svg						color=$cmaps_clw			code = #270b #101651 %u               cat = expressions   morph = clw     root = hand                  desc = claw hand
+emoji	short = hand_splayed_clw%c 				src = $(hand_path)/clw/hand_splayed [clw].svg			    color=$cmaps_clw			code = #1f590 $vs16 #101651 %u        cat = expressions   morph = clw     root = hand_splayed          desc = claw hand splayed
+emoji 	short = back_of_hand_clw%c				src = $(hand_path)/clw/back_of_hand [clw].svg				color=$cmaps_clw			code = #1f91a #101651 %u              cat = expressions   morph = clw     root = back_of_hand          desc = back of claw hand
 
-emoji 	code = v_clw%c 							src = $(hand_path)/clw/v [clw].svg							color=$cmaps_clw			unicode = #270c $vs16 #101651 %u         cat = expressions   morph = clw     root = v                     desc = claw hand v sign
-emoji 	code = crossed_fingers_clw%c 			src = $(hand_path)/clw/crossed_fingers [clw].svg			color=$cmaps_clw			unicode = #1f91e #101651 %u              cat = expressions   morph = clw     root = crossed_fingers       desc = claw hand with crossed fingers
-emoji 	code = index_finger_clw%c				src = $(hand_path)/clw/index_finger [clw].svg				color=$cmaps_clw			unicode = #261d $vs16 #101651 %u         cat = expressions   morph = clw     root = index_finger          desc = claw hand with raised index finger
-emoji 	code = metal_clw%c						src = $(hand_path)/clw/metal [clw].svg						color=$cmaps_clw			unicode = #1f918 #101651 %u              cat = expressions   morph = clw     root = metal                 desc = claw hand making sign of the horns
-emoji 	code = vulcan_clw%c	 					src = $(hand_path)/clw/vulcan [clw].svg						color=$cmaps_clw			unicode = #1f596 #101651 %u              cat = expressions   morph = clw     root = vulcan                desc = vulcan claw hand sign
+emoji 	short = v_clw%c 							src = $(hand_path)/clw/v [clw].svg							color=$cmaps_clw			code = #270c $vs16 #101651 %u         cat = expressions   morph = clw     root = v                     desc = claw hand v sign
+emoji 	short = crossed_fingers_clw%c 			src = $(hand_path)/clw/crossed_fingers [clw].svg			color=$cmaps_clw			code = #1f91e #101651 %u              cat = expressions   morph = clw     root = crossed_fingers       desc = claw hand with crossed fingers
+emoji 	short = index_finger_clw%c				src = $(hand_path)/clw/index_finger [clw].svg				color=$cmaps_clw			code = #261d $vs16 #101651 %u         cat = expressions   morph = clw     root = index_finger          desc = claw hand with raised index finger
+emoji 	short = metal_clw%c						src = $(hand_path)/clw/metal [clw].svg						color=$cmaps_clw			code = #1f918 #101651 %u              cat = expressions   morph = clw     root = metal                 desc = claw hand making sign of the horns
+emoji 	short = vulcan_clw%c	 					src = $(hand_path)/clw/vulcan [clw].svg						color=$cmaps_clw			code = #1f596 #101651 %u              cat = expressions   morph = clw     root = vulcan                desc = vulcan claw hand sign
 
-emoji	code = thumbs_up_clw%c					src = $(hand_path)/clw/thumbs_up [clw].svg					color=$cmaps_clw			unicode = #1f44d $vs16 #101651 %u        cat = expressions   morph = clw     root = thumbs_up             desc = claw hand thumbs up
-emoji	code = thumbs_down_clw%c				src = $(hand_path)/clw/thumbs_down [clw].svg				color=$cmaps_clw			unicode = #1f44e $vs16 #101651 %u        cat = expressions   morph = clw     root = thumbs_down           desc = claw hand thumbs down
-emoji	code = call_me_clw%c					src = $(hand_path)/clw/call_me [clw].svg				    color=$cmaps_clw			unicode = #1f919 #101651 %u              cat = expressions   morph = clw     root = call_me               desc = claw hand making call me sign
-emoji	code = middle_finger_clw%c				src = $(hand_path)/clw/middle_finger [clw].svg				color=$cmaps_clw			unicode = #1f595 #101651 %u              cat = expressions   morph = clw     root = middle_finger         desc = claw hand with raised middle finger
+emoji	short = thumbs_up_clw%c					src = $(hand_path)/clw/thumbs_up [clw].svg					color=$cmaps_clw			code = #1f44d $vs16 #101651 %u        cat = expressions   morph = clw     root = thumbs_up             desc = claw hand thumbs up
+emoji	short = thumbs_down_clw%c				src = $(hand_path)/clw/thumbs_down [clw].svg				color=$cmaps_clw			code = #1f44e $vs16 #101651 %u        cat = expressions   morph = clw     root = thumbs_down           desc = claw hand thumbs down
+emoji	short = call_me_clw%c					src = $(hand_path)/clw/call_me [clw].svg				    color=$cmaps_clw			code = #1f919 #101651 %u              cat = expressions   morph = clw     root = call_me               desc = claw hand making call me sign
+emoji	short = middle_finger_clw%c				src = $(hand_path)/clw/middle_finger [clw].svg				color=$cmaps_clw			code = #1f595 #101651 %u              cat = expressions   morph = clw     root = middle_finger         desc = claw hand with raised middle finger
 
-emoji	code = point_up_clw%c					src = $(hand_path)/clw/point_up [clw].svg					color=$cmaps_clw			unicode = #1f446 $vs16 #101651 %u        cat = expressions   morph = clw     root = point_up              desc = claw hand pointing point up
-emoji	code = point_down_clw%c					src = $(hand_path)/clw/point_down [clw].svg				    color=$cmaps_clw			unicode = #1f447 $vs16 #101651 %u        cat = expressions   morph = clw     root = point_down            desc = claw hand pointing point down
-emoji	code = point_left_clw%c					src = $(hand_path)/clw/point_left [clw].svg					color=$cmaps_clw			unicode = #1f448 $vs16 #101651 %u        cat = expressions   morph = clw     root = point_left            desc = claw hand pointing point left
-emoji	code = point_right_clw%c				src = $(hand_path)/clw/point_right [clw].svg				color=$cmaps_clw			unicode = #1f449 $vs16 #101651 %u        cat = expressions   morph = clw     root = point_right           desc = claw hand pointing point right
+emoji	short = point_up_clw%c					src = $(hand_path)/clw/point_up [clw].svg					color=$cmaps_clw			code = #1f446 $vs16 #101651 %u        cat = expressions   morph = clw     root = point_up              desc = claw hand pointing point up
+emoji	short = point_down_clw%c					src = $(hand_path)/clw/point_down [clw].svg				    color=$cmaps_clw			code = #1f447 $vs16 #101651 %u        cat = expressions   morph = clw     root = point_down            desc = claw hand pointing point down
+emoji	short = point_left_clw%c					src = $(hand_path)/clw/point_left [clw].svg					color=$cmaps_clw			code = #1f448 $vs16 #101651 %u        cat = expressions   morph = clw     root = point_left            desc = claw hand pointing point left
+emoji	short = point_right_clw%c				src = $(hand_path)/clw/point_right [clw].svg				color=$cmaps_clw			code = #1f449 $vs16 #101651 %u        cat = expressions   morph = clw     root = point_right           desc = claw hand pointing point right
 
-emoji 	code = fist_clw%c  						src = $(hand_path)/clw/fist [clw].svg 						color=$cmaps_clw			unicode = #270a #101651 %u               cat = expressions   morph = clw     root = fist                  desc = clawed raised fist
-emoji	code = fist_facing_left_clw%c			src = $(hand_path)/clw/fist_facing_left [clw].svg			color=$cmaps_clw			unicode = #1f91b #101651 %u              cat = expressions   morph = clw     root = fist_facing_left      desc = clawed fist facing left
-emoji	code = fist_facing_right_clw%c	 	    src = $(hand_path)/clw/fist_facing_right [clw].svg 			color=$cmaps_clw			unicode = #1f91c #101651 %u              cat = expressions   morph = clw     root = fist_facing_right     desc = clawed fist facing right
-emoji	code = punch_clw%c						src = $(hand_path)/clw/punch [clw].svg						color=$cmaps_clw			unicode = #1f44a #101651 %u              cat = expressions   morph = clw     root = punch                 desc = clawed fist facing forwards
+emoji 	short = fist_clw%c  						src = $(hand_path)/clw/fist [clw].svg 						color=$cmaps_clw			code = #270a #101651 %u               cat = expressions   morph = clw     root = fist                  desc = clawed raised fist
+emoji	short = fist_facing_left_clw%c			src = $(hand_path)/clw/fist_facing_left [clw].svg			color=$cmaps_clw			code = #1f91b #101651 %u              cat = expressions   morph = clw     root = fist_facing_left      desc = clawed fist facing left
+emoji	short = fist_facing_right_clw%c	 	    src = $(hand_path)/clw/fist_facing_right [clw].svg 			color=$cmaps_clw			code = #1f91c #101651 %u              cat = expressions   morph = clw     root = fist_facing_right     desc = clawed fist facing right
+emoji	short = punch_clw%c						src = $(hand_path)/clw/punch [clw].svg						color=$cmaps_clw			code = #1f44a #101651 %u              cat = expressions   morph = clw     root = punch                 desc = clawed fist facing forwards
 
-emoji	code = ok_hand_clw%c					src = $(hand_path)/clw/ok_hand [clw].svg					color=$cmaps_clw			unicode = #1f44c #101651 %u              cat = expressions   morph = clw     root = ok_hand               desc = claw hand making ok sign
+emoji	short = ok_hand_clw%c					src = $(hand_path)/clw/ok_hand [clw].svg					color=$cmaps_clw			code = #1f44c #101651 %u              cat = expressions   morph = clw     root = ok_hand               desc = claw hand making ok sign
 
-emoji	code = wave_clw%c						src = $(hand_path)/clw/wave [clw].svg						color=$cmaps_clw			unicode = #1f44b #101651 %u              cat = expressions   morph = clw     root = wave                  desc = waving claw hand
-emoji	code = clap_clw%c						src = $(hand_path)/clw/clap [clw].svg						color=$cmaps_clw			unicode = #1f44f #101651 %u              cat = expressions   morph = clw     root = clap                  desc = clapping claw hands
-emoji	code = raised_hands_clw%c				src = $(hand_path)/clw/raised_hands [clw].svg				color=$cmaps_clw			unicode = #1f64c #101651 %u              cat = expressions   morph = clw     root = raised_hands          desc = raised claw hands
-emoji	code = open_hands_clw%c					src = $(hand_path)/clw/open_hands [clw].svg				    color=$cmaps_clw			unicode = #1f450 #101651 %u              cat = expressions   morph = clw     root = open_hands            desc = open claw hands
+emoji	short = wave_clw%c						src = $(hand_path)/clw/wave [clw].svg						color=$cmaps_clw			code = #1f44b #101651 %u              cat = expressions   morph = clw     root = wave                  desc = waving claw hand
+emoji	short = clap_clw%c						src = $(hand_path)/clw/clap [clw].svg						color=$cmaps_clw			code = #1f44f #101651 %u              cat = expressions   morph = clw     root = clap                  desc = clapping claw hands
+emoji	short = raised_hands_clw%c				src = $(hand_path)/clw/raised_hands [clw].svg				color=$cmaps_clw			code = #1f64c #101651 %u              cat = expressions   morph = clw     root = raised_hands          desc = raised claw hands
+emoji	short = open_hands_clw%c					src = $(hand_path)/clw/open_hands [clw].svg				    color=$cmaps_clw			code = #1f450 #101651 %u              cat = expressions   morph = clw     root = open_hands            desc = open claw hands
+emoji   short = palms_up_clw%c                   src = $(hand_path)/clw/palms_up [clw].svg	                color=$cmaps_clw            code = #1f932 #101651 %u              cat = expressions   morph = clw     root = palms_up              desc = claw hands together, palms up
 
-emoji	code = pray_clw%c						src = $(hand_path)/clw/pray [clw].svg						color=$cmaps_clw			unicode = #1f64f #101651 %u              cat = expressions   morph = clw     root = pray                  desc = praying hands
-emoji 	code = writing_hand_clw%c 				src = $(hand_path)/clw/writing_hand [clw].svg			    color=$cmaps_clw			unicode = #270d $vs16 #101651 %u         cat = expressions   morph = clw     root = writing_hand          desc = writing hand
-emoji	code = muscle_clw%c						src = $(hand_path)/clw/muscle [clw].svg						color=$cmaps_clw			unicode = #1f4aa #101651 %u              cat = expressions   morph = clw     root = muscle                desc = muscle flex gesture (with claw hand)
-emoji	code = handshake_clw%c				    src = $(hand_path)/clw/handshake [clw].svg					color=$cmaps_clw			unicode = #1f91d #101651 %u              cat = expressions   morph = clw     root = handshake             desc = claw hand handshake
+emoji	short = pray_clw%c						src = $(hand_path)/clw/pray [clw].svg						color=$cmaps_clw			code = #1f64f #101651 %u              cat = expressions   morph = clw     root = pray                  desc = praying hands
+emoji 	short = writing_hand_clw%c 				src = $(hand_path)/clw/writing_hand [clw].svg			    color=$cmaps_clw			code = #270d $vs16 #101651 %u         cat = expressions   morph = clw     root = writing_hand          desc = writing hand
+emoji	short = muscle_clw%c						src = $(hand_path)/clw/muscle [clw].svg						color=$cmaps_clw			code = #1f4aa #101651 %u              cat = expressions   morph = clw     root = muscle                desc = muscle flex gesture (with claw hand)
+emoji	short = handshake_clw%c				    src = $(hand_path)/clw/handshake [clw].svg					color=$cmaps_clw			code = #1f91d #101651 %u              cat = expressions   morph = clw     root = handshake             desc = claw hand handshake
 
-emoji	code = selfie_clw%c					    src = $(hand_path)/clw/selfie [clw].svg						color=$cmaps_clw			unicode = #1f933 #101651 %u              cat = expressions   morph = clw     root = selfie                desc = claw hand making a selfie
-emoji	code = nail_varnish_clw%c			    src = $(hand_path)/clw/nail_varnish [clw].svg				color=$cmaps_clw			unicode = #1f485 #101651 %u              cat = expressions   morph = clw     root = nail_varnish          desc = paw hand painted with nail varnish
+emoji	short = selfie_clw%c					    src = $(hand_path)/clw/selfie [clw].svg						color=$cmaps_clw			code = #1f933 #101651 %u              cat = expressions   morph = clw     root = selfie                desc = claw hand making a selfie
+emoji	short = nail_varnish_clw%c			    src = $(hand_path)/clw/nail_varnish [clw].svg				color=$cmaps_clw			code = #1f485 #101651 %u              cat = expressions   morph = clw     root = nail_varnish          desc = paw hand painted with nail varnish
+
+
+
+
+# hoof hands
+# --------------------------------------------------------------------------------------------------------------------------
+
+
+emoji 	short = hand_hoof%c 						src = $(hand_path)/hoof/hand [hoof].svg						color=$cmaps_hoof			code = #270b #101652 %u               cat = expressions   morph = hoof     root = hand                  desc = claw hand
+#emoji	short = hand_splayed_hoof%c 				src = $(hand_path)/hoof/hand_splayed [hoof].svg			    color=$cmaps_hoof			code = #1f590 $vs16 #101652 %u        cat = expressions   morph = hoof     root = hand_splayed          desc = claw hand splayed
+emoji 	short = back_of_hand_hoof%c				src = $(hand_path)/hoof/back_of_hand [hoof].svg				color=$cmaps_hoof			code = #1f91a #101652 %u              cat = expressions   morph = hoof     root = back_of_hand          desc = back of claw hand
+
+emoji 	short = v_hoof%c 							src = $(hand_path)/hoof/v [hoof].svg							color=$cmaps_hoof			code = #270c $vs16 #101652 %u         cat = expressions   morph = hoof     root = v                     desc = claw hand v sign
+#emoji 	short = crossed_fingers_hoof%c 			src = $(hand_path)/hoof/crossed_fingers [hoof].svg			color=$cmaps_hoof			code = #1f91e #101652 %u              cat = expressions   morph = hoof     root = crossed_fingers       desc = claw hand with crossed fingers
+emoji 	short = index_finger_hoof%c				src = $(hand_path)/hoof/index_finger [hoof].svg				color=$cmaps_hoof			code = #261d $vs16 #101652 %u         cat = expressions   morph = hoof     root = index_finger          desc = claw hand with raised index finger
+emoji 	short = metal_hoof%c						src = $(hand_path)/hoof/metal [hoof].svg						color=$cmaps_hoof			code = #1f918 #101652 %u              cat = expressions   morph = hoof     root = metal                 desc = claw hand making sign of the horns
+#emoji 	short = vulcan_hoof%c	 					src = $(hand_path)/hoof/vulcan [hoof].svg						color=$cmaps_hoof			code = #1f596 #101652 %u              cat = expressions   morph = hoof     root = vulcan                desc = vulcan claw hand sign
+
+#emoji	short = thumbs_up_hoof%c					src = $(hand_path)/hoof/thumbs_up [hoof].svg					color=$cmaps_hoof			code = #1f44d $vs16 #101652 %u        cat = expressions   morph = hoof     root = thumbs_up             desc = claw hand thumbs up
+#emoji	short = thumbs_down_hoof%c				src = $(hand_path)/hoof/thumbs_down [hoof].svg				color=$cmaps_hoof			code = #1f44e $vs16 #101652 %u        cat = expressions   morph = hoof     root = thumbs_down           desc = claw hand thumbs down
+#emoji	short = call_me_hoof%c					src = $(hand_path)/hoof/call_me [hoof].svg				    color=$cmaps_hoof			code = #1f919 #101652 %u              cat = expressions   morph = hoof     root = call_me               desc = claw hand making call me sign
+#emoji	short = middle_finger_hoof%c				src = $(hand_path)/hoof/middle_finger [hoof].svg				color=$cmaps_hoof			code = #1f595 #101652 %u              cat = expressions   morph = hoof     root = middle_finger         desc = claw hand with raised middle finger
+
+emoji	short = point_up_hoof%c					src = $(hand_path)/hoof/point_up [hoof].svg					color=$cmaps_hoof			code = #1f446 $vs16 #101652 %u        cat = expressions   morph = hoof     root = point_up              desc = claw hand pointing point up
+emoji	short = point_down_hoof%c					src = $(hand_path)/hoof/point_down [hoof].svg				    color=$cmaps_hoof			code = #1f447 $vs16 #101652 %u        cat = expressions   morph = hoof     root = point_down            desc = claw hand pointing point down
+emoji	short = point_left_hoof%c					src = $(hand_path)/hoof/point_left [hoof].svg					color=$cmaps_hoof			code = #1f448 $vs16 #101652 %u        cat = expressions   morph = hoof     root = point_left            desc = claw hand pointing point left
+emoji	short = point_right_hoof%c				src = $(hand_path)/hoof/point_right [hoof].svg				color=$cmaps_hoof			code = #1f449 $vs16 #101652 %u        cat = expressions   morph = hoof     root = point_right           desc = claw hand pointing point right
+
+emoji 	short = fist_hoof%c  						src = $(hand_path)/hoof/fist [hoof].svg 						color=$cmaps_hoof			code = #270a #101652 %u               cat = expressions   morph = hoof     root = fist                  desc = clawed raised fist
+#emoji	short = fist_facing_left_hoof%c			src = $(hand_path)/hoof/fist_facing_left [hoof].svg			color=$cmaps_hoof			code = #1f91b #101652 %u              cat = expressions   morph = hoof     root = fist_facing_left      desc = clawed fist facing left
+#emoji	short = fist_facing_right_hoof%c	 	    src = $(hand_path)/hoof/fist_facing_right [hoof].svg 			color=$cmaps_hoof			code = #1f91c #101652 %u              cat = expressions   morph = hoof     root = fist_facing_right     desc = clawed fist facing right
+#emoji	short = punch_hoof%c						src = $(hand_path)/hoof/punch [hoof].svg						color=$cmaps_hoof			code = #1f44a #101652 %u              cat = expressions   morph = hoof     root = punch                 desc = clawed fist facing forwards
+
+#emoji	short = ok_hand_hoof%c					src = $(hand_path)/hoof/ok_hand [hoof].svg					color=$cmaps_hoof			code = #1f44c #101652 %u              cat = expressions   morph = hoof     root = ok_hand               desc = claw hand making ok sign
+
+#emoji	short = wave_hoof%c						src = $(hand_path)/hoof/wave [hoof].svg						color=$cmaps_hoof			code = #1f44b #101652 %u              cat = expressions   morph = hoof     root = wave                  desc = waving claw hand
+#emoji	short = clap_hoof%c						src = $(hand_path)/hoof/clap [hoof].svg						color=$cmaps_hoof			code = #1f44f #101652 %u              cat = expressions   morph = hoof     root = clap                  desc = clapping claw hands
+#emoji	short = raised_hands_hoof%c				src = $(hand_path)/hoof/raised_hands [hoof].svg				color=$cmaps_hoof			code = #1f64c #101652 %u              cat = expressions   morph = hoof     root = raised_hands          desc = raised claw hands
+#emoji	short = open_hands_hoof%c					src = $(hand_path)/hoof/open_hands [hoof].svg				    color=$cmaps_hoof			code = #1f450 #101652 %u              cat = expressions   morph = hoof     root = open_hands            desc = open claw hands
+#emoji   short = palms_up_hoof%c                   src = $(hand_path)/hoof/palms_up [hoof].svg	                color=$cmaps_hoof            code = #1f932 #101652 %u              cat = expressions   morph = hoof     root = palms_up              desc = claw hands together, palms up
+
+#emoji	short = pray_hoof%c						src = $(hand_path)/hoof/pray [hoof].svg						color=$cmaps_hoof			code = #1f64f #101652 %u              cat = expressions   morph = hoof     root = pray                  desc = praying hands
+#emoji 	short = writing_hand_hoof%c 				src = $(hand_path)/hoof/writing_hand [hoof].svg			    color=$cmaps_hoof			code = #270d $vs16 #101652 %u         cat = expressions   morph = hoof     root = writing_hand          desc = writing hand
+emoji	short = muscle_hoof%c						src = $(hand_path)/hoof/muscle [hoof].svg						color=$cmaps_hoof			code = #1f4aa #101652 %u              cat = expressions   morph = hoof     root = muscle                desc = muscle flex gesture (with claw hand)
+#emoji	short = handshake_hoof%c				    src = $(hand_path)/hoof/handshake [hoof].svg					color=$cmaps_hoof			code = #1f91d #101652 %u              cat = expressions   morph = hoof     root = handshake             desc = claw hand handshake
+
+emoji	short = selfie_hoof%c					    src = $(hand_path)/hoof/selfie [hoof].svg						color=$cmaps_hoof			code = #1f933 #101652 %u              cat = expressions   morph = hoof     root = selfie                desc = claw hand making a selfie
+emoji	short = nail_varnish_hoof%c			    src = $(hand_path)/hoof/nail_varnish [hoof].svg				color=$cmaps_hoof			code = #1f485 #101652 %u              cat = expressions   morph = hoof     root = nail_varnish          desc = paw hand painted with nail varnish

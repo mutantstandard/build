@@ -5,12 +5,18 @@
 # scenes
 # -----------------------------
 
-emoji 	code = cityscape												src = travel_places/scenes/cityscape.svg						unicode = #1F3D9 $vs16    cat = travel_places        desc = cityscape
-emoji 	code = sunset_city										  src = travel_places/scenes/sunset_city.svg							unicode = #1F307    cat = travel_places              desc = cityscape at sunset
-emoji 	code = dusk_city												src = travel_places/scenes/dusk_city.svg						unicode = #1F306    cat = travel_places              desc = cityscape at dusk
-emoji 	code = bridge_at_night								  src = travel_places/scenes/bridge_at_night.svg						    unicode = #1F309    cat = travel_places              desc = a bridge at night
-emoji 	code = fireworks												src = travel_places/scenes/fireworks.svg						unicode = #1F386    cat = travel_places              desc = fireworks
-emoji 	code = sparkler												  src = travel_places/scenes/sparkler.svg							unicode = #1F387    cat = travel_places              desc = sparkler
+emoji 	short = cityscape									src = travel_places/scenes/cityscape.svg						code = #1F3D9 $vs16    cat = travel_places        desc = cityscape
+emoji 	short = sunset_city								    src = travel_places/scenes/sunset_city.svg					    code = #1F307    cat = travel_places              desc = cityscape at sunset
+emoji 	short = dusk_city									src = travel_places/scenes/dusk_city.svg						code = #1F306    cat = travel_places              desc = cityscape at dusk
+emoji 	short = bridge_at_night								src = travel_places/scenes/bridge_at_night.svg				    code = #1F309    cat = travel_places              desc = a bridge at night
+emoji 	short = sunrise								        src = travel_places/scenes/sunrise.svg						    code = #1F305    cat = travel_places              desc = sunrise
+emoji 	short = sunrise_over_mountains						src = travel_places/scenes/sunrise_over_mountains.svg			code = #1F304    cat = travel_places              desc = sunrise over mountains
+emoji 	short = national_park								src = travel_places/scenes/national_park.svg					code = #1F3DE $vs16    cat = travel_places        desc = national park
+emoji 	short = foggy								        src = travel_places/scenes/foggy.svg					        code = #1F301    cat = travel_places              desc = foggy scene
+emoji 	short = moon_viewing_ceremony					    src = travel_places/scenes/moon_viewing_ceremony.svg			code = #1F391    cat = travel_places              desc = moon viewing ceremony
 
-emoji 	code = night_with_stars									src = travel_places/scenes/night_with_stars.svg							unicode = #1F303    cat = travel_places              desc = night with stars
-emoji 	code = milky_way												src = travel_places/scenes/milky_way.svg						unicode = #1F30C    cat = travel_places              desc = milky way
+emoji 	short = night_with_stars								src = travel_places/scenes/night_with_stars.svg					code = #1F303    cat = travel_places              desc = night with stars
+emoji 	short = milky_way									src = travel_places/scenes/milky_way.svg						code = #1F30C    cat = travel_places              desc = milky way
+
+emoji 	short = fireworks									src = travel_places/scenes/fireworks.svg						code = #1F386    cat = travel_places              desc = fireworks
+emoji 	short = sparkler										src = travel_places/scenes/sparkler.svg							code = #1F387    cat = travel_places              desc = sparkler

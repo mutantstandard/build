@@ -6,72 +6,80 @@ define food_path food_drink_herbs
 
 # FRUIT AND VEGETABLES
 # -----------------------
-emoji 	code = peach				    src = $(food_path)/fruit_veg/peach.svg				unicode = #1F351    cat = food_drink_herbs      desc = peach
-emoji 	code = eggplant					src = $(food_path)/fruit_veg/eggplant.svg			unicode = #1F346    cat = food_drink_herbs      desc = eggplant
-emoji 	code = melon					src = $(food_path)/fruit_veg/melon.svg				unicode = #1F348    cat = food_drink_herbs      desc = melon
-emoji 	code = pineapple				src = $(food_path)/fruit_veg/pineapple.svg			unicode = #1F34D    cat = food_drink_herbs      desc = pineapple
-emoji 	code = red_apple				src = $(food_path)/fruit_veg/red_apple.svg			unicode = #1F34E    cat = food_drink_herbs      desc = red apple
-emoji 	code = green_apple				src = $(food_path)/fruit_veg/green_apple.svg		unicode = #1F34F    cat = food_drink_herbs      desc = green apple
-emoji 	code = orange					src = $(food_path)/fruit_veg/orange.svg				unicode = #1F34A    cat = food_drink_herbs      desc = orange
-emoji 	code = pear						src = $(food_path)/fruit_veg/pear.svg				unicode = #1F350    cat = food_drink_herbs      desc = pear
-emoji 	code = watermelon				src = $(food_path)/fruit_veg/watermelon.svg			unicode = #1F349    cat = food_drink_herbs      desc = watermelon
-emoji 	code = cherry					src = $(food_path)/fruit_veg/cherry.svg				unicode = #1F352    cat = food_drink_herbs      desc = cherry
-emoji 	code = lemon				    src = $(food_path)/fruit_veg/lemon.svg				unicode = #1F34B    cat = food_drink_herbs      desc = lemon
-emoji 	code = strawberry			    src = $(food_path)/fruit_veg/strawberry.svg		    unicode = #1F353    cat = food_drink_herbs      desc = strawberry
-emoji 	code = banana				    src = $(food_path)/fruit_veg/banana.svg			    unicode = #1F34C    cat = food_drink_herbs      desc = banana
+emoji 	short = peach				    src = $(food_path)/fruit_veg/peach.svg				code = #1F351    cat = food_drink_herbs      desc = peach
+emoji 	short = eggplant					src = $(food_path)/fruit_veg/eggplant.svg			code = #1F346    cat = food_drink_herbs      desc = eggplant
+emoji 	short = melon					src = $(food_path)/fruit_veg/melon.svg				code = #1F348    cat = food_drink_herbs      desc = melon
+emoji 	short = pineapple				src = $(food_path)/fruit_veg/pineapple.svg			code = #1F34D    cat = food_drink_herbs      desc = pineapple
+emoji 	short = red_apple				src = $(food_path)/fruit_veg/red_apple.svg			code = #1F34E    cat = food_drink_herbs      desc = red apple
+emoji 	short = green_apple				src = $(food_path)/fruit_veg/green_apple.svg		code = #1F34F    cat = food_drink_herbs      desc = green apple
+emoji 	short = orange					src = $(food_path)/fruit_veg/orange.svg				code = #1F34A    cat = food_drink_herbs      desc = orange
+emoji 	short = pear						src = $(food_path)/fruit_veg/pear.svg				code = #1F350    cat = food_drink_herbs      desc = pear
+emoji 	short = watermelon				src = $(food_path)/fruit_veg/watermelon.svg			code = #1F349    cat = food_drink_herbs      desc = watermelon
+emoji 	short = cherry					src = $(food_path)/fruit_veg/cherry.svg				code = #1F352    cat = food_drink_herbs      desc = cherry
+emoji 	short = lemon				    src = $(food_path)/fruit_veg/lemon.svg				code = #1F34B    cat = food_drink_herbs      desc = lemon
+emoji 	short = strawberry			    src = $(food_path)/fruit_veg/strawberry.svg		    code = #1F353    cat = food_drink_herbs      desc = strawberry
+emoji 	short = banana				    src = $(food_path)/fruit_veg/banana.svg			    code = #1F34C    cat = food_drink_herbs      desc = banana
+emoji 	short = avocado				    src = $(food_path)/fruit_veg/avocado.svg			 code = #1F951    cat = food_drink_herbs      desc = avocado
 
+
+# FRESH OTHER FOOD
+# -----------------------
+emoji 	short = egg				    src = $(food_path)/other_fresh/egg.svg			 code = #1F95A    cat = food_drink_herbs      desc = egg
+emoji 	short = tofu				src = $(food_path)/other_fresh/tofu.svg		     code = !undefined   cat = food_drink_herbs      desc = small blocks of tofu
 
 
 # SAVOURY FOOD
 # -----------------------
-emoji 	code = cooking						src = $(food_path)/food/cooking.svg					unicode = #1F373    cat = food_drink_herbs        desc = two pieces of sushi
-emoji 	code = bento						src = $(food_path)/food/bento.svg					unicode = #1F371    cat = food_drink_herbs        desc = bento box
-emoji 	code = curry_rice					src = $(food_path)/food/curry_rice.svg				unicode = #1F35B    cat = food_drink_herbs        desc = bowl of curry rice
-emoji 	code = dango						src = $(food_path)/food/dango.svg					unicode = #1F361    cat = food_drink_herbs        desc = dango
-emoji 	code = meat_drumstick				src = $(food_path)/food/meat_drumstick.svg			unicode = #1F357    cat = food_drink_herbs        desc = meat drumstick
-emoji 	code = meat_on_bone					src = $(food_path)/food/meat_on_bone.svg			unicode = #1F356    cat = food_drink_herbs        desc = meat on a bone
-emoji 	code = onigiri						src = $(food_path)/food/onigiri.svg					unicode = #1F359    cat = food_drink_herbs        desc = onigiri
-emoji 	code = rice							src = $(food_path)/food/rice.svg					unicode = #1F35A    cat = food_drink_herbs        desc = bowl of rice
-emoji 	code = senbei						src = $(food_path)/food/senbei.svg					unicode = #1F358    cat = food_drink_herbs        desc = senbei
-emoji 	code = sushi						src = $(food_path)/food/sushi.svg					unicode = #1F363    cat = food_drink_herbs        desc = two pieces of sushi
+emoji 	short = cooking						src = $(food_path)/food/cooking.svg					code = #1F373    cat = food_drink_herbs        desc = two pieces of sushi
+emoji 	short = bento						src = $(food_path)/food/bento.svg					code = #1F371    cat = food_drink_herbs        desc = bento box
+emoji 	short = curry_rice					src = $(food_path)/food/curry_rice.svg				code = #1F35B    cat = food_drink_herbs        desc = bowl of curry rice
+emoji 	short = meat_drumstick				src = $(food_path)/food/meat_drumstick.svg			code = #1F357    cat = food_drink_herbs        desc = meat drumstick
+emoji 	short = meat_on_bone					src = $(food_path)/food/meat_on_bone.svg			code = #1F356    cat = food_drink_herbs        desc = meat on a bone
+emoji 	short = pizza						src = $(food_path)/food/pizza.svg					code = #1F355    cat = food_drink_herbs        desc = slice of pizza
+emoji 	short = onigiri						src = $(food_path)/food/onigiri.svg					code = #1F359    cat = food_drink_herbs        desc = onigiri
+emoji 	short = oden							src = $(food_path)/food/oden.svg				       code = #1F362    cat = food_drink_herbs      desc = oden on a stick
+emoji 	short = rice							src = $(food_path)/food/rice.svg					code = #1F35A    cat = food_drink_herbs        desc = bowl of rice
+emoji 	short = senbei						src = $(food_path)/food/senbei.svg					code = #1F358    cat = food_drink_herbs        desc = senbei
+emoji 	short = sushi						src = $(food_path)/food/sushi.svg					code = #1F363    cat = food_drink_herbs        desc = two pieces of sushi
 
 
 
 # SWEETS
 # -----------------------
-emoji 	code = ice_cream								src = $(food_path)/food/ice_cream.svg				unicode = #1F368    cat = food_drink_herbs      desc = bowl of ice cream
-emoji 	code = shaved_ice								src = $(food_path)/food/shaved_ice.svg				unicode = #1F367    cat = food_drink_herbs      desc = cup of shaved ice
-emoji 	code = oden											src = $(food_path)/food/oden.svg				unicode = #1F362    cat = food_drink_herbs      desc = oden on a stick
-emoji 	code = lollipop									src = $(food_path)/food/lollipop.svg				unicode = #1F36D    cat = food_drink_herbs      desc = lollipop
-emoji 	code = birthday_cake						src = $(food_path)/food/birthday_cake.svg			    unicode = #1F382    cat = food_drink_herbs      desc = birthday cake
-emoji 	code = shortcake								src = $(food_path)/food/shortcake.svg				unicode = #1F370    cat = food_drink_herbs      desc = slice of shortcake
-emoji 	code = donut								    src = $(food_path)/food/donut.svg				    unicode = #1F369    cat = food_drink_herbs      desc = donut
-emoji 	code = candy										src = $(food_path)/food/candy.svg				unicode = #1F36C    cat = food_drink_herbs      desc = piece of candy
+emoji 	short = ice_cream								src = $(food_path)/food/ice_cream.svg				code = #1F368    cat = food_drink_herbs      desc = bowl of ice cream
+emoji 	short = shaved_ice								src = $(food_path)/food/shaved_ice.svg				code = #1F367    cat = food_drink_herbs      desc = cup of shaved ice
+emoji 	short = dango						src = $(food_path)/food/dango.svg					code = #1F361    cat = food_drink_herbs        desc = dango
+emoji 	short = lollipop									src = $(food_path)/food/lollipop.svg				code = #1F36D    cat = food_drink_herbs      desc = lollipop
+emoji 	short = birthday_cake						src = $(food_path)/food/birthday_cake.svg			    code = #1F382    cat = food_drink_herbs      desc = birthday cake
+emoji 	short = shortcake								src = $(food_path)/food/shortcake.svg				code = #1F370    cat = food_drink_herbs      desc = slice of shortcake
+emoji 	short = donut								    src = $(food_path)/food/donut.svg				    code = #1F369    cat = food_drink_herbs      desc = donut
+emoji 	short = cookie										src = $(food_path)/food/cookie.svg				code = #1F36A    cat = food_drink_herbs      desc = cookie
+emoji 	short = candy										src = $(food_path)/food/candy.svg				code = #1F36C    cat = food_drink_herbs      desc = piece of candy
 
 
 
 # CUTLERY
 # -----------------------
-emoji 	code = knife_and_fork						src = $(food_path)/food/knife_and_fork.svg				unicode = #1F374          cat = food_drink_herbs       desc = knife and fork
-emoji 	code = plate										src = $(food_path)/food/plate.svg				unicode = #1F37D $vs16    cat = food_drink_herbs       desc = plate with a knife and fork
+emoji 	short = knife_and_fork						src = $(food_path)/food/knife_and_fork.svg				code = #1F374          cat = food_drink_herbs       desc = knife and fork
+emoji 	short = plate										src = $(food_path)/food/plate.svg				code = #1F37D $vs16    cat = food_drink_herbs       desc = plate with a knife and fork
 
 
 # DRINKS
 # -----------------------
-emoji 	code = matcha_tea								src = $(food_path)/drink/matcha_tea.svg			unicode = #1F375          cat = food_drink_herbs        desc = cup of matcha tea
-emoji 	code = hot_drink								src = $(food_path)/drink/hot_drink.svg			unicode = #2615 $vs16     cat = food_drink_herbs        desc = cup of a hot beverage
-emoji 	code = milk										src = $(food_path)/drink/milk.svg				unicode = #1F95B          cat = food_drink_herbs        desc = glass of milk
-emoji 	code = cup_with_straw							src = $(food_path)/drink/cup_with_straw.svg		unicode = #1F964          cat = food_drink_herbs        desc = cup with a straw
+emoji 	short = matcha_tea								src = $(food_path)/drink/matcha_tea.svg			code = #1F375          cat = food_drink_herbs        desc = cup of matcha tea
+emoji 	short = hot_drink								src = $(food_path)/drink/hot_drink.svg			code = #2615 $vs16     cat = food_drink_herbs        desc = cup of a hot beverage
+emoji 	short = milk										src = $(food_path)/drink/milk.svg				code = #1F95B          cat = food_drink_herbs        desc = glass of milk
+emoji 	short = cup_with_straw							src = $(food_path)/drink/cup_with_straw.svg		code = #1F964          cat = food_drink_herbs        desc = cup with a straw
 
 
 # ALCOHOL AND HERBS
 # -----------------------
-emoji 	code = sake									src = $(food_path)/alcohol_herbs/sake.svg					unicode = #1F376           cat = food_drink_herbs       desc = bottle of sake and a sake cup
-emoji 	code = tropical_drink						src = $(food_path)/alcohol_herbs/tropical_drink.svg			unicode = #1F379           cat = food_drink_herbs       desc = tropical drink
-emoji 	code = wine									src = $(food_path)/alcohol_herbs/wine.svg					unicode = #1F377           cat = food_drink_herbs       desc = glass of wine
-emoji 	code = martini								src = $(food_path)/alcohol_herbs/martini.svg				unicode = #1F378 $vs16     cat = food_drink_herbs       desc = martini
-emoji 	code = tumbler_glass						src = $(food_path)/alcohol_herbs/tumbler_glass.svg			unicode = #1F943           cat = food_drink_herbs       desc = tumbler glass with whiskey
-emoji 	code = beer								    src = $(food_path)/alcohol_herbs/beer.svg					unicode = #1F37A           cat = food_drink_herbs       desc = beer stein full of beer
-emoji 	code = beers								src = $(food_path)/alcohol_herbs/beers.svg					unicode = #1F37B           cat = food_drink_herbs       desc = two beer steins full of beer clinking against each other
+emoji 	short = sake									src = $(food_path)/alcohol_herbs/sake.svg					code = #1F376           cat = food_drink_herbs       desc = bottle of sake and a sake cup
+emoji 	short = tropical_drink						src = $(food_path)/alcohol_herbs/tropical_drink.svg			code = #1F379           cat = food_drink_herbs       desc = tropical drink
+emoji 	short = wine									src = $(food_path)/alcohol_herbs/wine.svg					code = #1F377           cat = food_drink_herbs       desc = glass of wine
+emoji 	short = martini								src = $(food_path)/alcohol_herbs/martini.svg				code = #1F378 $vs16     cat = food_drink_herbs       desc = martini
+emoji 	short = tumbler_glass						src = $(food_path)/alcohol_herbs/tumbler_glass.svg			code = #1F943           cat = food_drink_herbs       desc = tumbler glass with whiskey
+emoji 	short = beer								    src = $(food_path)/alcohol_herbs/beer.svg					code = #1F37A           cat = food_drink_herbs       desc = beer stein full of beer
+emoji 	short = beers								src = $(food_path)/alcohol_herbs/beers.svg					code = #1F37B           cat = food_drink_herbs       desc = two beer steins full of beer clinking against each other
 
-emoji 	code = cannabis_leaf						src = $(food_path)/alcohol_herbs/cannabis_leaf.svg			unicode = #101691          cat = food_drink_herbs          desc = cannabis leaf
+emoji 	short = cannabis_leaf						src = $(food_path)/alcohol_herbs/cannabis_leaf.svg			code = #101691          cat = food_drink_herbs          desc = cannabis leaf

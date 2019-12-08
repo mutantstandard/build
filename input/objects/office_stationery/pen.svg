@@ -1,1 +1,21 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;"><rect id="pen" x="0" y="0" width="32" height="32" style="fill:none;"/><g id="outline"><path d="M8.793,2.964l2.207,-2.207l12.243,12.243l-2.207,2.207l7.712,7.713l1.104,3.313l2.053,4.105l-1.567,1.567l-4.105,-2.053l-3.313,-1.104l-20.844,-20.844c-0.382,-0.392 -0.69,-0.846 -0.896,-1.355c-0.162,-0.399 -0.261,-0.824 -0.291,-1.254c-0.031,-0.427 0.005,-0.858 0.107,-1.274c0.103,-0.425 0.275,-0.832 0.507,-1.203c0.386,-0.618 0.936,-1.129 1.581,-1.468c0.384,-0.202 0.8,-0.342 1.228,-0.414c0.163,-0.028 0.326,-0.043 0.491,-0.053c0.099,-0.004 0.197,-0.005 0.296,-0.004c0.297,0.011 0.591,0.046 0.88,0.117c0.525,0.128 1.023,0.36 1.459,0.68c0.165,0.122 0.319,0.257 0.466,0.4l0.889,0.888Z"/></g><g id="emoji"><path d="M11,3.586c3.138,3.138 6.276,6.276 9.414,9.414l-1.414,1.414l-8,-8l-2,2l-1.414,-1.414l3.414,-3.414" style="fill:#9a9a9a;fill-rule:nonzero;"/><path d="M29,29l-4,-2l2,-2l2,4Z" style="fill:#666;"/><path d="M3.499,6.499c-0.828,-0.828 -0.828,-2.17 0,-2.998c0.001,-0.001 0.001,-0.001 0.002,-0.002c0.828,-0.828 2.17,-0.828 2.998,0c4.956,4.956 20.501,20.501 20.501,20.501l1,3l-1,1l-3,-1c0,0 -15.545,-15.545 -20.501,-20.501Z" style="fill:#9a9a9a;"/><clipPath id="_clip1"><path d="M3.499,6.499c-0.828,-0.828 -0.828,-2.17 0,-2.998c0.001,-0.001 0.001,-0.001 0.002,-0.002c0.828,-0.828 2.17,-0.828 2.998,0c4.956,4.956 20.501,20.501 20.501,20.501l1,3l-1,1l-3,-1c0,0 -15.545,-15.545 -20.501,-20.501Z"/></clipPath><g clip-path="url(#_clip1)"><path d="M11.414,6l-5.414,5.414l-1.414,-1.414l5.414,-5.414l1.414,1.414Z" style="fill:#686868;fill-rule:nonzero;"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;">
+    <rect id="pen" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <g id="outline">
+        <path d="M3.499,6.499c-0.828,-0.828 -0.828,-2.17 0,-2.998c0.001,-0.001 0.001,-0.001 0.002,-0.002c0.828,-0.828 2.17,-0.828 2.998,0c4.956,4.956 20.501,20.501 20.501,20.501l1,3l-1,1l-3,-1c0,0 -15.545,-15.545 -20.501,-20.501Z" style="fill:#fff;stroke:#000;stroke-width:4px;"/>
+        <path d="M20.414,13l-1.414,1.414l-8,-8l-2,2l-1.414,-1.414l3.414,-3.414l9.414,9.414Z" style="fill:none;stroke:#000;stroke-width:4px;stroke-miterlimit:2;"/>
+        <path d="M25,27l4,2l-2,-4l-2,2Z" style="fill:none;stroke:#000;stroke-width:4px;stroke-linecap:square;stroke-miterlimit:1.5;"/>
+    </g>
+    <g id="emoji">
+        <path d="M11,3.586c3.138,3.138 6.276,6.276 9.414,9.414l-1.414,1.414l-8,-8l-2,2l-1.414,-1.414l3.414,-3.414" style="fill:#9a9a9a;fill-rule:nonzero;"/>
+        <path d="M29,29l-4,-2l2,-2l2,4Z" style="fill:#666;"/>
+        <path d="M3.499,6.499c-0.828,-0.828 -0.828,-2.17 0,-2.998c0.001,-0.001 0.001,-0.001 0.002,-0.002c0.828,-0.828 2.17,-0.828 2.998,0c4.956,4.956 20.501,20.501 20.501,20.501l1,3l-1,1l-3,-1c0,0 -15.545,-15.545 -20.501,-20.501Z" style="fill:#9a9a9a;"/>
+        <clipPath id="_clip1">
+            <path d="M3.499,6.499c-0.828,-0.828 -0.828,-2.17 0,-2.998c0.001,-0.001 0.001,-0.001 0.002,-0.002c0.828,-0.828 2.17,-0.828 2.998,0c4.956,4.956 20.501,20.501 20.501,20.501l1,3l-1,1l-3,-1c0,0 -15.545,-15.545 -20.501,-20.501Z"/>
+        </clipPath>
+        <g clip-path="url(#_clip1)">
+            <path d="M11.414,6l-5.414,5.414l-1.414,-1.414l5.414,-5.414l1.414,1.414Z" style="fill:#686868;fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

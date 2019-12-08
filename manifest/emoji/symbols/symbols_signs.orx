@@ -1,16 +1,16 @@
 
 
 
-emoji 	code = toilet				src = symbols/signs/toilet.svg				 unicode = #1F6BB    cat = symbols   desc = toilet sign
-emoji 	code = wc					src = symbols/signs/wc.svg					 unicode = #1F6BE         cat = symbols   desc = WC sign
-emoji 	code = potable_water	    src = symbols/signs/potable_water.svg	     unicode = #1F6B0     cat = symbols   desc = potable water sign
-emoji 	code = wheelchair			src = symbols/signs/wheelchair.svg		     unicode = #267F $vs16    cat = symbols   desc = wheelchair sign
-emoji 	code = litter_in_bin		src = symbols/signs/litter_in_bin.svg		 unicode = #1F6AE    cat = symbols   desc = litter in bin sign
+emoji 	short = toilet				src = symbols/signs/toilet.svg				 code = #1F6BB    cat = symbols   desc = toilet sign
+emoji 	short = wc					src = symbols/signs/wc.svg					 code = #1F6BE         cat = symbols   desc = WC sign
+emoji 	short = potable_water	    src = symbols/signs/potable_water.svg	     code = #1F6B0     cat = symbols   desc = potable water sign
+emoji 	short = wheelchair			src = symbols/signs/wheelchair.svg		     code = #267F $vs16    cat = symbols   desc = wheelchair sign
+emoji 	short = litter_in_bin		src = symbols/signs/litter_in_bin.svg		 code = #1F6AE    cat = symbols   desc = litter in bin sign
 
-emoji 	code = info					src = symbols/signs/info.svg				 unicode = #2139 $vs16     cat = symbols   desc = info sign
-emoji 	code = metro_sign			src = symbols/signs/metro_sign.svg		     unicode = #24C2 $vs16     cat = symbols   desc = metro sign
-emoji 	code = atm					src = symbols/signs/atm.svg					 unicode = #1F3E7    cat = symbols   desc = ATM sign
-emoji 	code = cinema				src = symbols/signs/cinema.svg				 unicode = #1F3A6    cat = symbols   desc = cinema sign
-emoji 	code = parking				src = symbols/signs/parking.svg				 unicode = #1F17F    cat = symbols   desc = parking sign
+emoji 	short = info					src = symbols/signs/info.svg				 code = #2139 $vs16     cat = symbols   desc = info sign
+emoji 	short = metro_sign			src = symbols/signs/metro_sign.svg		     code = #24C2 $vs16     cat = symbols   desc = metro sign
+emoji 	short = atm					src = symbols/signs/atm.svg					 code = #1F3E7    cat = symbols   desc = ATM sign
+emoji 	short = cinema				src = symbols/signs/cinema.svg				 code = #1F3A6    cat = symbols   desc = cinema sign
+emoji 	short = parking				src = symbols/signs/parking.svg				 code = #1F17F    cat = symbols   desc = parking sign
 
-emoji 	code = sos					src = symbols/signs/sos.svg					 unicode = #1F198    cat = symbols   desc = SOS
+emoji 	short = sos					src = symbols/signs/sos.svg					 code = #1F198    cat = symbols   desc = SOS

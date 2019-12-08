@@ -5,21 +5,21 @@ define people_roles_path activities_clothing/roles
 # most of these use emojidex's (and other vendors') non-UniStd gender-neutral encodings
 # these use Adult (1f9d1) + [possible CM] + whatever object.
 
-emoji 	code = artist%c 						src = $(people_roles_path)/artist.svg								color=$cmaps_all			unicode = #1f9d1 %u $zwj #1f3a8          cat = activities_clothing    root = artist                desc = artist
-emoji 	code = astronaut%c 						src = $(people_roles_path)/astronaut.svg							color=$cmaps_all			unicode = #1f9d1 %u $zwj #1f680          cat = activities_clothing    root = astronaut             desc = astronaut
-emoji 	code = chef%c 							src = $(people_roles_path)/chef.svg									color=$cmaps_all			unicode = #1f9d1 %u $zwj #1f373          cat = activities_clothing    root = chef                  desc = chef
-emoji 	code = construction_worker%c 			src = $(people_roles_path)/construction_worker.svg			        color=$cmaps_all			unicode = #1F477 %u                      cat = activities_clothing    root = construction_worker   desc = construction_worker
-emoji 	code = detective%c 						src = $(people_roles_path)/detective.svg							color=$cmaps_all			unicode = #1F575 %u                      cat = activities_clothing    root = detective             desc = detective
-emoji 	code = factory_worker%c 				src = $(people_roles_path)/factory_worker.svg						color=$cmaps_all			unicode = #1f9d1 %u $zwj #1f3ed          cat = activities_clothing    root = factory_worker        desc = factory worker
-emoji 	code = farmer%c 						src = $(people_roles_path)/farmer.svg								color=$cmaps_all			unicode = #1f9d1 %u $zwj #1f33e          cat = activities_clothing    root = farmer                desc = farmer
-emoji 	code = firefighter%c 					src = $(people_roles_path)/firefighter.svg							color=$cmaps_all			unicode = #1f9d1 %u $zwj #1f692          cat = activities_clothing    root = firefighter           desc = firefighter
-emoji 	code = health_worker%c 					src = $(people_roles_path)/health_worker.svg						color=$cmaps_all			unicode = #1f9d1 %u $zwj #2695 $vs16     cat = activities_clothing    root = health_worker         desc = health worker
-emoji 	code = judge%c 							src = $(people_roles_path)/judge.svg								color=$cmaps_all			unicode = #1f9d1 %u $zwj #2696 $vs16     cat = activities_clothing    root = judge                 desc = judge
-emoji 	code = mechanic%c 						src = $(people_roles_path)/mechanic.svg								color=$cmaps_all			unicode = #1f9d1 %u $zwj #1f527          cat = activities_clothing    root = mechanic              desc = mechanic
-emoji 	code = office_worker%c 					src = $(people_roles_path)/office_worker.svg						color=$cmaps_all			unicode = #1f9d1 %u $zwj #1f4bc          cat = activities_clothing    root = office_worker         desc = office worker
-emoji 	code = pilot%c 							src = $(people_roles_path)/pilot.svg								color=$cmaps_all			unicode = #1f9d1 %u $zwj #2708 $vs16     cat = activities_clothing    root = pilot                 desc = pilot
-emoji 	code = scientist%c 						src = $(people_roles_path)/scientist.svg							color=$cmaps_all			unicode = #1f9d1 %u $zwj #1f52c          cat = activities_clothing    root = scientist             desc = scientist
-emoji 	code = singer%c 						src = $(people_roles_path)/singer.svg								color=$cmaps_all			unicode = #1f9d1 %u $zwj #1f3a4          cat = activities_clothing    root = singer                desc = singer
-emoji 	code = student%c 						src = $(people_roles_path)/student.svg								color=$cmaps_all			unicode = #1f9d1 %u $zwj #1f393          cat = activities_clothing    root = student               desc = student
-emoji 	code = teacher%c 						src = $(people_roles_path)/teacher.svg								color=$cmaps_all			unicode = #1f9d1 %u $zwj #1f3eb          cat = activities_clothing    root = teacher               desc = teacher
-emoji 	code = technologist%c 				    src = $(people_roles_path)/technologist.svg							color=$cmaps_all			unicode = #1f9d1 %u $zwj #1f4bb          cat = activities_clothing    root = technologist          desc = technologist
+emoji 	short = artist%c 						src = $(people_roles_path)/artist.svg								color=$cmaps_all			code = #1f9d1 %u $zwj #1f3a8          cat = activities_clothing    root = artist                desc = artist
+emoji 	short = astronaut%c 						src = $(people_roles_path)/astronaut.svg							color=$cmaps_all			code = #1f9d1 %u $zwj #1f680          cat = activities_clothing    root = astronaut             desc = astronaut
+emoji 	short = chef%c 							src = $(people_roles_path)/chef.svg									color=$cmaps_all			code = #1f9d1 %u $zwj #1f373          cat = activities_clothing    root = chef                  desc = chef
+emoji 	short = construction_worker%c 			src = $(people_roles_path)/construction_worker.svg			        color=$cmaps_all			code = #1F477 %u                      cat = activities_clothing    root = construction_worker   desc = construction_worker
+emoji 	short = detective%c 						src = $(people_roles_path)/detective.svg							color=$cmaps_all			code = #1F575 %u                      cat = activities_clothing    root = detective             desc = detective
+emoji 	short = factory_worker%c 				src = $(people_roles_path)/factory_worker.svg						color=$cmaps_all			code = #1f9d1 %u $zwj #1f3ed          cat = activities_clothing    root = factory_worker        desc = factory worker
+emoji 	short = farmer%c 						src = $(people_roles_path)/farmer.svg								color=$cmaps_all			code = #1f9d1 %u $zwj #1f33e          cat = activities_clothing    root = farmer                desc = farmer
+emoji 	short = firefighter%c 					src = $(people_roles_path)/firefighter.svg							color=$cmaps_all			code = #1f9d1 %u $zwj #1f692          cat = activities_clothing    root = firefighter           desc = firefighter
+emoji 	short = health_worker%c 					src = $(people_roles_path)/health_worker.svg						color=$cmaps_all			code = #1f9d1 %u $zwj #2695 $vs16     cat = activities_clothing    root = health_worker         desc = health worker
+emoji 	short = judge%c 							src = $(people_roles_path)/judge.svg								color=$cmaps_all			code = #1f9d1 %u $zwj #2696 $vs16     cat = activities_clothing    root = judge                 desc = judge
+emoji 	short = mechanic%c 						src = $(people_roles_path)/mechanic.svg								color=$cmaps_all			code = #1f9d1 %u $zwj #1f527          cat = activities_clothing    root = mechanic              desc = mechanic
+emoji 	short = office_worker%c 					src = $(people_roles_path)/office_worker.svg						color=$cmaps_all			code = #1f9d1 %u $zwj #1f4bc          cat = activities_clothing    root = office_worker         desc = office worker
+emoji 	short = pilot%c 							src = $(people_roles_path)/pilot.svg								color=$cmaps_all			code = #1f9d1 %u $zwj #2708 $vs16     cat = activities_clothing    root = pilot                 desc = pilot
+emoji 	short = scientist%c 						src = $(people_roles_path)/scientist.svg							color=$cmaps_all			code = #1f9d1 %u $zwj #1f52c          cat = activities_clothing    root = scientist             desc = scientist
+emoji 	short = singer%c 						src = $(people_roles_path)/singer.svg								color=$cmaps_all			code = #1f9d1 %u $zwj #1f3a4          cat = activities_clothing    root = singer                desc = singer
+emoji 	short = student%c 						src = $(people_roles_path)/student.svg								color=$cmaps_all			code = #1f9d1 %u $zwj #1f393          cat = activities_clothing    root = student               desc = student
+emoji 	short = teacher%c 						src = $(people_roles_path)/teacher.svg								color=$cmaps_all			code = #1f9d1 %u $zwj #1f3eb          cat = activities_clothing    root = teacher               desc = teacher
+emoji 	short = technologist%c 				    src = $(people_roles_path)/technologist.svg							color=$cmaps_all			code = #1f9d1 %u $zwj #1f4bb          cat = activities_clothing    root = technologist          desc = technologist

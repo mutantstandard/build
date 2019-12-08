@@ -1,0 +1,22 @@
+
+
+
+
+# scenes
+# -----------------------------
+
+emoji 	short = aerial_tramway						src = travel_places/trains/aerial_tramway.svg				code = #1F6A1    cat = travel_places   desc = aerial tramway
+emoji 	short = mountain_tramway						src = travel_places/trains/mountain_tramway.svg				code = #1F6A0    cat = travel_places   desc = mountain tramway
+emoji 	short = suspension_railway					src = travel_places/trains/suspension_railway.svg			code = #1F69F    cat = travel_places   desc = suspension railway
+emoji 	short = railway_car							src = travel_places/trains/railway_car.svg					code = #1F683    cat = travel_places   desc = railway car
+emoji 	short = tram_car								src = travel_places/trains/tram_car.svg						code = #1F68B    cat = travel_places   desc = tram car
+emoji 	short = monorail								src = travel_places/trains/monorail.svg						code = #1F69D    cat = travel_places   desc = monorail
+emoji 	short = light_rail							src = travel_places/trains/light_rail.svg					code = #1F688    cat = travel_places   desc = light rail
+emoji 	short = high_speed_train						src = travel_places/trains/high_speed_train.svg				code = #1F684    cat = travel_places   desc = high speed train
+emoji 	short = bullet_train							src = travel_places/trains/bullet_train.svg					code = #1F685    cat = travel_places   desc = bullet train
+emoji 	short = metro								src = travel_places/trains/metro.svg					    code = #1F687    cat = travel_places   desc = metro
+emoji 	short = train								src = travel_places/trains/train.svg						code = #1F686    cat = travel_places   desc = train
+emoji 	short = tram									src = travel_places/trains/tram.svg							code = #1F68A    cat = travel_places   desc = tram
+emoji 	short = station								src = travel_places/trains/station.svg						code = #1F689    cat = travel_places   desc = railway station
+emoji 	short = steam_train							src = travel_places/trains/steam_train.svg				    code = #1F682    cat = travel_places   desc = steam train
+emoji 	short = mountain_railway						src = travel_places/trains/mountain_railway.svg				code = #1F69E    cat = travel_places   desc = mountain railway

@@ -1,32 +1,32 @@
 
 
-emoji 	code = large_black_square							src = symbols/shapes/large_black_square.svg							unicode = #2B1B $vs16    cat = symbols   desc = large black square
-emoji 	code = large_white_square							src = symbols/shapes/large_white_square.svg							unicode = #2B1C $vs16    cat = symbols   desc = large white square
+emoji 	short = large_black_square							src = symbols/shapes/large_black_square.svg							code = #2B1B $vs16    cat = symbols   desc = large black square
+emoji 	short = large_white_square							src = symbols/shapes/large_white_square.svg							code = #2B1C $vs16    cat = symbols   desc = large white square
 
-emoji 	code = medium_black_square						src = symbols/shapes/medium_black_square.svg						unicode = #25FC $vs16    cat = symbols   desc = medium black square
-emoji 	code = medium_white_square						src = symbols/shapes/medium_white_square.svg						unicode = #25FB $vs16    cat = symbols   desc = medium black square
+emoji 	short = medium_black_square						src = symbols/shapes/medium_black_square.svg						code = #25FC $vs16    cat = symbols   desc = medium black square
+emoji 	short = medium_white_square						src = symbols/shapes/medium_white_square.svg						code = #25FB $vs16    cat = symbols   desc = medium black square
 
-emoji 	code = medium_small_black_square			src = symbols/shapes/medium_small_black_square.svg			unicode = #25FE $vs16    cat = symbols   desc =  medium-small black square
-emoji 	code = medium_small_white_square			src = symbols/shapes/medium_small_white_square.svg			unicode = #25FD $vs16    cat = symbols   desc = medium-small black square
+emoji 	short = medium_small_black_square			src = symbols/shapes/medium_small_black_square.svg			code = #25FE $vs16    cat = symbols   desc =  medium-small black square
+emoji 	short = medium_small_white_square			src = symbols/shapes/medium_small_white_square.svg			code = #25FD $vs16    cat = symbols   desc = medium-small black square
 
-emoji 	code = small_black_square							src = symbols/shapes/small_black_square.svg							unicode = #25AA $vs16    cat = symbols   desc = small black square
-emoji 	code = small_white_square							src = symbols/shapes/small_white_square.svg							unicode = #25AB $vs16    cat = symbols   desc = small white square
+emoji 	short = small_black_square							src = symbols/shapes/small_black_square.svg							code = #25AA $vs16    cat = symbols   desc = small black square
+emoji 	short = small_white_square							src = symbols/shapes/small_white_square.svg							code = #25AB $vs16    cat = symbols   desc = small white square
 
-emoji 	code = black_circle										src = symbols/shapes/black_circle.svg										unicode = #26AB $vs16    cat = symbols   desc = black circle
-emoji 	code = white_circle										src = symbols/shapes/white_circle.svg										unicode = #26AA $vs16    cat = symbols   desc = white circle
+emoji 	short = black_circle										src = symbols/shapes/black_circle.svg										code = #26AB $vs16    cat = symbols   desc = black circle
+emoji 	short = white_circle										src = symbols/shapes/white_circle.svg										code = #26AA $vs16    cat = symbols   desc = white circle
 
 
 
-emoji 	code = black_square_button						src = symbols/shapes/black_square_button.svg						unicode = #1F532    cat = symbols   desc = black square button
-emoji 	code = white_square_button						src = symbols/shapes/white_square_button.svg						unicode = #1F533    cat = symbols   desc = white square button
+emoji 	short = black_square_button						src = symbols/shapes/black_square_button.svg						code = #1F532    cat = symbols   desc = black square button
+emoji 	short = white_square_button						src = symbols/shapes/white_square_button.svg						code = #1F533    cat = symbols   desc = white square button
 
-emoji 	code = blue_circle										src = symbols/shapes/blue_circle.svg										unicode = #1F535    cat = symbols   desc = blue circle
-emoji 	code = red_circle											src = symbols/shapes/red_circle.svg											unicode = #1F534    cat = symbols   desc = red circle
+emoji 	short = blue_circle										src = symbols/shapes/blue_circle.svg										code = #1F535    cat = symbols   desc = blue circle
+emoji 	short = red_circle											src = symbols/shapes/red_circle.svg											code = #1F534    cat = symbols   desc = red circle
 
-emoji 	code = large_orange_diamond						src = symbols/shapes/large_orange_diamond.svg						unicode = #1F536    cat = symbols   desc = large orange diamond
-emoji 	code = large_blue_diamond							src = symbols/shapes/large_blue_diamond.svg							unicode = #1F537    cat = symbols   desc = large blue diamond
-emoji 	code = small_orange_diamond						src = symbols/shapes/small_orange_diamond.svg						unicode = #1F538    cat = symbols   desc = small orange diamond
-emoji 	code = small_blue_diamond							src = symbols/shapes/small_blue_diamond.svg							unicode = #1F539    cat = symbols   desc = small blue diamond
+emoji 	short = large_orange_diamond						src = symbols/shapes/large_orange_diamond.svg						code = #1F536    cat = symbols   desc = large orange diamond
+emoji 	short = large_blue_diamond							src = symbols/shapes/large_blue_diamond.svg							code = #1F537    cat = symbols   desc = large blue diamond
+emoji 	short = small_orange_diamond						src = symbols/shapes/small_orange_diamond.svg						code = #1F538    cat = symbols   desc = small orange diamond
+emoji 	short = small_blue_diamond							src = symbols/shapes/small_blue_diamond.svg							code = #1F539    cat = symbols   desc = small blue diamond
 
-emoji 	code = red_upward_triangle						src = symbols/shapes/red_upward_triangle.svg						unicode = #1F53A    cat = symbols   desc = red upward facing triangle
-emoji 	code = red_downward_triangle					src = symbols/shapes/red_downward_triangle.svg					unicode = #1F53B    cat = symbols   desc = red downward facing triangle
+emoji 	short = red_upward_triangle						src = symbols/shapes/red_upward_triangle.svg						code = #1F53A    cat = symbols   desc = red upward facing triangle
+emoji 	short = red_downward_triangle					src = symbols/shapes/red_downward_triangle.svg					code = #1F53B    cat = symbols   desc = red downward facing triangle

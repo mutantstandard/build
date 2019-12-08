@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:1.5;">
+    <rect id="bullet_train" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <rect x="2" y="28" width="28" height="2" style="fill:none;stroke:#000;stroke-width:4px;"/>
+            <path d="M7,25l23,0l0,-17l-5.372,0c-3.931,0 -7.621,1.874 -9.904,4.475c-2.453,2.795 -3.989,4.535 -7.109,5.328c-2.617,0.666 -5.615,1.284 -5.615,4.066c0,2.272 2.131,3.131 5,3.131Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+        </g>
+        <g id="emoji">
+            <rect x="2" y="28" width="28" height="2" style="fill:#666;"/>
+            <path d="M7,25l23,0l0,-17l-5.372,0c-3.931,0 -7.621,1.874 -9.904,4.475c-2.453,2.795 -3.989,4.535 -7.109,5.328c-2.617,0.666 -5.615,1.284 -5.615,4.066c0,2.272 2.131,3.131 5,3.131Z" style="fill:#f2f2f2;"/>
+            <clipPath id="_clip2">
+                <path d="M7,25l23,0l0,-17l-5.372,0c-3.931,0 -7.621,1.874 -9.904,4.475c-2.453,2.795 -3.989,4.535 -7.109,5.328c-2.617,0.666 -5.615,1.284 -5.615,4.066c0,2.272 2.131,3.131 5,3.131Z"/>
+            </clipPath>
+            <g clip-path="url(#_clip2)">
+                <rect x="0" y="23" width="31" height="3" style="fill:#ccc;"/>
+                <path d="M1,21c3.169,-0.076 7.437,-0.1 10.414,-1c3.824,-1.156 6.974,-1 11.586,-1l8,0" style="fill:none;stroke:#27acbb;stroke-width:2px;"/>
+                <path d="M4.856,17.56c0,0 2.791,1.317 2.791,4.472c0,2.612 -2.98,4.008 -2.98,4.008" style="fill:none;stroke:#a8a8a8;stroke-width:1px;stroke-linejoin:round;"/>
+            </g>
+            <g>
+                <path d="M14,11l7.5,0c1.381,0 2.5,1.119 2.5,2.5c0,0.663 -0.263,1.299 -0.732,1.768c-0.469,0.469 -1.105,0.732 -1.768,0.732c-4.026,0 -11.5,0 -11.5,0l4,-5Z"/>
+                <path d="M29,12.5c0,-0.398 -0.158,-0.779 -0.439,-1.061c-0.282,-0.281 -0.663,-0.439 -1.061,-0.439c-0.398,0 -0.779,0.158 -1.061,0.439c-0.281,0.282 -0.439,0.663 -0.439,1.061l0,2c0,0.398 0.158,0.779 0.439,1.061c0.282,0.281 0.663,0.439 1.061,0.439c0.398,0 0.779,-0.158 1.061,-0.439c0.281,-0.282 0.439,-0.663 0.439,-1.061l0,-2Z"/>
+            </g>
+        </g>
+    </g>
+</svg>

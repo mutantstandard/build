@@ -1,13 +1,15 @@
 
 
-emoji 	code = awoo									src = symbols/custom/awoo.svg						unicode = #101698    cat = symbols   desc = 'awoo' sign, showing a wolf howling
-emoji 	code = dont_awoo							src = symbols/custom/dont_awoo.svg					unicode = #101699    cat = symbols   desc = 'don't awoo' sign, showing a wolf howling with a prohibited line over it
+emoji 	short = awoo									src = symbols/custom/awoo.svg						code = #101698    cat = symbols   desc = 'awoo' sign, showing a wolf howling
+emoji 	short = dont_awoo							src = symbols/custom/dont_awoo.svg					code = #101699    cat = symbols   desc = 'don't awoo' sign, showing a wolf howling with a prohibited line over it
 
-emoji 	code = battery_empty						src = symbols/custom/battery_empty.svg				unicode = !undefined    cat = symbols   desc = empty battery symbol
-emoji 	code = battery_low							src = symbols/custom/battery_low.svg				unicode = !undefined    cat = symbols   desc = low battery symbol
-emoji 	code = battery_medium						src = symbols/custom/battery_medium.svg				unicode = !undefined    cat = symbols   desc = medium battery symbol
-emoji 	code = battery_full							src = symbols/custom/battery_full.svg				unicode = !undefined    cat = symbols   desc = full battery symbol
+emoji 	short = battery_empty						src = symbols/custom/battery_empty.svg				code = !undefined    cat = symbols   desc = empty battery symbol
+emoji 	short = battery_low							src = symbols/custom/battery_low.svg				code = !undefined    cat = symbols   desc = low battery symbol
+emoji 	short = battery_medium						src = symbols/custom/battery_medium.svg				code = !undefined    cat = symbols   desc = medium battery symbol
+emoji 	short = battery_full							src = symbols/custom/battery_full.svg				code = !undefined    cat = symbols   desc = full battery symbol
 
-emoji 	code = privacy								src = symbols/custom/privacy.svg					unicode = !undefined    cat = symbols   desc = privacy symbol (an eye with a hand over it)
+emoji 	short = privacy								src = symbols/custom/privacy.svg					code = !undefined    cat = symbols   desc = privacy symbol (an eye with a hand over it)
 
-emoji 	code = dont_at_me							src = symbols/custom/dont_at_me.svg					unicode = #10169a    cat = symbols      desc = an @ symbol with a prohibited sign over it
+emoji 	short = dont_at_me							src = symbols/custom/dont_at_me.svg					code = #10169a    cat = symbols      desc = an @ symbol with a prohibited sign over it
+
+emoji 	short = neurodiversity					    src = symbols/custom/neurodiversity.svg					code = #10169d    cat = symbols      desc = neurodiversity symbol

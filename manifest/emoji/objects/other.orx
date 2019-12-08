@@ -1,7 +1,8 @@
 
 
 
-emoji 	code = bone										src = objects/other/bone.svg										unicode = #1F9B4        cat = objects  desc = bone
-emoji 	code = coffin									src = objects/other/coffin.svg									unicode = #26B0         cat = objects  desc = coffin
-emoji 	code = glowstick							src = objects/other/glowstick.svg								unicode = !undefined    cat = objects  desc = glowstick
-emoji 	code = hole							      src = objects/other/hole.svg								    unicode = #1F573        cat = objects  desc = hole
+emoji 	short = bone								src = objects/other/bone.svg								    code = #1F9B4        cat = objects  desc = bone
+emoji 	short = coffin							src = objects/other/coffin.svg									code = #26B0         cat = objects  desc = coffin
+emoji 	short = glowstick						src = objects/other/glowstick.svg								code = !undefined    cat = objects  desc = glowstick
+emoji 	short = hole							    src = objects/other/hole.svg								    code = #1F573        cat = objects  desc = hole
+emoji 	short = briefcase						src = objects/other/briefcase.svg								code = #1F4BC        cat = objects  desc = briefcase

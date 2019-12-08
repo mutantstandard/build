@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;"><rect id="radio" x="0" y="0" width="32" height="32" style="fill:none;"/><clipPath id="_clip1"><rect x="0" y="0" width="32" height="32"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><path d="M30,13c0,-0.265 -0.105,-0.52 -0.293,-0.707c-0.187,-0.188 -0.442,-0.293 -0.707,-0.293c-4.355,0 -21.645,0 -26,0c-0.265,0 -0.52,0.105 -0.707,0.293c-0.188,0.187 -0.293,0.442 -0.293,0.707c0,3.151 0,12.849 0,16c0,0.265 0.105,0.52 0.293,0.707c0.187,0.188 0.442,0.293 0.707,0.293c4.355,0 21.645,0 26,0c0.265,0 0.52,-0.105 0.707,-0.293c0.188,-0.187 0.293,-0.442 0.293,-0.707c0,-3.151 0,-12.849 0,-16Z" style="fill:none;stroke:#000;stroke-width:4px;"/><path d="M4.5,13l16.5,-5.5" style="fill:none;stroke:#000;stroke-width:6px;stroke-linecap:square;"/><path d="M25,6.167l2,-0.667" style="fill:none;stroke:#000;stroke-width:6px;stroke-linecap:square;"/></g><g id="emoji"><path d="M4.5,13l16.5,-5.5" style="fill:none;stroke:#868686;stroke-width:2px;stroke-linecap:square;"/><path d="M4.5,13l22.5,-7.5" style="fill:none;stroke:#868686;stroke-width:1px;stroke-linecap:square;"/><path d="M25,6.167l2,-0.667" style="fill:none;stroke:#868686;stroke-width:2px;stroke-linecap:square;"/><path d="M30,18l-3,-2l-22,0l-3,2c0,0 0,8.118 0,11c0,0.552 0.448,1 1,1c4.355,0 21.645,0 26,0c0.552,0 1,-0.448 1,-1c0,-2.882 0,-11 0,-11Z" style="fill:#ccc;"/><path d="M30,13c0,-0.552 -0.448,-1 -1,-1c-4.355,0 -21.645,0 -26,0c-0.552,0 -1,0.448 -1,1c0,1.707 0,5 0,5l28,0c0,0 0,-3.293 0,-5Z" style="fill:#333;"/><g><circle cx="4" cy="21" r="1" style="fill:#999;"/><circle cx="7" cy="21" r="1" style="fill:#999;"/><circle cx="10" cy="21" r="1" style="fill:#999;"/><circle cx="13" cy="21" r="1" style="fill:#999;"/><circle cx="16" cy="21" r="1" style="fill:#999;"/><circle cx="19" cy="21" r="1" style="fill:#999;"/><circle cx="22" cy="21" r="1" style="fill:#999;"/><circle cx="25" cy="21" r="1" style="fill:#999;"/><circle cx="28" cy="21" r="1" style="fill:#999;"/><circle cx="4" cy="24" r="1" style="fill:#999;"/><circle cx="7" cy="24" r="1" style="fill:#999;"/><circle cx="10" cy="24" r="1" style="fill:#999;"/><circle cx="13" cy="24" r="1" style="fill:#999;"/><circle cx="16" cy="24" r="1" style="fill:#999;"/><circle cx="19" cy="24" r="1" style="fill:#999;"/><circle cx="22" cy="24" r="1" style="fill:#999;"/><circle cx="25" cy="24" r="1" style="fill:#999;"/><circle cx="28" cy="24" r="1" style="fill:#999;"/><circle cx="4" cy="27" r="1" style="fill:#999;"/><circle cx="7" cy="27" r="1" style="fill:#999;"/><circle cx="10" cy="27" r="1" style="fill:#999;"/><circle cx="13" cy="27" r="1" style="fill:#999;"/><circle cx="16" cy="27" r="1" style="fill:#999;"/><circle cx="19" cy="27" r="1" style="fill:#999;"/><circle cx="22" cy="27" r="1" style="fill:#999;"/><circle cx="25" cy="27" r="1" style="fill:#999;"/><circle cx="28" cy="27" r="1" style="fill:#999;"/></g><rect x="3" y="14" width="14" height="3"/><g><circle cx="19.5" cy="15.5" r="1.5" style="fill:#797979;"/><circle cx="23.5" cy="15.5" r="1.5" style="fill:#797979;"/><circle cx="27.5" cy="15.5" r="1.5" style="fill:#797979;"/></g></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="radio" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="M30,13c0,-0.265 -0.105,-0.52 -0.293,-0.707c-0.187,-0.188 -0.442,-0.293 -0.707,-0.293c-4.355,0 -21.645,0 -26,0c-0.265,0 -0.52,0.105 -0.707,0.293c-0.188,0.187 -0.293,0.442 -0.293,0.707c0,3.151 0,12.849 0,16c0,0.265 0.105,0.52 0.293,0.707c0.187,0.188 0.442,0.293 0.707,0.293c4.355,0 21.645,0 26,0c0.265,0 0.52,-0.105 0.707,-0.293c0.188,-0.187 0.293,-0.442 0.293,-0.707c0,-3.151 0,-12.849 0,-16Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+            <path d="M30.162,5.5c0.168,0.503 0.129,1.052 -0.108,1.527c-0.237,0.474 -0.653,0.835 -1.157,1.003c-6.325,2.108 -26.294,8.765 -26.294,8.765l-1.898,-5.692c0,0 19.97,-6.657 26.295,-8.765c0.503,-0.168 1.052,-0.129 1.527,0.108c0.474,0.237 0.835,0.653 1.003,1.157c0.203,0.61 0.429,1.286 0.632,1.897Z"/>
+        </g>
+        <g id="emoji">
+            <path d="M4.5,13l16.5,-5.5" style="fill:none;stroke:#999;stroke-width:2px;stroke-linecap:square;"/>
+            <path d="M4.5,13l22.5,-7.5" style="fill:none;stroke:#999;stroke-width:1px;stroke-linecap:square;"/>
+            <path d="M25,6.167l2,-0.667" style="fill:none;stroke:#999;stroke-width:2px;stroke-linecap:square;"/>
+            <path d="M30,18l-3,-2l-22,0l-3,2l0,11c0,0.552 0.448,1 1,1c4.355,0 21.645,0 26,0c0.552,0 1,-0.448 1,-1c0,-2.882 0,-11 0,-11Z" style="fill:#d9d9d9;"/>
+            <path d="M30,13c0,-0.552 -0.448,-1 -1,-1c-4.355,0 -21.645,0 -26,0c-0.552,0 -1,0.448 -1,1c0,1.707 0,5 0,5l28,0l0,-5Z" style="fill:#333;"/>
+            <g>
+                <circle cx="4" cy="21" r="1" style="fill:#999;"/>
+                <circle cx="7" cy="21" r="1" style="fill:#999;"/>
+                <circle cx="10" cy="21" r="1" style="fill:#999;"/>
+                <circle cx="13" cy="21" r="1" style="fill:#999;"/>
+                <circle cx="16" cy="21" r="1" style="fill:#999;"/>
+                <circle cx="19" cy="21" r="1" style="fill:#999;"/>
+                <circle cx="22" cy="21" r="1" style="fill:#999;"/>
+                <circle cx="25" cy="21" r="1" style="fill:#999;"/>
+                <circle cx="28" cy="21" r="1" style="fill:#999;"/>
+                <circle cx="4" cy="24" r="1" style="fill:#999;"/>
+                <circle cx="7" cy="24" r="1" style="fill:#999;"/>
+                <circle cx="10" cy="24" r="1" style="fill:#999;"/>
+                <circle cx="13" cy="24" r="1" style="fill:#999;"/>
+                <circle cx="16" cy="24" r="1" style="fill:#999;"/>
+                <circle cx="19" cy="24" r="1" style="fill:#999;"/>
+                <circle cx="22" cy="24" r="1" style="fill:#999;"/>
+                <circle cx="25" cy="24" r="1" style="fill:#999;"/>
+                <circle cx="28" cy="24" r="1" style="fill:#999;"/>
+                <circle cx="4" cy="27" r="1" style="fill:#999;"/>
+                <circle cx="7" cy="27" r="1" style="fill:#999;"/>
+                <circle cx="10" cy="27" r="1" style="fill:#999;"/>
+                <circle cx="13" cy="27" r="1" style="fill:#999;"/>
+                <circle cx="16" cy="27" r="1" style="fill:#999;"/>
+                <circle cx="19" cy="27" r="1" style="fill:#999;"/>
+                <circle cx="22" cy="27" r="1" style="fill:#999;"/>
+                <circle cx="25" cy="27" r="1" style="fill:#999;"/>
+                <circle cx="28" cy="27" r="1" style="fill:#999;"/>
+            </g>
+            <rect x="3" y="14" width="14" height="3"/>
+            <g>
+                <circle cx="19.5" cy="15.5" r="1.5" style="fill:#797979;"/>
+                <circle cx="23.5" cy="15.5" r="1.5" style="fill:#797979;"/>
+                <circle cx="27.5" cy="15.5" r="1.5" style="fill:#797979;"/>
+            </g>
+        </g>
+    </g>
+</svg>

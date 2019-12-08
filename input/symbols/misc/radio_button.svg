@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;"><path id="radio_button" d="M0,0l0,32l32,0l0,-32l-32,0Z" style="fill:none;"/><clipPath id="_clip1"><path d="M0,0l0,32l32,0l0,-32l-32,0Z"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><circle cx="16" cy="16" r="14" style="fill:none;stroke:#000;stroke-width:4px;"/></g><g id="emoji"><path d="M2.009,16.5c-0.006,-0.166 -0.009,-0.333 -0.009,-0.5c0,-7.727 6.273,-14 14,-14c7.727,0 14,6.273 14,14c0,0.167 -0.003,0.334 -0.009,0.5c-0.263,-7.496 -27.719,-7.496 -27.982,0Z" style="fill:#4d4d4d;"/><path d="M2.009,16.5c0.263,-7.496 6.432,-13.5 13.991,-13.5c7.559,0 13.728,6.004 13.991,13.5c-0.263,7.496 -6.432,13.5 -13.991,13.5c-7.559,0 -13.728,-6.004 -13.991,-13.5Z" style="fill:#808080;"/><path d="M24,16l-16,0c0,0 0,0.825 0,2c0,4.418 3.582,8 8,8c0,0 0,0 0,0c4.418,0 8,-3.582 8,-8c0,-1.175 0,-2 0,-2Z" style="fill:#5c5c5c;"/><circle cx="16" cy="16" r="8" style="fill:#fff;"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <path id="radio_button" d="M0,0l0,32l32,0l0,-32l-32,0Z" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <path d="M0,0l0,32l32,0l0,-32l-32,0Z"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <circle cx="16" cy="16" r="14" style="fill:none;stroke:#000;stroke-width:4px;"/>
+        </g>
+        <g id="emoji">
+            <path d="M2.009,16.5c-0.006,-0.166 -0.009,-0.333 -0.009,-0.5c0,-7.727 6.273,-14 14,-14c7.727,0 14,6.273 14,14c0,0.167 -0.003,0.334 -0.009,0.5c-0.263,-7.496 -27.719,-7.496 -27.982,0Z" style="fill:#4d4d4d;"/>
+            <path d="M2.009,16.5c0.263,-7.496 6.432,-13.5 13.991,-13.5c7.559,0 13.728,6.004 13.991,13.5c-0.263,7.496 -6.432,13.5 -13.991,13.5c-7.559,0 -13.728,-6.004 -13.991,-13.5Z" style="fill:#808080;"/>
+            <path d="M24,16l-16,0l0,2c0,4.418 3.582,8 8,8c0,0 0,0 0,0c4.418,0 8,-3.582 8,-8c0,-1.175 0,-2 0,-2Z" style="fill:#5c5c5c;"/>
+            <circle cx="16" cy="16" r="8" style="fill:#fff;"/>
+        </g>
+    </g>
+</svg>

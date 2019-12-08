@@ -8,7 +8,7 @@
 
 
 
-# REPEATING CODEPOINTS
+# REPEATING shortPOINTS
 # ------------------------------------
 define zwj #200d
 define vs16 #fe0f
@@ -109,7 +109,7 @@ include emoji/symbols/symbols_clocks.orx
 # TRAVEL AND PLACES
 # ------------------------------------
 include emoji/travel_places/cars.orx
-include emoji/travel_places/rail.orx
+include emoji/travel_places/trains.orx
 include emoji/travel_places/air.orx
 include emoji/travel_places/locations.orx
 include emoji/travel_places/buildings.orx

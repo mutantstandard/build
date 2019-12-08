@@ -1,3 +1,3 @@
-emoji 	code = airplane				    src = travel_places/air/airplane.svg	             unicode = #2708 $vs16     cat = travel_places          desc = airplane
-emoji 	code = airplane_departure		src = travel_places/air/airplane_departure.svg	     unicode = #1F6EB          cat = travel_places          desc = airplane departing
-emoji 	code = airplane_arrival         src = travel_places/air/airplane_arrival.svg	     unicode = #1F6EC $vs16    cat = travel_places          desc = airplane arriving
+emoji 	short = airplane				    src = travel_places/air/airplane.svg	             code = #2708 $vs16     cat = travel_places          desc = airplane
+emoji 	short = airplane_departure		src = travel_places/air/airplane_departure.svg	     code = #1F6EB          cat = travel_places          desc = airplane departing
+emoji 	short = airplane_arrival         src = travel_places/air/airplane_arrival.svg	     code = #1F6EC $vs16    cat = travel_places          desc = airplane arriving

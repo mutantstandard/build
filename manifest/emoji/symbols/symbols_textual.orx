@@ -1,25 +1,33 @@
 
 
-emoji   code = plus                         src = symbols/textual/plus.svg                           unicode = #2795             cat = symbols     desc = plus symbol
-emoji   code = minus                        src = symbols/textual/minus.svg                          unicode = #2796             cat = symbols     desc = minus symbol
-emoji   code = multiply                     src = symbols/textual/multiply.svg                       unicode = #2716             cat = symbols     desc = multiply symbol
-emoji   code = divide                       src = symbols/textual/divide.svg                         unicode = #2797             cat = symbols     desc = divide symbol
+emoji   short = plus                         src = symbols/textual/plus.svg                           code = #2795             cat = symbols     desc = plus symbol
+emoji   short = minus                        src = symbols/textual/minus.svg                          code = #2796             cat = symbols     desc = minus symbol
+emoji   short = multiply                     src = symbols/textual/multiply.svg                       code = #2716             cat = symbols     desc = multiply symbol
+emoji   short = divide                       src = symbols/textual/divide.svg                         code = #2797             cat = symbols     desc = divide symbol
 
-emoji   code = tilde                        src = symbols/textual/tilde.svg                         unicode = #007E $vs16        cat = symbols     desc = tilde symbol
-emoji   code = wavy_dash                    src = symbols/textual/wavy_dash.svg                      unicode = #3030 $vs16                  cat = symbols     desc = wavy dash
-emoji   code = loop                         src = symbols/textual/loop.svg                           unicode = #27B0                   cat = symbols     desc = loop
-emoji   code = double_loop                  src = symbols/textual/double_loop.svg                    unicode = #27BF                   cat = symbols     desc = double loop
-emoji   code = tick                         src = symbols/textual/tick.svg                           unicode = #2714 $vs16                 cat = symbols     desc = tick
+emoji   short = tilde                        src = symbols/textual/tilde.svg                         code = #007E $vs16        cat = symbols     desc = tilde symbol
+emoji   short = wavy_dash                    src = symbols/textual/wavy_dash.svg                      code = #3030 $vs16                  cat = symbols     desc = wavy dash
+emoji   short = loop                         src = symbols/textual/loop.svg                           code = #27B0                   cat = symbols     desc = loop
+emoji   short = double_loop                  src = symbols/textual/double_loop.svg                    code = #27BF                   cat = symbols     desc = double loop
+emoji   short = infinity                     src = symbols/textual/infinity.svg                       code = #267E $vs16             cat = symbols     desc = infinity
 
-emoji   code = music_notes                  src = symbols/textual/music_notes.svg                    unicode = #1F3B6                  cat = symbols     desc = music notes
-emoji   code = music_note                   src = symbols/textual/music_note.svg                     unicode = #1F3B5                  cat = symbols     desc = music note
+emoji   short = tick                         src = symbols/textual/tick.svg                           code = #2714 $vs16                 cat = symbols     desc = tick
+emoji   short = dollar                       src = symbols/textual/dollar.svg                       code = #1F4B2                 cat = symbols     desc = dollar symbol
+
+emoji   short = music_notes                  src = symbols/textual/music_notes.svg                    code = #1F3B6                  cat = symbols     desc = music notes
+emoji   short = music_note                   src = symbols/textual/music_note.svg                     code = #1F3B5                  cat = symbols     desc = music note
 
 
-emoji 	code = red_exclamation_mark			src = symbols/textual/red_exclamation_mark.svg			unicode = #2757 $vs16         cat = symbols   desc = red exclamation mark
-emoji 	code = gray_exclamation_mark		src = symbols/textual/gray_exclamation_mark.svg			unicode = #2755               cat = symbols   desc = gray exclamation mark
+emoji 	short = red_exclamation_mark			src = symbols/textual/red_exclamation_mark.svg			code = #2757 $vs16         cat = symbols   desc = red exclamation mark
+emoji 	short = gray_exclamation_mark		src = symbols/textual/gray_exclamation_mark.svg			code = #2755               cat = symbols   desc = gray exclamation mark
 
-emoji 	code = red_question_mark			src = symbols/textual/red_question_mark.svg			     unicode = #2753 $vs16         cat = symbols   desc = red question mark
-emoji 	code = gray_question_mark			src = symbols/textual/gray_question_mark.svg		      unicode = #2754               cat = symbols   desc = gray question mark
+emoji 	short = red_question_mark			src = symbols/textual/red_question_mark.svg			     code = #2753 $vs16         cat = symbols   desc = red question mark
+emoji 	short = gray_question_mark			src = symbols/textual/gray_question_mark.svg		      code = #2754               cat = symbols   desc = gray question mark
 
-emoji 	code = exclamation_exclamation		src = symbols/textual/exclamation_exclamation.svg				unicode = #203C $vs16         cat = symbols   desc = two red exclamation marks
-emoji 	code = exclamation_question			src = symbols/textual/exclamation_question.svg					unicode = #2049 $vs16         cat = symbols   desc = a red exclamation mark with a red question mark
+emoji 	short = exclamation_exclamation		src = symbols/textual/exclamation_exclamation.svg				code = #203C $vs16         cat = symbols   desc = two red exclamation marks
+emoji 	short = exclamation_question			src = symbols/textual/exclamation_question.svg					code = #2049 $vs16         cat = symbols   desc = a red exclamation mark with a red question mark
+
+emoji   short = heart_suit                   src = symbols/textual/heart_suit.svg                     code = #2663 $vs16                  cat = symbols     desc = heart suit
+emoji   short = diamond_suit                 src = symbols/textual/diamond_suit.svg                     code = #2666 $vs16                  cat = symbols     desc = diamond suit
+emoji   short = club_suit                    src = symbols/textual/club_suit.svg                     code = #2665 $vs16                  cat = symbols     desc = club suit
+emoji   short = spade_suit                   src = symbols/textual/spade_suit.svg                     code = #2660 $vs16                  cat = symbols     desc = spade suit

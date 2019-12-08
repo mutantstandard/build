@@ -5,7 +5,7 @@
 # scenes
 # -----------------------------
 
-emoji 	code = school			src = travel_places/buildings/school.svg			unicode = #1F3EB    cat = travel_places     desc = school
-emoji 	code = factory			src = travel_places/buildings/factory.svg			unicode = #1F3ED    cat = travel_places     desc = factory
+emoji 	short = school			src = travel_places/buildings/school.svg			code = #1F3EB    cat = travel_places     desc = school
+emoji 	short = factory			src = travel_places/buildings/factory.svg			code = #1F3ED    cat = travel_places     desc = factory
 
-emoji 	code = shinto_shrine	src = travel_places/buildings/shinto_shrine.svg			unicode = #26E9 $vs16    cat = travel_places     desc = shinto shrine torii
+emoji 	short = shinto_shrine	src = travel_places/buildings/shinto_shrine.svg			code = #26E9 $vs16    cat = travel_places     desc = shinto shrine torii

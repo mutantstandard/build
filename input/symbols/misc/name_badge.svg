@@ -1,1 +1,18 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"><svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;"><rect id="name_badge" x="0" y="0" width="32" height="32" style="fill:none;"/><clipPath id="_clip1"><rect x="0" y="0" width="32" height="32"/></clipPath><g clip-path="url(#_clip1)"><g id="outline"><path d="M2,14c0,-4.18 1.836,-7.934 4.75,-10.501l4.25,8.501l5,-10l5,10l4.25,-8.501c2.914,2.567 4.75,6.321 4.75,10.501c0,0 0,2 0,2c0,7.727 -6.273,14 -14,14c-7.727,0 -14,-6.273 -14,-14l0,-2Z" style="fill:none;stroke:#000;stroke-width:4px;"/></g><g id="emoji"><path d="M2.142,14c0.483,-3.368 8.858,0 8.858,0l10,0c0,0 8.375,-3.368 8.858,0l0.142,0l0,2c0,7.727 -6.273,14 -14,14c-7.727,0 -14,-6.273 -14,-14c0,0 0,-2 0,-2l0.142,0Z" style="fill:#93151c;"/><path d="M6.75,3.499l4.25,8.501l5,-10l5,10l4.25,-8.501c2.914,2.567 4.75,6.321 4.75,10.501c0,7.727 -6.273,14 -14,14c-7.727,0 -14,-6.273 -14,-14c0,-4.18 1.836,-7.934 4.75,-10.501Z" style="fill:#e02a33;"/><rect x="7" y="14" width="18" height="6" style="fill:#fff;"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-linejoin:round;">
+    <rect id="name_badge" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="M2,14c0,-4.18 1.836,-7.934 4.75,-10.501l4.25,8.501l5,-10l5,10l4.25,-8.501c2.914,2.567 4.75,6.321 4.75,10.501l0,2c0,7.727 -6.273,14 -14,14c-7.727,0 -14,-6.273 -14,-14l0,-2Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+        </g>
+        <g id="emoji">
+            <path d="M2.142,14c0.483,-3.368 8.858,0 8.858,0l10,0c0,0 8.375,-3.368 8.858,0l0.142,0l0,2c0,7.727 -6.273,14 -14,14c-7.727,0 -14,-6.273 -14,-14l0,-2l0.142,0Z" style="fill:#93151c;"/>
+            <path d="M6.75,3.499l4.25,8.501l5,-10l5,10l4.25,-8.501c2.914,2.567 4.75,6.321 4.75,10.501c0,7.727 -6.273,14 -14,14c-7.727,0 -14,-6.273 -14,-14c0,-4.18 1.836,-7.934 4.75,-10.501Z" style="fill:#e02a33;"/>
+            <rect x="7" y="14" width="18" height="6" style="fill:#fff;"/>
+        </g>
+    </g>
+</svg>
