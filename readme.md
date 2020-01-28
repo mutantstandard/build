@@ -23,7 +23,7 @@ Everything in this repository is licensed under a [Creative Commons Attribution-
 
 ### images
 
-- Download the latest version of [orxporter](https://github.com/dzuk-mutant/orxporter/).
+- Download the latest version of [orxporter](https://github.com/mutantstandard/orxporter/).
 - Place orxporter in the `orxporter` directory.
 - Start running export commands from the root directory of this repo.
 
@@ -41,7 +41,7 @@ The [orxporter repo](https://github.com/mutantstandard/orxporter/) has full docu
 ./orxporter/orxport.py -m manifest/out.orx -i ../input -q 32x32 -o out/font_sources -F svg,png-32,png-64,png-128 -t 4 -f %f/%u
 ```
 
-- Download the latest version of [forc](https://github.com/mutantstandard/orxporter/).
+- Download the latest version of [forc](https://github.com/mutantstandard/forc/).
 - Place forc in the `forc` directory.
 - Then build fonts with forc like this...
 
