@@ -1,6 +1,6 @@
 # Mutant Standard Build Files
 
-This repository contains all of the files required to build a custom Mutant Standard package using [Orxporter](https://github.com/mutantstandard/orxporter).
+This repository contains all of the files required to build a custom Mutant Standard package using Orxporter.
 
 -----
 
@@ -19,38 +19,43 @@ Everything in this repository is licensed under a [Creative Commons Attribution-
 
 -----
 
-## How to use
+## Requirements
 
-### images
+- [Orxporter 0.4.2](https://github.com/mutantstandard/Orxporter/releases)
+- [Forc (the latest commit)](https://github.com/mutantstandard/Forc)
 
-- Download the latest version of [orxporter](https://github.com/mutantstandard/orxporter/).
-- Place orxporter in the `orxporter` directory.
+---
+
+### Images
+
+- Download the latest version of Orxporter.
+- Place Orxporter in the `Orxporter` directory.
 - Start running export commands from the root directory of this repo.
 
 If you want some ideas on how to make your own scripts and commands, in the root of this repo there are `.command` executable scripts, all of which are the ones I use in everyday tests and for the final export of each release.
 
-The [orxporter repo](https://github.com/mutantstandard/orxporter/) has full documentation on how to create your own build commands and understand manifest files.
+The [Orxporter repo](https://github.com/mutantstandard/Orxporter/) has full documentation on how to create your own build commands and understand manifest files.
 
-### fonts
+### Fonts
 
 *(this is just a basic quick guide for now)*
 
-- Download the latest version of [orxporter](https://github.com/dzuk-mutant/orxporter/) and put it in this folder (as described above), export like this:
+- Download the latest version of Orxporter and put it in this folder (as described above), export like this:
 
 ```
-./orxporter/orxport.py -m manifest/out.orx -i ../input -q 32x32 -o out/font_sources -F svg,png-32,png-64,png-128 -t 4 -f %f/%u
+./Orxporter/orxport.py -m manifest/out.orx -i ../input -q 32x32 -o out/font_sources -F svg,png-32,png-64,png-128 -t 4 -f %f/%u
 ```
 
-- Download the latest version of [forc](https://github.com/mutantstandard/forc/).
-- Place forc in the `forc` directory.
-- Then build fonts with forc like this...
+- Download the latest version of Forc.
+- Place Forc in the `Forc` directory.
+- Then build fonts with Forc like this...
 
 
 ```
-./forc/forc.py -m manifest/font/manifest.json -a manifest/font/aliases.json -i out/font_sources -o out/fonts -F [formats] --afsc
+./Forc/Forc.py -m manifest/font/manifest.json -a manifest/font/aliases.json -i out/font_sources -o out/fonts -F [formats] --afsc
 ```
 
-See forc's help (`-h` flag) to see what formats you can export to. forc also has a readme and documentation.
+See Forc's help (`-h` flag) to see what formats you can export to. Forc also has a readme and documentation.
 
 (the `--afsc` build flag is super-important if you're building a SVG font with Mutant Standard's images, **do not remove it**.)
 
@@ -68,7 +73,8 @@ Check out the [translation doc](translating.md) for some guidance.
 
 - `/input` is where the input emoji SVGs are.
 - `/manifest` is where all the manifest files are, including license metadata.
-- `/orxporter` is where orxporter should go.
+- `/Orxporter` is where Orxporter should go.
+- `/Forc` is where Forc should go.
 - `/out` is where the exported emoji go (I recommend putting the output of any task in a sub-folder so you can make multiple types of exports without conflicts).
 
 ------

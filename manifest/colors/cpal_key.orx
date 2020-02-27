@@ -1,9 +1,13 @@
 palette key
-	skin_shade_1 = #F10DC3
-	skin_shade_2 = #A90EB1
-	skin_shade_3 = #640082
-	nail_care_color = #F6BCE8
-	paw_pad_color = #FF80B7
+	shade_1 = #F10DC3
+	shade_2 = #A90EB1
+	shade_3 = #640082
+	paw_pad = #FF80B7
+
+	nail_polish = #5353F9
+
+	nail_polish_pad = #1EC6B2
+	nail_polish_pad_shade = #086558
 
 	shirt_shade_1 = #4A905E
 	shirt_shade_2 = #2F7827
