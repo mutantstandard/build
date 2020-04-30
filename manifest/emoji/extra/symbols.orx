@@ -1,0 +1,6 @@
+
+
+emoji 	short = hp						src = extra/symbols/hp.svg					code = !undefined    cat = extra   desc = hp
+emoji 	short = mp						src = extra/symbols/mp.svg					code = !undefined    cat = extra   desc = mp
+emoji 	short = pp						src = extra/symbols/pp.svg					code = !undefined    cat = extra   desc = pp
+emoji 	short = xp						src = extra/symbols/xp.svg					code = !undefined    cat = extra   desc = xp

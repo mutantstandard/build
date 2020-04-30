@@ -1,0 +1,14 @@
+
+define people_body_parts_path expressions/body_parts
+
+
+
+# body parts
+emoji 	short = eyes						src = $(people_body_parts_path)/eyes.svg	                  code = #1F440    cat = expressions             desc = a pair of eyes looking to the side
+emoji 	short = eye							src = $(people_body_parts_path)/eye.svg						code = #1F441 $vs16      cat = expressions    desc = eye
+
+emoji 	short = ear%c						src = $(people_body_parts_path)/ear.svg						color=$cmaps_all      root = ear                  code = #1F442 $vs16 %u       cat = expressions    desc = ear
+emoji 	short = pointed_ear%c				src = $(people_body_parts_path)/pointed_ear.svg				color=$cmaps_all      root = pointed_ear          code = !undefined            cat = expressions    desc = pointed ear
+emoji 	short = long_pointed_ear%c		    src = $(people_body_parts_path)/long_pointed_ear.svg        color=$cmaps_all      root = long_pointed_ear     code = !undefined            cat = expressions    desc = long pointed ear
+
+emoji 	short = mechanical_arm		    src = $(people_body_parts_path)/mechanical_arm.svg                   code = !undefined            cat = expressions    desc = long pointed ear

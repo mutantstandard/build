@@ -1,5 +1,5 @@
 
-emoji 	short = eyes									  src = expressions/other/eyes.svg	                  code = #1F440    cat = expressions             desc = a pair of eyes looking to the side
+
 emoji 	short = ghost									src = expressions/other/ghost.svg	                  code = #1F47B    cat = expressions             desc = ghost
 emoji 	short = skull									src = expressions/other/skull.svg									  code = #1F480    cat = expressions             desc = skull
 emoji 	short = skull_and_crossbones		src = expressions/other/skull_and_crossbones.svg		code = #2620 $vs16     cat = expressions       desc = skull and crossbones

@@ -105,7 +105,6 @@ emoji   short = enby_crossbow                        src = $(gsd_path)/symbols/e
 
 emoji 	short = gay									src = $(gsd_path)/misc/gay.svg							code = !undefined    cat = gsr    desc = 'gay' sign
 emoji 	short = so_gay								src = $(gsd_path)/misc/so_gay.svg						code = !undefined    cat = gsr    desc = 'so gay' sign
-emoji 	short = queer								src = $(gsd_path)/misc/queer.svg						code = !undefined    cat = gsr    desc = 'queer' sign
 emoji 	short = ace_sign								src = $(gsd_path)/misc/ace_sign.svg						code = !undefined    cat = gsr    desc = 'ace' sign
 emoji 	short = aro_sign								src = $(gsd_path)/misc/aro_sign.svg						code = !undefined    cat = gsr    desc = 'aro' sign
 emoji 	short = nb									src = $(gsd_path)/misc/nb.svg							code = !undefined    cat = gsr    desc = 'NB' sign

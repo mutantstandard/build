@@ -8,8 +8,6 @@ emoji 	short = battery_low							src = symbols/custom/battery_low.svg				code = 
 emoji 	short = battery_medium						src = symbols/custom/battery_medium.svg				code = !undefined    cat = symbols   desc = medium battery symbol
 emoji 	short = battery_full							src = symbols/custom/battery_full.svg				code = !undefined    cat = symbols   desc = full battery symbol
 
-emoji 	short = privacy								src = symbols/custom/privacy.svg					code = !undefined    cat = symbols   desc = privacy symbol (an eye with a hand over it)
-
 emoji 	short = dont_at_me							src = symbols/custom/dont_at_me.svg					code = #10169a    cat = symbols      desc = an @ symbol with a prohibited sign over it
 
 emoji 	short = neurodiversity					    src = symbols/custom/neurodiversity.svg					code = #10169d    cat = symbols      desc = neurodiversity symbol

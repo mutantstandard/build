@@ -1,0 +1,27 @@
+
+
+# swords
+emoji 	short = broadsword						src = extra/weapons/broadsword.svg							code = !undefined    cat = extra   desc = broadsword
+emoji 	short = zweihander						src = extra/weapons/zweihander.svg							code = !undefined    cat = extra   desc = zweihander
+emoji 	short = rapier							src = extra/weapons/rapier.svg								code = !undefined    cat = extra   desc = rapier
+emoji 	short = sabre							src = extra/weapons/sabre.svg								code = !undefined    cat = extra   desc = sabre
+emoji 	short = katana							src = extra/weapons/katana.svg								code = !undefined    cat = extra   desc = katana
+
+
+# axes
+emoji 	short = european_battle_axe				src = extra/weapons/european_battle_axe.svg				code = !undefined    cat = extra   desc = european battle axe
+emoji 	short = glaive							src = extra/weapons/glaive.svg								code = !undefined    cat = extra   desc = glaive
+emoji 	short = great_axe						src = extra/weapons/great_axe.svg							code = !undefined    cat = extra   desc = great axe
+emoji 	short = halberd							src = extra/weapons/halberd.svg							code = !undefined    cat = extra   desc = halberd
+emoji 	short = tomahawk						src = extra/weapons/tomahawk.svg							code = !undefined    cat = extra   desc = tomahawk
+
+# blunt
+emoji 	short = mace							src = extra/weapons/mace.svg								code = !undefined    cat = extra   desc = mace
+emoji 	short = flail							src = extra/weapons/flail.svg								code = !undefined    cat = extra   desc = flail
+emoji 	short = war_hammer					    src = extra/weapons/war_hammer.svg					        code = !undefined    cat = extra   desc = war hammer
+
+# ranged
+emoji 	short = bow_and_arrow					src = extra/weapons/bow_and_arrow.svg					    code = #1F3F9    cat = extra   desc = bow and arrow
+emoji 	short = crossbow					    src = extra/weapons/crossbow.svg						    code = !undefined    cat = extra   desc = crossbow
+emoji 	short = arrow							src = extra/weapons/arrow.svg								code = !undefined    cat = extra   desc = arrow
+emoji 	short = shuriken					    src = extra/weapons/shuriken.svg						    code = !undefined    cat = extra   desc = shuriken

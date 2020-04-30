@@ -8,15 +8,26 @@
 
 
 
-# REPEATING shortPOINTS
+# REPEATING CODEPOINTS
 # ------------------------------------
 define zwj #200d
 define vs16 #fe0f
 
 
 
+# EXPRESSIONS
+# ------------------------------------
+include emoji/expressions/smilies.orx
+include emoji/expressions/expressions_other.orx
+include emoji/expressions/hands.orx
+include emoji/expressions/body_parts.orx
+include emoji/expressions/body.orx
 
 
+# PEOPLE AND ANIMALS
+# ------------------------------------
+include emoji/people_animals/creatures.orx
+include emoji/people_animals/aspects.orx
 
 
 # ACTIVITIES AND CLOTHING
@@ -27,12 +38,9 @@ include emoji/activities_clothing/performing_arts.orx
 include emoji/activities_clothing/sports.orx
 
 
-# EXPRESSIONS
+# GENDER, SEXUALITY AND RELATIONSHIPS
 # ------------------------------------
-include emoji/expressions/expressions_smilies.orx
-include emoji/expressions/expressions_other.orx
-include emoji/expressions/expressions_hands.orx
-include emoji/expressions/expressions_body.orx
+include emoji/gsr/gsr.orx
 
 
 # FOOD, DRINK AND HERBS
@@ -40,14 +48,20 @@ include emoji/expressions/expressions_body.orx
 include emoji/food_drink_herbs/food.orx
 
 
-# GENDER, SEXUALITY AND RELATIONSHIPS
-# ------------------------------------
-include emoji/gsr/gsr.orx
-
-
 # NATURE AND EFFECTS
 # ------------------------------------
 include emoji/nature_effects/nature_effects.orx
+
+
+# TRAVEL AND PLACES
+# ------------------------------------
+include emoji/travel_places/cars.orx
+include emoji/travel_places/trains.orx
+include emoji/travel_places/air.orx
+include emoji/travel_places/locations.orx
+include emoji/travel_places/buildings.orx
+include emoji/travel_places/scenes.orx
+include emoji/travel_places/space.orx
 
 
 # OBJECTS
@@ -64,26 +78,22 @@ include emoji/objects/party.orx
 include emoji/objects/games.orx
 include emoji/objects/art.orx
 
-include emoji/objects/rpg_occult.orx
 include emoji/objects/other.orx
 
 
 
-# PEOPLE AND ANIMALS
+# EXTRA
 # ------------------------------------
-include emoji/people_animals/creatures.orx
-include emoji/people_animals/body_parts.orx
-include emoji/people_animals/aspects.orx
-
-
-
+include emoji/extra/weapons.orx
+include emoji/extra/occult_magic.orx
+include emoji/extra/cyber.orx
+include emoji/extra/symbols.orx
 
 
 # SYMBOLS
 # ------------------------------------
 include emoji/symbols/symbols_hearts.orx
 include emoji/symbols/symbols_custom.orx
-include emoji/symbols/symbols_rpg.orx
 
 include emoji/symbols/symbols_flags.orx
 include emoji/symbols/symbols_signs.orx
@@ -106,15 +116,6 @@ include emoji/symbols/symbols_shapes.orx
 include emoji/symbols/symbols_clocks.orx
 
 
-# TRAVEL AND PLACES
-# ------------------------------------
-include emoji/travel_places/cars.orx
-include emoji/travel_places/trains.orx
-include emoji/travel_places/air.orx
-include emoji/travel_places/locations.orx
-include emoji/travel_places/buildings.orx
-include emoji/travel_places/scenes.orx
-include emoji/travel_places/space.orx
 
 # UTILS
 # ------------------------------------

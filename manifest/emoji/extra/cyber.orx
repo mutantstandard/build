@@ -1,0 +1,9 @@
+
+# cyber
+
+emoji 	short = crt							src = extra/cyber/crt.svg						code = !undefined    cat = extra   desc = CRT
+emoji 	short = crt_blue_screen				src = extra/cyber/crt_blue_screen.svg			code = !undefined    cat = extra   desc = CRT showing a blue screen with a white label on the bottom
+emoji 	short = crt_green_lines				src = extra/cyber/crt_green_lines.svg			code = !undefined    cat = extra   desc = CRT showing green blocks cascading in a vertical pattern
+emoji 	short = crt_noise					src = extra/cyber/crt_noise.svg					code = !undefined    cat = extra   desc = CRT showing noise
+emoji 	short = crt_prompt					src = extra/cyber/crt_prompt.svg				code = !undefined    cat = extra   desc = CRT showing a green command prompt
+emoji 	short = crt_test_pattern			src = extra/cyber/crt_test_pattern.svg			code = !undefined    cat = extra   desc = CRT showing a colour test pattern

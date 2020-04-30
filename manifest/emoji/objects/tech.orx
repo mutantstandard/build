@@ -74,12 +74,3 @@ emoji 	short = film_frames						  src = objects/tech/film_frames.svg					  code 
 
 
 emoji 	short = battery						      src = objects/tech/battery.svg					      code = #1F50B    cat = objects   desc = battery
-
-# extra
-
-emoji 	short = crt										src = objects/tech/crt.svg								code = !undefined    cat = objects   desc = CRT
-emoji 	short = crt_blue_screen				src = objects/tech/crt_blue_screen.svg			code = !undefined    cat = objects   desc = CRT showing a blue screen with a white label on the bottom
-emoji 	short = crt_green_lines				src = objects/tech/crt_green_lines.svg			code = !undefined    cat = objects   desc = CRT showing green blocks cascading in a vertical pattern
-emoji 	short = crt_noise							src = objects/tech/crt_noise.svg						code = !undefined    cat = objects   desc = CRT showing noise
-emoji 	short = crt_prompt							src = objects/tech/crt_prompt.svg						code = !undefined    cat = objects   desc = CRT showing a green command prompt
-emoji 	short = crt_test_pattern				src = objects/tech/crt_test_pattern.svg			code = !undefined    cat = objects   desc = CRT showing a colour test pattern

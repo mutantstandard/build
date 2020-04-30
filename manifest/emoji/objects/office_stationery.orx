@@ -32,6 +32,8 @@ emoji 	short = closed_mailbox_with_no_mail        	 src = objects/office_station
 emoji 	short = mailbox                           		 src = objects/office_stationery/mailbox.svg								            code = #1F4EC $vs16    cat = objects       desc = open mailbox
 emoji 	short = mailbox_with_no_mail           		   src = objects/office_stationery/mailbox_with_no_mail.svg		            code = #1F4ED $vs16    cat = objects       desc = open mailbox with no mail
 
+emoji 	short = package           		             src = objects/office_stationery/package.svg		                           code = #1f4e6    cat = objects       desc = package
+
 
 
 
