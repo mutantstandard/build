@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <rect id="white_flag" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <rect id="white_flag" x="0" y="-0" width="32" height="32" style="fill:none;"/>
     <g id="outline">
-        <path d="M6,4.394c1.136,-0.589 3.202,-1.394 6,-1.394c4.409,0 5.046,2 9,2c3.716,0 7,-1.5 7,-1.5l0,15c0,0 -3.284,1.5 -7,1.5c-3.954,0 -4.591,-2 -9,-2c-2.798,0 -4.864,0.805 -6,1.394l0,10.606l-2,0l0,-28l2,0l0,2.394Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+        <path d="M6,4.394c1.136,-0.589 3.202,-1.394 6,-1.394c4.409,0 5.046,2 9,2c3.716,0 7,-1.5 7,-1.5l-0,15c-0,0 -3.284,1.5 -7,1.5c-3.954,0 -4.591,-2 -9,-2c-2.798,0 -4.864,0.805 -6,1.394l-0,10.606l-2,-0l-0,-28l2,-0l-0,2.394Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
     </g>
     <g id="emoji">
-        <path d="M5,20l0,-15c0,0 2.591,-2 7,-2c4.409,0 5.046,2 9,2c3.716,0 7,-1.5 7,-1.5l0,15c0,0 -3.284,1.5 -7,1.5c-3.954,0 -4.591,-2 -9,-2c-4.401,0 -6.99,1.992 -7,2Z" style="fill:#fff;"/>
+        <path d="M5,20l0,-15c0,0 2.591,-2 7,-2c4.409,0 5.046,2 9,2c3.716,-0 7,-1.5 7,-1.5l-0,15c-0,0 -3.284,1.5 -7,1.5c-3.954,0 -4.591,-2 -9,-2c-4.401,0 -6.99,1.992 -7,2Z" style="fill:#fff;"/>
         <rect x="4" y="2" width="2" height="28" style="fill:#949393;"/>
     </g>
 </svg>

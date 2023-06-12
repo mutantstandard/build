@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="neuter_symbol" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <g id="outline">
+        <path d="M17.5,30l-3,0l0,-7.141c-3.699,-0.703 -6.5,-3.956 -6.5,-7.859c0,0 0,-2 0,-2c0,-4.415 3.585,-8 8,-8c4.415,0 8,3.585 8,8l0,2c0,3.903 -2.801,7.156 -6.5,7.859l0,7.141Zm3.4,-16c-0.464,-2.281 -2.483,-4 -4.9,-4c-2.417,0 -4.436,1.719 -4.9,4c0.464,2.281 2.483,4 4.9,4c2.417,0 4.436,-1.719 4.9,-4Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+        <rect x="11" y="9" width="10" height="8"/>
+    </g>
+    <g id="emoji">
+        <path d="M8.252,13c0.89,-3.449 4.023,-6 7.748,-6c3.725,0 6.858,2.551 7.748,6l0.252,0l0,2c0,3.903 -2.801,7.156 -6.5,7.859l0,7.141l-3,0l0,-7.141c-3.699,-0.703 -6.5,-3.956 -6.5,-7.859c0,0 0,-2 0,-2l0.252,0Zm7.748,-3c2.76,0 5,2.24 5,5c0,2.76 -2.24,5 -5,5c-2.76,0 -5,-2.24 -5,-5c0,-2.76 2.24,-5 5,-5Z" style="fill:#747474;"/>
+        <circle cx="16" cy="13" r="6.5" style="fill:none;stroke:#fff;stroke-width:3px;stroke-linecap:round;"/>
+        <path d="M16,20l0,8" style="fill:none;stroke:#fff;stroke-width:3px;"/>
+    </g>
+</svg>

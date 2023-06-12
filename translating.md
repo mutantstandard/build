@@ -14,7 +14,7 @@ Here's what you need to do:
 
 Here's what you need to translate, and what each of these is for. **Everything else you should leave alone for a correct build.**
 
-#### code
+#### short
 The shortcode. Some shortcodes will have `%c` attached to them for CMs (colour modifiers).
 
 Keep them at the end of your shortcodes and don't add an underscore before them - underscores are added automatically by Orxporter.

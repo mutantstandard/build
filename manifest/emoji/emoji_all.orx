@@ -40,7 +40,7 @@ include emoji/activities_clothing/sports.orx
 
 # GENDER, SEXUALITY AND RELATIONSHIPS
 # ------------------------------------
-include emoji/gsr/gsr.orx
+include emoji/gender_sexuality_relationships/gsr.orx
 
 
 # FOOD, DRINK AND HERBS

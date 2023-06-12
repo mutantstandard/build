@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <rect id="crossed_flags" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <rect id="crossed_flags" x="0" y="-0" width="32" height="32" style="fill:none;"/>
     <g id="outline">
         <path d="M16,15.764l5.553,-11.106l1.789,0.895l-0.448,0.894l7.106,3.553l-4,8l-7.106,-3.553l-1.776,3.553l4.224,8.447l-1.789,0.895l-3.553,-7.106l-3.553,7.106l-1.789,-0.895l4.224,-8.447l-1.776,-3.553l-7.106,3.553l-4,-8l7.106,-3.553l-0.448,-0.894l1.789,-0.895l5.553,11.106Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
     </g>

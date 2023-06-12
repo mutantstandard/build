@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="transgender_symbol" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="M11.279,4.158l2.122,2.121l0,1.22c0.804,-0.322 1.681,-0.499 2.599,-0.499c1.646,0 3.161,0.57 4.356,1.522l1.644,-1.643l0,-4.879l7,0l0,9l-3,0l0,-1.879l-3.203,3.203c0.133,0.537 0.203,1.098 0.203,1.676l0,2c0,2.944 -1.822,5.467 -4.399,6.5l1.399,0l0,5l-2.5,0l0,2.5l-3,0l0,-2l0,-0.5l-2.5,0l0,-5l1.399,0c-2.577,-1.033 -4.399,-3.556 -4.399,-6.5c0,0 0,-2 0,-2l0,-0.053c0.004,-0.488 0.057,-0.964 0.156,-1.423l-1.877,1.877l-2.121,-2.122l0.007,-1.279l-2.165,0l0,-9l7,0l0,3.438l1.279,-1.28Zm8.595,10.842c-0.445,-1.724 -2.012,-3 -3.874,-3c-1.862,0 -3.429,1.276 -3.874,3c0.445,1.724 2.012,3 3.874,3c1.862,0 3.429,-1.276 3.874,-3Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+            <rect x="11" y="11" width="10" height="8"/>
+        </g>
+        <g id="emoji">
+            <path d="M9.29,14c0.118,-0.395 0.27,-0.775 0.452,-1.137l-0.463,-0.462l-2,2l-2.121,-2.122l0.007,-1.279l-2.165,0l0,-2l2,-5l3,0l2,1l0,2l-1.879,0l1.158,1.158l2,-2l2.122,0.121l0,2l-2,2l0.243,0.243c1.195,-0.952 2.71,-1.522 4.356,-1.522c1.646,0 3.161,0.57 4.356,1.522l3.523,-3.522l-1.879,0l0,-2l2,-1l3,0l2,5l0,2l-3,0l0,-1.879l-3.742,3.742c0.182,0.362 0.334,0.742 0.452,1.137l0.29,0l0,2c0,3.349 -2.356,6.151 -5.5,6.839l0,1.661l2.5,1l0,2l-3.5,0l1,0.5l0,2l-3,0l0,-2l1,-0.5l-3.5,0l0,-2l2.5,-1l0,-1.661c-3.144,-0.688 -5.5,-3.49 -5.5,-6.839c0,0 0,-2 0,-2l0.29,0Zm10.71,2c0,-2.208 -1.792,-4 -4,-4c-2.208,0 -4,1.792 -4,4c0,2.208 1.792,4 4,4c2.208,0 4,-1.792 4,-4l0,0Z" style="fill:#747474;"/>
+            <circle cx="16" cy="14" r="5.5" style="fill:none;stroke:#fff;stroke-width:3px;stroke-linecap:round;stroke-miterlimit:2;"/>
+            <path d="M27,4l-7,7" style="fill:none;stroke:#fff;stroke-width:3px;stroke-miterlimit:2;"/>
+            <path d="M29,9l-3,0l0,-4l-4,0l0,-3l7,0l0,7Z" style="fill:#fff;"/>
+            <path d="M5,4l7,7" style="fill:none;stroke:#fff;stroke-width:3px;stroke-miterlimit:2;"/>
+            <path d="M10,5l-4,0l0,4l-3,0l0,-7l7,0l0,3Z" style="fill:#fff;"/>
+            <path d="M16,18.911l0,9.089" style="fill:none;stroke:#fff;stroke-width:3px;stroke-miterlimit:2;"/>
+            <path d="M20,24l-8,0" style="fill:none;stroke:#fff;stroke-width:3px;stroke-miterlimit:2;"/>
+            <path d="M11.279,6.279l-4,4" style="fill:none;stroke:#fff;stroke-width:3px;stroke-linecap:square;stroke-miterlimit:2;"/>
+        </g>
+    </g>
+</svg>

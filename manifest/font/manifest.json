@@ -54,14 +54,14 @@
         }
     ,"nameRecords":
         {"default":
-            {"0" : "Copyright (c) 2017-2020 Dzuk (https://noct.zone)"
+            {"0" : "Copyright (c) 2017-2023 Dzuk (https://noct.zone)"
             ,"2" : "Regular"
-            ,"5" : "(forc 0.0.2, emoji 2020.04)"
+            ,"5" : "(forc 0.0.2, emoji 2020.12)"
             ,"8" : "Mutant Standard"
             ,"9" : "Dzuk"
             ,"10" : "Keep in mind that non-Unicode Standard emoji in this font will not readable to the visually impaired. Please use them in a careful and considerate way."
             ,"11" : "https://mutant.tech"
-            ,"12" : "https://noct.zone"
+            ,"12" : "https://dzuk.zone"
             ,"13" : "Mutant Standard emoji is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
             ,"14" : "https://creativecommons.org/licenses/by-nc-sa/4.0/"
             ,"16" : "Mutant Standard emoji"

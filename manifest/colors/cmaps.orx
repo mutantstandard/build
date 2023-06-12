@@ -69,12 +69,12 @@ colormap p1 		src = key		dst = p1		short = _p1			code = #101624    desc = dark p
 colormap p2 		src = key		dst = p2		short = _p2			code = #101625    desc = pink
 colormap p3 		src = key		dst = p3		short = _p3			code = #101626    desc = light pink
 
-colormap e1 		src = key		dst = e1		short = _e1			code = #101627    desc = dark gray
-colormap e2 		src = key		dst = e2		short = _e2			code = #101628    desc = gray
-colormap e3 		src = key		dst = e3		short = _e3			code = #101629    desc = light gray
-colormap k1 		src = key		dst = k1		short = _k1			code = #10162a    desc = dark brown
-colormap k2 		src = key		dst = k2		short = _k2			code = #10162b    desc = brown
-colormap k3 		src = key		dst = k3		short = _k3			code = #10162c    desc = light brown
+colormap e1 		src = key		dst = e1		short = _e1			code = #101627    desc = dark brown
+colormap e2 		src = key		dst = e2		short = _e2			code = #101628    desc = brown
+colormap e3 		src = key		dst = e3		short = _e3			code = #101629    desc = light brown
+colormap k1 		src = key		dst = k1		short = _k1			code = #10162a    desc = dark gray
+colormap k2 		src = key		dst = k2		short = _k2			code = #10162b    desc = gray
+colormap k3 		src = key		dst = k3		short = _k3			code = #10162c    desc = light gray
 
 define cmap_set_shared r1 r2 r3 d1 d2 d3 o1 o2 o3 y1 y2 y3 l1 l2 l3 g1 g2 g3 t1 t2 t3 c1 c2 c3 s1 s2 s3 b1 b2 b3 v1 v2 v3 m1 m2 m3 p1 p2 p3 e1 e2 e3 k1 k2 k3
 
@@ -92,9 +92,9 @@ define cmap_set_hmn h1 h2 h3 h4 h5
 
 
 # fur colours
-colormap fe1			src = key		dst = fe1				short = _fe1			code = !undefined     desc = white fur colour
-colormap ft1 			src = key		dst = ft1				short = _ft1			code = !undefined     desc = brown fur colour
-colormap fk1 		  src = key		dst = fk1 			short = _fk1		code = !undefined       desc = tan fur colour
+colormap fe1			src = key		dst = fe1				short = _fe1			code = !undefined     desc = brown fur colour
+colormap ft1 			src = key		dst = ft1				short = _ft1			code = !undefined     desc = tan fur colour
+colormap fk1 		    src = key		dst = fk1 			    short = _fk1		    code = !undefined     desc = white fur colour
 
 define cmap_set_fur fe1 ft1 fk1
 

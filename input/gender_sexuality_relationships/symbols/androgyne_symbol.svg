@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect id="androgyne_symbol" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <g id="outline">
+            <path d="M21,11.121l0,4.379l-0.672,0c1.627,1.282 2.672,3.27 2.672,5.5l0,2c0,3.863 -3.137,7 -7,7c-3.863,0 -7,-3.137 -7,-7c0,0 0,-2 0,-2c0,-2.23 1.045,-4.218 2.672,-5.5l-0.672,0l0,-4.379l-1.061,-1.06l0,-2l6.061,-6.061l6.061,6.061l0,2l-1.061,1.06Zm-1.126,10.879c-0.445,-1.724 -2.012,-3 -3.874,-3c-1.862,0 -3.429,1.276 -3.874,3c0.445,1.724 2.012,3 3.874,3c1.862,0 3.429,-1.276 3.874,-3Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+            <rect x="11" y="17" width="10" height="8"/>
+            <rect x="12" y="7" width="8" height="8"/>
+        </g>
+        <g id="emoji">
+            <path d="M9.29,21c0.722,-2.421 2.719,-4.294 5.21,-4.839l0,-0.661l-3.5,0l0,-2l3.5,-1l0,-2.757l-2.439,2.439l-2.122,-2.121l0,-2l6.061,-4.061l6.061,4.061l0,2l-2.122,2.121l-2.439,-2.439l0,2.757l3.5,1l0,2l-3.5,0l0,0.661c2.491,0.545 4.488,2.418 5.21,4.839l0.29,0l0,2c0,3.863 -3.137,7 -7,7c-3.863,0 -7,-3.137 -7,-7c0,0 0,-2 0,-2l0.29,0Zm6.71,-2c2.208,0 4,1.792 4,4c0,2.208 -1.792,4 -4,4c-2.208,0 -4,-1.792 -4,-4c0,-2.208 1.792,-4 4,-4Z" style="fill:#747474;"/>
+            <circle cx="16" cy="21" r="5.5" style="fill:none;stroke:#fff;stroke-width:3px;stroke-linecap:round;"/>
+            <path d="M16,16l0,-11" style="fill:none;stroke:#fff;stroke-width:3px;"/>
+            <path d="M21,12l-10,0" style="fill:none;stroke:#fff;stroke-width:3px;"/>
+            <path d="M22.061,8.061l-2.122,2.121l-3.939,-3.939l-3.939,3.939l-2.122,-2.121l6.061,-6.061l6.061,6.061Z" style="fill:#fff;"/>
+        </g>
+    </g>
+</svg>

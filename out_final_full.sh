@@ -1,72 +1,66 @@
+#!/bin/bash
+#!/usr/bin/env python3
+
 cd "$(dirname "$0")"
 
-version=2020.04
+version=2022.12
+render_threads=12
+base_dir="out/final"
+
+
+# make the directory we're going to use to put these in
+mkdir -p $base_dir &&
+
 
 # get orxporter to do its thing
 echo "creating images..."
-./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r rendersvg -o out/final/shortcode -f %f/%d/%s -t 4 -F svgo,pngc-32,pngc-128,pngc-512,webp-32,webp-128  &&
-./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r rendersvg -o out/final/codepoint -f %f/%u -t 4 -F svgo,pngc-32,pngc-128,pngc-512,webp-32,webp-128   &&
-./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r rendersvg -o out/final/mastodon -f ms_%s -t 4 -F pngc-128  &&
-./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r rendersvg -o out/final/font_sources -f png-%z/%u -t 4 -l -F pngc-32,pngc-64,pngc-128  &&
-
-
-# export fonts
-echo "compiling fonts..."
-python3 ./forc/forc.py -m manifest/font/manifest.json -a manifest/font/aliases.json -i out/final/font_sources -o out/final/font -F sbixOT,sbixOTiOS --afsc
-
+./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r resvg -o $base_dir/short-%f -f %d/%s -t ${render_threads} -F svg,pngc-32,pngc-128,pngc-512,webp-32,webp-128  &&
+./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r resvg -o $base_dir/code-%f -f %u -t ${render_threads} -F svg,pngc-32,pngc-128,pngc-512,webp-32,webp-128   &&
+./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r resvg -o $base_dir/masto -f ms_%s -t ${render_threads} -F pngc-128  &&
+./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r resvg -o $base_dir/web -f %f/%s -t ${render_threads} -F pngc-128,webp-128  &&
+./orxporter/orxport.py -m manifest/out.orx -j $base_dir/mtnt_${version}_data.json &&
 
 
 # packages!
 # ----------------------------------------------------------------------
 echo "compiling package folders..."
 
-mkdir -p out/final-pkg &&
-./orxporter/orxport.py -m manifest/out.orx -j out/final-pkg/mtnt_${version}_data.json
 
-function make_pkg {
-    out_folder="out/final-pkg/mtnt_${version}_${2}"
+make_pkg () {
+    echo "compiling zip package: ${1}"
 
-    cp -R texts out/final-pkg &&
-    mv out/final-pkg/texts "$out_folder" &&
-    mv "out/final/${1}" "$out_folder/emoji"
+    pkg="mtnt_${version}_${2}"
+    out_folder="${base_dir}/${pkg}"
 
-    # you can't compress folders right now because of .DS_STORE.
-    #zip -r -q "${out_folder}.zip" "$out_folder"
-    #tar -zcf "${out_folder}.tar.gz" "$out_folder"
+    # copy texts into the out folder
+    # move emoji into the out folder/emoji
+    cp -R texts $out_folder &&
+    mv "${base_dir}/${1}" "$out_folder/emoji"
+    
+    # go into the destination folder, put the contents
+    # into a zip of the same name, go back and delete
+    # the remaining empty folder
+    cd "${out_folder}"
+    zip -r -q -m "../${pkg}.zip" "."
+    cd - > /dev/null # shhh dont tell anyone it's our secret
+    rm -d "${out_folder}"
 }
 
 
-function make_pkg_font {
-    file_name="${1}"
-    out_folder="out/final-pkg/mtnt_${version}_${2}"
+make_pkg short-svg short_svg
+make_pkg short-pngc-32 short_png32
+make_pkg short-pngc-128 short_png128
+make_pkg short-pngc-512 short_png512
+make_pkg short-webp-32 short_webp32
+make_pkg short-webp-128 short_webp128
 
-    cp -R texts out/final-pkg &&
-    mv out/final-pkg/texts "$out_folder" &&
-    mkdir -p "${out_folder}/font" &&
-    mv "out/final/font/${1}" "${out_folder}/font/${file_name}"
+make_pkg masto masto
 
-    #zip -r -q "${out_folder}.zip" "$out_folder"
-}
-
-
-
-make_pkg shortcode/svgo short_svg
-make_pkg shortcode/pngc-32 short_png32
-make_pkg shortcode/pngc-128 short_png128
-make_pkg shortcode/pngc-512 short_png512
-make_pkg shortcode/webp-32 short_webp32
-make_pkg shortcode/webp-128 short_webp128
-
-make_pkg mastodon masto
-
-make_pkg codepoint/svgo code_svg
-make_pkg codepoint/pngc-32 code_png32
-make_pkg codepoint/pngc-128 code_png128
-make_pkg codepoint/pngc-512 code_png512
-make_pkg codepoint/webp-32 code_webp32
-make_pkg codepoint/webp-128 code_webp128
-
-make_pkg_font MutantStandardEmoji-sbixOT.ttf font_sbixot
-make_pkg_font MutantStandardEmoji-sbixOT-iOS.mobileconfig font_sbixotios
+make_pkg code-svg code_svg
+make_pkg code-pngc-32 code_png32
+make_pkg code-pngc-128 code_png128
+make_pkg code-pngc-512 code_png512
+make_pkg code-webp-32 code_webp32
+make_pkg code-webp-128 code_webp128
 
 echo "Mutant Standard export complete!"
