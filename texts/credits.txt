@@ -5,15 +5,13 @@
 
 Designer, creator, emoji planner, programmer
 --------------------------------------------
-Dzuk
-
+Dzuk (dzuk.zone)
 
 
 Maker of Orxporter
 and other technical assistance <3
 --------------------------------------------
 kiilas
-
 
 
 💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚💚
@@ -23,14 +21,14 @@ kiilas
 Supporters
 --------------------------------------------
 These are the amazing people who have been
-funding this via Patreon.
+funding this through recurring donations.
 
 I'd also like to give a shoutout to everyone
 who has donated on PayPal, and everyone who
 has bought merch!
 
 If you want to help too, check out
-mutant.tech/donate.
+mutant.tech/about.
 
 
 A.M. Santos
@@ -43,9 +41,11 @@ Andrew Montagne
 Anne-Eris Amplisa
 Ari 
 Aros 
-Aster 
+Aster
+AstraLuma
 Audrey 
-Avynaria 
+Avynaria
+Belarius 
 Brian 
 Brian Hicks
 Bryan Tsang
@@ -58,9 +58,11 @@ Cheryl TZ
 chr 
 Clar Fon
 Clawfire 
+corpsemates
 computer_fox 
 Crom 
 Curio Cub
+Cyberfossil
 Cybrespace 
 Dan Conley
 dansup 
@@ -80,6 +82,7 @@ Frosty
 Gerd 
 Glen 
 gumbyscout
+Gwyn
 Harrison 
 Holly V
 iliana weller
@@ -87,8 +90,11 @@ Infocalypse
 Irick Corwal
 Isabelle Knott
 Jamie 
+JackDotJS
 Jay Dragon
 jeremy 
+Jojo
+johanna
 Joshua Vazquez
 june 
 Karew 
@@ -110,8 +116,11 @@ mydarkstar
 Nervengift 
 nightpool 
 Niko Nawalany
+Noble
+Nona
 Oliver Uvman
 Ollie Lovette
+Pyrox
 quaternary 
 Queen of Avalon
 Quinn Wolf
@@ -121,9 +130,14 @@ Regal
 Sariya Melody
 Scryfall 
 Sesaiaset - Tewidarma
+slimepsychic
+setavulos
 Shel Raphen
 Siphonay 
 Star Ringer
+Steven
+taco
+Targrus
 Tessa N
 Tim Swast
 William Pitcock
