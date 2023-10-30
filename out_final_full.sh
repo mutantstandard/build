@@ -14,8 +14,8 @@ mkdir -p $base_dir &&
 
 # get orxporter to do its thing
 echo "creating images..."
-./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r resvg -o $base_dir/short-%f -f %d/%s -t ${render_threads} -F svg,pngc-32,pngc-128,pngc-512,webp-32,webp-128  &&
-./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r resvg -o $base_dir/code-%f -f %u -t ${render_threads} -F svg,pngc-32,pngc-128,pngc-512,webp-32,webp-128   &&
+./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r resvg -o $base_dir/short-%f -f %d/%s -t ${render_threads} -F svg,pngc-32,pngc-128,pngc-512,webp-128,jxl-128  &&
+./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r resvg -o $base_dir/code-%f -f %u -t ${render_threads} -F svg,pngc-32,pngc-128,pngc-512,webp-128,jxl-128 &&
 ./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r resvg -o $base_dir/masto -f ms_%s -t ${render_threads} -F pngc-128  &&
 ./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r resvg -o $base_dir/web -f %f/%s -t ${render_threads} -F pngc-128,webp-128  &&
 ./orxporter/orxport.py -m manifest/out.orx -j $base_dir/mtnt_${version}_data.json &&
@@ -51,8 +51,8 @@ make_pkg short-svg short_svg
 make_pkg short-pngc-32 short_png32
 make_pkg short-pngc-128 short_png128
 make_pkg short-pngc-512 short_png512
-make_pkg short-webp-32 short_webp32
 make_pkg short-webp-128 short_webp128
+make_pkg short-jxl-128 short_jxl128
 
 make_pkg masto masto
 
@@ -60,7 +60,7 @@ make_pkg code-svg code_svg
 make_pkg code-pngc-32 code_png32
 make_pkg code-pngc-128 code_png128
 make_pkg code-pngc-512 code_png512
-make_pkg code-webp-32 code_webp32
 make_pkg code-webp-128 code_webp128
+make_pkg code-jxl-128 code_jxl128
 
 echo "Mutant Standard export complete!"
