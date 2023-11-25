@@ -44,7 +44,7 @@
 
 ,"metadata":
     {"created": ""
-    ,"version": "2023.10"
+    ,"version": "2023.11"
     ,"OS2VendorID": "MTNT"
     ,"filenames":
         { "SVGinOT": "MutantStandardEmoji-SVGinOT"
@@ -54,14 +54,14 @@
         }
     ,"nameRecords":
         {"default":
-            {"0" : "Copyright (c) 2017-2023 Dzuk (https://dzuk.zone)"
+            {"0" : "Copyright (c) 2017-2023 Caius Nocturne (https://nocturne.works)"
             ,"2" : "Regular"
-            ,"5" : "(forc 0.0.2, emoji 2023.10)"
+            ,"5" : "(forc 0.0.2, emoji 2023.11)"
             ,"8" : "Mutant Standard"
-            ,"9" : "Dzuk"
+            ,"9" : "Caius Nocturne"
             ,"10" : "Keep in mind that non-Unicode Standard emoji in this font will not readable to the visually impaired. Please use them in a careful and considerate way."
             ,"11" : "https://mutant.tech"
-            ,"12" : "https://dzuk.zone"
+            ,"12" : "https://nocturne.works"
             ,"13" : "Mutant Standard emoji is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License."
             ,"14" : "https://creativecommons.org/licenses/by-nc-sa/4.0/"
             ,"16" : "Mutant Standard emoji"
@@ -69,7 +69,7 @@
         ,"SVGinOT":
             {"1" : "Mutant Standard emoji (SVGinOT)"
             ,"3" : "Mutant Standard emoji SVGinOT"
-            ,"4" : "Mutant Standard emoji (SVGinOT) 2023.10"
+            ,"4" : "Mutant Standard emoji (SVGinOT) 2023.11"
             ,"6" : "MutantStandard-SVGinOT"
             ,"17" : "SVGinOT"
             }

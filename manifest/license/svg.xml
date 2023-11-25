@@ -4,12 +4,12 @@
          >
 
      <rdf:Description rdf:about="">
-       <dc:title>Mutant Standard emoji 2023.10</dc:title>
+       <dc:title>Mutant Standard emoji 2023.11</dc:title>
      </rdf:Description>
 
     <cc:work rdf:about="">
         <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/"/>
-        <cc:attributionName>Dzuk</cc:attributionName>
+        <cc:attributionName>Caius Nocturne</cc:attributionName>
         <cc:attributionURL>http://mutant.tech/</cc:attributionURL>
     </cc:work>
 

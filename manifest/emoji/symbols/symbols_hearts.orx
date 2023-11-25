@@ -1,24 +1,32 @@
 
 
-emoji 	short = red_heart							src = symbols/hearts/red_heart.svg						code = #2764 $vs16 		cat = symbols            desc = red heart
-emoji 	short = orange_heart						src = symbols/hearts/orange_heart.svg					code = #1F9E1    cat = symbols                desc = orange heart
-emoji 	short = yellow_heart						src = symbols/hearts/yellow_heart.svg					code = #1F49B    cat = symbols               desc = yellow heart
-emoji 	short = green_heart						src = symbols/hearts/green_heart.svg					code = #1F49A    cat = symbols             desc = green heart
-emoji 	short = blue_heart							src = symbols/hearts/blue_heart.svg						code = #1F499    cat = symbols               desc = blue heart
-emoji 	short = purple_heart						src = symbols/hearts/purple_heart.svg					code = #1F49C    cat = symbols               desc = purple heart
-emoji 	short = black_heart						src = symbols/hearts/black_heart.svg					code = #1F5A4    cat = symbols               desc = black heart
-emoji 	short = sparkling_heart				src = symbols/hearts/sparkling_heart.svg			code = #1F496    cat = symbols            desc = sparkling heart
+emoji 	short = red_heart					src = symbols/hearts/red_heart.svg						code = #2764 $vs16 		cat = symbols      desc = red heart
+emoji 	short = orange_heart				src = symbols/hearts/orange_heart.svg					code = #1F9E1    cat = symbols             desc = orange heart
+emoji 	short = yellow_heart				src = symbols/hearts/yellow_heart.svg					code = #1F49B    cat = symbols             desc = yellow heart
+emoji 	short = green_heart					src = symbols/hearts/green_heart.svg					code = #1F49A    cat = symbols             desc = green heart
+emoji 	short = light_blue_heart			src = symbols/hearts/light_blue_heart.svg				code = #1fa75    cat = symbols             desc = light blue heart
+emoji 	short = blue_heart					src = symbols/hearts/blue_heart.svg						code = #1F499    cat = symbols             desc = blue heart
+emoji 	short = purple_heart				src = symbols/hearts/purple_heart.svg					code = #1F49C    cat = symbols             desc = purple heart
+emoji 	short = pink_heart				    src = symbols/hearts/pink_heart.svg					    code = #1fa77    cat = symbols             desc = pink heart
+emoji 	short = brown_heart				    src = symbols/hearts/brown_heart.svg					code = #1f90e    cat = symbols             desc = brown heart
+emoji 	short = white_heart				    src = symbols/hearts/white_heart.svg					code = #1f90d    cat = symbols             desc = white heart
+emoji 	short = gray_heart				    src = symbols/hearts/gray_heart.svg					    code = #1fa76    cat = symbols             desc = gray heart
+emoji 	short = black_heart					src = symbols/hearts/black_heart.svg					code = #1F5A4    cat = symbols             desc = black heart
 
+emoji 	short = sparkling_heart				src = symbols/hearts/sparkling_heart.svg			    code = #1F496       cat = symbols               desc = sparkling heart
+emoji 	short = ribbon_heart				src = symbols/hearts/ribbon_heart.svg			        code = #1F49D       cat = symbols               desc = heart with a ribbon around it
+emoji 	short = bandaged_heart				src = symbols/hearts/bandaged_heart.svg			        code = #2764 $vs16 $zwj #1FA79    cat = symbols      desc = bandaged heart
+emoji 	short = broken_heart				src = symbols/hearts/broken_heart.svg					code = #1F494       cat = symbols               desc = broken heart
+emoji 	short = beating_heart				src = symbols/hearts/beating_heart.svg					code = #1F493       cat = symbols               desc = beating heart
+emoji 	short = heart_arrow					src = symbols/hearts/heart_arrow.svg					code = #1F498       cat = symbols               desc = heart with an arrow through it
 
-emoji 	short = broken_heart							src = symbols/hearts/broken_heart.svg									code = #1F494   	cat = symbols      desc = broken heart
-emoji 	short = beating_heart						src = symbols/hearts/beating_heart.svg								code = #1F493    cat = symbols     desc = beating heart
-emoji 	short = heart_arrow							src = symbols/hearts/heart_arrow.svg									code = #1F498   	cat = symbols       desc = heart with an arrow through it
-emoji 	short = heart_ribbon							src = symbols/hearts/heart_ribbon.svg									code = #1F49D    cat = symbols      desc = heart with a ribbon around it
-emoji 	short = heart_exclamation_mark		src = symbols/hearts/heart_exclamation_mark.svg				code = #2763 $vs16    	cat = symbols     desc = heart exclamation mark
-emoji 	short = growing_heart						src = symbols/hearts/growing_heart.svg								code = #1F497   	cat = symbols         desc = growing heart
-emoji 	short = two_hearts								src = symbols/hearts/two_hearts.svg										code = #1F495 		cat = symbols          desc = two hearts
-emoji 	short = two_hearts_orbit					src = symbols/hearts/two_hearts_orbit.svg							code = #1F49E   	cat = symbols      desc = two hearts orbiting each other
+emoji 	short = heart_on_fire				src = symbols/hearts/heart_on_fire.svg			        code = #2764 $vs16 $zwj #1f525    cat = symbols     desc = heart on fire
+emoji 	short = growing_heart				src = symbols/hearts/growing_heart.svg					code = #1F497   	cat = symbols               desc = growing heart
+emoji 	short = two_hearts					src = symbols/hearts/two_hearts.svg						code = #1F495 		cat = symbols               desc = two hearts
+emoji 	short = revolving_hearts			src = symbols/hearts/revolving_hearts.svg				code = #1F49E   	cat = symbols               desc = two revolving hearts
+emoji 	short = heart_exclamation		    src = symbols/hearts/heart_exclamation.svg		        code = #2763 $vs16    	cat = symbols       desc = heart exclamation mark
 
+emoji 	short = empty_heart					src = symbols/hearts/empty_heart.svg					code = !undefined    cat = symbols         desc = empty heart
+emoji 	short = half_heart					src = symbols/hearts/half_heart.svg						code = !undefined    cat = symbols         desc = half heart
 
-emoji 	short = empty_heart						src = symbols/hearts/empty_heart.svg					code = !undefined    cat = symbols         desc = empty heart
-emoji 	short = half_heart							src = symbols/hearts/half_heart.svg						code = !undefined    cat = symbols           desc = half heart
+emoji 	short = heart_decoration			src = symbols/hearts/heart_decoration.svg				code = #1f49f    cat = symbols         desc = heart decoration

@@ -1,6 +1,6 @@
 cd "$(dirname "$0")"
 
-version=2022.12
+version=2023.11
 render_threads=12
 base_dir="out/test-pkg"
 
