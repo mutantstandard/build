@@ -1,10 +1,10 @@
 Mutant Standard emoji
-October 2023 (2023.10)
+November 2023 (2023.11)
 mutant.tech
 
 ----------------------------------------------------------------------
 
-Made by Dzuk (dzuk.zone)
+Made by Caius Nocturne (nocturne.works)
 
 Mutant Standard emoji are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. (creativecommons.org/licenses/by-nc-sa/4.0/)
 

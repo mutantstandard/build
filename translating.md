@@ -82,4 +82,4 @@ Clearly, what is here only applies to English, this will not be 1:1 for every la
 
 
 
-Feel free to contact Dzuk if you get stuck on something or get a build error!
+Feel free to contact Caius if you get stuck on something or get a build error!
