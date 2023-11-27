@@ -17,7 +17,7 @@ echo "creating images..."
 ./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r resvg -o $base_dir/short-%f -f %d/%s -t ${render_threads} -F svg,pngc-32,pngc-128,pngc-512,webp-128,jxl-128  &&
 ./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r resvg -o $base_dir/code-%f -f %u -t ${render_threads} -F svg,pngc-32,pngc-128,pngc-512,webp-128,jxl-128 &&
 ./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r resvg -o $base_dir/masto -f ms_%s -t ${render_threads} -F pngc-128  &&
-./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r resvg -o $base_dir/web -f %f/%s -t ${render_threads} -F pngc-128,webp-128  &&
+./orxporter/orxport.py -m manifest/out.orx -i ../input -C cache -q 32x32 -r resvg -o $base_dir/web -f %f/%s -t ${render_threads} -F pngc-128,webp-128 -l &&
 ./orxporter/orxport.py -m manifest/out.orx -j $base_dir/mtnt_${version}_data.json &&
 
 
