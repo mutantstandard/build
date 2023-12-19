@@ -9,28 +9,29 @@ define smiley_path expressions/smileys
 
 # happy-fun
 # --------------------------------------------
-emoji 	short = smile 						src = $(smiley_path)/happy_fun/smile.svg						code = #1F642    cat = expressions   desc = smiling smiley
-emoji 	short = upside_down_smile 			src = $(smiley_path)/happy_fun/upside_down_smile.svg			code = #1F643    cat = expressions   desc = upside down smiling smiley
-emoji 	short = halo 						src = $(smiley_path)/happy_fun/halo.svg							code = #1F607    cat = expressions   desc = smiley smiling with a halo
-emoji 	short = content						src = $(smiley_path)/happy_fun/content.svg					    code = #1F60C    cat = expressions   desc = smiley with a content expression
-emoji 	short = wink 						src = $(smiley_path)/happy_fun/wink.svg							code = #1F609    cat = expressions   desc = winking smiley
+emoji 	short = smile 						src = $(smiley_path)/1f642_smile.svg					code = #1F642    cat = expressions   desc = smiling smiley
+emoji 	short = upside_down_smile 			src = $(smiley_path)/1f643_upside_down_smile.svg		code = #1F643    cat = expressions   desc = upside down smiling smiley
+emoji 	short = halo 						src = $(smiley_path)/1f607_halo.svg					    code = #1F607    cat = expressions   desc = smiley smiling with a halo
+emoji 	short = content						src = $(smiley_path)/1f60c_content.svg					code = #1F60C    cat = expressions   desc = smiley with a content expression
+emoji 	short = wink 						src = $(smiley_path)/1f609_wink.svg						code = #1F609    cat = expressions   desc = winking smiley
 
-emoji 	short = big_smile 					src = $(smiley_path)/happy_fun/big_smile.svg					code = #1F600    cat = expressions   desc = smiley with a big smile
-emoji 	short = happy 				        src = $(smiley_path)/happy_fun/happy.svg					    code = #1F603    cat = expressions   desc = happy smiley
-emoji 	short = grin 					    src = $(smiley_path)/happy_fun/grin.svg						    code = #1F604    cat = expressions   desc = grinning smiley
-emoji 	short = sweat_smile 			    src = $(smiley_path)/happy_fun/sweat_smile.svg					code = #1F605    cat = expressions   desc = smiley grinning while sweating
-emoji 	short = grinning 					src = $(smiley_path)/happy_fun/grinning.svg						code = #1F601    cat = expressions   desc = grinning smiley with teeth showing
+emoji 	short = big_smile 					src = $(smiley_path)/1f600_big_smile.svg			    code = #1F600    cat = expressions   desc = smiley with a big smile
+emoji 	short = happy 				        src = $(smiley_path)/1f603_happy.svg					code = #1F603    cat = expressions   desc = happy smiley
+emoji 	short = grin 					    src = $(smiley_path)/1f604_grin.svg						code = #1F604    cat = expressions   desc = grinning smiley
+emoji 	short = sweat_smile 			    src = $(smiley_path)/1f605_sweat_smile.svg				code = #1F605    cat = expressions   desc = smiley grinning while sweating
+emoji 	short = grinning 					src = $(smiley_path)/1f601_grinning.svg				    code = #1F601    cat = expressions   desc = grinning smiley with teeth showing
 
-emoji 	short = laughing 					src = $(smiley_path)/happy_fun/laughing.svg						code = #1F606    cat = expressions   desc = laughing smiley
-emoji 	short = joy 			            src = $(smiley_path)/happy_fun/joy.svg				            code = #1F602    cat = expressions   desc = smiley laughing with tears
-emoji 	short = rofl 						src = $(smiley_path)/happy_fun/rofl.svg							code = #1F923    cat = expressions   desc = smiley laughing with tears on its side
-emoji 	short = stick_out_tongue 			src = $(smiley_path)/happy_fun/stick_out_tongue.svg				code = #1F61B    cat = expressions   desc = smiley sticking out its tongue
-emoji 	short = wink_tongue 				src = $(smiley_path)/happy_fun/wink_tongue.svg					code = #1F61C    cat = expressions   desc = winking smiley
-emoji 	short = xd_tongue 					src = $(smiley_path)/happy_fun/xd_tongue.svg					code = #1F61D    cat = expressions   desc = smiley sticking out its tongue with closed eyes
-emoji 	short = yum 						src = $(smiley_path)/happy_fun/yum.svg							code = #1F60B    cat = expressions   desc = yum
+emoji 	short = laughing 					src = $(smiley_path)/1f603_laughing.svg				    code = #1F606    cat = expressions   desc = laughing smiley
+emoji 	short = joy 			            src = $(smiley_path)/1f602_joy.svg				        code = #1F602    cat = expressions   desc = smiley laughing with tears
+emoji 	short = rofl 						src = $(smiley_path)/1f603_rofl.svg					    code = #1F923    cat = expressions   desc = smiley laughing with tears on its side
 
-emoji 	short = money_face 				    src = $(smiley_path)/happy_fun/money_face.svg					code = #1F911    cat = expressions   desc = money face smiley
-emoji 	short = party_face 				    src = $(smiley_path)/happy_fun/party_face.svg					code = #1F973    cat = expressions   desc = smiley blowing a party blower while wearing a party hat
+emoji 	short = stick_out_tongue 			src = $(smiley_path)/stick_out_tongue.svg				code = #1F61B    cat = expressions   desc = smiley sticking out its tongue
+emoji 	short = wink_tongue 				src = $(smiley_path)/wink_tongue.svg					code = #1F61C    cat = expressions   desc = winking smiley
+emoji 	short = xd_tongue 					src = $(smiley_path)/xd_tongue.svg					    code = #1F61D    cat = expressions   desc = smiley sticking out its tongue with closed eyes
+emoji 	short = yum 						src = $(smiley_path)/1f60b_yum.svg						code = #1F60B    cat = expressions   desc = yum
+
+emoji 	short = money_face 				    src = $(smiley_path)/money_face.svg					    code = #1F911    cat = expressions   desc = money face smiley
+emoji 	short = party_face 				    src = $(smiley_path)/party_face.svg					    code = #1F973    cat = expressions   desc = smiley blowing a party blower while wearing a party hat
 
 
 # embarrassed-infatuated
