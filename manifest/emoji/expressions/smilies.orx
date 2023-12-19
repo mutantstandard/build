@@ -91,8 +91,8 @@ emoji 	short = rolling_eyes 				src = $(smiley_path)/1f644_rolling_eyes.svg					
 
 # shock-fear-exhaustion
 # --------------------------------------------
-emoji 	short = dead 						src = $(smiley_path)/dead.svg					code = #1f635               cat = expressions   desc = dead face with crossed out eyes
-emoji 	short = dizzy_face 					src = $(smiley_path)/dizzy_face.svg				code = #1F635 $zwj #1f4ab   cat = expressions   desc = dizzy face
+emoji 	short = dead 						src = $(smiley_path)/1f635_dead.svg				code = #1f635               cat = expressions   desc = dead face with crossed out eyes
+emoji 	short = dizzy_face 					src = $(smiley_path)/uni_dizzy_face.svg		    code = #1F635 $zwj #1f4ab   cat = expressions   desc = dizzy face
 emoji 	short = woozy 						src = $(smiley_path)/woozy.svg					code = #1F974               cat = expressions   desc = woozy smiley
 emoji 	short = crazy 						src = $(smiley_path)/crazy.svg				    code = #1F92A               cat = expressions   desc = crazy smiley
 emoji 	short = mind_blown 					src = $(smiley_path)/mind_blown.svg			    code = #1F92F               cat = expressions   desc = mind blown smiley
