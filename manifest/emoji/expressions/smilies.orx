@@ -122,19 +122,22 @@ emoji 	short = asleep 						src = $(smiley_path)/1f634_asleep_NOT UPDATED.svg		c
 
 sad & upset
 # --------------------------------------------
-emoji 	short = sweat 					    src = $(smiley_path)/unhappy/sweat.svg					    code = #1F613    cat = expressions   desc = sweat
-emoji 	short = unsure 						src = $(smiley_path)/unhappy/unsure.svg					    code = #1F615    cat = expressions   desc = unsure
-emoji 	short = slight_frown 				src = $(smiley_path)/unhappy/slight_frown.svg				code = #1F641    cat = expressions   desc = slight_frown
-emoji 	short = frown 						src = $(smiley_path)/unhappy/frown.svg						code = #2639 $vs16     cat = expressions   desc = frown
-emoji 	short = unhappy 					src = $(smiley_path)/unhappy/unhappy.svg					code = #1F61F    cat = expressions   desc = unhappy
-emoji 	short = pensive 					src = $(smiley_path)/pensive.svg			                code = #1F614           cat = expressions   desc = pensive
-emoji 	short = disappointed 				src = $(smiley_path)/unhappy/disappointed.svg				code = #1F61E    cat = expressions   desc = disappointed
-emoji 	short = persevering 				src = $(smiley_path)/unhappy/persevering.svg				code = #1F623    cat = expressions   desc = persevering
-emoji 	short = confounded 					src = $(smiley_path)/unhappy/confounded.svg					code = #1F616    cat = expressions   desc = confounded
-emoji 	short = smile_w_tear 				src = $(smiley_path)/unhappy/smile_w_tear.svg			    code = #1f972    cat = expressions   desc = smiling face with tear
-emoji 	short = crying 						src = $(smiley_path)/unhappy/crying.svg						code = #1F622    cat = expressions   desc = crying
-emoji 	short = loud_cry 					src = $(smiley_path)/unhappy/loud_cry.svg					code = #1F62D    cat = expressions   desc = loud_cry
+emoji 	short = sweat 					    src = $(smiley_path)/1f613_sweat.svg			    code = #1F613       cat = expressions   desc = sweat
+emoji 	short = unsure 						src = $(smiley_path)/1f615_unsure.svg				code = #1F615       cat = expressions   desc = unsure face
+emoji   short = diagonal_mouth              src = $(smiley_path)/1fae4_diagonal_mouth           code = #1FAE4       cat = expressions   desc = face with diagonal mouth
+emoji 	short = slight_frown 				src = $(smiley_path)/1f641_slight_frown.svg			code = #1F641       cat = expressions   desc = slight_frown
+emoji 	short = frown 						src = $(smiley_path)/2369_etc_frown.svg			    code = #2639 $vs16  cat = expressions   desc = frown
+emoji 	short = pensive 					src = $(smiley_path)/1f614_pensive.svg			    code = #1F614       cat = expressions   desc = pensive
+emoji 	short = disappointed 				src = $(smiley_path)/1f61e_disappointed.svg			code = #1F61E       cat = expressions   desc = disappointed
+emoji 	short = persevering 				src = $(smiley_path)/1f623_persevering.svg			code = #1F623       cat = expressions   desc = persevering
+emoji 	short = confounded 					src = $(smiley_path)/1f616_confounded.svg			code = #1F616       cat = expressions   desc = confounded
 
+emoji 	short = smile_with_tear 			src = $(smiley_path)/1f972_smile_with_tear.svg		code = #1f972       cat = expressions   desc = smiling face with tear
+emoji 	short = holding_back_tears 		    src = $(smiley_path)/1f979_holding_back_tears.svg	code = #1f979       cat = expressions   desc = face holding back tears
+emoji 	short = crying 						src = $(smiley_path)/1f622_crying.svg				code = #1F622       cat = expressions   desc = crying
+emoji 	short = sob 					    src = $(smiley_path)/1f62d_sob.svg			        code = #1F62D       cat = expressions   desc = sobbing
+
+emoji   short = outline_face                src = $(smiley_path)/1fae5_outline_face.svg         code = #1FAE5       cat = expressions   desc = dotted line face
 
 
 # sick & angry
