@@ -60,7 +60,8 @@ emoji 	short = headpats 					src = $(smiley_path)/mtnt_headpats.svg					    code
 # sarcasm-unamused
 # --------------------------------------------
 emoji 	short = face_without_mouth 			src = $(smiley_path)/1f636_face_without_mouth.svg			code = #1F636           cat = expressions   desc = face without a mouth
-emoji 	short = neutral_face 				src = $(smiley_path)/1f610_neutral_face.svg					code = #1F610           cat = expressions   desc = straight face
+emoji 	short = neutral_face 				src = $(smiley_path)/1f610_neutral_face.svg					code = #1F610           cat = expressions   desc = neutral face
+emoji 	short = concern 					src = $(smiley_path)/mtnt_concern.svg					    code = !undefined       cat = expressions   desc = smiley with a neutral face a bead of sweat
 emoji   short = head_shaking_horizontally   src = $(smiley_path)/1f642_etc_head_shaking_horizontally    code = #1f642 $zwj #2194 $vs16      cat = expressions   desc = head shaking horizontally
 emoji   short = head_shaking_vertically     src = $(smiley_path)/1f642_etc_head_shaking_vertically      code = #1f642 $zwj #2195 $vs16      cat = expressions   desc = head shaking vertically
 
@@ -120,7 +121,6 @@ melancholic
 # --------------------------------------------
 emoji 	short = expressionless 				src = $(smiley_path)/1f611_expressionless.svg				code = #1F611           cat = expressions   desc = face with closed eyes and a straight mouth
 emoji 	short = disappointed_but_relieved   src = $(smiley_path)/1f625_disappointed_but_relieved.svg    code = #1F625           cat = expressions   desc = face making a disappointed face with a bead of sweat
-## TODO: concern???
 emoji 	short = sweat 					    src = $(smiley_path)/1f613_sweat.svg			    code = #1F613       cat = expressions   desc = sweating face
 
 emoji 	short = unsure 						src = $(smiley_path)/1f615_unsure.svg				code = #1F615       cat = expressions   desc = unsure face
