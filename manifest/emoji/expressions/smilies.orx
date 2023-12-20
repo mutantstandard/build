@@ -51,8 +51,8 @@ emoji 	short = smile_hearts 				src = $(smiley_path)/1f970_smile_hearts.svg     
 emoji 	short = heart_eyes 					src = $(smiley_path)/1f60d_heart_eyes.svg				    code = #1F60D           cat = expressions   desc = smiley with hearts in front of its eyes
 emoji 	short = starry_eyes 				src = $(smiley_path)/1f929_starry_eyes.svg                  code = #1F929           cat = expressions   desc = smiley with starry eyes
 
-emoji   short = head_shaking_horizontally   src = $(smiley_path)/head_shaking_horizontally              code = #1f642 $zwj #2194 $vs16      cat = expressions   desc = head shaking horizontally
-emoji   short = head_shaking_vertically     src = $(smiley_path)/head_shaking_vertically                code = #1f642 $zwj #2195 $vs16      cat = expressions   desc = head shaking vertically
+emoji   short = head_shaking_horizontally   src = $(smiley_path)/1f642_etc_head_shaking_horizontally              code = #1f642 $zwj #2194 $vs16      cat = expressions   desc = head shaking horizontally
+emoji   short = head_shaking_vertically     src = $(smiley_path)/1f642_etc_head_shaking_vertically                code = #1f642 $zwj #2195 $vs16      cat = expressions   desc = head shaking vertically
 
 ## soft???
 emoji 	short = uwu 						src = $(smiley_path)/mtnt_uwu.svg						    code = !undefined       cat = expressions   desc = UwU face
@@ -92,16 +92,18 @@ emoji 	short = rolling_eyes 				src = $(smiley_path)/1f644_rolling_eyes.svg					
 # shock-fear-exhaustion
 # --------------------------------------------
 emoji 	short = dead 						src = $(smiley_path)/1f635_dead.svg				code = #1f635               cat = expressions   desc = dead face with crossed out eyes
-emoji 	short = dizzy_face 					src = $(smiley_path)/uni_dizzy_face.svg		    code = #1F635 $zwj #1f4ab   cat = expressions   desc = dizzy face
-emoji 	short = woozy 						src = $(smiley_path)/woozy.svg					code = #1F974               cat = expressions   desc = woozy smiley
-emoji 	short = crazy 						src = $(smiley_path)/crazy.svg				    code = #1F92A               cat = expressions   desc = crazy smiley
-emoji 	short = mind_blown 					src = $(smiley_path)/mind_blown.svg			    code = #1F92F               cat = expressions   desc = mind blown smiley
-emoji 	short = mild_panic 					src = $(smiley_path)/mild_panic.svg				code = !undefined          cat = expressions   desc = mild panic smiley
+emoji 	short = dizzy_face 					src = $(smiley_path)/1f635_etc_dizzy_face.svg   code = #1F635 $zwj #1F4Ab   cat = expressions   desc = dizzy face with spiral eyes
+emoji   short = shaking_face                src = $(smiley_path)/1fae8_shaking_face.svg     code = #1FAE8               cat = expressions   desc = shaking face
+emoji   short = exhale                      src = $(smiley_path)/1f62e_etc_exhale.svg       code = #1F62E $zwj #1F4A8   cat = expressions   desc = face exhaling
+emoji 	short = woozy 						src = $(smiley_path)/1f974_woozy.svg			code = #1F974               cat = expressions   desc = woozy smiley
+emoji 	short = crazy 						src = $(smiley_path)/1f92a_crazy.svg		    code = #1F92A               cat = expressions   desc = crazy smiley
+emoji 	short = mind_blown 					src = $(smiley_path)/1f92f_mind_blown.svg		code = #1F92F               cat = expressions   desc = mind blown smiley
+emoji 	short = mild_panic 					src = $(smiley_path)/mtnt_mild_panic.svg		code = !undefined           cat = expressions   desc = mild panic smiley
 
 emoji 	short = open_mouth 					src = $(smiley_path)/open_mouth.svg				code = #1F62E    cat = expressions   desc = smiley with an open mouth
 emoji 	short = surprised 					src = $(smiley_path)/surprised.svg				code = #1F62F    cat = expressions   desc = surprised smiley
-emoji 	short = worried 					src = $(smiley_path)/worried.svg					code = #1F626    cat = expressions   desc = worried smiley
-emoji 	short = shocked 					src = $(smiley_path)/shocked.svg					code = #1F627    cat = expressions   desc = shocked smiley
+emoji 	short = worried 					src = $(smiley_path)/worried.svg				code = #1F626    cat = expressions   desc = worried smiley
+emoji 	short = shocked 					src = $(smiley_path)/shocked.svg				code = #1F627    cat = expressions   desc = shocked smiley
 
 emoji 	short = scared 						src = $(smiley_path)/scared.svg					code = #1F628    cat = expressions   desc = scared smiley
 emoji 	short = cold_sweat 				    src = $(smiley_path)/cold_sweat.svg		        code = #1F630    cat = expressions   desc = cold_sweat
