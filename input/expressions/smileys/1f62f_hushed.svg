@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="_1f62f_hushed" serif:id="1f62f_hushed" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <path d="M16,29.5c-8.1,-0 -14,-5.5 -14,-12.5c0,-8.873 7.64,-14 14,-14c6.36,0 14,5.127 14,14c0,7 -5.9,12.5 -14,12.5Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+    <path d="M16,29.5c-8.1,-0 -14,-5.5 -14,-12.5c0,-8.873 7.64,-14 14,-14c6.36,0 14,5.127 14,14c0,7 -5.9,12.5 -14,12.5Z" style="fill:#ffb636;"/>
+    <path d="M7.293,8.06c0.215,0.8 1.471,1.159 2.804,0.802c1.332,-0.357 2.24,-1.296 2.026,-2.096c-0.214,-0.8 -1.47,-1.159 -2.803,-0.802c-1.333,0.357 -2.241,1.296 -2.027,2.096Z"/>
+    <path d="M24.707,8.06c-0.215,0.8 -1.471,1.159 -2.804,0.802c-1.332,-0.357 -2.24,-1.296 -2.026,-2.096c0.214,-0.8 1.47,-1.159 2.803,-0.802c1.333,0.357 2.241,1.296 2.027,2.096Z"/>
+    <rect x="17" y="9" width="11" height="12" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="17" y="9" width="11" height="12"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <ellipse cx="22.5" cy="15.5" rx="4.5" ry="5.5" style="fill:#fff;"/>
+        <ellipse cx="21.5" cy="15.5" rx="2.5" ry="3.5"/>
+    </g>
+    <path d="M18.415,25.783c0.368,-0.497 0.585,-1.113 0.585,-1.779l0,-0.004c-0,-1.654 -1.341,-2.996 -2.996,-2.996l-0.008,0c-1.655,0 -2.996,1.342 -2.996,2.996l-0,0.004c0,0.666 0.217,1.282 0.585,1.779c0.536,-0.486 4.294,-0.486 4.83,0Z"/>
+    <path d="M13.585,25.783c0.546,0.738 1.423,1.217 2.411,1.217l0.008,-0c0.988,0 1.865,-0.479 2.411,-1.217c-0.536,-0.486 -1.246,-0.779 -2.017,-0.779l-0.796,0c-0.771,0 -1.481,0.293 -2.017,0.779Z" style="fill:#c33700;"/>
+    <rect x="4" y="9" width="11" height="12" style="fill:none;"/>
+    <clipPath id="_clip2">
+        <rect x="4" y="9" width="11" height="12"/>
+    </clipPath>
+    <g clip-path="url(#_clip2)">
+        <ellipse cx="9.5" cy="15.5" rx="4.5" ry="5.5" style="fill:#fff;"/>
+        <ellipse cx="10.5" cy="15.5" rx="2.5" ry="3.5"/>
+    </g>
+</svg>

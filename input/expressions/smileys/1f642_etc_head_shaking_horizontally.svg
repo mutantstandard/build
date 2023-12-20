@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="_1f642_etc_head_shaking_horizontally" serif:id="1f642_etc_head_shaking_horizontally" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <path d="M29,13.5c1.316,0.481 1.158,1.823 -0.147,2.604c-1.441,0.861 -3.421,1.503 -4.853,1.896" style="fill:none;stroke:#000;stroke-width:6px;"/>
+        <path d="M30,19.5c-1.842,1.395 -4.482,2.34 -7,2.5" style="fill:none;stroke:#000;stroke-width:6px;"/>
+        <path d="M15,29.5c-7.521,0 -13,-5.292 -13,-12.028c0,-8.538 7.095,-13.472 13,-13.472c5.905,0 13,4.934 13,13.472c0,6.736 -5.479,12.028 -13,12.028Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+        <path d="M15,29.5c-7.521,0 -13,-5.292 -13,-12.028c0,-8.538 7.095,-13.472 13,-13.472c5.905,0 13,4.934 13,13.472c0,6.736 -5.479,12.028 -13,12.028Z" style="fill:#ffb636;"/>
+        <path d="M8,17c-0,0 -0.179,0.157 -0.456,0.399c-0.785,0.687 -1.813,1.032 -2.855,0.957c-1.041,-0.075 -2.009,-0.563 -2.688,-1.355c-0.001,-0.001 -0.001,-0.001 -0.001,-0.001" style="fill:none;stroke:#000;stroke-width:2px;"/>
+        <path d="M14,17c0,0 0.179,0.157 0.456,0.399c0.785,0.687 1.813,1.032 2.855,0.957c1.041,-0.075 2.009,-0.563 2.688,-1.355c0.001,-0.001 0.001,-0.001 0.001,-0.001" style="fill:none;stroke:#000;stroke-width:2px;"/>
+        <path d="M6.5,23c-0,0 1.488,0.504 4.5,0.504c3.012,0 4.5,-0.504 4.5,-0.504" style="fill:none;stroke:#694300;stroke-width:2px;"/>
+        <path d="M29,13.5c0.954,0.462 0.925,1.924 -0.216,2.698c-1.336,0.906 -3.271,1.625 -4.784,1.802" style="fill:none;stroke:#fff;stroke-width:2px;"/>
+        <path d="M30,19.5c-1.842,1.395 -4.482,2.34 -7,2.5" style="fill:none;stroke:#fff;stroke-width:2px;"/>
+    </g>
+</svg>

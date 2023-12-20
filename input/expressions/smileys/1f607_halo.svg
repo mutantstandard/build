@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="_1f607_halo" serif:id="1f607_halo" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <ellipse cx="16" cy="8" rx="11" ry="4.5" style="fill:none;stroke:#000;stroke-width:6.5px;"/>
+        <path d="M16,30c-8.1,0 -14,-4.981 -14,-11.321c0,-8.036 7.64,-12.679 14,-12.679c6.36,0 14,4.643 14,12.679c0,6.34 -5.9,11.321 -14,11.321Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+        <path d="M16,30c-8.1,0 -14,-4.981 -14,-11.321c0,-8.036 7.64,-12.679 14,-12.679c6.36,0 14,4.643 14,12.679c0,6.34 -5.9,11.321 -14,11.321Z" style="fill:#ffb636;"/>
+        <ellipse cx="16" cy="8" rx="11" ry="4.5" style="fill:none;stroke:#17c9ff;stroke-width:2.5px;"/>
+        <path d="M19,18.996c0,-0 0.182,-0.242 0.456,-0.608c0.639,-0.853 1.618,-1.386 2.681,-1.462c1.064,-0.075 2.108,0.314 2.862,1.068c0.001,0.001 0.001,0.002 0.001,0.002" style="fill:none;stroke:#000;stroke-width:2px;"/>
+        <path d="M13,19c0,0 -0.182,-0.242 -0.456,-0.607c-0.639,-0.853 -1.618,-1.387 -2.681,-1.462c-1.064,-0.076 -2.108,0.314 -2.862,1.068c-0.001,0.001 -0.001,0.001 -0.001,0.001" style="fill:none;stroke:#000;stroke-width:2px;"/>
+        <path d="M11.061,23.004c-0,0 0.073,0.139 0.201,0.382c0.877,1.667 2.637,2.678 4.519,2.597c1.881,-0.081 3.548,-1.24 4.279,-2.976c0.001,-0.002 0.001,-0.003 0.001,-0.003" style="fill:none;stroke:#694300;stroke-width:2px;"/>
+    </g>
+</svg>

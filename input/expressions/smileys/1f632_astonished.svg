@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="_1f632_astonished" serif:id="1f632_astonished" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <path d="M16,29.5c-8.1,-0 -14,-5.5 -14,-12.5c0,-8.873 7.64,-14 14,-14c6.36,0 14,5.127 14,14c0,7 -5.9,12.5 -14,12.5Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+    <path d="M16,29.5c-8.1,-0 -14,-5.5 -14,-12.5c0,-8.873 7.64,-14 14,-14c6.36,0 14,5.127 14,14c0,7 -5.9,12.5 -14,12.5Z" style="fill:#ffb636;"/>
+    <path d="M8.543,8.052c0.414,0.717 1.72,0.739 2.915,0.049c1.195,-0.689 1.829,-1.832 1.415,-2.549c-0.414,-0.717 -1.72,-0.739 -2.915,-0.049c-1.195,0.69 -1.829,1.832 -1.415,2.549Z"/>
+    <path d="M23.457,8.052c-0.414,0.717 -1.72,0.739 -2.915,0.049c-1.195,-0.689 -1.829,-1.832 -1.415,-2.549c0.414,-0.717 1.72,-0.739 2.915,-0.049c1.195,0.69 1.829,1.832 1.415,2.549Z"/>
+    <rect x="17" y="9" width="11" height="12" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="17" y="9" width="11" height="12"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <ellipse cx="22.5" cy="15.5" rx="4.5" ry="5.5" style="fill:#fff;"/>
+        <circle cx="21.5" cy="15.5" r="2.5"/>
+    </g>
+    <path d="M18.414,25.782c0.378,-0.513 0.586,-1.137 0.586,-1.782l0,-0.996c0,-0.795 -0.316,-1.558 -0.879,-2.121c-0.562,-0.563 -1.325,-0.879 -2.121,-0.879c-0.796,0 -1.559,0.316 -2.121,0.879c-0.563,0.563 -0.879,1.326 -0.879,2.121l-0,0.996c-0,0.645 0.208,1.269 0.586,1.782c0.536,-0.486 4.292,-0.486 4.828,-0Z"/>
+    <path d="M13.586,25.782c0.089,0.119 0.186,0.233 0.293,0.339c0.562,0.563 1.325,0.879 2.121,0.879c0.796,-0 1.559,-0.316 2.121,-0.879c0.107,-0.106 0.204,-0.22 0.293,-0.339c-0.536,-0.486 -1.246,-0.778 -2.016,-0.778l-0.796,0c-0.77,0 -1.48,0.292 -2.016,0.778Z" style="fill:#c33700;"/>
+    <rect x="4" y="9" width="11" height="12" style="fill:none;"/>
+    <clipPath id="_clip2">
+        <rect x="4" y="9" width="11" height="12"/>
+    </clipPath>
+    <g clip-path="url(#_clip2)">
+        <ellipse cx="9.5" cy="15.5" rx="4.5" ry="5.5" style="fill:#fff;"/>
+        <circle cx="10.5" cy="15.5" r="2.5"/>
+    </g>
+</svg>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="_1f635_dead" serif:id="1f635_dead" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="0" y="0" width="32" height="32"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <path d="M16,30c-8.1,-0 -14,-3.625 -14,-8.802c-0,-3.105 1.522,-6.833 3.658,-8.876c2.625,-2.509 5.725,-4.322 10.342,-4.322l0,0c4.617,0 7.717,1.813 10.342,4.322c2.136,2.043 3.658,5.771 3.658,8.876c0,5.177 -5.9,8.802 -14,8.802l-0,-0Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+        <path d="M16,30c-8.1,-0 -14,-3.625 -14,-8.802c-0,-3.105 1.522,-6.833 3.658,-8.876c2.625,-2.509 5.725,-4.322 10.342,-4.322l0,0c4.617,0 7.717,1.813 10.342,4.322c2.136,2.043 3.658,5.771 3.658,8.876c0,5.177 -5.9,8.802 -14,8.802l-0,-0Z" style="fill:#ffb636;"/>
+        <g>
+            <path d="M19.5,13.5l5,4" style="fill:none;stroke:#000;stroke-width:2px;"/>
+            <path d="M19.5,17.5l5,-4" style="fill:none;stroke:#000;stroke-width:2px;"/>
+        </g>
+        <g>
+            <path d="M12.5,17.5l-5,-4" style="fill:none;stroke:#000;stroke-width:2px;"/>
+            <path d="M12.5,13.5l-5,4" style="fill:none;stroke:#000;stroke-width:2px;"/>
+        </g>
+        <path d="M12.773,26l-0.302,0c-0.862,0 -1.652,-0.482 -2.046,-1.248c-0.394,-0.766 -0.327,-1.689 0.173,-2.39l0.695,-0.972c1.071,-1.5 2.801,-2.39 4.644,-2.39l0.126,0c1.843,0 3.573,0.89 4.644,2.39l0.695,0.972c0.5,0.701 0.567,1.624 0.173,2.39c-0.394,0.766 -1.184,1.248 -2.046,1.248l-0.302,-0c-0.416,-1.178 -6.038,-1.178 -6.454,-0Z"/>
+        <path d="M19.227,26c-0.416,-1.178 -1.537,-2 -2.829,-2l-0.796,0c-1.292,-0 -2.413,0.822 -2.829,2l6.454,-0Z" style="fill:#c33700;"/>
+    </g>
+</svg>

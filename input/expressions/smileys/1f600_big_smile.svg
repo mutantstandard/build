@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="_1f600_big_smile" serif:id="1f600_big_smile" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <path d="M16,29.5c-8.1,0 -14,-5.5 -14,-12.5c0,-8.873 7.64,-14 14,-14c6.36,0 14,5.127 14,14c0,7 -5.9,12.5 -14,12.5Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+    <path d="M16,29.5c-8.1,0 -14,-5.5 -14,-12.5c0,-8.873 7.64,-14 14,-14c6.36,0 14,5.127 14,14c0,7 -5.9,12.5 -14,12.5Z" style="fill:#ffb636;"/>
+    <rect x="17" y="6" width="11" height="12" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="17" y="6" width="11" height="12"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <ellipse cx="22.5" cy="12.5" rx="4.5" ry="5.5" style="fill:#fff;"/>
+        <ellipse cx="21.5" cy="12.5" rx="2.5" ry="3.5"/>
+    </g>
+    <rect x="4" y="6" width="11" height="12" style="fill:none;"/>
+    <clipPath id="_clip2">
+        <rect x="4" y="6" width="11" height="12"/>
+    </clipPath>
+    <g clip-path="url(#_clip2)">
+        <ellipse cx="9.5" cy="12.5" rx="4.5" ry="5.5" style="fill:#fff;"/>
+        <ellipse cx="10.5" cy="12.5" rx="2.5" ry="3.5"/>
+    </g>
+    <path d="M20.203,24.876c1.609,-0.981 2.846,-2.546 3.39,-4.452l0.043,-0.152c0.087,-0.301 0.026,-0.625 -0.162,-0.875c-0.189,-0.25 -0.484,-0.397 -0.797,-0.397l-13.354,-0c-0.313,0 -0.608,0.147 -0.797,0.397c-0.188,0.25 -0.249,0.574 -0.162,0.875l0.043,0.152c0.544,1.906 1.781,3.471 3.39,4.452c1.009,-1.18 7.397,-1.18 8.406,0Z"/>
+    <path d="M20.203,24.876c-1.009,-1.18 -2.492,-1.872 -4.065,-1.872l-0.276,0c-1.573,0 -3.056,0.692 -4.065,1.872c1.177,0.718 2.552,1.124 4.002,1.124l0.402,-0c1.45,-0 2.825,-0.406 4.002,-1.124Z" style="fill:#c33700;"/>
+</svg>

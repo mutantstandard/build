@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="_1f633_flushed" serif:id="1f633_flushed" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <path d="M16,29.5c-9.128,0 -14,-5.292 -14,-12.028c0,-8.538 7.64,-13.472 14,-13.472c6.36,0 14,4.934 14,13.472c0,6.736 -4.872,12.028 -14,12.028Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+    <path d="M2.087,15.918c0.86,-7.58 7.95,-11.918 13.913,-11.918c5.963,0 13.053,4.338 13.913,11.918c-0.938,-0.575 -1.935,7.464 -1.279,7.25c-2.036,3.796 -6.315,6.332 -12.634,6.332c-6.319,0 -10.598,-2.536 -12.634,-6.332c0.656,0.214 -0.341,-7.825 -1.279,-7.25Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
+    <path d="M2.087,15.918c0.86,-7.58 7.95,-11.918 13.913,-11.918c5.963,0 13.053,4.338 13.913,11.918c-0.938,-0.575 -1.935,7.464 -1.279,7.25c-2.036,3.796 -6.315,6.332 -12.634,6.332c-6.319,0 -10.598,-2.536 -12.634,-6.332c0.656,0.214 -0.341,-7.825 -1.279,-7.25Z" style="fill:#ffb636;"/>
+    <path d="M28.634,23.168c-0.656,0.214 -1.377,0.332 -2.134,0.332c-3.036,0 -5.5,-1.904 -5.5,-4.25c-0,-2.346 2.464,-4.25 5.5,-4.25c1.289,0 2.475,0.343 3.413,0.918c0.057,0.504 0.087,1.022 0.087,1.554c0,2.072 -0.461,4.009 -1.366,5.696Z" style="fill:#f26f1c;"/>
+    <path d="M3.366,23.168c-0.905,-1.687 -1.366,-3.624 -1.366,-5.696c0,-0.532 0.03,-1.05 0.087,-1.554c0.938,-0.575 2.124,-0.918 3.413,-0.918c3.036,-0 5.5,1.904 5.5,4.25c-0,2.346 -2.464,4.25 -5.5,4.25c-0.757,0 -1.478,-0.118 -2.134,-0.332Z" style="fill:#f26f1c;"/>
+    <rect x="4" y="8.004" width="11" height="12" style="fill:none;"/>
+    <clipPath id="_clip1">
+        <rect x="4" y="8.004" width="11" height="12"/>
+    </clipPath>
+    <g clip-path="url(#_clip1)">
+        <ellipse cx="9.5" cy="15.002" rx="4.5" ry="5.002" style="fill:#fff;"/>
+        <circle cx="9.939" cy="15" r="2"/>
+    </g>
+    <rect x="17" y="8.004" width="11" height="12" style="fill:none;"/>
+    <clipPath id="_clip2">
+        <rect x="17" y="8.004" width="11" height="12"/>
+    </clipPath>
+    <g clip-path="url(#_clip2)">
+        <ellipse cx="22.5" cy="15.002" rx="4.5" ry="5.002" style="fill:#fff;"/>
+        <circle cx="21.939" cy="15" r="2"/>
+    </g>
+    <path d="M12.061,23.004l8,0" style="fill:none;stroke:#694300;stroke-width:2px;"/>
+</svg>
