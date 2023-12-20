@@ -29,8 +29,7 @@ emoji 	short = stuck_out_tongue 			src = $(smiley_path)/1f61b_stuck_out_tongue.s
 emoji 	short = wink_tongue 				src = $(smiley_path)/1f61c_wink_tongue.svg				code = #1F61C    cat = expressions   desc = winking smiley
 emoji 	short = closed_eyes_tongue 			src = $(smiley_path)/1f61d_closed_eyes_tongue.svg		code = #1F61D    cat = expressions   desc = smiley sticking out its tongue with closed eyes
 emoji 	short = yum 						src = $(smiley_path)/1f60b_yum.svg						code = #1F60B    cat = expressions   desc = yum
-
-emoji 	short = money_face 				    src = $(smiley_path)/1f911_money_face.svg			    code = #1F911    cat = expressions   desc = money face smiley
+emoji 	short = drooling 					src = $(smiley_path)/drooling_NOT UPDATED.svg   code = #1F924    cat = expressions   desc = drooling
 emoji 	short = party_face 				    src = $(smiley_path)/1f693_party_face.svg			    code = #1F973    cat = expressions   desc = smiley blowing a party blower while wearing a party hat
 
 
@@ -50,6 +49,7 @@ emoji 	short = wink_kiss 				    src = $(smiley_path)/1f618_wink_kiss.svg				   
 emoji 	short = smile_hearts 				src = $(smiley_path)/1f970_smile_hearts.svg                 code = #1F970           cat = expressions   desc = smiling smiley surrounded by hearts
 emoji 	short = heart_eyes 					src = $(smiley_path)/1f60d_heart_eyes.svg				    code = #1F60D           cat = expressions   desc = smiley with hearts in front of its eyes
 emoji 	short = starry_eyes 				src = $(smiley_path)/1f929_starry_eyes.svg                  code = #1F929           cat = expressions   desc = smiley with starry eyes
+emoji 	short = money_face 				    src = $(smiley_path)/1f911_money_face.svg			        code = #1F911           cat = expressions   desc = money face smiley
 
 emoji   short = head_shaking_horizontally   src = $(smiley_path)/1f642_etc_head_shaking_horizontally              code = #1f642 $zwj #2194 $vs16      cat = expressions   desc = head shaking horizontally
 emoji   short = head_shaking_vertically     src = $(smiley_path)/1f642_etc_head_shaking_vertically                code = #1f642 $zwj #2195 $vs16      cat = expressions   desc = head shaking vertically
@@ -111,12 +111,12 @@ emoji 	short = worried 					src = $(smiley_path)/1f61f_worried.svg			code = #1F6
 emoji 	short = scared 						src = $(smiley_path)/1f628_scared.svg			code = #1F628    cat = expressions   desc = scared smiley
 emoji 	short = cold_sweat 				    src = $(smiley_path)/1f630_cold_sweat.svg	    code = #1F630    cat = expressions   desc = cold_sweat
 emoji 	short = scream 						src = $(smiley_path)/1f631_scream.svg			code = #1F631    cat = expressions   desc = scream
+# face with peeking eye
+
 emoji 	short = weary 						src = $(smiley_path)/1f629_weary.svg			code = #1F629    cat = expressions   desc = weary
 emoji 	short = exhausted 					src = $(smiley_path)/1f62b_exhausted.svg		code = #1F62B    cat = expressions   desc = exhausted
-
-emoji 	short = asleep 						src = $(smiley_path)/asleep_NOT UPDATED.svg		code = #1F634    cat = expressions   desc = asleep
-emoji 	short = sleepy 						src = $(smiley_path)/sleepy_NOT UPDATED.svg		code = #1F62A    cat = expressions   desc = sleepy
-emoji 	short = drooling 					src = $(smiley_path)/drooling_NOT UPDATED.svg   code = #1F924    cat = expressions   desc = drooling
+emoji 	short = sleepy 						src = $(smiley_path)/1f62a_sleepy_NOT UPDATED.svg		code = #1F62A    cat = expressions   desc = sleepy
+emoji 	short = asleep 						src = $(smiley_path)/1f634_asleep_NOT UPDATED.svg		code = #1F634    cat = expressions   desc = asleep
 
 
 
