@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <rect id="_1f604_grin" serif:id="1f604_grin" x="0" y="0" width="32" height="32" style="fill:none;"/>
+    <rect id="_1f604_smile" serif:id="1f604_smile" x="0" y="0" width="32" height="32" style="fill:none;"/>
     <path d="M16,30c-8.1,-0 -14,-5.604 -14,-12.736c0,-9.04 7.64,-14.264 14,-14.264c6.36,0 14,5.224 14,14.264c0,7.132 -5.9,12.736 -14,12.736Z" style="fill:none;stroke:#000;stroke-width:4px;"/>
     <path d="M16,30c-8.1,-0 -14,-5.604 -14,-12.736c0,-9.04 7.64,-14.264 14,-14.264c6.36,0 14,5.224 14,14.264c0,7.132 -5.9,12.736 -14,12.736Z" style="fill:#ffb636;"/>
     <path d="M19,17c0,0 0.059,-0.137 0.16,-0.372c0.564,-1.318 1.805,-2.22 3.233,-2.351c1.427,-0.131 2.812,0.53 3.607,1.723c-0,-0 0,0 0,0" style="fill:none;stroke:#000;stroke-width:2px;"/>
