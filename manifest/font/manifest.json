@@ -44,7 +44,7 @@
 
 ,"metadata":
     {"created": ""
-    ,"version": "2023.11"
+    ,"version": "2023.12"
     ,"OS2VendorID": "MTNT"
     ,"filenames":
         { "SVGinOT": "MutantStandardEmoji-SVGinOT"
@@ -56,7 +56,7 @@
         {"default":
             {"0" : "Copyright (c) 2017-2023 Caius Nocturne (https://nocturne.works)"
             ,"2" : "Regular"
-            ,"5" : "(forc 0.0.2, emoji 2023.11)"
+            ,"5" : "(forc 0.0.2, emoji 2023.12)"
             ,"8" : "Mutant Standard"
             ,"9" : "Caius Nocturne"
             ,"10" : "Keep in mind that non-Unicode Standard emoji in this font will not readable to the visually impaired. Please use them in a careful and considerate way."
@@ -69,7 +69,7 @@
         ,"SVGinOT":
             {"1" : "Mutant Standard emoji (SVGinOT)"
             ,"3" : "Mutant Standard emoji SVGinOT"
-            ,"4" : "Mutant Standard emoji (SVGinOT) 2023.11"
+            ,"4" : "Mutant Standard emoji (SVGinOT) 2023.12"
             ,"6" : "MutantStandard-SVGinOT"
             ,"17" : "SVGinOT"
             }
