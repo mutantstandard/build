@@ -9,7 +9,8 @@ emoji 	short = palm_tree				 src = nature_effects/plants/palm_tree.svg			    cod
 emoji 	short = evergreen_tree			 src = nature_effects/plants/evergreen_tree.svg		    code = #1F332    cat = nature                 desc = evergreen tree
 emoji 	short = cactus					 src = nature_effects/plants/cactus.svg					code = #1F335    cat = nature                 desc = cactus
 emoji 	short = christmas_tree			 src = nature_effects/plants/christmas_tree.svg			code = #1F384    cat = nature                 desc = christmas tree
-emoji 	short = rose					     src = nature_effects/plants/rose.svg					code = #1F339    cat = nature                 desc = rose
+emoji 	short = rose					 src = nature_effects/plants/rose.svg					code = #1F339    cat = nature                 desc = rose
+emoji   short = sunflower                src = nature_effects/plants/1f33b_sunflower.svg        code = #1F33B    cat = nature             desc = sunflower
 emoji 	short = maple_leaf				 src = nature_effects/plants/maple_leaf.svg			    code = #1F341    cat = nature                 desc = maple leaf
 emoji 	short = sheaf_of_rice			 src = nature_effects/plants/sheaf_of_rice.svg			code = #1F33E    cat = nature             desc = sheaf of rice
 

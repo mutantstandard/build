@@ -66,38 +66,39 @@ emoji 	short = bat		             	src = $(people_creatures_path)/other_mammals/b
 
 
 # birds
-emoji 	short = blue_jay      src = $(people_creatures_path)/birds/blue_jay.svg                        code = !undefined      cat = people    desc = blue jay
-emoji 	short = crow          src = $(people_creatures_path)/birds/crow.svg                            code = !undefined      cat = people    desc = crow
-emoji 	short = dove	         src = $(people_creatures_path)/birds/dove.svg                            code = #1F54A $vs16    cat = people    desc = dove
-emoji 	short = duck		       src = $(people_creatures_path)/birds/duck.svg                            code = #1F986          cat = people    desc = duck
-emoji 	short = eagle		     src = $(people_creatures_path)/birds/eagle.svg                           code = #1F985          cat = people    desc = eagle
-emoji 	short = owl		       src = $(people_creatures_path)/birds/owl.svg                             code = #1F989          cat = people    desc = owl
-emoji 	short = parrot		     src = $(people_creatures_path)/birds/parrot.svg                          code = #1F99C          cat = people    desc = parrot
-emoji 	short = penguin	     src = $(people_creatures_path)/birds/penguin.svg                         code = #1F427          cat = people    desc = penguin
-emoji 	short = pigeon		     src = $(people_creatures_path)/birds/pigeon.svg                          code = !undefined      cat = people    desc = pigeon
-emoji 	short = rooster		   src = $(people_creatures_path)/birds/rooster.svg                         code = #1F413          cat = people    desc = rooster
-emoji 	short = crane		             src = $(people_creatures_path)/birds/crane.svg                           code = !undefined          cat = people   desc = crane
-emoji 	short = peacock		           src = $(people_creatures_path)/birds/peacock.svg                         code = #1F99A         cat = people        desc = peacock
-emoji 	short = pelican		           src = $(people_creatures_path)/birds/pelican.svg                         code = !undefined      cat = people       desc = pelican
-emoji 	short = toucan		             src = $(people_creatures_path)/birds/toucan.svg                          code = !undefined         cat = people    desc = toucan
+emoji 	short = blue_jay            src = $(people_creatures_path)/birds/blue_jay.svg                        code = !undefined      cat = people    desc = blue jay
+emoji 	short = crow                src = $(people_creatures_path)/birds/crow.svg                            code = !undefined      cat = people    desc = crow
+emoji 	short = dove	            src = $(people_creatures_path)/birds/dove.svg                            code = #1F54A $vs16    cat = people    desc = dove
+emoji 	short = duck		        src = $(people_creatures_path)/birds/duck.svg                            code = #1F986          cat = people    desc = duck
+emoji 	short = eagle		        src = $(people_creatures_path)/birds/eagle.svg                           code = #1F985          cat = people    desc = eagle
+emoji 	short = owl		            src = $(people_creatures_path)/birds/owl.svg                             code = #1F989          cat = people    desc = owl
+emoji 	short = parrot		        src = $(people_creatures_path)/birds/parrot.svg                          code = #1F99C          cat = people    desc = parrot
+emoji 	short = penguin	            src = $(people_creatures_path)/birds/penguin.svg                         code = #1F427          cat = people    desc = penguin
+emoji 	short = pigeon		        src = $(people_creatures_path)/birds/pigeon.svg                          code = !undefined      cat = people    desc = pigeon
+emoji 	short = rooster		        src = $(people_creatures_path)/birds/rooster.svg                         code = #1F413          cat = people    desc = rooster
+emoji 	short = crane		        src = $(people_creatures_path)/birds/crane.svg                           code = !undefined          cat = people   desc = crane
+emoji 	short = peacock		        src = $(people_creatures_path)/birds/peacock.svg                         code = #1F99A         cat = people        desc = peacock
+emoji 	short = pelican		        src = $(people_creatures_path)/birds/pelican.svg                         code = !undefined      cat = people       desc = pelican
+emoji 	short = toucan		        src = $(people_creatures_path)/birds/toucan.svg                          code = !undefined         cat = people    desc = toucan
 
 
 # reptiles
-emoji 	short = snake									src = $(people_creatures_path)/reptiles/snake.svg									code = #1F40D    cat = people    desc = snake
-emoji 	short = western_dragon					src = $(people_creatures_path)/reptiles/western_dragon.svg				code = !undefined    cat = people    desc = western dragon
-emoji 	short = eastern_dragon					src = $(people_creatures_path)/reptiles/eastern_dragon.svg				code = #1F432    cat = people        desc = eastern dragon
+emoji 	short = snake				src = $(people_creatures_path)/reptiles/snake.svg									code = #1F40D    cat = people    desc = snake
+emoji 	short = western_dragon		src = $(people_creatures_path)/reptiles/western_dragon.svg				code = !undefined    cat = people    desc = western dragon
+emoji 	short = eastern_dragon		src = $(people_creatures_path)/reptiles/eastern_dragon.svg				code = #1F432    cat = people        desc = eastern dragon
 
 
 
 # aquatic
-emoji 	short = shark		            src = $(people_creatures_path)/aquatic/shark.svg                             code = #1F988      cat = people       desc = shark
-emoji 	short = dolphin              src = $(people_creatures_path)/aquatic/dolphin.svg                           code = #1F42C      cat = people       desc = dolphin
+emoji 	short = shark		        src = $(people_creatures_path)/aquatic/shark.svg                             code = #1F988      cat = people       desc = shark
+emoji 	short = dolphin             src = $(people_creatures_path)/aquatic/dolphin.svg                           code = #1F42C      cat = people       desc = dolphin
 emoji 	short = puffer_fish	        src = $(people_creatures_path)/aquatic/puffer_fish.svg                       code = #1F421      cat = people       desc = puffer fish
-emoji 	short = turtle		            src = $(people_creatures_path)/aquatic/turtle.svg                            code = #1F422      cat = people       desc = turtle
+emoji 	short = turtle		        src = $(people_creatures_path)/aquatic/turtle.svg                            code = #1F422      cat = people       desc = turtle
 
 # other
-emoji 	short = spider							  src = $(people_creatures_path)/insects/spider.svg									code = #1F577 $vs16    cat = people     	desc = spider
+emoji   short = bee                 src = $(people_creatures_path)/insects/1f41d_bee.svg                        code = #1F41D       cat = people        desc = bumblebee                              
+emoji 	short = spider				src = $(people_creatures_path)/insects/spider.svg									code = #1F577 $vs16    cat = people     	desc = spider
 
 # other
-emoji 	short = gryphon								src = $(people_creatures_path)/other/gryphon.svg									code = !undefined    cat = people    desc = gryphon
-emoji 	short = slime									src = $(people_creatures_path)/other/slime.svg									code = !undefined    cat = people    desc = slime
+emoji 	short = gryphon			    src = $(people_creatures_path)/other/gryphon.svg									code = !undefined    cat = people    desc = gryphon
+emoji 	short = slime				src = $(people_creatures_path)/other/slime.svg									code = !undefined    cat = people    desc = slime
