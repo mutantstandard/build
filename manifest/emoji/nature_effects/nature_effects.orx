@@ -5,53 +5,53 @@
 # plants
 # -----------------------------
 
-emoji 	short = palm_tree				 src = nature_effects/plants/palm_tree.svg			    code = #1F334    cat = nature                 desc = palm tree
-emoji 	short = evergreen_tree			 src = nature_effects/plants/evergreen_tree.svg		    code = #1F332    cat = nature                 desc = evergreen tree
-emoji 	short = cactus					 src = nature_effects/plants/cactus.svg					code = #1F335    cat = nature                 desc = cactus
-emoji 	short = christmas_tree			 src = nature_effects/plants/christmas_tree.svg			code = #1F384    cat = nature                 desc = christmas tree
-emoji 	short = rose					 src = nature_effects/plants/rose.svg					code = #1F339    cat = nature                 desc = rose
-emoji   short = sunflower                src = nature_effects/plants/1f33b_sunflower.svg        code = #1F33B    cat = nature             desc = sunflower
-emoji 	short = maple_leaf				 src = nature_effects/plants/maple_leaf.svg			    code = #1F341    cat = nature                 desc = maple leaf
-emoji 	short = sheaf_of_rice			 src = nature_effects/plants/sheaf_of_rice.svg			code = #1F33E    cat = nature             desc = sheaf of rice
+emoji 	short = palm_tree				 src = nature_effects/plants/palm_tree.svg			    code = #1F334    bundle = core      cat = nature          desc = palm tree
+emoji 	short = evergreen_tree			 src = nature_effects/plants/evergreen_tree.svg		    code = #1F332    bundle = core      cat = nature          desc = evergreen tree
+emoji 	short = cactus					 src = nature_effects/plants/cactus.svg					code = #1F335    bundle = core      cat = nature          desc = cactus
+emoji 	short = christmas_tree			 src = nature_effects/plants/christmas_tree.svg			code = #1F384    bundle = core      cat = nature          desc = christmas tree
+emoji 	short = rose					 src = nature_effects/plants/rose.svg					code = #1F339    bundle = core      cat = nature          desc = rose
+emoji   short = sunflower                src = nature_effects/plants/1f33b_sunflower.svg        code = #1F33B    bundle = core      cat = nature          desc = sunflower
+emoji 	short = maple_leaf				 src = nature_effects/plants/maple_leaf.svg			    code = #1F341    bundle = core      cat = nature          desc = maple leaf
+emoji 	short = sheaf_of_rice			 src = nature_effects/plants/sheaf_of_rice.svg			code = #1F33E    bundle = core      cat = nature          desc = sheaf of rice
 
 
 # weather
 # -----------------------------
 
-emoji 	short = sun								src = nature_effects/weather/sun.svg						    code = #2600 $vs16        cat = nature      desc = sun
+emoji 	short = sun								src = nature_effects/weather/sun.svg						    code = #2600 $vs16        bundle = core      cat = nature      desc = sun
 
 
-emoji 	short = cloud							src = nature_effects/weather/cloud.svg							code = #2601 $vs16        cat = nature      desc = cloud
-emoji 	short = sun_behind_small_cloud			src = nature_effects/weather/sun_behind_small_cloud.svg			code = #1F324 $vs16       cat = nature      desc = sun behind a small cloud
-emoji 	short = sun_behind_cloud					src = nature_effects/weather/sun_behind_cloud.svg				code = #26C5 $vs16        cat = nature      desc = sun behind a cloud
-emoji 	short = sun_behind_large_cloud			src = nature_effects/weather/sun_behind_large_cloud.svg			code = #1F325 $vs16       cat = nature      desc = sun behind a large cloud
-emoji 	short = sun_cloud_rain					src = nature_effects/weather/sun_cloud_rain.svg					code = #1F326 $vs16       cat = nature      desc = sun behind a raining cloud
+emoji 	short = cloud							src = nature_effects/weather/cloud.svg							code = #2601 $vs16        bundle = core      cat = nature      desc = cloud
+emoji 	short = sun_behind_small_cloud			src = nature_effects/weather/sun_behind_small_cloud.svg			code = #1F324 $vs16       bundle = core      cat = nature      desc = sun behind a small cloud
+emoji 	short = sun_behind_cloud				src = nature_effects/weather/sun_behind_cloud.svg				code = #26C5 $vs16        bundle = core      cat = nature      desc = sun behind a cloud
+emoji 	short = sun_behind_large_cloud			src = nature_effects/weather/sun_behind_large_cloud.svg			code = #1F325 $vs16       bundle = core      cat = nature      desc = sun behind a large cloud
+emoji 	short = sun_cloud_rain					src = nature_effects/weather/sun_cloud_rain.svg					code = #1F326 $vs16       bundle = core      cat = nature      desc = sun behind a raining cloud
 
-emoji 	short = rain								src = nature_effects/weather/rain.svg							code = #1F327 $vs16       cat = nature      desc = raining cloud
+emoji 	short = rain							src = nature_effects/weather/rain.svg							code = #1F327 $vs16       bundle = core      cat = nature      desc = raining cloud
 
-emoji 	short = lightning						src = nature_effects/weather/lightning.svg						code = #1F329 $vs16       cat = nature      desc = cloud with lightning
-emoji 	short = lightning_rain					src = nature_effects/weather/lightning_rain.svg					code = #26C8 $vs16        cat = nature      desc = raining cloud with lighting
+emoji 	short = lightning						src = nature_effects/weather/lightning.svg						code = #1F329 $vs16       bundle = core      cat = nature      desc = cloud with lightning
+emoji 	short = lightning_rain					src = nature_effects/weather/lightning_rain.svg					code = #26C8 $vs16        bundle = core      cat = nature      desc = raining cloud with lighting
 
-emoji 	short = snow								src = nature_effects/weather/snow.svg							code = #1F328 $vs16       cat = nature      desc = snowing cloud
+emoji 	short = snow							src = nature_effects/weather/snow.svg							code = #1F328 $vs16       bundle = core      cat = nature      desc = snowing cloud
 
 
-emoji 	short = sun_face							src = nature_effects/weather/sun_face.svg						code = #1F31E            cat = nature       desc = sun with a face
-emoji 	short = water_drop						src = nature_effects/weather/water_drop.svg						code = #1F4A7            cat = nature       desc = water drop
-emoji 	short = sweat_drops						src = nature_effects/weather/sweat_drops.svg					code = #1F4A6            cat = nature       desc = splashing sweat drops
-emoji 	short = lightning_bolt					src = nature_effects/weather/lightning_bolt.svg					code = #26A1 $vs16       cat = nature       desc = lightning bolt
-emoji 	short = snowflake					    src = nature_effects/weather/snowflake.svg						code = #2744 $vs16       cat = nature       desc = snowflake
-emoji 	short = rainbow					        src = nature_effects/weather/rainbow.svg						code = #1F308            cat = nature       desc = rainbow
-emoji 	short = umbrella_with_rain				src = nature_effects/weather/umbrella_with_rain.svg				code = #2614             cat = nature       desc = umbrella with rain falling on it
+emoji 	short = sun_face						src = nature_effects/weather/sun_face.svg						code = #1F31E            bundle = core      cat = nature       desc = sun with a face
+emoji 	short = water_drop						src = nature_effects/weather/water_drop.svg						code = #1F4A7            bundle = core      cat = nature       desc = water drop
+emoji 	short = sweat_drops						src = nature_effects/weather/sweat_drops.svg					code = #1F4A6            bundle = core      cat = nature       desc = splashing sweat drops
+emoji 	short = lightning_bolt					src = nature_effects/weather/lightning_bolt.svg					code = #26A1 $vs16       bundle = core      cat = nature       desc = lightning bolt
+emoji 	short = snowflake					    src = nature_effects/weather/snowflake.svg						code = #2744 $vs16       bundle = core      cat = nature       desc = snowflake
+emoji 	short = rainbow					        src = nature_effects/weather/rainbow.svg						code = #1F308            bundle = core      cat = nature       desc = rainbow
+emoji 	short = umbrella_with_rain				src = nature_effects/weather/umbrella_with_rain.svg				code = #2614             bundle = core      cat = nature       desc = umbrella with rain falling on it
 
 # earth
 # -----------------------------
 
-emoji 	short = earth_americas					src = nature_effects/earth/earth_americas.svg					code = #1F30E $vs16    cat = nature    desc = earth facing the americas
-emoji 	short = earth_asia_oceania				src = nature_effects/earth/earth_asia_oceania.svg				code = #1F30F $vs16    cat = nature    desc = earth facing asia and oceania
-emoji 	short = earth_emea						src = nature_effects/earth/earth_emea.svg						code = #1F30D $vs16    cat = nature    desc = earth facing europe, middle east and africa
-emoji 	short = earth_pacific					src = nature_effects/earth/earth_pacific.svg					code = !undefined    cat = nature    desc = earth facing the pacific ocean
-emoji 	short = earth_arctic						src = nature_effects/earth/earth_arctic.svg						code = !undefined    cat = nature    desc = earth facing the arctic
-emoji 	short = earth_antarctic					src = nature_effects/earth/earth_antarctic.svg					code = !undefined    cat = nature    desc = earth facing the antarctic
+emoji 	short = earth_americas					src = nature_effects/earth/earth_americas.svg					code = #1F30E $vs16    bundle = core      cat = nature    desc = earth facing the americas
+emoji 	short = earth_asia_oceania				src = nature_effects/earth/earth_asia_oceania.svg				code = #1F30F $vs16    bundle = core      cat = nature    desc = earth facing asia and oceania
+emoji 	short = earth_emea						src = nature_effects/earth/earth_emea.svg						code = #1F30D $vs16    bundle = core      cat = nature    desc = earth facing europe, middle east and africa
+emoji 	short = earth_pacific					src = nature_effects/earth/earth_pacific.svg					code = !undefined    bundle = extra       cat = nature    desc = earth facing the pacific ocean
+emoji 	short = earth_arctic					src = nature_effects/earth/earth_arctic.svg						code = !undefined    bundle = extra       cat = nature    desc = earth facing the arctic
+emoji 	short = earth_antarctic					src = nature_effects/earth/earth_antarctic.svg					code = !undefined    bundle = extra       cat = nature    desc = earth facing the antarctic
 
 
 
@@ -59,32 +59,32 @@ emoji 	short = earth_antarctic					src = nature_effects/earth/earth_antarctic.sv
 # moon
 # -----------------------------
 
-emoji 	short = new_moon							src = nature_effects/moon/new_moon.svg							code = #1F311    cat = nature          desc = new moon
-emoji 	short = full_moon						src = nature_effects/moon/full_moon.svg							code = #1F315 $vs16    cat = nature    desc = full moon
-emoji 	short = gibbous_moon_1					src = nature_effects/moon/gibbous_moon_1.svg					code = #1F316    cat = nature          desc = gibbous moon lit from the left
-emoji 	short = gibbous_moon_2					src = nature_effects/moon/gibbous_moon_2.svg					code = #1F314    cat = nature          desc = gibbous moon lit from the right
-emoji 	short = half_moon_1						src = nature_effects/moon/half_moon_1.svg						code = #1F317    cat = nature          desc = half moon lit from the left
-emoji 	short = half_moon_2						src = nature_effects/moon/half_moon_2.svg						code = #1F313    cat = nature          desc = half moon lit from the right
-emoji 	short = crescent_moon_1					src = nature_effects/moon/crescent_moon_1.svg					code = #1F318    cat = nature          desc = crescent moon lit from the left
-emoji 	short = crescent_moon_2					src = nature_effects/moon/crescent_moon_2.svg					code = #1F312    cat = nature          desc = crescent moon lit from the right
+emoji 	short = new_moon						src = nature_effects/moon/new_moon.svg							code = #1F311    bundle = core      cat = nature          desc = new moon
+emoji 	short = full_moon						src = nature_effects/moon/full_moon.svg							code = #1F315 $vs16    bundle = core      cat = nature    desc = full moon
+emoji 	short = gibbous_moon_1					src = nature_effects/moon/gibbous_moon_1.svg					code = #1F316    bundle = core      cat = nature          desc = gibbous moon lit from the left
+emoji 	short = gibbous_moon_2					src = nature_effects/moon/gibbous_moon_2.svg					code = #1F314    bundle = core      cat = nature          desc = gibbous moon lit from the right
+emoji 	short = half_moon_1						src = nature_effects/moon/half_moon_1.svg						code = #1F317    bundle = core      cat = nature          desc = half moon lit from the left
+emoji 	short = half_moon_2						src = nature_effects/moon/half_moon_2.svg						code = #1F313    bundle = core      cat = nature          desc = half moon lit from the right
+emoji 	short = crescent_moon_1					src = nature_effects/moon/crescent_moon_1.svg					code = #1F318    bundle = core      cat = nature          desc = crescent moon lit from the left
+emoji 	short = crescent_moon_2					src = nature_effects/moon/crescent_moon_2.svg					code = #1F312    bundle = core      cat = nature          desc = crescent moon lit from the right
 
-emoji 	short = crescent							src = nature_effects/moon/crescent.svg							code = #1F319    cat = nature          desc = crescent moon shape
+emoji 	short = crescent						src = nature_effects/moon/crescent.svg							code = #1F319    bundle = core      cat = nature          desc = crescent moon shape
 
-emoji 	short = new_moon_face					src = nature_effects/moon/new_moon_face.svg						code = #1F31A    cat = nature          desc = new moon with a face
-emoji 	short = full_moon_face					src = nature_effects/moon/full_moon_face.svg					code = #1F31D    cat = nature          desc = full moon with a face
-emoji 	short = moon_crescent_face_left			src = nature_effects/moon/moon_crescent_face_left.svg			code = #1F31C $vs16    cat = nature    desc = moon crescent with a face facing left
-emoji 	short = moon_crescent_face_right			src = nature_effects/moon/moon_crescent_face_right.svg			code = #1F31B    cat = nature          desc = moon crescent with a face facing right
+emoji 	short = new_moon_face					src = nature_effects/moon/new_moon_face.svg						code = #1F31A    bundle = core      cat = nature          desc = new moon with a face
+emoji 	short = full_moon_face					src = nature_effects/moon/full_moon_face.svg					code = #1F31D    bundle = core      cat = nature          desc = full moon with a face
+emoji 	short = moon_crescent_face_left			src = nature_effects/moon/moon_crescent_face_left.svg			code = #1F31C $vs16    bundle = core      cat = nature    desc = moon crescent with a face facing left
+emoji 	short = moon_crescent_face_right		src = nature_effects/moon/moon_crescent_face_right.svg			code = #1F31B    bundle = core      cat = nature          desc = moon crescent with a face facing right
 
 
 # celestial
 # -----------------------------
-emoji 	short = star					src = nature_effects/effects/star.svg						code = #2B50 $vs16   cat = nature    desc = star
-emoji 	short = half_star			src = nature_effects/effects/half_star.svg					code = !undefined    cat = nature    desc = half star
-emoji 	short = empty_star			src = nature_effects/effects/empty_star.svg					code = !undefined    cat = nature    desc = empty star
-emoji 	short = shining_star			src = nature_effects/effects/shining_star.svg				code = #1F31F        cat = nature    desc = shining star
-emoji 	short = sparkles				src = nature_effects/effects/sparkles.svg					code = #2728         cat = nature    desc = sprinkles
-emoji 	short = dizzy				src = nature_effects/effects/dizzy.svg						code = #1F4AB        cat = nature    desc = dizzy patterns and stars
-emoji 	short = shooting_star		src = nature_effects/effects/shooting_star.svg				code = #1F320        cat = nature    desc = shooting star
-emoji 	short = fire					src = nature_effects/effects/fire.svg						code = #1F525        cat = nature    desc = a fire
-emoji 	short = bang				    src = nature_effects/effects/bang.svg						code = #1F4A5        cat = nature    desc = bang
-emoji 	short = dash				    src = nature_effects/effects/dash.svg						code = #1F4A8        cat = nature    desc = a dashing puff of air
+emoji 	short = star				src = nature_effects/effects/star.svg						code = #2B50 $vs16   bundle = core      cat = nature    desc = star
+emoji 	short = half_star			src = nature_effects/effects/half_star.svg					code = !undefined    bundle = extra     cat = nature    desc = half star
+emoji 	short = empty_star			src = nature_effects/effects/empty_star.svg					code = !undefined    bundle = extra     cat = nature    desc = empty star
+emoji 	short = shining_star		src = nature_effects/effects/shining_star.svg				code = #1F31F        bundle = core      cat = nature    desc = shining star
+emoji 	short = sparkles			src = nature_effects/effects/sparkles.svg					code = #2728         bundle = core      cat = nature    desc = sprinkles
+emoji 	short = dizzy				src = nature_effects/effects/dizzy.svg						code = #1F4AB        bundle = core      cat = nature    desc = dizzy patterns and stars
+emoji 	short = shooting_star		src = nature_effects/effects/shooting_star.svg				code = #1F320        bundle = core      cat = nature    desc = shooting star
+emoji 	short = fire				src = nature_effects/effects/fire.svg						code = #1F525        bundle = core      cat = nature    desc = a fire
+emoji 	short = bang				src = nature_effects/effects/bang.svg						code = #1F4A5        bundle = core      cat = nature    desc = bang
+emoji 	short = dash				src = nature_effects/effects/dash.svg						code = #1F4A8        bundle = core      cat = nature    desc = a dashing puff of air

@@ -4,5 +4,5 @@
 
 
 
-emoji 	short = umbrella			       src = activities_clothing/clothing/umbrella.svg			     code = #2602 $vs16    cat = activities_clothing    desc = umbrella
-emoji 	short = closed_umbrella		   src = activities_clothing/clothing/closed_umbrella.svg	     code = #1F302         cat = activities_clothing    desc = closed umbrella
+emoji 	short = umbrella			       src = activities_clothing/clothing/umbrella.svg			 code = #2602 $vs16     bundle = core    cat = activities_clothing    desc = umbrella
+emoji 	short = closed_umbrella		   src = activities_clothing/clothing/closed_umbrella.svg	     code = #1F302          bundle = core    cat = activities_clothing    desc = closed umbrella

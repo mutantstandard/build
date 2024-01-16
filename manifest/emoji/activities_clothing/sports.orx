@@ -1,11 +1,11 @@
 
 
-emoji 	short = football			      src = activities_clothing/sports/football.svg			         code = #26BD          cat = activities_clothing    desc = football
-emoji 	short = basketball		      src = activities_clothing/sports/basketball.svg	             code = #1F3C0         cat = activities_clothing    desc = basketball
-emoji 	short = baseball			      src = activities_clothing/sports/baseball.svg			         code = #26BE          cat = activities_clothing    desc = baseball
-emoji 	short = softball		          src = activities_clothing/sports/softball.svg	                 code = #1F94E         cat = activities_clothing    desc = softball
-emoji 	short = tennis			      src = activities_clothing/sports/tennis.svg			         code = #1F3BE         cat = activities_clothing    desc = tennis ball
-emoji 	short = 8_ball		          src = activities_clothing/sports/8_ball.svg	                 code = #1F3B1         cat = activities_clothing    desc = 8 ball
-emoji 	short = volleyball		      src = activities_clothing/sports/volleyball.svg	             code = #1F3D0         cat = activities_clothing    desc = volleyball
-emoji 	short = american_football	  src = activities_clothing/sports/american_football.svg	     code = #1F3C8         cat = activities_clothing    desc = american football
-emoji 	short = rugby_ball		      src = activities_clothing/sports/rugby_ball.svg	             code = #1F3C9         cat = activities_clothing    desc = rugby ball
+emoji 	short = football		        src = activities_clothing/sports/football.svg			     code = #26BD          bundle = core     cat = activities_clothing    desc = football
+emoji 	short = basketball		        src = activities_clothing/sports/basketball.svg	             code = #1F3C0         bundle = core     cat = activities_clothing    desc = basketball
+emoji 	short = baseball			    src = activities_clothing/sports/baseball.svg			     code = #26BE          bundle = core     cat = activities_clothing    desc = baseball
+emoji 	short = softball		        src = activities_clothing/sports/softball.svg	             code = #1F94E         bundle = core     cat = activities_clothing    desc = softball
+emoji 	short = tennis			        src = activities_clothing/sports/tennis.svg			         code = #1F3BE         bundle = core     cat = activities_clothing    desc = tennis ball
+emoji 	short = 8_ball		            src = activities_clothing/sports/8_ball.svg	                 code = #1F3B1         bundle = core     cat = activities_clothing    desc = 8 ball
+emoji 	short = volleyball		        src = activities_clothing/sports/volleyball.svg	             code = #1F3D0         bundle = core     cat = activities_clothing    desc = volleyball
+emoji 	short = american_football	    src = activities_clothing/sports/american_football.svg	     code = #1F3C8         bundle = core     cat = activities_clothing    desc = american football
+emoji 	short = rugby_ball		        src = activities_clothing/sports/rugby_ball.svg	             code = #1F3C9         bundle = core     cat = activities_clothing    desc = rugby ball
