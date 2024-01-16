@@ -2,75 +2,75 @@
 
 # phone devices
 
-emoji 	short = phone										src = objects/tech/phone.svg									code =	#1F4F1        cat = objects   desc = phone
-emoji 	short = phone_with_arrow					src = objects/tech/phone_with_arrow.svg				code =	#1F4F2        cat = objects   desc = phone with arrow pointing to it
-emoji 	short = phone_vibrate					  src = objects/tech/phone_vibrate.svg				  code =	#1F4F3        cat = objects   desc = vibrating phone
-emoji 	short = phone_off					      src = objects/tech/phone_off.svg				      code =	#1F4F4        cat = objects   desc = phone turned off
-emoji 	short = watch										src = objects/tech/watch.svg									code = #231A $vs16   cat = objects   desc = watch
+emoji 	short = phone							src = objects/tech/phone.svg							code =	#1F4F1          bundle = core      cat = objects   desc = phone
+emoji 	short = phone_with_arrow				src = objects/tech/phone_with_arrow.svg				    code =	#1F4F2          bundle = core      cat = objects   desc = phone with arrow pointing to it
+emoji 	short = phone_vibrate					src = objects/tech/phone_vibrate.svg				    code =	#1F4F3          bundle = core      cat = objects   desc = vibrating phone
+emoji 	short = phone_off					    src = objects/tech/phone_off.svg				        code =	#1F4F4          bundle = core      cat = objects   desc = phone turned off
+emoji 	short = watch							src = objects/tech/watch.svg							code = #231A $vs16      bundle = core      cat = objects   desc = watch
 
 
 
 # computer devices
 
-emoji 	short = laptop						      src = objects/tech/laptop.svg						             code = #1F4BB $vs16    cat = objects   desc = laptop
-emoji 	short = computer						    src = objects/tech/computer.svg						           code = #1F5A5 $vs16    cat = objects   desc = computer
-emoji 	short = computer_mouse				  src = objects/tech/computer_mouse.svg						     code = #1F5B1 $vs16    cat = objects   desc = computer mouse
-emoji 	short = trackball						  src = objects/tech/trackball.svg					           code = #1F5B2 $vs16    cat = objects   desc = trackball
-emoji 	short = keyboard						    src = objects/tech/keyboard.svg					             code = #2328 $vs16     cat = objects   desc = keyboard
+emoji 	short = laptop						    src = objects/tech/laptop.svg						    code = #1F4BB $vs16    bundle = core      cat = objects   desc = laptop
+emoji 	short = computer						src = objects/tech/computer.svg						    code = #1F5A5 $vs16    bundle = core      cat = objects   desc = computer
+emoji 	short = computer_mouse				    src = objects/tech/computer_mouse.svg					code = #1F5B1 $vs16    bundle = core      cat = objects   desc = computer mouse
+emoji 	short = trackball						src = objects/tech/trackball.svg					    code = #1F5B2 $vs16    bundle = core      cat = objects   desc = trackball
+emoji 	short = keyboard						src = objects/tech/keyboard.svg					        code = #2328 $vs16     bundle = core      cat = objects   desc = keyboard
 
 
 
 
 # older phone devices
 
-emoji 	short = printer						    src = objects/tech/printer.svg					     code = #1F5A8 $vs16    cat = objects   desc = printer
-emoji 	short = fax_machine						src = objects/tech/fax_machine.svg					 code = #1F4E0          cat = objects   desc = fax machine
-emoji 	short = landline_phone				  src = objects/tech/landline_phone.svg				 code = #260E $vs16     cat = objects   desc = landline phone
-emoji 	short = phone_receiver					src = objects/tech/phone_receiver.svg				 code = #1F4DE          cat = objects   desc = landline phone receiver
-emoji 	short = pager								  src = objects/tech/pager.svg							   code = #1F4DF $vs16          cat = objects   desc = pager
+emoji 	short = printer						    src = objects/tech/printer.svg					        code = #1F5A8 $vs16    bundle = core      cat = objects   desc = printer
+emoji 	short = fax_machine						src = objects/tech/fax_machine.svg					    code = #1F4E0          bundle = core      cat = objects   desc = fax machine
+emoji 	short = landline_phone				    src = objects/tech/landline_phone.svg				    code = #260E $vs16     bundle = core      cat = objects   desc = landline phone
+emoji 	short = phone_receiver					src = objects/tech/phone_receiver.svg				    code = #1F4DE          bundle = core      cat = objects   desc = landline phone receiver
+emoji 	short = pager						    src = objects/tech/pager.svg							code = #1F4DF $vs16    bundle = core      cat = objects   desc = pager
 
 
 
 
 # audiovisual experience
 
-emoji 	short = tv												src = objects/tech/tv.svg											code = #1F4FA $vs16    cat = objects   desc = TV
-emoji 	short = radio									  src = objects/tech/radio.svg								  code = #1F4FB $vs16    cat = objects   desc = radio
-emoji 	short = speaker									src = objects/tech/speaker.svg								code = !undefined      cat = objects   desc = speaker
-emoji 	short = projector						src = objects/tech/projector.svg					code = #1F4FD $vs16    cat = objects   desc = projector
+emoji 	short = tv								src = objects/tech/tv.svg								code = #1F4FA $vs16     bundle = core      cat = objects   desc = TV
+emoji 	short = radio							src = objects/tech/radio.svg							code = #1F4FB $vs16     bundle = core      cat = objects   desc = radio
+emoji 	short = speaker							src = objects/tech/speaker.svg							code = !undefined       bundle = extra     cat = objects   desc = speaker
+emoji 	short = projector						src = objects/tech/projector.svg					    code = #1F4FD $vs16     bundle = core      cat = objects   desc = projector
 
-emoji 	short = gamepad									src = objects/tech/gamepad.svg								code =	#1F3AE $vs16  cat = objects   desc = gamepad
-emoji 	short = arcade_stick							src = objects/tech/arcade_stick.svg						code = !undefined    cat = objects   desc = arcade stick
-emoji 	short = joystick									src = objects/tech/joystick.svg								code = #1F579        cat = objects   desc = joystick
+emoji 	short = gamepad							src = objects/tech/gamepad.svg							code = #1F3AE $vs16     bundle = core      cat = objects   desc = gamepad
+emoji 	short = arcade_stick					src = objects/tech/arcade_stick.svg						code = !undefined       bundle = extra     cat = objects   desc = arcade stick
+emoji 	short = joystick						src = objects/tech/joystick.svg							code = #1F579           bundle = core      cat = objects   desc = joystick
 
-emoji 	short = vr_headset								src = objects/tech/vr_headset.svg							code = !undefined    cat = objects   desc = VR headset
+emoji 	short = vr_headset						src = objects/tech/vr_headset.svg						code = !undefined       bundle = extra     cat = objects   desc = VR headset
 
 
 
 
 # audiovisual creation
 
-emoji 	short = camera						      src = objects/tech/camera.svg					          code = #1F4F7 $vs16    cat = objects   desc = camera
-emoji 	short = camera_with_flash			src = objects/tech/camera_with_flash.svg		    code = #1F4F8          cat = objects   desc = camera with flash
-emoji 	short = camcorder				      src = objects/tech/camcorder.svg				        code = #1F4F9 $vs16    cat = objects   desc = camcorder
-emoji 	short = movie_camera					  src = objects/tech/movie_camera.svg				      code = #1F3A5          cat = objects   desc = movie camera
-emoji 	short = microphone						  src = objects/tech/microphone.svg						    code = #1F399 $vs16    cat = objects   desc = microphone
-emoji 	short = stylus									src = objects/tech/stylus.svg									  code = !undefined      cat = objects   desc = stylus
-emoji 	short = level_slider						src = objects/tech/level_slider.svg					    code = #1F39A $vs16    cat = objects   desc = level slider
-emoji 	short = control_knobs					src = objects/tech/control_knobs.svg					  code = #1F39B $vs16    cat = objects   desc = control knobs
+emoji 	short = camera						    src = objects/tech/camera.svg					        code = #1F4F7 $vs16     bundle = core      cat = objects   desc = camera
+emoji 	short = camera_with_flash			    src = objects/tech/camera_with_flash.svg		        code = #1F4F8           bundle = core      cat = objects   desc = camera with flash
+emoji 	short = camcorder				        src = objects/tech/camcorder.svg				        code = #1F4F9 $vs16     bundle = core      cat = objects   desc = camcorder
+emoji 	short = movie_camera					src = objects/tech/movie_camera.svg				        code = #1F3A5           bundle = core      cat = objects   desc = movie camera
+emoji 	short = microphone						src = objects/tech/microphone.svg						code = #1F399 $vs16     bundle = core      cat = objects   desc = microphone
+emoji 	short = stylus							src = objects/tech/stylus.svg							code = !undefined       bundle = extra     cat = objects   desc = stylus
+emoji 	short = level_slider					src = objects/tech/level_slider.svg					    code = #1F39A $vs16     bundle = core      cat = objects   desc = level slider
+emoji 	short = control_knobs					src = objects/tech/control_knobs.svg					code = #1F39B $vs16     bundle = core      cat = objects   desc = control knobs
 
 
 
 # recording media
 
-emoji 	short = cd												src = objects/tech/cd.svg											code =	#1f4bf $vs16  cat = objects   desc = CD
-emoji 	short = dvd											src = objects/tech/dvd.svg										code = #1F4C0    cat = objects   desc = DVD
-emoji 	short = minidisc									src = objects/tech/minidisc.svg								code = #1F4BD    cat = objects   desc = minidisc
-emoji 	short = floppy_disk							src = objects/tech/floppy_disk.svg						code = #1F4BE    cat = objects   desc = floppy disk
-emoji 	short = cassette									src = objects/tech/cassette.svg								code = !undefined    cat = objects   desc = cassette
-emoji 	short = vhs											src = objects/tech/vhs.svg										code =	#1F4FC  cat = objects   desc = VHS
-emoji 	short = lp												src = objects/tech/lp.svg											code = !undefined    cat = objects   desc = LP
-emoji 	short = film_frames						  src = objects/tech/film_frames.svg					  code = #1F39E $vs16    cat = objects   desc = film frames
+emoji 	short = cd								src = objects/tech/cd.svg								code = #1f4bf $vs16     bundle = core      cat = objects   desc = CD
+emoji 	short = dvd								src = objects/tech/dvd.svg								code = #1F4C0           bundle = core      cat = objects   desc = DVD
+emoji 	short = minidisc						src = objects/tech/minidisc.svg							code = #1F4BD           bundle = core      cat = objects   desc = minidisc
+emoji 	short = floppy_disk						src = objects/tech/floppy_disk.svg						code = #1F4BE           bundle = core      cat = objects   desc = floppy disk
+emoji 	short = cassette						src = objects/tech/cassette.svg							code = !undefined       bundle = extra     cat = objects   desc = cassette
+emoji 	short = vhs								src = objects/tech/vhs.svg								code = #1F4FC           bundle = core      cat = objects   desc = VHS
+emoji 	short = lp								src = objects/tech/lp.svg								code = !undefined       bundle = extra     cat = objects   desc = LP
+emoji 	short = film_frames						src = objects/tech/film_frames.svg					    code = #1F39E $vs16     bundle = core      cat = objects   desc = film frames
 
 
-emoji 	short = battery						      src = objects/tech/battery.svg					      code = #1F50B    cat = objects   desc = battery
+emoji 	short = battery						    src = objects/tech/battery.svg					        code = #1F50B           bundle = core      cat = objects   desc = battery

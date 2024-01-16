@@ -1,8 +1,8 @@
 
 
 
-emoji 	short = brick			    src = objects/mechanisms/brick.svg				  code = #1F9F1    cat = objects   desc = brick
-emoji   short = wrench               src = objects/mechanisms/wrench.svg               code = #1f527    cat = objects   desc = wrench
-emoji 	short = firecracker			src = objects/mechanisms/firecracker.svg		  code = #1F9E8    cat = objects   desc = firecracker
-emoji   short = bomb                 src = objects/mechanisms/bomb.svg                 code = #1F4A3    cat = objects   desc = bomb
-emoji   short = scales               src = objects/mechanisms/scales.svg               code = #2696 $vs16    cat = objects   desc = scales
+emoji 	short = brick			    src = objects/mechanisms/brick.svg				  code = #1F9F1    bundle = core   cat = objects   desc = brick
+emoji   short = wrench              src = objects/mechanisms/wrench.svg               code = #1f527    bundle = core   cat = objects   desc = wrench
+emoji 	short = firecracker			src = objects/mechanisms/firecracker.svg		  code = #1F9E8    bundle = core   cat = objects   desc = firecracker
+emoji   short = bomb                src = objects/mechanisms/bomb.svg                 code = #1F4A3    bundle = core   cat = objects   desc = bomb
+emoji   short = scales              src = objects/mechanisms/scales.svg               code = #2696 $vs16    bundle = core   cat = objects   desc = scales

@@ -1,9 +1,9 @@
 
 
-emoji 	short = green_money						src = objects/money/green_money.svg					code = #1F4B5    cat = objects   desc = green currency notes
-emoji 	short = yellow_money						src = objects/money/yellow_money.svg				code = #1F4B4    cat = objects   desc = yellow currency notes
-emoji 	short = pink_money							src = objects/money/pink_money.svg					code = #1F4B6    cat = objects   desc = pink currency notes
-emoji 	short = purple_money						src = objects/money/purple_money.svg				code = #1F4B7    cat = objects   desc = purple currency notes
+emoji 	short = green_money						src = objects/money/green_money.svg					code = #1F4B5    bundle = core   cat = objects   desc = green currency notes
+emoji 	short = yellow_money					src = objects/money/yellow_money.svg				code = #1F4B4    bundle = core   cat = objects   desc = yellow currency notes
+emoji 	short = pink_money						src = objects/money/pink_money.svg					code = #1F4B6    bundle = core   cat = objects   desc = pink currency notes
+emoji 	short = purple_money					src = objects/money/purple_money.svg				code = #1F4B7    bundle = core   cat = objects   desc = purple currency notes
 
-emoji 	short = moneybag								src = objects/money/moneybag.svg						code = #1F4B0 $vs16    cat = objects   desc = money bag
-emoji 	short = credit_card						src = objects/money/credit_card.svg					code = #1F4B3 $vs16    cat = objects   desc = credit card
+emoji 	short = moneybag						src = objects/money/moneybag.svg					code = #1F4B0 $vs16    bundle = core   cat = objects   desc = money bag
+emoji 	short = credit_card						src = objects/money/credit_card.svg					code = #1F4B3 $vs16    bundle = core   cat = objects   desc = credit card

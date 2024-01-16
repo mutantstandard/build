@@ -2,61 +2,61 @@
 
 # pages and docs
 
-emoji 	short = page											src = objects/office_stationery/page.svg											code = #1F4C4    cat = objects   desc = page
-emoji 	short = page_with_pencil					src = objects/office_stationery/page_with_pencil.svg					code = #1F4DD    cat = objects   desc = page with pencil
-emoji 	short = bookmark									src = objects/office_stationery/bookmark.svg									code = #1F4D1    cat = objects   desc = bookmark
-emoji 	short = curled_page									src = objects/office_stationery/curled_page.svg						code = #1F4C3    cat = objects   desc = curled page
-emoji 	short = folder								   src = objects/office_stationery/folder.svg								code = #1F4C1    cat = objects   desc = folder
-emoji 	short = open_folder						 src = objects/office_stationery/open_folder.svg								code = #1F4C2    cat = objects   desc = open folder
+emoji 	short = page							src = objects/office_stationery/page.svg								code = #1F4C4    bundle = core      cat = objects   desc = page
+emoji 	short = page_with_pencil				src = objects/office_stationery/page_with_pencil.svg					code = #1F4DD    bundle = core      cat = objects   desc = page with pencil
+emoji 	short = bookmark						src = objects/office_stationery/bookmark.svg							code = #1F4D1    bundle = core      cat = objects   desc = bookmark
+emoji 	short = curled_page						src = objects/office_stationery/curled_page.svg						    code = #1F4C3    bundle = core      cat = objects   desc = curled page
+emoji 	short = folder						    src = objects/office_stationery/folder.svg								code = #1F4C1    bundle = core      cat = objects   desc = folder
+emoji 	short = open_folder						src = objects/office_stationery/open_folder.svg							code = #1F4C2    bundle = core      cat = objects   desc = open folder
 
-emoji 	short = bar_chart								src = objects/office_stationery/bar_chart.svg								  code = #1F4CA    cat = objects   desc = bar chart
-emoji 	short = decreasing_graph					src = objects/office_stationery/decreasing_graph.svg					code = #1F4C9    cat = objects   desc = decreasing graph
-emoji 	short = increasing_graph					src = objects/office_stationery/increasing_graph.svg					code = #1F4C8    cat = objects   desc = increasing graph
+emoji 	short = bar_chart						src = objects/office_stationery/bar_chart.svg						    code = #1F4CA    bundle = core      cat = objects   desc = bar chart
+emoji 	short = decreasing_graph				src = objects/office_stationery/decreasing_graph.svg					code = #1F4C9    bundle = core      cat = objects   desc = decreasing graph
+emoji 	short = increasing_graph				src = objects/office_stationery/increasing_graph.svg					code = #1F4C8    bundle = core      cat = objects   desc = increasing graph
 
 
 
 
 # boxes and mail
 
-emoji 	short = inbox								   src = objects/office_stationery/inbox.svg								      code = #1F4E5 $vs16    cat = objects   desc = inbox
-emoji 	short = outbox								   src = objects/office_stationery/outbox.svg								      code = #1F4E4 $vs16    cat = objects   desc = outbox
+emoji 	short = inbox						    src = objects/office_stationery/inbox.svg								 code = #1F4E5 $vs16    bundle = core      cat = objects   desc = inbox
+emoji 	short = outbox							src = objects/office_stationery/outbox.svg								 code = #1F4E4 $vs16    bundle = core      cat = objects   desc = outbox
 
-emoji 	short = envelope								 src = objects/office_stationery/envelope.svg								    code = #2709 $vs16     cat = objects   desc = envelope
-emoji 	short = envelope_with_arrow		 src = objects/office_stationery/envelope_with_arrow.svg				code = #1F4E9    cat = objects   desc = envelope with arrow
-emoji 	short = incoming_envelope			 src = objects/office_stationery/incoming_envelope.svg					code = #1F4E8    cat = objects   desc = incoming envelope
-emoji 	short = email							     src = objects/office_stationery/email.svg								      code = #1F4E7    cat = objects   desc = email
-emoji 	short = love_letter						 src = objects/office_stationery/love_letter.svg								code = #1F48C    cat = objects   desc = love letter
+emoji 	short = envelope						src = objects/office_stationery/envelope.svg						        code = #2709 $vs16     bundle = core      cat = objects   desc = envelope
+emoji 	short = envelope_with_arrow		        src = objects/office_stationery/envelope_with_arrow.svg				        code = #1F4E9    bundle = core      cat = objects   desc = envelope with arrow
+emoji 	short = incoming_envelope			    src = objects/office_stationery/incoming_envelope.svg					    code = #1F4E8    bundle = core      cat = objects   desc = incoming envelope
+emoji 	short = email							src = objects/office_stationery/email.svg								    code = #1F4E7    bundle = core      cat = objects   desc = email
+emoji 	short = love_letter						src = objects/office_stationery/love_letter.svg								code = #1F48C    bundle = core      cat = objects   desc = love letter
 
-emoji 	short = closed_mailbox                     	 src = objects/office_stationery/closed_mailbox.svg								      code = #1F4EB $vs16    cat = objects       desc = closed mailbox
-emoji 	short = closed_mailbox_with_no_mail        	 src = objects/office_stationery/closed_mailbox_with_no_mail.svg				code = #1F4EA $vs16    cat = objects       desc = closed mailbox with no mail
-emoji 	short = mailbox                           		 src = objects/office_stationery/mailbox.svg								            code = #1F4EC $vs16    cat = objects       desc = open mailbox
-emoji 	short = mailbox_with_no_mail           		   src = objects/office_stationery/mailbox_with_no_mail.svg		            code = #1F4ED $vs16    cat = objects       desc = open mailbox with no mail
+emoji 	short = closed_mailbox                  src = objects/office_stationery/closed_mailbox.svg						    code = #1F4EB $vs16    bundle = core      cat = objects       desc = closed mailbox
+emoji 	short = closed_mailbox_with_no_mail     src = objects/office_stationery/closed_mailbox_with_no_mail.svg				code = #1F4EA $vs16    bundle = core      cat = objects       desc = closed mailbox with no mail
+emoji 	short = mailbox                         src = objects/office_stationery/mailbox.svg								    code = #1F4EC $vs16    bundle = core      cat = objects       desc = open mailbox
+emoji 	short = mailbox_with_no_mail            src = objects/office_stationery/mailbox_with_no_mail.svg		            code = #1F4ED $vs16    bundle = core      cat = objects       desc = open mailbox with no mail
 
-emoji 	short = package           		             src = objects/office_stationery/package.svg		                           code = #1f4e6    cat = objects       desc = package
+emoji 	short = package           		        src = objects/office_stationery/package.svg		                            code = #1f4e6    bundle = core      cat = objects       desc = package
 
 
 
 
 # books and calendars
 
-emoji 	short = spiral_notebook					src = objects/office_stationery/spiral_notebook.svg					  code = #1F5D2 $vs16    cat = objects   desc = spiral notebook
+emoji 	short = spiral_notebook					src = objects/office_stationery/spiral_notebook.svg					        code = #1F5D2 $vs16    bundle = core      cat = objects   desc = spiral notebook
 
-emoji 	short = date											src = objects/office_stationery/date.svg											code = #1F4C5          cat = objects   desc = date
-emoji 	short = calendar									src = objects/office_stationery/calendar.svg									code = #1F4C6          cat = objects   desc = calendar
-emoji 	short = calendar_spiral					src = objects/office_stationery/calendar_spiral.svg					  code = #1F5D3 $vs16    cat = objects   desc = calendar spiral
+emoji 	short = date							src = objects/office_stationery/date.svg									code = #1F4C5          bundle = core      cat = objects   desc = date
+emoji 	short = calendar						src = objects/office_stationery/calendar.svg								code = #1F4C6          bundle = core      cat = objects   desc = calendar
+emoji 	short = calendar_spiral					src = objects/office_stationery/calendar_spiral.svg					        code = #1F5D3 $vs16    bundle = core      cat = objects   desc = calendar spiral
 
-emoji 	short = red_book									src = objects/office_stationery/red_book.svg									code = #1F4D5    cat = objects   desc = red book
-emoji 	short = green_book								src = objects/office_stationery/green_book.svg								code = #1F4D7    cat = objects   desc = green book
-emoji 	short = blue_book								src = objects/office_stationery/blue_book.svg								  code = #1F4D8    cat = objects   desc = blue book
-emoji 	short = yellow_book							src = objects/office_stationery/yellow_book.svg							  code = #1F4D9    cat = objects   desc = yellow book
+emoji 	short = red_book						src = objects/office_stationery/red_book.svg								code = #1F4D5    bundle = core      cat = objects   desc = red book
+emoji 	short = green_book						src = objects/office_stationery/green_book.svg								code = #1F4D7    bundle = core      cat = objects   desc = green book
+emoji 	short = blue_book						src = objects/office_stationery/blue_book.svg								code = #1F4D8    bundle = core      cat = objects   desc = blue book
+emoji 	short = yellow_book						src = objects/office_stationery/yellow_book.svg							    code = #1F4D9    bundle = core      cat = objects   desc = yellow book
 
 
 
 # stationery
 
-emoji 	short = magnifying_glass_left		src = objects/office_stationery/magnifying_glass_left.svg		  code = #1F50D    cat = objects   desc = magnifying glass leaning left
-emoji 	short = magnifying_glass_right		src = objects/office_stationery/magnifying_glass_right.svg		code = #1F50E    cat = objects   desc = magnifying glass leaning right
-emoji 	short = paperclip								src = objects/office_stationery/paperclip.svg								  code = #1F4CE    cat = objects   desc = paperclip
-emoji 	short = pen											src = objects/office_stationery/pen.svg											  code = #1F58A $vs16      cat = objects   desc = pen
-emoji 	short = pencil										src = objects/office_stationery/pencil.svg										code = #270F $vs16       cat = objects   desc = pencil
-emoji 	short = triangle_ruler										src = objects/office_stationery/triangle_ruler.svg										code = #1F4D0       cat = objects   desc = triangle ruler
+emoji 	short = magnifying_glass_left		    src = objects/office_stationery/magnifying_glass_left.svg		            code = #1F50D           bundle = core      cat = objects   desc = magnifying glass leaning left
+emoji 	short = magnifying_glass_right		    src = objects/office_stationery/magnifying_glass_right.svg		            code = #1F50E           bundle = core      cat = objects   desc = magnifying glass leaning right
+emoji 	short = paperclip						src = objects/office_stationery/paperclip.svg								code = #1F4CE           bundle = core      cat = objects   desc = paperclip
+emoji 	short = pen								src = objects/office_stationery/pen.svg										code = #1F58A $vs16     bundle = core      cat = objects   desc = pen
+emoji 	short = pencil							src = objects/office_stationery/pencil.svg									code = #270F $vs16      bundle = core      cat = objects   desc = pencil
+emoji 	short = triangle_ruler					src = objects/office_stationery/triangle_ruler.svg							code = #1F4D0           bundle = core      cat = objects   desc = triangle ruler

@@ -1,6 +1,6 @@
 
 
 
-emoji 	short = balloon								src = objects/party/balloon.svg									code = #1F388    cat = objects  desc = balloon
-emoji 	short = tada								    src = objects/party/tada.svg									  code = #1F389    cat = objects  desc = party popper blasting confetti
-emoji 	short = confetti_ball					src = objects/party/confetti_ball.svg						code = #1F38A    cat = objects  desc = confetti ball being opened
+emoji 	short = balloon							src = objects/party/balloon.svg								code = #1F388    bundle = core      cat = objects  desc = balloon
+emoji 	short = tada							src = objects/party/tada.svg							    code = #1F389    bundle = core      cat = objects  desc = party popper blasting confetti
+emoji 	short = confetti_ball					src = objects/party/confetti_ball.svg						code = #1F38A    bundle = core      cat = objects  desc = confetti ball being opened

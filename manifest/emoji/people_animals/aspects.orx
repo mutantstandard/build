@@ -2,9 +2,9 @@
 
 
 #aspects
-emoji 	short = spider_web							src = people_animals/aspects/spider_web.svg							code = #1F578 $vs16    cat = people  desc = spider web
+emoji 	short = spider_web							src = people_animals/aspects/spider_web.svg							code = #1F578 $vs16    bundle = core      cat = people  desc = spider web
 
-emoji   short = bust_in_silhouette		  src = people_animals/aspects/bust_in_silhouette.svg				 code = #1F464    cat = people  desc = bust in silhouette
-emoji   short = 2_busts_in_silhouette	src = people_animals/aspects/2_busts_in_silhouette.svg		 code = #1F465    cat = people  desc = 2 busts in silhouette
-emoji 	short = paw_print							src = people_animals/aspects/paw_print.svg							   code = #10169b    cat = people  desc = paw print
-emoji 	short = paws						      	src = people_animals/aspects/paws.svg							         code = #1F43E    cat = people  desc = 2 paw pints
+emoji   short = bust_in_silhouette		            src = people_animals/aspects/bust_in_silhouette.svg				    code = #1F464       bundle = core      cat = people  desc = bust in silhouette
+emoji   short = 2_busts_in_silhouette	            src = people_animals/aspects/2_busts_in_silhouette.svg		        code = #1F465       bundle = core      cat = people  desc = 2 busts in silhouette
+emoji 	short = paw_print							src = people_animals/aspects/paw_print.svg							code = #10169b      bundle = altmorph  cat = people  desc = paw print
+emoji 	short = paws						      	src = people_animals/aspects/paws.svg							    code = #1F43E       bundle = core      cat = people  desc = 2 paw pints

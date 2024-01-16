@@ -1,8 +1,8 @@
 
 
-emoji 	short = bath						    src = objects/household/bath.svg					        code = #1F6C1    cat = objects    desc = bath filled with water
-emoji 	short = bath_with_person			    src = objects/household/bath_with_person.svg			code = #1F6C0    cat = objects    desc = bath filled with water with a person sitting inside
-emoji 	short = toilet_paper					src = objects/household/toilet_paper.svg					code = #1F9FB    cat = objects    desc = roll of toilet paper
-emoji 	short = soap			                src = objects/household/soap.svg			          code = #1F9FC   cat = objects   desc = soap
-emoji 	short = candle			            src = objects/household/candle.svg			          code = #1F56F $vs16    cat = objects   desc = candle
-emoji 	short = light_bulb			        src = objects/household/light_bulb.svg			          code = #1F4A1    cat = objects   desc = light bulb
+emoji 	short = bath						src = objects/household/bath.svg					    code = #1F6C1           bundle = core   cat = objects    desc = bath filled with water
+emoji 	short = bath_with_person			src = objects/household/bath_with_person.svg	        code = #1F6C0           bundle = core   cat = objects    desc = bath filled with water with a person sitting inside
+emoji 	short = toilet_paper			    src = objects/household/toilet_paper.svg			    code = #1F9FB           bundle = core   cat = objects    desc = roll of toilet paper
+emoji 	short = soap			            src = objects/household/soap.svg			            code = #1F9FC           bundle = core   cat = objects   desc = soap
+emoji 	short = candle			            src = objects/household/candle.svg			            code = #1F56F $vs16     bundle = core   cat = objects   desc = candle
+emoji 	short = light_bulb			        src = objects/household/light_bulb.svg			        code = #1F4A1           bundle = core   cat = objects   desc = light bulb

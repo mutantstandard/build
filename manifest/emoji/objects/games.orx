@@ -1,10 +1,10 @@
 
 
-emoji 	short = d4					src = objects/games/d4.svg						code = #101692      cat = objects   desc = 4-sided die
-emoji 	short = d6					src = objects/games/d6.svg						code = #1F3B2       cat = objects   desc = 6-sided die
-emoji 	short = d8					src = objects/games/d8.svg						code = #101693      cat = objects   desc = 8-sided die
-emoji 	short = d10					src = objects/games/d10.svg						code = #101694      cat = objects   desc = 10-sided die
-emoji 	short = d12					src = objects/games/d12.svg						code = #101695      cat = objects   desc = 12-sided die
-emoji 	short = d20					src = objects/games/d20.svg						code = #101696      cat = objects   desc = 20-sided die
+emoji 	short = d4					src = objects/games/d4.svg						code = #101692      bundle = extra       cat = objects   desc = 4-sided die
+emoji 	short = d6					src = objects/games/d6.svg						code = #1F3B2       bundle = core       cat = objects   desc = 6-sided die
+emoji 	short = d8					src = objects/games/d8.svg						code = #101693      bundle = extra       cat = objects   desc = 8-sided die
+emoji 	short = d10					src = objects/games/d10.svg						code = #101694      bundle = extra       cat = objects   desc = 10-sided die
+emoji 	short = d12					src = objects/games/d12.svg						code = #101695      bundle = extra       cat = objects   desc = 12-sided die
+emoji 	short = d20					src = objects/games/d20.svg						code = #101696      bundle = extra       cat = objects   desc = 20-sided die
 
-emoji 	short = hanafuda_card		src = objects/games/hanafuda_card.svg			code = #1F3B4       cat = objects   desc = hanafuda card
+emoji 	short = hanafuda_card		src = objects/games/hanafuda_card.svg			code = #1F3B4       bundle = core       cat = objects   desc = hanafuda card
