@@ -18,7 +18,6 @@ define vs16 #fe0f
 # EXPRESSIONS
 # ------------------------------------
 include emoji/expressions/smilies.orx
-include emoji/expressions/expressions_other.orx
 include emoji/expressions/hands.orx
 include emoji/expressions/body_parts.orx
 include emoji/expressions/body.orx

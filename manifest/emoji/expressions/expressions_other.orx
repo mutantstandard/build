@@ -1,6 +1,0 @@
-
-
-emoji 	short = ghost									src = expressions/other/ghost.svg	                    code = #1F47B           bundle = core           cat = expressions               desc = ghost
-emoji 	short = skull									src = expressions/other/skull.svg					    code = #1F480           bundle = core           cat = expressions               desc = skull
-emoji 	short = skull_and_crossbones		            src = expressions/other/skull_and_crossbones.svg		code = #2620 $vs16      bundle = core           cat = expressions               desc = skull and crossbones
-emoji 	short = jack_o_lantern					        src = expressions/other/jack_o_lantern.svg			    code = #1F383           bundle = core           cat = expressions               desc = jack o' lantern

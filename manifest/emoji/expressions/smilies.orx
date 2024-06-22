@@ -160,7 +160,7 @@ emoji 	short = swearing 					src = $(smiley_path)/1f92c_swearing.svg						code =
 
 
 
-# non-smiley
+# alternative to normal smiley
 # --------------------------------------------
 emoji 	short = sunglasses_face 			src = $(smiley_path)/1f60e_sunglasses_face.svg			code = #1F60E           bundle = core      cat = expressions   desc = face with sunglasses
 emoji 	short = nerd     					src = $(smiley_path)/1f913_nerd.svg					    code = #1F913           bundle = core      cat = expressions   desc = nerdy face wearing glasses
@@ -170,26 +170,32 @@ emoji 	short = flaming_poop 				src = $(smiley_path)/mtnt_flaming_poop.svg		    
 emoji 	short = imp_devious 				src = $(smiley_path)/1f608_imp_devious.svg				code = #1F608           bundle = core      cat = expressions   desc = devious imp
 emoji 	short = imp_angry 					src = $(smiley_path)/1f47f_imp_angry.svg				code = #1F47F           bundle = core      cat = expressions   desc = angry imp
 
-# not updated yet
-emoji 	short = clown 						src = $(smiley_path)/other/clown.svg				    code = #1F921           bundle = core      cat = expressions   desc = clown
-emoji 	short = tengu_mask 				    src = $(smiley_path)/other/tengu_mask.svg				code = #1F47A           bundle = core      cat = expressions   desc = tengu mask
-emoji 	short = robot 						src = $(smiley_path)/other/robot.svg					code = #1F916           bundle = core      cat = expressions   desc = robot
-emoji 	short = alien_monster 				src = $(smiley_path)/other/alien_monster.svg			code = #1F47E           bundle = core      cat = expressions   desc = alien monster
-emoji 	short = alien 						src = $(smiley_path)/other/alien.svg					code = #1F47D $vs16     bundle = core      cat = expressions   desc = alien
-emoji 	short = grumpy_block 				src = $(smiley_path)/other/grumpy_block.svg				code = !undefined       bundle = extra     cat = expressions   desc = grumpy block
-
-
 
 
 # cats
 # --------------------------------------------
-emoji 	short = cat_smile 					src = $(smiley_path)/cats/cat_smile.svg						code = #1F63A       bundle = core      cat = expressions   desc = cat smiling
-emoji 	short = cat_grin 					src = $(smiley_path)/cats/cat_grin.svg						code = #1F638       bundle = core      cat = expressions   desc = cat grinning
-emoji 	short = cat_joy			            src = $(smiley_path)/cats/cat_joy.svg				        code = #1F639       bundle = core      cat = expressions   desc = cat joy
-emoji 	short = cat_devious 				src = $(smiley_path)/cats/cat_devious.svg                   code = #1F63C       bundle = core      cat = expressions   desc = devious cat 
-emoji 	short = cat_pouting 				src = $(smiley_path)/cats/cat_pouting.svg					code = #1F63E       bundle = core      cat = expressions   desc = pouting cat 
-emoji 	short = cat_crying 				    src = $(smiley_path)/cats/cat_crying.svg                    code = #1F63F       bundle = core      cat = expressions   desc = crying cat 
-emoji 	short = cat_kiss 					src = $(smiley_path)/cats/cat_kiss.svg                      code = #1F63D       bundle = core      cat = expressions   desc = kissing cat
-emoji 	short = cat_heart_eyes 			    src = $(smiley_path)/cats/cat_heart_eyes.svg                code = #1F63B       bundle = core      cat = expressions   desc = cat with heart eyes
-emoji 	short = cat_scream 					src = $(smiley_path)/cats/cat_scream.svg					code = #1F640       bundle = core      cat = expressions   desc = cat screaming
-emoji 	short = blep 						src = $(smiley_path)/cats/blep.svg						    code = #10169C      bundle = extra     cat = expressions   desc = cat sticking its tongue out slightly
+emoji 	short = cat_smile 					src = $(smiley_path)/cats/1f63a_cat_grin.svg				    code = #1F63A       bundle = core      cat = expressions   desc = cat smiling with open mouth
+emoji 	short = cat_grin 					src = $(smiley_path)/cats/1f638_cat_grin_closed_eyes.svg		code = #1F638       bundle = core      cat = expressions   desc = cat grinning
+emoji 	short = cat_joy			            src = $(smiley_path)/cats/1f639_cat_joy.svg				        code = #1F639       bundle = core      cat = expressions   desc = cat joy
+emoji 	short = cat_devious 				src = $(smiley_path)/cats/1f63c_cat_smirk.svg                   code = #1F63C       bundle = core      cat = expressions   desc = devious cat 
+emoji 	short = cat_pouting 				src = $(smiley_path)/cats/1f63e_cat_pouting.svg					code = #1F63E       bundle = core      cat = expressions   desc = pouting cat 
+emoji 	short = cat_crying 				    src = $(smiley_path)/cats/1f63f_cat_cry.svg                     code = #1F63F       bundle = core      cat = expressions   desc = crying cat 
+emoji 	short = cat_kiss 					src = $(smiley_path)/cats/1f63d_cat_kiss.svg                    code = #1F63D       bundle = core      cat = expressions   desc = kissing cat
+emoji 	short = cat_heart_eyes 			    src = $(smiley_path)/cats/1f63b_cat_heart_eyes.svg              code = #1F63B       bundle = core      cat = expressions   desc = cat with heart eyes
+emoji 	short = cat_scream 					src = $(smiley_path)/cats/1f640_cat_scream.svg					code = #1F640       bundle = core      cat = expressions   desc = cat screaming
+emoji 	short = blep 						src = $(smiley_path)/cats/MTNT_cat_blep.svg						code = #10169C      bundle = extra     cat = expressions   desc = cat sticking its tongue out slightly
+
+
+# not smileys at all
+# --------------------------------------------
+emoji 	short = robot 						src = $(smiley_path)/other/robot.svg					code = #1F916           bundle = core      cat = expressions   desc = robot
+emoji 	short = alien_monster 				src = $(smiley_path)/other/alien_monster.svg			code = #1F47E           bundle = core      cat = expressions   desc = alien monster
+emoji 	short = alien 						src = $(smiley_path)/other/alien.svg					code = #1F47D $vs16     bundle = core      cat = expressions   desc = alien
+emoji 	short = ghost						src = $(smiley_path)/other/ghost.svg	                code = #1F47B           bundle = core           cat = expressions               desc = ghost
+emoji 	short = skull						src = $(smiley_path)/other/skull.svg					code = #1F480           bundle = core           cat = expressions               desc = skull
+emoji 	short = skull_and_crossbones		src = $(smiley_path)/other/skull_and_crossbones.svg		code = #2620 $vs16      bundle = core           cat = expressions               desc = skull and crossbones
+emoji 	short = jack_o_lantern			    src = $(smiley_path)/other/jack_o_lantern.svg			code = #1F383           bundle = core           cat = expressions               desc = jack o' lantern
+
+# not updated yet
+emoji 	short = clown 						src = $(smiley_path)/other/clown.svg				    code = #1F921           bundle = core      cat = expressions   desc = clown
+emoji 	short = tengu_mask 				    src = $(smiley_path)/other/tengu_mask.svg				code = #1F47A           bundle = core      cat = expressions   desc = tengu mask
