@@ -174,8 +174,8 @@ emoji 	short = imp_angry 					src = $(smiley_path)/1f47f_imp_angry.svg				code =
 
 # cats
 # --------------------------------------------
-emoji 	short = cat_smile 					src = $(smiley_path)/cats/1f63a_cat_grin.svg				    code = #1F63A       bundle = core      cat = expressions   desc = cat smiling with open mouth
-emoji 	short = cat_grin 					src = $(smiley_path)/cats/1f638_cat_grin_closed_eyes.svg		code = #1F638       bundle = core      cat = expressions   desc = cat grinning
+emoji 	short = cat_grin 					src = $(smiley_path)/cats/1f63a_cat_grin.svg				    code = #1F63A       bundle = core      cat = expressions   desc = cat smiling with open mouth
+emoji 	short = cat_smile 					src = $(smiley_path)/cats/1f638_cat_smile.svg		            code = #1F638       bundle = core      cat = expressions   desc = cat grinning with closed eyes
 emoji 	short = cat_joy			            src = $(smiley_path)/cats/1f639_cat_joy.svg				        code = #1F639       bundle = core      cat = expressions   desc = cat joy
 emoji 	short = cat_devious 				src = $(smiley_path)/cats/1f63c_cat_smirk.svg                   code = #1F63C       bundle = core      cat = expressions   desc = devious cat 
 emoji 	short = cat_pouting 				src = $(smiley_path)/cats/1f63e_cat_pouting.svg					code = #1F63E       bundle = core      cat = expressions   desc = pouting cat 
