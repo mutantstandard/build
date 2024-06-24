@@ -50,7 +50,8 @@ Brian
 Brian Hicks
 Bryan Tsang
 Bursik Badger
-Cake 
+Cake
+cat azazael
 catdad 
 Charles 
 Chase Courtright
@@ -121,6 +122,7 @@ Noble
 Nona
 Oliver Uvman
 Ollie Lovette
+phildini
 Pyrox
 quaternary 
 Queen of Avalon
@@ -140,6 +142,7 @@ Steven
 taco
 Targrus
 Tessa N
+Thomas Touhey
 Tim Swast
 William Pitcock
 XF 
