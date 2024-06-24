@@ -5,14 +5,15 @@
 # scenes
 # -----------------------------
 
-emoji 	short = mount_fuji												src = travel_places/locations/mount_fuji.svg										code = #1F5FB    cat = travel_places    root = mount_fuji      desc = mount fuji
-emoji 	short = mountain										      src = travel_places/locations/mountain.svg											code = #26F0     cat = travel_places    root = mountain        desc = a mountain
-emoji 	short = snowy_mountain										src = travel_places/locations/snowy_mountain.svg								code = #1F3D4    cat = travel_places    root = snowy_mountain  desc = a snowy mountain
-emoji 	short = volcano												  src = travel_places/locations/volcano.svg												code = #1F30B    cat = travel_places    root = volcano         desc = a volcano
+emoji 	short = mount_fuji					    src = travel_places/locations/mount_fuji.svg				code = #1F5FB    cat = travel_places    root = mount_fuji      desc = mount fuji
+emoji 	short = mountain			            src = travel_places/locations/mountain.svg					code = #26F0     cat = travel_places    root = mountain        desc = a mountain
+emoji 	short = snowy_mountain					src = travel_places/locations/snowy_mountain.svg			code = #1F3D4    cat = travel_places    root = snowy_mountain  desc = a snowy mountain
+emoji 	short = volcano						    src = travel_places/locations/volcano.svg					code = #1F30B    cat = travel_places    root = volcano         desc = a volcano
 
-emoji 	short = statue_of_liberty								src = travel_places/locations/statue_of_liberty.svg						  code = #1F5FD    cat = travel_places    root = statue_of_liberty       desc = statue of liberty
-emoji 	short = tokyo_tower											src = travel_places/locations/tokyo_tower.svg								    code = #1F5FC    cat = travel_places    root = tokyo_tower             desc = tokyo tower
-emoji 	short = beach												    src = travel_places/locations/beach.svg												  code = #1F3D6    cat = travel_places    root = beach                   desc = a beach
-emoji 	short = desert_island										src = travel_places/locations/desert_island.svg					       	code = #1F3DD $vs16    cat = travel_places    root = desert_island     desc = a desert island
-emoji 	short = beach_umbrella										src = travel_places/locations/beach_umbrella.svg					      code = #26F1    cat = travel_places    root = beach_umbrella           desc = beach umbrella
-emoji 	short = world_map												src = travel_places/locations/world_map.svg										  code = #1F5FA $vs16    cat = travel_places    root = world_map         desc = map of earth
+emoji 	short = statue_of_liberty				src = travel_places/locations/statue_of_liberty.svg			code = #1F5FD    cat = travel_places    root = statue_of_liberty       desc = statue of liberty
+emoji   short = moai                            src = travel_places/locations/moai.svg                      code = #1F5FF    cat = travel_places    root = moai                    desc = moai
+emoji 	short = tokyo_tower						src = travel_places/locations/tokyo_tower.svg				code = #1F5FC    cat = travel_places    root = tokyo_tower             desc = tokyo tower
+emoji 	short = beach						    src = travel_places/locations/beach.svg						code = #1F3D6    cat = travel_places    root = beach                   desc = a beach
+emoji 	short = desert_island				    src = travel_places/locations/desert_island.svg			    code = #1F3DD $vs16    cat = travel_places    root = desert_island     desc = a desert island
+emoji 	short = beach_umbrella					src = travel_places/locations/beach_umbrella.svg			code = #26F1    cat = travel_places    root = beach_umbrella           desc = beach umbrella
+emoji 	short = world_map						src = travel_places/locations/world_map.svg				    code = #1F5FA $vs16    cat = travel_places    root = world_map         desc = map of earth

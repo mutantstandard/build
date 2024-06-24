@@ -54,7 +54,7 @@ include emoji/nature_effects/nature_effects.orx
 
 # TRAVEL AND PLACES
 # ------------------------------------
-include emoji/travel_places/cars.orx
+include emoji/travel_places/road.orx
 include emoji/travel_places/trains.orx
 include emoji/travel_places/air.orx
 include emoji/travel_places/locations.orx

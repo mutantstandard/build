@@ -52,6 +52,7 @@ emoji 	short = ram		               	    src = $(people_creatures_path)/other_mam
 emoji 	short = rat		               	    src = $(people_creatures_path)/other_mammals/rat.svg                              code = #1F400    cat = people    desc = rat
 emoji 	short = deer_with_antlers			src = $(people_creatures_path)/other_mammals/deer_with_antlers.svg                code = !undefined    cat = people    desc = deer with antlers
 emoji 	short = deer_without_antlers	    src = $(people_creatures_path)/other_mammals/deer_without_antlers.svg             code = !undefined    cat = people    desc = deer without antlers
+emoji   short = goat                        src = $(people_creatures_path)/other_mammals/goat.svg                             code = #1F410    cat = people     desc = goat
 emoji 	short = mouse		               	src = $(people_creatures_path)/other_mammals/mouse.svg                            code = #1F401    cat = people    desc = mouse
 emoji 	short = opossum		               	src = $(people_creatures_path)/other_mammals/opossum.svg                          code = !undefined    cat = people    desc = opossum
 emoji 	short = otter		               	src = $(people_creatures_path)/other_mammals/otter.svg                            code = !undefined    cat = people    desc = otter

@@ -1,0 +1,26 @@
+
+
+
+
+# scenes
+# -----------------------------
+
+emoji   short = bicycle                             src = travel_places/road/bicycle.svg                                code = #1F6B2    cat = travel_places    desc = bicycle  
+
+emoji 	short = car				                    src = travel_places/road/car.svg					                code = #1F697    cat = travel_places    desc = car
+emoji 	short = suv				                    src = travel_places/road/suv.svg					                code = #1F699    cat = travel_places    desc = suv
+emoji 	short = taxi				                src = travel_places/road/taxi.svg					                code = #1F695    cat = travel_places    desc = taxi
+emoji 	short = minibus				                src = travel_places/road/minibus.svg					            code = #1F690    cat = travel_places    desc = minibus
+emoji 	short = bus				                    src = travel_places/road/bus.svg					                code = #1F68C    cat = travel_places    desc = bus
+emoji 	short = trolleybus				            src = travel_places/road/trolleybus.svg					            code = #1F68E    cat = travel_places    desc = trolleybus
+emoji 	short = delivery_truck				        src = travel_places/road/delivery_truck.svg					        code = #1F69A    cat = travel_places    desc = delivery truck
+emoji 	short = articulated_truck				    src = travel_places/road/articulated_truck.svg					    code = #1F69B    cat = travel_places    desc = articulated truck
+
+emoji 	short = fire_engine				            src = travel_places/road/fire_engine.svg					        code = #1f692    cat = travel_places    desc = fire engine
+emoji 	short = ambulance				            src = travel_places/road/ambulance.svg					            code = #1F691    cat = travel_places    desc = ambulance
+
+emoji 	short = traffic_light_vertical				src = travel_places/road/traffic_light_vertical.svg					code = #1F6A6    cat = travel_places    desc = vertical traffic light
+emoji 	short = traffic_light_horizontal			src = travel_places/road/traffic_light_horizontal.svg				code = #1F6A5    cat = travel_places    desc = horizontal traffic light
+emoji 	short = bus_stop				            src = travel_places/road/bus_stop.svg					            code = #1F68F    cat = travel_places    desc = bus stop
+emoji 	short = construction_sign				    src = travel_places/road/construction_sign.svg					    code = #1F6A7    cat = travel_places    desc = constructionsign
+emoji 	short = siren				                src = travel_places/road/siren.svg					                code = #1F6A8    cat = travel_places    desc = flashing siren
