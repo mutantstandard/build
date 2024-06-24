@@ -1,5 +1,5 @@
 Mutant Standard emoji
-Release 2023.12
+Release 2024.06
 mutant.tech
 
 ----------------------------------------------------------------------

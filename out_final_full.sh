@@ -3,7 +3,7 @@
 
 cd "$(dirname "$0")"
 
-version=2023.12
+version=2024.06
 render_threads=12
 base_dir="out/final"
 
