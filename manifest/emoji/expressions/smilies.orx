@@ -95,6 +95,7 @@ emoji 	short = woozy 						src = $(smiley_path)/typical/1f974_woozy.svg			code =
 emoji 	short = crazy 						src = $(smiley_path)/typical/1f92a_crazy.svg		    code = #1F92A               bundle = core      cat = expressions   desc = crazy face
 emoji 	short = mind_blown 					src = $(smiley_path)/typical/1f92f_mind_blown.svg		code = #1F92F               bundle = core      cat = expressions   desc = mind blown
 emoji 	short = mild_panic 					src = $(smiley_path)/typical/mtnt_mild_panic.svg		code = !undefined           bundle = extra     cat = expressions   desc = mild panic face
+emoji   short = melting_face                src = $(smiley_path)/typical/1fae0_melting_face.svg     code = #1FAE0               bundle = core      cat = expressions   desc = melting face
 
 emoji 	short = open_mouth 					src = $(smiley_path)/typical/1f62e_open_mouth.svg	        code = #1F62E    bundle = core      cat = expressions   desc = face with an open mouth
 emoji 	short = astonished 					src = $(smiley_path)/typical/1f632_astonished.svg		    code = #1F632    bundle = core      cat = expressions   desc = astonished face
@@ -138,8 +139,7 @@ emoji 	short = crying 						src = $(smiley_path)/typical/1f622_crying.svg				cod
 emoji 	short = sob 					    src = $(smiley_path)/typical/1f62d_sob.svg			        code = #1F62D       bundle = core      cat = expressions   desc = sobbing
 
 emoji   short = outline_face                src = $(smiley_path)/typical/1fae5_outline_face.svg         code = #1FAE5       bundle = core      cat = expressions   desc = dotted line face
-# TODO: face in clouds
-
+emoji   short = face_in_clouds              src = $(smiley_path)/typical/1f636_etc_face_in_clouds.svg       code = #1F636 $zwj #1F32B $vs16       bundle = core      cat = expressions   desc = face in clouds
 
 
 # sick & angry
