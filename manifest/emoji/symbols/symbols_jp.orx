@@ -2,33 +2,33 @@
 define symbols_jp_path symbols/jp
 
 
-emoji 	short = bargain							src = $(symbols_jp_path)/bargain.svg							code = #1F250         cat = symbols   desc = Japanese character implying "bargain"
-emoji 	short = congratulations			src = $(symbols_jp_path)/congratulations.svg			code = #3297 $vs16    cat = symbols   desc = Japanese character implying "congratulations"
-emoji 	short = secret								src = $(symbols_jp_path)/secret.svg								code = #3299 $vs16    cat = symbols   desc = Japanese character implying "secret"
+emoji 	short = bargain							src = $(symbols_jp_path)/bargain.svg			    bundle = core   code = #1F250         cat = symbols   desc = Japanese character implying "bargain"
+emoji 	short = congratulations			src = $(symbols_jp_path)/congratulations.svg			    bundle = core   code = #3297 $vs16    cat = symbols   desc = Japanese character implying "congratulations"
+emoji 	short = secret								src = $(symbols_jp_path)/secret.svg				bundle = core   code = #3299 $vs16    cat = symbols   desc = Japanese character implying "secret"
 
-emoji 	short = passing_grade				src = $(symbols_jp_path)/passing_grade.svg				code = #1F234         cat = symbols   desc = Japanese character implying "passing grade"
-emoji 	short = no_vacancy						src = $(symbols_jp_path)/no_vacancy.svg						code = #1F235         cat = symbols   desc = Japanese character implying "no vacancy"
-emoji 	short = discount							src = $(symbols_jp_path)/discount.svg							code = #1F239         cat = symbols   desc = Japanese character implying "discount"
-emoji 	short = prohibited						src = $(symbols_jp_path)/prohibited.svg						code = #1F232         cat = symbols   desc = Japanese character implying "prohibited"
+emoji 	short = passing_grade				src = $(symbols_jp_path)/passing_grade.svg				bundle = core   code = #1F234         cat = symbols   desc = Japanese character implying "passing grade"
+emoji 	short = no_vacancy						src = $(symbols_jp_path)/no_vacancy.svg				bundle = core   code = #1F235         cat = symbols   desc = Japanese character implying "no vacancy"
+emoji 	short = discount							src = $(symbols_jp_path)/discount.svg			bundle = core   code = #1F239         cat = symbols   desc = Japanese character implying "discount"
+emoji 	short = prohibited						src = $(symbols_jp_path)/prohibited.svg				bundle = core   code = #1F232         cat = symbols   desc = Japanese character implying "prohibited"
 
 
-emoji 	short = blood_type_a					src = $(symbols_jp_path)/blood_type_a.svg					code = #1F170 $vs16    cat = symbols   desc = blood type A
-emoji 	short = blood_type_ab				src = $(symbols_jp_path)/blood_type_ab.svg				code = #1F18E          cat = symbols   desc = blood type AB
-emoji 	short = blood_type_b					src = $(symbols_jp_path)/blood_type_b.svg					code = #1F171 $vs16    cat = symbols   desc = blood type B
-emoji 	short = blood_type_o					src = $(symbols_jp_path)/blood_type_o.svg					code = #1F17E $vs16    cat = symbols   desc = blood type O
+emoji 	short = blood_type_a					src = $(symbols_jp_path)/blood_type_a.svg			bundle = core   code = #1F170 $vs16    cat = symbols   desc = blood type A
+emoji 	short = blood_type_ab				src = $(symbols_jp_path)/blood_type_ab.svg				bundle = core   code = #1F18E          cat = symbols   desc = blood type AB
+emoji 	short = blood_type_b					src = $(symbols_jp_path)/blood_type_b.svg			bundle = core   code = #1F171 $vs16    cat = symbols   desc = blood type B
+emoji 	short = blood_type_o					src = $(symbols_jp_path)/blood_type_o.svg			bundle = core   code = #1F17E $vs16    cat = symbols   desc = blood type O
 
-emoji 	short = month								src = $(symbols_jp_path)/month.svg								code = #1F237 $vs16    cat = symbols   desc = Japanese character implying "month"
-emoji 	short = free_of_charge				src = $(symbols_jp_path)/free_of_charge.svg				code = #1F21A $vs16    cat = symbols   desc = Japanese character implying "free of charge"
-emoji 	short = request							src = $(symbols_jp_path)/request.svg							code = #1F238          cat = symbols   desc = Japanese character implying "request"
-emoji 	short = open_for_business		src = $(symbols_jp_path)/open_for_business.svg		code = #1F23A          cat = symbols   desc = Japanese character implying "open for business"
-emoji 	short = not_free							src = $(symbols_jp_path)/not_free.svg							code = #1F236          cat = symbols   desc = Japanese character implying "not free"
-emoji 	short = acceptable						src = $(symbols_jp_path)/acceptable.svg						code = #1F251          cat = symbols   desc = Japanese character implying "acceptable"
+emoji 	short = month								src = $(symbols_jp_path)/month.svg				bundle = core   code = #1F237 $vs16    cat = symbols   desc = Japanese character implying "month"
+emoji 	short = free_of_charge				src = $(symbols_jp_path)/free_of_charge.svg				bundle = core   code = #1F21A $vs16    cat = symbols   desc = Japanese character implying "free of charge"
+emoji 	short = request							src = $(symbols_jp_path)/request.svg				bundle = core   code = #1F238          cat = symbols   desc = Japanese character implying "request"
+emoji 	short = open_for_business		src = $(symbols_jp_path)/open_for_business.svg		        bundle = core   code = #1F23A          cat = symbols   desc = Japanese character implying "open for business"
+emoji 	short = not_free							src = $(symbols_jp_path)/not_free.svg			bundle = core   code = #1F236          cat = symbols   desc = Japanese character implying "not free"
+emoji 	short = acceptable						src = $(symbols_jp_path)/acceptable.svg				bundle = core   code = #1F251          cat = symbols   desc = Japanese character implying "acceptable"
 
-emoji 	short = reserved							src = $(symbols_jp_path)/reserved.svg							code = #1F22F $vs16    cat = symbols   desc = Japanese character implying "reserved"
+emoji 	short = reserved							src = $(symbols_jp_path)/reserved.svg			bundle = core   code = #1F22F $vs16    cat = symbols   desc = Japanese character implying "reserved"
 
-emoji 	short = beginner							src = $(symbols_jp_path)/beginner.svg							code = #1F530          cat = symbols   desc = Japanese beginner driver symbol
+emoji 	short = beginner							src = $(symbols_jp_path)/beginner.svg			bundle = core   code = #1F530          cat = symbols   desc = Japanese beginner driver symbol
 
-emoji 	short = sa										src = $(symbols_jp_path)/sa.svg										code = #1F202 $vs16    cat = symbols   desc = Japanese character implying "service"
-emoji 	short = vacancy							src = $(symbols_jp_path)/vacancy.svg							code = #1F233          cat = symbols   desc = Japanese character implying "vacancy"
+emoji 	short = sa										src = $(symbols_jp_path)/sa.svg				bundle = core   code = #1F202 $vs16    cat = symbols   desc = Japanese character implying "service"
+emoji 	short = vacancy							src = $(symbols_jp_path)/vacancy.svg				bundle = core   code = #1F233          cat = symbols   desc = Japanese character implying "vacancy"
 
-emoji 	short = koko									src = $(symbols_jp_path)/koko.svg									code = #1F201          cat = symbols   desc = Japanese character implying "here"
+emoji 	short = koko									src = $(symbols_jp_path)/koko.svg			bundle = core   code = #1F201          cat = symbols   desc = Japanese character implying "here"

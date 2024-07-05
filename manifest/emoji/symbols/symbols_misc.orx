@@ -1,24 +1,24 @@
 
-emoji 	short = 100								src = symbols/misc/100.svg							code = #1F4AF          cat = symbols   desc = 100 points mark
+emoji 	short = 100								src = symbols/misc/100.svg							bundle = core   code = #1F4AF          cat = symbols   desc = 100 points mark
 
-emoji 	short = 8_asterisk						src = symbols/misc/8_asterisk.svg					code = #2733 $vs16     cat = symbols   desc = 8 spoked asterisk
-emoji 	short = 8_star							src = symbols/misc/8_star.svg						code = #2734 $vs16     cat = symbols   desc = 8-pointed star
-emoji 	short = chart							src = symbols/misc/chart.svg						code = #1F4B9          cat = symbols   desc = chart
-emoji 	short = green_tick						src = symbols/misc/green_tick.svg					code = #2705           cat = symbols   desc = green tick
-emoji 	short = green_cross						src = symbols/misc/green_cross.svg					code = #274E           cat = symbols   desc = green cross
-emoji 	short = diamond_with_dot					src = symbols/misc/diamond_with_dot.svg				code = #1F4A0          cat = symbols   desc = diamond with dot
-emoji 	short = circle							src = symbols/misc/circle.svg						code = #2B55 $vs16     cat = symbols   desc = red circle
-emoji 	short = staff_of_asclepius			    src = symbols/misc/staff_of_asclepius.svg	        code = #2695 $vs16  cat = symbols        desc = staff of asclepius
-emoji 	short = currency_conversion				src = symbols/misc/currency_conversion.svg			code = #1F4B1          cat = symbols   desc = currency conversion
+emoji 	short = 8_asterisk						src = symbols/misc/8_asterisk.svg					bundle = core   code = #2733 $vs16     cat = symbols   desc = 8 spoked asterisk
+emoji 	short = 8_star							src = symbols/misc/8_star.svg						bundle = core   code = #2734 $vs16     cat = symbols   desc = 8-pointed star
+emoji 	short = chart							src = symbols/misc/chart.svg						bundle = core   code = #1F4B9          cat = symbols   desc = chart
+emoji 	short = green_tick						src = symbols/misc/green_tick.svg					bundle = core   code = #2705           cat = symbols   desc = green tick
+emoji 	short = green_cross						src = symbols/misc/green_cross.svg					bundle = core   code = #274E           cat = symbols   desc = green cross
+emoji 	short = diamond_with_dot				src = symbols/misc/diamond_with_dot.svg			    bundle = core   code = #1F4A0          cat = symbols   desc = diamond with dot
+emoji 	short = circle							src = symbols/misc/circle.svg						bundle = core   code = #2B55 $vs16     cat = symbols   desc = red circle
+emoji 	short = staff_of_asclepius			    src = symbols/misc/staff_of_asclepius.svg	        bundle = core   code = #2695 $vs16  cat = symbols        desc = staff of asclepius
+emoji 	short = currency_conversion				src = symbols/misc/currency_conversion.svg			bundle = core   code = #1F4B1          cat = symbols   desc = currency conversion
 
-emoji 	short = globe							src = symbols/misc/globe.svg						code = #1F310          cat = symbols   desc = globe with meridian lines
+emoji 	short = globe							src = symbols/misc/globe.svg						bundle = core   code = #1F310          cat = symbols   desc = globe with meridian lines
 
-emoji 	short = sparkle							src = symbols/misc/sparkle.svg						code = #2747 $vs16     cat = symbols   desc = sparkle
-emoji 	short = spiral							src = symbols/misc/spiral.svg						code = #1F300          cat = symbols   desc = spiral
-emoji 	short = zzz								src = symbols/misc/zzz.svg							code = #1F4A4          cat = symbols   desc = zzz
-emoji 	short = anger_symbol						src = symbols/misc/anger_symbol.svg					code = #1F4A2          cat = symbols   desc = anger symbol
+emoji 	short = sparkle							src = symbols/misc/sparkle.svg						bundle = core   code = #2747 $vs16     cat = symbols   desc = sparkle
+emoji 	short = spiral							src = symbols/misc/spiral.svg						bundle = core   code = #1F300          cat = symbols   desc = spiral
+emoji 	short = zzz								src = symbols/misc/zzz.svg							bundle = core   code = #1F4A4          cat = symbols   desc = zzz
+emoji 	short = anger_symbol					src = symbols/misc/anger_symbol.svg				    bundle = core   code = #1F4A2          cat = symbols   desc = anger symbol
 
-emoji 	short = name_badge						src = symbols/misc/name_badge.svg					code = #1F4DB          cat = symbols   desc = name badge
+emoji 	short = name_badge						src = symbols/misc/name_badge.svg					bundle = core   code = #1F4DB          cat = symbols   desc = name badge
 
-emoji 	short = tick_box							src = symbols/misc/tick_box.svg						code = #2611 $vs16     cat = symbols   desc = tick box
-emoji 	short = radio_button						src = symbols/misc/radio_button.svg					code = #1F518          cat = symbols   desc = radio button
+emoji 	short = tick_box						src = symbols/misc/tick_box.svg					    bundle = core   code = #2611 $vs16     cat = symbols   desc = tick box
+emoji 	short = radio_button					src = symbols/misc/radio_button.svg				    bundle = core   code = #1F518          cat = symbols   desc = radio button

@@ -1,25 +1,25 @@
 
 
-emoji 	short = play							src = symbols/media_playback/play.svg								code = #25B6 $vs16     cat = symbols   desc = play symbol
-emoji 	short = reverse					src = symbols/media_playback/reverse.svg						code = #25C0 $vs16     cat = symbols   desc = reverse playback symbol
-emoji 	short = play_up					src = symbols/media_playback/play_up.svg						code = #1F53C          cat = symbols   desc = play up symbol
-emoji 	short = play_down				src = symbols/media_playback/play_down.svg					code = #1F53D          cat = symbols   desc = play down symbol
+emoji 	short = play					src = symbols/media_playback/play.svg						bundle = core   code = #25B6 $vs16     cat = symbols   desc = play symbol
+emoji 	short = reverse					src = symbols/media_playback/reverse.svg					bundle = core   code = #25C0 $vs16     cat = symbols   desc = reverse playback symbol
+emoji 	short = play_up					src = symbols/media_playback/play_up.svg					bundle = core   code = #1F53C          cat = symbols   desc = play up symbol
+emoji 	short = play_down				src = symbols/media_playback/play_down.svg					bundle = core   code = #1F53D          cat = symbols   desc = play down symbol
 
-emoji 	short = play_pause				src = symbols/media_playback/play_pause.svg					code = #23EF $vs16     cat = symbols   desc = play/pause symbol
-emoji 	short = pause						src = symbols/media_playback/pause.svg							code = #23F8 $vs16     cat = symbols   desc = pause symbol
-emoji 	short = stop							src = symbols/media_playback/stop.svg								code = #23F9 $vs16     cat = symbols   desc = stop symbol
-emoji 	short = record						src = symbols/media_playback/record.svg							code = #23FA $vs16     cat = symbols   desc = record symbol
+emoji 	short = play_pause				src = symbols/media_playback/play_pause.svg					bundle = core   code = #23EF $vs16     cat = symbols   desc = play/pause symbol
+emoji 	short = pause					src = symbols/media_playback/pause.svg						bundle = core   code = #23F8 $vs16     cat = symbols   desc = pause symbol
+emoji 	short = stop					src = symbols/media_playback/stop.svg						bundle = core   code = #23F9 $vs16     cat = symbols   desc = stop symbol
+emoji 	short = record					src = symbols/media_playback/record.svg						bundle = core   code = #23FA $vs16     cat = symbols   desc = record symbol
 
-emoji 	short = fast_down				src = symbols/media_playback/fast_down.svg					code = #23EC $vs16     cat = symbols   desc = fast down symbol
-emoji 	short = fast_up					src = symbols/media_playback/fast_up.svg						code = #23EB $vs16     cat = symbols   desc = fast up symbol
-emoji 	short = fast_forward			src = symbols/media_playback/fast_forward.svg				code = #23E9 $vs16     cat = symbols   desc = fast forward symbol
-emoji 	short = rewind						src = symbols/media_playback/rewind.svg							code = #23EA $vs16     cat = symbols   desc = rewind symbol
+emoji 	short = fast_down				src = symbols/media_playback/fast_down.svg					bundle = core   code = #23EC $vs16     cat = symbols   desc = fast down symbol
+emoji 	short = fast_up					src = symbols/media_playback/fast_up.svg					bundle = core   code = #23EB $vs16     cat = symbols   desc = fast up symbol
+emoji 	short = fast_forward			src = symbols/media_playback/fast_forward.svg				bundle = core   code = #23E9 $vs16     cat = symbols   desc = fast forward symbol
+emoji 	short = rewind				    src = symbols/media_playback/rewind.svg						bundle = core   code = #23EA $vs16     cat = symbols   desc = rewind symbol
 
-emoji 	short = skip_back				src = symbols/media_playback/skip_back.svg					code = #23EE $vs16     cat = symbols   desc = skip back symbol
-emoji 	short = skip_forward			src = symbols/media_playback/skip_forward.svg				code = #23ED $vs16     cat = symbols   desc = skip forward symbol
+emoji 	short = skip_back				src = symbols/media_playback/skip_back.svg					bundle = core   code = #23EE $vs16     cat = symbols   desc = skip back symbol
+emoji 	short = skip_forward			src = symbols/media_playback/skip_forward.svg				bundle = core   code = #23ED $vs16     cat = symbols   desc = skip forward symbol
 
-emoji 	short = eject					  src = symbols/media_playback/eject.svg							code = #23CF $vs16     cat = symbols   desc = eject symbol
+emoji 	short = eject					src = symbols/media_playback/eject.svg						bundle = core   code = #23CF $vs16     cat = symbols   desc = eject symbol
 
-emoji 	short = repeat						src = symbols/media_playback/repeat.svg							code = #1F501    cat = symbols   desc = repeat playback symbol
-emoji 	short = repeat_once			src = symbols/media_playback/repeat_once.svg				code = #1F502    cat = symbols   desc = repeat playback once symbol
-emoji 	short = shuffle					src = symbols/media_playback/shuffle.svg						code = #1F500    cat = symbols   desc = shuffle playback symbol
+emoji 	short = repeat				    src = symbols/media_playback/repeat.svg						bundle = core   code = #1F501    cat = symbols   desc = repeat playback symbol
+emoji 	short = repeat_once			    src = symbols/media_playback/repeat_once.svg				bundle = core   code = #1F502    cat = symbols   desc = repeat playback once symbol
+emoji 	short = shuffle					src = symbols/media_playback/shuffle.svg					bundle = core   code = #1F500    cat = symbols   desc = shuffle playback symbol

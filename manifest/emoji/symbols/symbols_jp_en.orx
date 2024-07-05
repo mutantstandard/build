@@ -1,10 +1,10 @@
 
 
-emoji 	short = vs							src = symbols/jp_en/vs.svg						code = #1F19A    cat = symbols   desc = VS
-emoji 	short = ng							src = symbols/jp_en/ng.svg						code = #1F196    cat = symbols   desc = NG
-emoji 	short = ok							src = symbols/jp_en/ok.svg						code = #1F197    cat = symbols   desc = OK
+emoji 	short = vs							src = symbols/jp_en/vs.svg						bundle = core   code = #1F19A    cat = symbols   desc = VS
+emoji 	short = ng							src = symbols/jp_en/ng.svg						bundle = core   code = #1F196    cat = symbols   desc = NG
+emoji 	short = ok							src = symbols/jp_en/ok.svg						bundle = core   code = #1F197    cat = symbols   desc = OK
 
-emoji 	short = up							src = symbols/jp_en/up.svg						code = #1F199    cat = symbols   desc = UP
-emoji 	short = cool						src = symbols/jp_en/cool.svg					code = #1F192    cat = symbols   desc = COOL
-emoji 	short = new						src = symbols/jp_en/new.svg						code = #1F195    cat = symbols   desc = NEW
-emoji 	short = free						src = symbols/jp_en/free.svg					code = #1F193    cat = symbols   desc = FREE
+emoji 	short = up							src = symbols/jp_en/up.svg						bundle = core   code = #1F199    cat = symbols   desc = UP
+emoji 	short = cool						src = symbols/jp_en/cool.svg					bundle = core   code = #1F192    cat = symbols   desc = COOL
+emoji 	short = new						src = symbols/jp_en/new.svg						bundle = core   code = #1F195    cat = symbols   desc = NEW
+emoji 	short = free						src = symbols/jp_en/free.svg					bundle = core   code = #1F193    cat = symbols   desc = FREE
