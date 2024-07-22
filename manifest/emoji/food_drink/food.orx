@@ -1,6 +1,6 @@
 
 
-define food_path food_drink_herbs
+define food_path food_drink
 
 
 
@@ -77,12 +77,12 @@ emoji 	short = cup_with_straw						src = $(food_path)/drink/cup_with_straw.svg		
 
 # ALCOHOL AND HERBS
 # -----------------------
-emoji 	short = sake								src = $(food_path)/alcohol_herbs/sake.svg					code = #1F376           bundle = core          cat = food_drink_herbs       desc = bottle of sake and a sake cup
-emoji 	short = tropical_drink						src = $(food_path)/alcohol_herbs/tropical_drink.svg			code = #1F379           bundle = core          cat = food_drink_herbs       desc = tropical drink
-emoji 	short = wine								src = $(food_path)/alcohol_herbs/wine.svg					code = #1F377           bundle = core          cat = food_drink_herbs       desc = glass of wine
-emoji 	short = martini								src = $(food_path)/alcohol_herbs/martini.svg				code = #1F378 $vs16     bundle = core          cat = food_drink_herbs       desc = martini
-emoji 	short = tumbler_glass						src = $(food_path)/alcohol_herbs/tumbler_glass.svg			code = #1F943           bundle = core          cat = food_drink_herbs       desc = tumbler glass with whiskey
-emoji 	short = beer								src = $(food_path)/alcohol_herbs/beer.svg					code = #1F37A           bundle = core          cat = food_drink_herbs       desc = beer stein full of beer
-emoji 	short = beers								src = $(food_path)/alcohol_herbs/beers.svg					code = #1F37B           bundle = core          cat = food_drink_herbs       desc = two beer steins full of beer clinking against each other
+emoji 	short = sake								src = $(food_path)/alcohol/sake.svg					code = #1F376           bundle = core          cat = food_drink_herbs       desc = bottle of sake and a sake cup
+emoji 	short = tropical_drink						src = $(food_path)/alcohol/tropical_drink.svg			code = #1F379           bundle = core          cat = food_drink_herbs       desc = tropical drink
+emoji 	short = wine								src = $(food_path)/alcohol/wine.svg					code = #1F377           bundle = core          cat = food_drink_herbs       desc = glass of wine
+emoji 	short = martini								src = $(food_path)/alcohol/martini.svg				code = #1F378 $vs16     bundle = core          cat = food_drink_herbs       desc = martini
+emoji 	short = tumbler_glass						src = $(food_path)/alcohol/tumbler_glass.svg			code = #1F943           bundle = core          cat = food_drink_herbs       desc = tumbler glass with whiskey
+emoji 	short = beer								src = $(food_path)/alcohol/beer.svg					code = #1F37A           bundle = core          cat = food_drink_herbs       desc = beer stein full of beer
+emoji 	short = beers								src = $(food_path)/alcohol/beers.svg					code = #1F37B           bundle = core          cat = food_drink_herbs       desc = two beer steins full of beer clinking against each other
 
-emoji 	short = cannabis_leaf						src = $(food_path)/alcohol_herbs/cannabis_leaf.svg			code = #101691          bundle = extra          cat = food_drink_herbs          desc = cannabis leaf
+emoji 	short = cannabis_leaf						src = $(food_path)/herbs/cannabis_leaf.svg			code = #101691          bundle = extra          cat = food_drink_herbs          desc = cannabis leaf

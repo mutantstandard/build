@@ -1,0 +1,27 @@
+
+
+
+# magic
+emoji 	short = magic_wand				src = objects/occult_magic/magic_wand.svg			    code = !undefined    bundle = extra     cat = objects  desc = magic wand
+
+# items
+emoji 	short = red_potion				src = objects/occult_magic/red_potion.svg			    code = !undefined    bundle = extra     cat = objects   desc = red potion
+emoji 	short = yellow_potion			src = objects/occult_magic/yellow_potion.svg			code = !undefined    bundle = extra     cat = objects   desc = yellow potion
+emoji 	short = green_potion			src = objects/occult_magic/green_potion.svg			    code = !undefined    bundle = extra     cat = objects   desc = green potion
+emoji 	short = blue_potion				src = objects/occult_magic/blue_potion.svg				code = !undefined    bundle = extra     cat = objects   desc = blue potion
+emoji 	short = purple_potion		    src = objects/occult_magic/purple_potion.svg			code = !undefined    bundle = extra     cat = objects   desc = purple potion
+emoji 	short = pink_potion				src = objects/occult_magic/pink_potion.svg				code = !undefined    bundle = extra     cat = objects   desc = pink potion
+
+# other items
+emoji 	short = oil_lamp				src = objects/occult_magic/oil_lamp.svg					code = !undefined    bundle = extra     cat = objects  desc = oil lamp
+
+# occult
+emoji 	short = crystal_ball			src = objects/occult_magic/crystal_ball.svg		        code = #1F52E        bundle = core      cat = objects   desc = crystal ball
+emoji 	short = rune_stones		        src = objects/occult_magic/rune_stones.svg			    code = !undefined    bundle = extra     cat = objects   desc = rune stones
+emoji 	short = pentacle				src = objects/occult_magic/pentacle.svg					code = !undefined    bundle = extra     cat = objects   desc = pentacle
+emoji 	short = spellbook				src = objects/occult_magic/spellbook.svg				code = !undefined    bundle = extra     cat = objects   desc = spellbook
+
+emoji 	short = tarot_cup				src = objects/occult_magic/tarot_cup.svg				code = !undefined    bundle = extra     cat = objects   desc = tarot cup
+emoji 	short = tarot_pentacle			src = objects/occult_magic/tarot_pentacle.svg			code = !undefined    bundle = extra     cat = objects   desc = tarot pentacle
+emoji 	short = tarot_sword				src = objects/occult_magic/tarot_sword.svg				code = !undefined    bundle = extra     cat = objects   desc = tarot sword
+emoji 	short = tarot_wand				src = objects/occult_magic/tarot_wand.svg				code = !undefined    bundle = extra     cat = objects   desc = tarot wand

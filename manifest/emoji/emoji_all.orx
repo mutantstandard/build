@@ -44,7 +44,7 @@ include emoji/gender_sexuality_relationships/gsr.orx
 
 # FOOD, DRINK AND HERBS
 # ------------------------------------
-include emoji/food_drink_herbs/food.orx
+include emoji/food_drink/food.orx
 
 
 # NATURE AND EFFECTS
@@ -66,33 +66,22 @@ include emoji/travel_places/space.orx
 # OBJECTS
 # ------------------------------------
 include emoji/objects/tech.orx
+include emoji/objects/cyber.orx
 include emoji/objects/office_stationery.orx
 include emoji/objects/money.orx
 
 include emoji/objects/household.orx
-include emoji/objects/mechanisms.orx
-include emoji/objects/science_medicine.orx
+include emoji/objects/occult_magic.orx
+include emoji/objects/weapons.orx
 
-include emoji/objects/party.orx
 include emoji/objects/games.orx
-include emoji/objects/art.orx
-
 include emoji/objects/other.orx
-
-
-
-# EXTRA
-# ------------------------------------
-include emoji/extra/weapons.orx
-include emoji/extra/occult_magic.orx
-include emoji/extra/cyber.orx
-include emoji/extra/symbols.orx
 
 
 # SYMBOLS
 # ------------------------------------
 include emoji/symbols/symbols_hearts.orx
-include emoji/symbols/symbols_custom.orx
+include emoji/symbols/symbols_other.orx
 
 include emoji/symbols/symbols_flags.orx
 include emoji/symbols/symbols_signs.orx
@@ -102,6 +91,7 @@ include emoji/symbols/symbols_zodiac.orx
 
 include emoji/symbols/symbols_jp.orx
 include emoji/symbols/symbols_jp_en.orx
+include emoji/symbols/symbols_rpg.orx
 
 include emoji/symbols/symbols_arrows.orx
 include emoji/symbols/symbols_textual.orx

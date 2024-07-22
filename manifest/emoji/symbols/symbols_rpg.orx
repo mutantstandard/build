@@ -1,0 +1,6 @@
+
+
+emoji 	short = hp						src = symbols/rpg/hp.svg					code = !undefined    bundle = extra     cat = symbols   desc = hp
+emoji 	short = mp						src = symbols/rpg/mp.svg					code = !undefined    bundle = extra     cat = symbols   desc = mp
+emoji 	short = pp						src = symbols/rpg/pp.svg					code = !undefined    bundle = extra     cat = symbols   desc = pp
+emoji 	short = xp						src = symbols/rpg/xp.svg					code = !undefined    bundle = extra     cat = symbols   desc = xp

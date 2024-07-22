@@ -6,3 +6,13 @@ emoji 	short = toilet_paper			    src = objects/household/toilet_paper.svg			   
 emoji 	short = soap			            src = objects/household/soap.svg			            code = #1F9FC           bundle = core   cat = objects   desc = soap
 emoji 	short = candle			            src = objects/household/candle.svg			            code = #1F56F $vs16     bundle = core   cat = objects   desc = candle
 emoji 	short = light_bulb			        src = objects/household/light_bulb.svg			        code = #1F4A1           bundle = core   cat = objects   desc = light bulb
+emoji 	short = brick			            src = objects/household/brick.svg				  code = #1F9F1    bundle = core   cat = objects   desc = brick
+
+emoji   short = scales                      src = objects/household/scales.svg               code = #2696 $vs16    bundle = core   cat = objects   desc = scales
+
+emoji   short = wrench                      src = objects/household/wrench.svg               code = #1f527    bundle = core   cat = objects   desc = wrench
+emoji 	short = artist_palette				src = objects/household/artist_palette.svg	    code = #1F3A8   bundle = core       cat = objects        desc = artist palette
+
+emoji 	short = balloon					    src = objects/household/balloon.svg								code = #1F388    bundle = core      cat = objects  desc = balloon
+emoji 	short = tada						src = objects/household/tada.svg							    code = #1F389    bundle = core      cat = objects  desc = party popper blasting confetti
+emoji 	short = confetti_ball				src = objects/household/confetti_ball.svg						code = #1F38A    bundle = core      cat = objects  desc = confetti ball being opened

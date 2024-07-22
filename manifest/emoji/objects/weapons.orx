@@ -1,0 +1,30 @@
+
+
+# swords
+emoji 	short = broadsword						src = objects/weapons/broadsword.svg					    code = !undefined    bundle = extra     cat = objects   desc = broadsword
+emoji 	short = zweihander						src = objects/weapons/zweihander.svg						code = !undefined    bundle = extra     cat = objects   desc = zweihander
+emoji 	short = rapier							src = objects/weapons/rapier.svg							code = !undefined    bundle = extra     cat = objects   desc = rapier
+emoji 	short = sabre							src = objects/weapons/sabre.svg							    code = !undefined    bundle = extra     cat = objects   desc = sabre
+emoji 	short = katana							src = objects/weapons/katana.svg							code = !undefined    bundle = extra     cat = objects   desc = katanas
+
+# axes
+emoji 	short = european_battle_axe				src = objects/weapons/european_battle_axe.svg				code = !undefined    bundle = extra     cat = objects   desc = european battle axe
+emoji 	short = glaive							src = objects/weapons/glaive.svg							code = !undefined    bundle = extra     cat = objects   desc = glaive
+emoji 	short = great_axe						src = objects/weapons/great_axe.svg						    code = !undefined    bundle = extra     cat = objects   desc = great axe
+emoji 	short = halberd							src = objects/weapons/halberd.svg							code = !undefined    bundle = extra     cat = objects   desc = halberd
+emoji 	short = tomahawk						src = objects/weapons/tomahawk.svg						    code = !undefined    bundle = extra     cat = objects   desc = tomahawk
+
+# blunt
+emoji 	short = mace							src = objects/weapons/mace.svg							    code = !undefined    bundle = extra     cat = objects   desc = mace
+emoji 	short = flail							src = objects/weapons/flail.svg							    code = !undefined    bundle = extra     cat = objects   desc = flail
+emoji 	short = war_hammer					    src = objects/weapons/war_hammer.svg					    code = !undefined    bundle = extra     cat = objects   desc = war hammer
+
+# ranged
+emoji 	short = bow_and_arrow					src = objects/weapons/bow_and_arrow.svg					    code = #1F3F9        bundle = core      cat = objects   desc = bow and arrow
+emoji 	short = crossbow					    src = objects/weapons/crossbow.svg						    code = !undefined    bundle = extra     cat = objects   desc = crossbow
+emoji 	short = arrow							src = objects/weapons/arrow.svg						        code = !undefined    bundle = extra     cat = objects   desc = arrow
+emoji 	short = shuriken					    src = objects/weapons/shuriken.svg						    code = !undefined    bundle = extra     cat = objects   desc = shuriken
+
+# explosives
+emoji 	short = firecracker			            src = objects/weapons/firecracker.svg		  code = #1F9E8    bundle = core   cat = objects   desc = firecracker
+emoji   short = bomb                            src = objects/weapons/bomb.svg                 code = #1F4A3    bundle = core   cat = objects   desc = bomb
