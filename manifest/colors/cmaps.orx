@@ -17,8 +17,8 @@ include colors/cpal_hmn.orx
 
 # default colour
 # it's currently K2.
-
-colormap default 			src = key		dst = k2		short = !	bundle = core   code = !    desc = !
+# intentionally has no bundle, takes on the bundle of the emoji.
+colormap default 			src = key		dst = k2		short = !	code = !    desc = !
 
 
 
@@ -81,11 +81,12 @@ define cmap_set_shared r1 r2 r3 d1 d2 d3 o1 o2 o3 y1 y2 y3 l1 l2 l3 g1 g2 g3 t1 
 
 
 # human colours
-colormap h1 		src = key		dst = h1			short = _h1		bundle = core   code = #1F3FF    desc = dark skin tone
-colormap h2 		src = key		dst = h2			short = _h2		bundle = core   code = #1F3FE    desc = medium-dark skin tone
-colormap h3 		src = key		dst = h3			short = _h3		bundle = core   code = #1F3FD    desc = medium skin tone
-colormap h4 		src = key		dst = h4			short = _h4		bundle = core   code = #1F3FC    desc = medium-light skin tone
-colormap h5 		src = key		dst = h5			short = _h5		bundle = core   code = #1F3FB    desc = light skin tone
+# intentionally without bundles
+colormap h1 		src = key		dst = h1			short = _h1		code = #1F3FF    desc = dark skin tone
+colormap h2 		src = key		dst = h2			short = _h2		code = #1F3FE    desc = medium-dark skin tone
+colormap h3 		src = key		dst = h3			short = _h3		code = #1F3FD    desc = medium skin tone
+colormap h4 		src = key		dst = h4			short = _h4		code = #1F3FC    desc = medium-light skin tone
+colormap h5 		src = key		dst = h5			short = _h5		code = #1F3FB    desc = light skin tone
 
 define cmap_set_hmn h1 h2 h3 h4 h5
 

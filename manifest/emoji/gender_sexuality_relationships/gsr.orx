@@ -80,7 +80,7 @@ emoji 	short = stellaric_flag					src = $(gsd_path)/flags/stellaric_flag.svg				
 # symbols
 # --------------------------------------------------------------------------
 
-emoji 	short = pride_100							src = $(gsd_path)/symbols/pride_100.svg									code = #1f4af $zwj #1F308    bundle = form       cat = gsr      desc = 100 points mark with rainbow flag pattern
+emoji 	short = pride_100							src = $(gsd_path)/symbols/pride_100.svg									code = #1f4af $zwj #1F308    bundle = spectrum       cat = gsr      desc = 100 points mark with rainbow flag pattern
 emoji 	short = furry_pride						    src = $(gsd_path)/symbols/furry_pride.svg								code = #10169b $zwj #1F308   bundle = form       cat = gsr      desc = furry pride
 
 emoji 	short = pink_triangle						src = $(gsd_path)/symbols/pink_triangle.svg								code = #101682    bundle = spectrum       cat = gsr    desc = pink triangle

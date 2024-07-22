@@ -58,6 +58,9 @@ emoji 	short = earth_antarctic					src = nature_effects/earth/earth_antarctic.sv
 
 # moon
 # -----------------------------
+# gibbous and crescent do not have waxing or waning descriptors because
+# the appearance of a waxing or waning moon depends on the
+# hemisphere it's being viewed from.
 
 emoji 	short = new_moon						src = nature_effects/moon/new_moon.svg							code = #1F311    bundle = core      cat = nature          desc = new moon
 emoji 	short = full_moon						src = nature_effects/moon/full_moon.svg							code = #1F315 $vs16    bundle = core      cat = nature    desc = full moon
