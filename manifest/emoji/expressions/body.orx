@@ -5,11 +5,6 @@
 
 define semi_body_path expressions/semi_body
 
-# this might be #1F64C, if you replace it with the one that currently occupies that shortpoint.
-
-emoji 	short = arms_in_the_air%c 						src = $(semi_body_path)/arms_in_the_air.svg			color=$cmaps_all			code = !undefined    bundle = extra       cat = expressions   root = arms_in_the_air     desc = person with their arms in the air
-
-
 emoji 	short = bow%c 									src = $(semi_body_path)/bow.svg						color=$cmaps_all			code = #1F647 %u     bundle = core          cat = expressions   root = bow               desc = bow (body expression)
 emoji 	short = facepalm%c 								src = $(semi_body_path)/facepalm.svg				color=$cmaps_all			code = #1F926 %u     bundle = core          cat = expressions   root = facepalm          desc = facepalm
 emoji 	short = massage%c 								src = $(semi_body_path)/massage.svg					color=$cmaps_all			code = #1F486 %u     bundle = core          cat = expressions   root = massage           desc = person receiving a face massage
